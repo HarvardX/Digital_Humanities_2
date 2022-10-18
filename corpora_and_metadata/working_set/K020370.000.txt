@@ -1,0 +1,2827 @@
+INDIAN ZOOLOGY.
+
+SECOND EDITION.
+
+
+
+LONDON.
+
+Printed by HENRY HUGHS for ROBERT FAULDER.
+
+MDCCXC.
+
+ADVERTISEMENT.
+THIS work, or rather fragment, was begun in the year 1769. The descriptive
+part fell to my share: the expense of the plates was divided between Mr. BANKS,
+now Sir JOSEPH BANKS, Baronet; JOHN GIDEON LOTEN, Esquire a governor in Ceylon; and
+myself. Twelve only were engraved and published: soon after which, the
+undertaking appeared so arduous that the design was given over. It would be
+injustice to Mr. LOTEN not to say, that the etchings are taken from his fine
+collection of drawings made in India: for he alleviated the cares of life with
+the delicious pursuits of the study of NATURE. I prevaled on my two friends to
+unite with me in presenting the learned JOHN REINHOLD FORSTER with the plates.
+I also bestowed on him three others, engraven at my own expense, before the
+work was dropped. These were never published in England; but when Dr. Forster
+left our island, he took the whole with him, and in 1781 printed, at Halle, in
+Saxony, an edition very highly improved, and translated into Latin and German.
+He prefixed to it a most elaborate lucubration de Finibus et Indole Aeris,
+Soli, Marisque INDICI; described the subjects of the three additional plates;
+and inserted, after the description of the fifteenth plate, a most learned
+dissertation on the genus of the BIRDS OF PARADISE, and on the PHOENIX. He
+added several notes; and at the end presented his readers with a Faunula of the
+quadrupeds and birds of the extensive region of INDIA and its islands.
+
+The last year, Mr. Robert Faulder, at New Bondstreet, bookseller, applied to
+me for permission to reprint this very imperfect performance. I consented; but
+advised him by all means to get the additions by Dr. Forster translated, and an
+improved Faunula to be formed from the best authorities which could be
+procured: but, having myself abjured all future publications, referred him for
+that labor to any gentlemen willing and able to do justice to the performance.
+I took the liberty of pointing out three friends, of indisputable abilities,
+and of whose Tind services I had long and useful experience.
+
+Dr. AIKIN, of Yarmouth, in Norfolk, with great cheerfulness undertook the
+translations: Mr. JOHN LATHAM, of Dartford, Kent, justly celebrated for
+extending the study of ORNITHOLOGY far beyond any naturalist of our days; and
+the Rev. Mr. HUGH DAVIES, rector of Aber, in Caernarvonshire, underwent the
+task of arranging the very numerous subjects of the INDIAN FAUNULA. The more
+laborious part, relative to the Insects, fell to the share of Mr. LATHAM: the
+rest to that of Mr. DAVIES. A more complete enumeration was never formed,
+considering the extent of the country; and the materials imported into our
+islands. Science has of late years found its way into our most distant
+possessions; and we gather its fruits: the Faunula is a suffcient proof of the
+richness of the harvest. Collectors at home, or in the distant Indostan, will
+find considerable benefit from this part of the work. It will direct their
+researches, or instruct them in the arrangement of the new acquisitions. If my
+past labors can in any shape contribute in the left to the amusement of the
+individual, or to the public in general, the reflection cannot fail bestowing
+on me the most pleasing sensation.
+
+THOMAS PENNANT.
+Downing, March 1, 1791.
+CONTENTS.
+ESSAY ON INDIA Page 1 INDIAN ZOOLOGY, p. 29. I. Sciurus Macrourus. The
+Long-Tailed Squirrel 31 II. Falco Melanoleucos. Black and White Falcon 33 III.
+Otus Bakkamoena. The Little Horn Owl 34 IV. Trogon Fasciatus. The Fasciated
+Couroucou 36 V. Cuculus Pyrrhocephalus. The Red-Headed Cuckoo 38 VI. Picus
+Miniatus. The Red Woodpecker 39 VII. Perdix Bicalcaratus. Double-Spurred
+Partridge 40 VIII. Columba Melanocephala. The Black-Capped Pigeon 41 IX.
+Muscicapa Flammea. Flammeous Flycatcher 43 X. Motacilla Sutoria. The Tailor
+Bird 44 XI. Tantalus Leucocephalus. The White-Headed Ibis 47 XII. Gallinula
+Phanicurus. The Red-Tailed Water-Hen 49 XIII. Anser Melainotos. The
+Black-Backed Goose 50 XIV. Anas Poikilohynchus. Spotted-Billed Duck 52 XV.
+Anhinga Melanogaster. The Black-Bellied Anhinga 53 XVI. Squalus Tigrinus. The
+Tiger Shark 55 XVII. Labrus Zeylanicus. The Ceylon Wrasse 56
+INDIAN FAUNULA, p. 57. Class I. QUADRUPEDS.
+Div. I. Hoofed 59 Sect I. Whole-Hoofed 59 II. Cloven-Hoofed 59
+II. Digitated 61 Sect I. Anthropomorphous 61 II. Rapacious. Canine Teeth 62
+III. Without Canine Teeth 63 IV. Without Cutting Teeth 64 V. Without Teeth 65
+III. Pinnated 65 IV. Winged 65
+Class II. BIRDS.
+Div. I. Land Birds 67 Order I. Rapacious 67 II. Pies 68 III. Passerine 75 IV.
+Columbine 80 V. Gallinaceous 81
+Div. II. Water Fowl 82 Order VII. Cloven-footed 82 VIII. Pinnated Feet 85 IX.
+Web-footed 85
+
+Class III. AMPHIBIA.
+Ordo I. Reptilia 87 II. Serpents 88
+Classis IV. PISCES.
+Ordo I. Branchiostegi 91 II. Chondropterygii 92 III. Apodes 93 IV. Jugulares
+93 V. Thoracici 94 VI. Abdominales 96
+Classis V. INSECTA.
+Ordo I. Eleuterata 99 II. Ulonata 111 III. Synistata 112 IV. Agonata 115 V.
+Unogata 117 VI. Glossata 118 VII. Ryngota 136 VIII. Antliata 139
+Classis VI. VERMES.
+I. Intestina 141 II. Mollusca 141 III. Testacea 143 IV. Lithophyta 160 V.
+Zoophyta 161
+
+PLATES.
+TITLE PAGE. The common Bird of Paradise, with a View of Dory Harbor in New
+Guinea.
+
+I. Long-Tailed Squirrel; and the Tree, Eugenia Malaccensis, to face Page 31
+II. Black and White Falcon. The Tree, Rhamnus Jujuba. 33 III. Little Horn Owl.
+The Plant, Gloriofa Superba. 34 IV. Fasciated Courocou. The Plant, Nummularia
+Lactea Minima. Rumph. Amboin. 36 V. Red-Headed Cuckoo. 38 VI. Red Woodpecker.
+39 VII. Double-Spurred Partridge. 40 VIII. Black-Capped Pigeon. 41 IX.
+Flammeous Flycatcher. 43 X. Tailor Bird. 44 XI. White-Headed Ibis. 47 XII.
+Red-Tailed Water-Hen. 49 XIII. Black-Backed Goose. 50 XIV. Spotted-Billed Duck.
+52 XV. Black-Bellied Anhinga. 53 XVI. Fig. 1. Tiger Shark. 55 Fig. 2. Ceylon
+Wrasse.
+INDIAN ZOOLOGY.
+N. B. The birds represented in plates 3, 6, and 8, are, by an oversight in the
+letter press, said to be figured of the natural size: the real measures are as
+follow, viz.
+
+PI. 3. The bird measures about 7 inches. PI. 6. The length of the bird is
+about 9 inches. PI. 8. The bird is rather more than 9 inches long.
+Page 40. For BICALCARATUS read BICALCARATA. -- The length of this species is
+about 13 inches.
+
+AN ESSAY ON INDIA, ITS BOUNDARIES, CLIMATE, SOIL, AND SEA.
+Translated from the Latin of JOHN REINHOLD FORSTER, By JOHN AIKIN, M. D.
+THE name of India is probably derived from Hind, or Hindu, the appellation of
+the people inhabiting it, which the Spaniards and Portuguese, the first
+navigators to India, were accustomed to write Gentu. The Greeks, who penetrated
+through Persia into India, received from the Persians the name of Hind, as that
+of the nation; but they also improperly called Indus, the river named by the
+inhabitants Sind or Sindo. In a later age, the Romans termed the country,
+India, the people, Indians, but the river also, Indus; yet they were not
+unacquainted with the name of Sindi. The Arabians and Persians again employed
+the names of Sind, and Hind, which occur frequently in their writings. After
+the Portuguese began to navigate for the purpose of exploring new regions, many
+of them suspected, that if they were to steer directly westward, they would at
+length arrive at the farthest islands in the vicinity of India; and because
+they conceived these islands to lie before those Indian regions (ante illas)
+they gave them, in the geographical charts made before the discovery of
+America, the name of Antilles; and that India, which they supposed situated
+behind the Antilles, they named the West Indies, because it might be reached by
+sailing westward. Hence appears the reason why in our age the name of Indies is
+so widely extended.
+
+THAT India whence the animals now to be described are taken, is East India.
+But even here there is much variation as to the countries to which this name is
+proper and peculiar. In the first place it is maintained, that India is only
+wherever the Hindu nation inhabits, or the country called by the Persians,
+Hindostan, which is comprehended between the rivers Sind and Ganges, closed to
+the north by the ridge of Imaus or Caucasus; and on the south surrounded by the
+ocean; so that the whole peninsula on this side the Ganges, belongs to
+Hindostan.
+
+BUT in a more extended sense, the peninsula beyond the Ganges also is a part
+of India. And its limits are much more extensive, if under this second
+signification of India are reckoned all the islands of the Indian sea, from the
+east and north of Madagascar, as far as New Holland, and thence eastward to the
+Philippine islands, together with New Guinea; and it is principally with this
+meaning that the English and Dutch sailors use the word India, and Mr. PENNANT
+seems to have adopted it in his account of the animals, of India.
+
+FROM what has been said, it will be evident that a disquisition concerning the
+climate, soil, and seas of India, thus largely understood, will be a matter of
+much difficulty.
+
+MOUNT Imaus, MOUNTAINS.
+arising in the very borders of Persia, and whose northern ridge separates
+India from Bokara or Bactria, from Cashimire or Caspatyrus, from the kingdom of
+Tibet, and from the Chinese province of Yunnan, terminates at length in the
+kingdom of Tonquin, and runs out into other branches. At the root of this
+mountain the temperature of the air is very various; for in the winter season
+the country is buried in snow and frost, not, however, for a long time. Those
+summits alone from which the Sind and Ganges are principally fed, are covered
+with perpetual snow. Yet even the plain tract at the mouths of the Ganges is
+not entirely free from frost during winter, since the inhabitants collect ice
+artificially prepared, for cooling liquors in the heat of summer, GREAT HEATS.
+although Fahrenbeit's thermometer never sinks below 42. But in the summer
+season the inhabitants undergo the most intense heats, arising to the 114th,
+nay even to the 120th degree of Fahrenbeit's thermometer; so that men are
+scarcely able to breathe, plunge into water up to the chin, and ascend the
+higher trees that they may inhale a somewhat cooler breeze; whilst they whose
+occupations oblige them to endure the hot air abroad, not unfrequently fall
+suddenly dead. The birds too are often killed by the heat, while flying, or
+sitting on trees, and fall to the ground.
+
+THEN, as the flat country is inundated about the solstice by the swollen waters
+of the Ganges, which returning into their channel, leave many stagnant pools,
+the exhalations raised by the sun's heat form a body of intensely hot vapor,
+extremely noxious, so as to occasion putrid fevers of the highest malignity,
+which frequently prove fatal within three hours.
+
+LET us now pass into the peninsula of India on this side the Ganges, and
+examine the nature of its climate and soil. This part of India is divided into
+two parts by the ridge of mountains called Gatte; and while summer reigns on
+one side, winter prevails on the other. This chiefly proceeds from the winds,
+which, from October to April, blow constantly from the north; and from April to
+October, from the south. For the space of some weeks before this change, there
+is generally scarcely any wind; but at the commencement of the change, such
+tempests arise as to cause great damage to mariners. On the eastern side of the
+peninsula, called the coast of Coromandel, the sky from April to October is
+constantly serene without a shower, but from October to April is the rainy
+season. On the western or Malabar coast, on the contrary, there is no rain from
+October to April, but very heavy rains fall from May to September. During the
+fair season, intense heat infests the whole coast; but in the rainy season, the
+temperature is at intervals more moderate, and at that time all the rivers
+swell, and their streams are partly distributed through the fields for the
+purpose of fertilising them, and partly are received into ponds or great
+receptacles, where the water is preserved with care, to be let into the fields
+at proper periods.
+
+THE region of India beyond the Ganges has nearly the same climate with the
+peninsula on this side; RIVERS.
+but it is particularly well watered by large rivers. Of these we shall first
+mention the Bahramputter (Burrampooter) which flows through the whole country
+of Tibet from the very confines of Cashimire, and, after it has crossed the
+kingdom of Assam, enters that of Bengal at Rangamatty, and at length, just upon
+the coast of the Indian sea, mixes its waters with those of the Ganges, in an
+equally copious, stream, and thus enters the sea in a common channel. Next, the
+rivers Ava, Pegu, and Tenasserim, rising in the Tibet mountains, after watering
+the kingdoms whose names they bear, enter the bay of Bengal on the western side
+of the peninsula.
+
+THE Menam and Menam-kom, or Siam and Cambodia rivers, flow down from the
+mountains which part the province of Yunnan in China, from India. All the above
+rivers, the Bahramputter excepted, take their course through large valleys,
+enclosed on each side by ridges of hills. On the approach of the sun to the
+tropic of Cancer, the snow on these mountains is dissolved, and all these
+valleys are overflowed, like Egypt by the Nile. When the rivers return into
+their channel, the moistened countries are sown chiefly with rice, which yields
+a very rich increase. The kingdoms of Cochinchina, and Tonquin, are bounded to
+the east by the sea, and to the west by a ridge of mountains separating them
+from the kingdoms of Cambodia, and Laos. From this ridge many rivers descend,
+which, after they have watered the country for a short tract, mingle with the
+sea.
+
+THE soil of all India hitherto described is rich; and, SOIL.
+by the cultivation of the populous nations, which from the remotest ages have
+inhabited these regions, and addicted themselves to agriculture, is rendered
+extremely fertile. And, by reason that so many nations, and such various
+species of animals, have for such a course of ages putrefied with the
+vegetables of this fruitful land, the soil, lixiviated with water and mixed
+with ashes, affords to Europe a great quantity of nitre, the principal
+ingredient of its gunpowder. Rice is chiefly sown in moist situations, and
+supplies these people, who live a Pythagorean life, with a food of easy
+preparation, and extremely cheap. There is another kind of rice, which grows
+even on the hills, and spares the cultivators the labor of watering.
+
+THE marshes are covered with thick beds of reeds; and, MARSHES.
+near the mouths of the largest rivers, overgrown with impenetrable groves of
+mangles. Among the cultivated tracts, here and there dry spots are observed,
+covered with briars and thickets. The parts neglected by human culture are full
+of woods, which abound with the most beautiful and singular birds, especially
+parrots, peacocks, pigeons, and others infinitely diversified with the gayest
+and most varied plumage; together with herds of antelopes, tribes of monkeys,
+and numbers of lions and tigers. The elephant, and rhinoceros, also inhabit
+these forests, which scarcely ever lose their leaves, but are always verdant,
+and perpetually loaded with fruits of one kind or another.
+
+NATURE wears a different form in the islands of the Indian sea. ISLANDS.
+But, that we may the better understand the nature of the climate, and the
+temperature of the atmosphere, it will be of particular use to consider the
+course of the winds which prevail in these seas. WINDS.
+Between both tropics the wind almost. constantly blows from the east; and at
+the equinoxes, about the line, the course of the wind is directly from east to
+west. For the sun in the daytime heats the air; and about noon, when it is
+vertical, the atmosphere glows with heat, and therefore is rarefied; at the
+same time, the sun, seeming rapidly to move from east to west, on account of
+the diurnal revolution of the earth, causes noon successively in different
+regions. Toward evening, when the sun is in the west, the air from both sides
+of the globe, as likewise from the east, rushes toward the west, and follows
+the sun, in order to balance the rarefaction of the heated atmosphere: this
+current of air is the east wind. The greater the distance from the equinoctial
+line in each hemisphere, the more the wind inclines to the north or south. Now,
+when the sun arrives at the tropic of Cancer, the east wind follows it; but the
+east-north-east and north-east extend beyond the tropic of Cancer into the
+northern hemisphere, whilst, on the contrary, the east-south-east, and
+south-east scarcely reach farther than the equinoctial line. And when the sun
+recedes to the tropic of Capricorn, the east wind follows it there too; but the
+east-north-east, and north-east scarcely reach beyond the line, rarely to the
+tropic; while the east-south-east, and south-east spread far into the southern
+hemisphere. These observations are generally true concerning the winds within
+the tropics, and especially in the great Atlantic and Pacific oceans.
+
+EVERY where within the tropics, on approaching within three or four leagues of
+land, a breeze is met with blowing from sea to land, from nine in the morning
+to sunset; and from land to sea, from about ten at night to sunrise. These
+observations also hold in general with respect to the winds in the vicinity of
+lands within the tropics.
+
+IN the Indian sea, from October to April, the east-north-east, and
+north-north-east winds prevail as far as the line. But during the same season,
+from the line southwards to about the 14th degree, the west, west-south-west,
+and south-west are the prevailing winds; and beyond this space, the
+east-south-east, and south-east. From April to October, in the northern
+hemisphere, the west, west-south-west, and south-west winds reign: to the south
+of the equinoctial, as far as about the 12th degree, the east, and
+east-south-east; and beyond that point, the east-south-east, and south-east.
+These prevailing winds are by sailors termed the Monsoons; and from them some
+inferences may be drawn as to the temperature of the air. The winds which blow
+across great tracts of land heated by the sun's rays, acquire a great degree of
+heat; and the greater space they pass over, the more scorching they prove. But
+wherever winds blow over the sea, they are cooled by the evaporation of the
+water: hence all shores and islands, though situated under the hottest sun,
+enjoy the benefit of temperate sea breezes.
+
+IF we mean to consider too nature of the soil in the Indian islands, ORIGIN OF
+THE ISLANDS.
+we must attend to their twofold form and origin. Some are lofty, and if of
+moderate size, they have generally a conical shape. On examination of the
+mountain and strata in this case, it will presently be obvious that the whole
+island has emerged from the bottom of the sea through the force of subterranean
+fire; for all parts are full of volcanic remains. Actually burning mountains
+are likewise not uncommon in these islands. All the high islands which I have
+surveyed between the tropics, in the Atlantic and Pacific oceans, were found to
+contain scoriae, eructated ashes, and liquefied matter, the manifest vestiges
+of intestine fires. And that the same takes place with regard to the islands of
+the Indian sea, is rendered probable by so many volcanoes yet to be seen among
+them, by the testimony of various navigators and eyewitnesses, and by the
+stones, evidently resembling scoriae and melted rock, brought from thence. It
+is wonderful that ashes thrown up from volcanoes, and other scoriaceous matters
+comminuted and mixed with the earth, should constitute a soil inferior to none
+in fertility; but it is certain that most plants thrive most luxuriantly in
+this soil, and that trees of all kinds grow in it to a stupendous magnitude.
+
+THERE are within the tropics other islands, low, and little elevated above the
+surface of the sea. All of this kind are the workmanship of zoophyte vermes,
+which raise on all sides from the bottom of the sea their mansions of a
+calcareous matter, whence at length are formed rocks and stony shallows very
+dangerous to navigators. Since for the most part easterly winds are frequent in
+these seas, these animalcules, as if actuated by instinct, endeavor to exclude
+the waves driven by the winds, by means of their stupendous works; and
+therefore, carrying on the artful structure of their calcareous or stony
+habitations, they extend them in long arms, which at last unite in a circle,
+within which they include a portion of calm untroubled sea. On the opposite or
+windward side, the waves continually throw up fragments of corals, which,
+accumulating by degrees, form a mound against the force of the billows, and on
+that part the sea is rendered gradually shallower; whilst on the other side,
+immediately under the arms raised by the zoophytes, the sea is of astonishing
+depth; and not unfrequently a part of the work remains open, for the ingress
+and egress of the tide. In the coral banks themselves, sand is collected by the
+waves, which afford soil and aliment for the seeds of shore plants brought
+thither by the sea; and these plants at length perishing, gradually create and
+accumulate a vegetable mould. If by chance a cocoa-nut be carried by the sea to
+these spots, it germinates, and grows into a tall tree, bearing and
+disseminating many nuts, some of which again germinating, soon form a
+palm-grove, affording shade to birds, and other animals, and supplying
+navigators, driven to the place by stress of weather, with a grateful food and
+liquor. The bay included within the arms constructed by the zoophytes is a
+receptacle for fishes which require a calm unagitated sea, and thus another
+food from the animal kingdom is presented to strangers. The shallows, too,
+afford quiet and desirable situations to molluscae, and shellfish of all
+kinds, and contribute much toward supplying the inhabitants of the islands
+with a variety of food.
+
+THE greater islands of the Indian sea, Ceylon, Borneo, Java, Sumatra, Celebes,
+Luconia, Mindanao, Ceram, Gilolo, Waighen, and the isle of Papua or New Guinea,
+are all mountainous, and full of burning or extingushed volcanoes. They are
+covered with evergreen woods and reed-grounds, luxuriant in various tropical
+fruits, productive of all kinds of spices, USEFUL TREES, etc
+and of many drugs valuable in medicine and the arts, especially Camphor,
+Benzoin, Gamboge, Sanders, the Amomums, Costus, Zedoary, Galangal, the Peppers,
+Snakeroot, Dragons-blood, and many others which need not here be enumerated.
+These islands, enriched with so many and great advantages, are everywhere
+inhabited by various animals; their woods and thickets are thronged with
+innumerable birds; their seas abound in fishes of all kinds, the greatest part
+of which have never been examined by naturalists; and what vast treasures of
+shellfish their shores, marine rocks, and the bottom of their seas contain,
+may be gathered from hence, that for at lest a century that these seas have
+been frequented by Europeans, they have continually been offering somewhat new
+to the curiosity of men whose avarice or vanity has prompted them to collect
+such stores from all parts. Nor are these regions destitute of inhabitants,
+differing from each other in color, shape, manners, dress, religion, and
+language. For some tribes in the interior recesses of the woods and mountains
+preserve their ancient savage state, treat all strangers as enemies, and devour
+the slain; others, adopting gender manners, and formed to commerce, and even to
+submission, become daily more civilized.
+
+THUS much, concerning the limits, climate, soil, and seas of India, I thought
+necessary to prefix, in order to render what follows more perspicuous.
+
+ON THE BIRDS OF PARADISE, AND THE PHOENIX.
+THE Birds of Paradise are a genus of birds scarcely as yet sufficiently known
+to the ornithologists, because few of them are imported into Europe, and those,
+too, mutilated in their feet, wings, and other parts, or distorted by having a
+stick thrust within their skins, and thus too much lengthened. No real
+naturalist ever had the fortune to see a live Bird of Paradise, or to have
+observed their manners and economy Sir JOSEPH BANKS did me the favor of
+communicating the drawing of the common Bird of Paradise, brought alive to
+England, drawn from the life. T. P.
+; for they inhabit a region visited by very few Europeans, since scarcely any
+but sailors and merchants are permitted to penetrate into the remotest east,
+the country of the Paradise-birds. The history of this genus is therefore still
+full of falsities, or rather buried in such darkness, that we can scarcely hope
+to gain more and truer information concerning them, till some person, by a
+journey into these parts, is enabled, by his own observations and experiments,
+to give the public some accounts more ample and exact than we hitherto possess.
+
+IT is most certain that these birds were never known to the ancients; and
+whatever the Egyptian priests delivered concerning their Phoenix, has little
+agreement with the Bird of Paradise. But, that there may not be the left doubt
+remaining on these points, we shll collect what has been said by the ancients
+concerning the Phoenix, and, after the passages are brought in view, briefly
+examine them. Herodotus, the father of history, relates (1. ii. 73.) that the
+Phoenix is a bird of the shape and size of an eagle, decorated with
+gold-coloured and purple wings; but he frankly confesses that he had never seen
+the bird, but knew it only by its picture. Pliny (1. x. c. 2.) confirms that
+the Phoenix is of the size of an eagle, with the splendor of gold around his
+neck; the rest of the body purple; having a blue tail spotted with rose-colored
+feathers; combs adorning his face, and a crest of feathers, his head. This was
+the ancient opinion concerning the form and colors of the Phoenix; but the
+same Pliny relates from Manilius, that the conversion of the great year
+corresponds with the life of this bird, from which period the same course of
+seasons, and position of the heavenly bodies, is renewed; and that this takes
+place about noon on the day that the sun enters Taurus. Horapollo delivers the
+same notion respecting the Phoenix. "They (the Egyptian priests) meaning to
+signify the conversion of the great year, paint the Phoenix." These notions are
+then to be explained from the theology of Egypt.
+
+THE Sun, which produces the seasons, is the Egyptian OSIRIS, a deity whose
+name has the same signification; for Oeisch-iri in the Egyptian tongue, is the
+maker of seasons. But almost all the male gods, especially, of the Egyptians,
+expressed the virtues and powers of the Sun. Hence, the vernal sun, when it is
+peculiarly vigorous, and operates with most power, according to the discipline
+of the Egyptian priests, was Hercules, whom they therefore called Dsemmenuti,
+the virtue of God, or of the Gods. The same Hercules, according to Athenagoras
+(pro Christianis, p. 18.) or, as Damascus has it ((...) ap. Wolff. Anecdot.
+iii. p. 254.) "that principle was named, time void of old age, and likewise
+Hercules." Nor is it to be omitted, that in the obelisk of king Ramesses, the
+sun is called the lord of seasons, which in the Egyptian language is Sesoeisch,
+or Sesoosis.
+
+THE annual revolution of the sun makes a year of twelve months; but the
+Egyptian year, long, was only 365 days; whence, every fourth year, four true
+solar years exceeded as many Egyptian years a single day, which they were not
+accustomed to intercalate. Hence the seasons of the year wandered through the
+whole Egyptian year; and hence of the solar years as first fixed by Julius
+Ceasar the dictator, 1460 equal 1461 vague Egyptian years. On this account, the
+Egyptian priests were accustomed to call four years with the day of
+intercalation, the year of God; and 1461 vague Egyptian years made the great
+year of God, that is, of the Sun. And they taught, that at this great period,
+the conversion of the great year took place, at which also the Phoenix
+regenerated -- flew from Arabia to the city of the sun, and deposited his
+father's body on the altar.
+
+IT will now appear, why the Orphics, in hymn xi. to Hercules 3. address him by
+the title of various-formed father of time. And Plutarch, in his treadle on
+Isis and Osiris, asserts, "that the Egyptians fable Hercules to be placed in
+the sun, and to revolve with it." For, from these premises, it might justly be
+said, with Nonnus of Panopolis, 1. xl. p. 683, "that Hercules rolls round the
+whole earth in the glittering orb of the sun, and carries round with him the
+year, the son of time." Every common year, therefore, is a year of God; and the
+great year, the son of time, which, in the Egyptian language, would be
+Dsphenoeisch, and, on account of the harshness of the first letter, the Creels
+would make it (...), Phoenix. This origin of the name adds strength to my
+opinion, since it is perfectly agreeable to the doctrine of the Egyptians
+concerning these things, and at the same time exactly expresses all the sacred
+fables of their priests relative to the Phoenix.
+
+THAT the fabulous Phoenix of the Egyptians has nothing in common with the
+Birds of Paradise, will be sufficiently manifest from what has been said; yet
+it is not altogether without reason that we have here treated on the Phoenix;
+for the first Portuguese navigators to the Indian islands called the Birds of
+Paradise, passaros da sol, Birds of the sun, in the same manner as the
+Egyptians had regarded the Phoenix as a symbol of the annual revolution of the
+sun, and the conversion of the great year. The inhabitants of the isle of
+Ternate call these birds Manu-co-Dewata; Birds of God. The French, English, and
+Germans have adopted the name of Birds of Paradise. All these names seem to
+attribute somewhat of a celestial origin to the birds. The name Manu-co-Dewata
+has induced some writers of natural history to call the bird Manucodiata
+(Edwards, t. 110. Marograv. Brasil, 207. Raii Synops. Av. 21. n. 7. Brisson
+Ornithol. ii. p. 130.) and the illustrious count de Busson, by cutting off part
+of the name, has made from it his Manucode. Valentyne (vol. iii. p. 306, 313.)
+has treated at length of the Birds of Paradise. The Portuguese first saw them
+in Gilolo, Papua, and New Guinea. Many idle fables have been propagated
+concerning these birds; among which are to be reckoned, that they have no feet,
+are always on the wing, pass their lives in the air and feed on this element;
+on which account the inhabitants of these countries are accustomed to cut off
+their feet. But the people of the Aru islands have taught the Dutch in Banda
+better; and it is sound that the feet are cut off in order that the birds may
+be more easily preserved dry. The Indians, too, pay little regard to the feet,
+because they use the skins of the Birds of Paradise only to adorn their helmets
+in their games and mock combats. But the Aruans, 70 or 80 years ago, brought
+these birds with their feet. Pigasette, who accompanied Ferdinand Magalhaens in
+his voyage, testified from ocular demonstration, about 1525, that they were not
+without feet. But the length and peculiar structure of the scapular feathers,
+prevent them from sitting on trees in windy weather; and if they are once blown
+down to the ground, they are utterly unable to raise themselves again by their
+wings. When taken by the natives, they are immediately killed, because their
+food is unknown, and they defend themselves courageously with their very strong
+beaks.
+
+OF the Birds of Paradise there are about six species The Faumla will produce
+many more.
+. 1. The great Paradise-bird of Aru. 2. The lesser Paradise-bird of Papua. 3.
+and 4. Two black species. 5. The white Paradise-bird. 6. The unknown
+Paradise-bird. 7. The lesser King-bird, which is also to be reckoned among the
+Paradise-birds.
+
+I. PARADISEA APODA. GREATER BIRD OF PARADISE. Latham Syn. ii. 474. Index, i.
+194.
+THE greater Paradise-bird is generally about two feet in length. Head, small:
+beak, the length of the head, hard, pale-coloured. Head and nape of the neck,
+yellow. Space round the eyes, black. Neck, beautifully resplendent with very
+soft, shining, emerald-coloured feathers: those of the breast, equally soft, of
+a pale yellowish-grey. Large chesnut-coloured wings. Back covered with the
+scapulars elongated, stiff, narrow, pale brown, very much resembling the loose
+feathers of the ostrich. These expand while the bird flies; and therefore it is
+easy for him to remain in the air. On the sides of the breast and belly are
+bundles of feathers, much shorter than the anterior ones, stiff, gold-coloured.
+From the rump arise two stiff feathers of great length, naked in the shafts,
+terminated with radiated plumes. Several birds of these countries are furnished
+with such long feathers, as the Belurus (Pylstaart) of Amboyna, the Alcedo
+Sariwak, and a species of Papuan parroquet. In size it little exceeds the
+blackbird. Feet short, with four strong toes. The inhabitants of Ternate call
+this species Burong Papua, Papua birds; and sometimes Manu-co-dewata, and also
+Soffu, or Sioffu. The Amboynese call them Manu-key-aru, birds of the islands
+Key and Aru, because the people of these islands bring them to Banda and
+Amboyna for sale. The Aruans give them the name of Fanaan. In fact, these birds
+are not found in the island Key, which is about 50 miles eastward of Banda, but
+are met with in the Aru islands (which are 15 miles further to the east than
+Key) at the dry season of the western monsoon, and return to New Guinea at the
+commencement of the rainy season, as soon as the east wind begins to blow. They
+fly in flocks of about 30 or 40, led by a bird which the Aruans call KING, but
+which is altogether distinct from the lesser Bird of Paradise. This leader is
+black with red spots, and constantly flies higher than the rest, which never
+separate from it, but immediately when it settles, settle too; whence they
+frequently perish, for if the leader settles on the ground, they are not able
+to rise on account of the peculiar structure of their feathers. Nor can they
+fly with the wind, for in that case their very long loose feathers would be
+totally disordered: they therefore always fly against the wind, and carefully
+abstain from flight in a storm, which often throws them to the ground.
+
+WHILE flying they are noisy, like starlings; but their cry rather resembles
+the croaking of ravens, and is particularly audible, when in windy weather the
+encumbrance of their feathers brings them into imminent danger of falling to
+the ground. In the Aru islands they perch on the highest trees, especially on
+those of the small-leaved Waringha with red fruit, on which they chiefly
+subsist ( Ficus Benjamina? Hort. Malab. iii. f. 35. Rumph. Amboin. iii. f. 90.)
+They are taken by the inhabitants with bird-lime, snares, or blunt arrows. But
+though many fall alive into the fowlers hands, they are immediately killed, and
+after embowelling, and generally cutting off their feet, they are fumigated
+with sulphur, and dried; in which state they are sold, for half a dollar in
+Banda, but in Aru they may be purchased for a large nail or piece of iron. The
+Dutch ships frequenting the sea between New Guinea and Aru (a distance of 18 or
+20 miles) not unfrequently see flocks of Paradise-birds crossing the sea from
+one to the other of these places, but always against: the wind. If a more
+tempestuous gale than usual rises during their flight, they seek the upper and
+calmer regions of the air, and thus continue their course. The natives fasten
+these birds to their helmets in place of crests, in real and mock sights; and
+often tie the whole or part of the skins to their swords. During the eastern
+monsoon their very long feathers fall; and in the western monsoon, within the
+space of four months, as the Aruans report, they are replaced by new ones.
+
+II. PARADISEA APODA. LESSER. Latham Syn. ii. 474. Index, i. 194. b.
+THE lesser Paradise-bird of Papua. This species is about twenty inches in
+length. Beak, lead-colored, paler toward the apex. Eyes, small, and surrounded
+with black. Neck, emerald-colored. Head, and back of the neck, dusky-yellowish.
+Wings, small and chesnut-colored. Breast and belly, brown. Back,
+yellowish-grey. Long scapulars, about a foot in length, and paler than in the
+former species; which is in general to be observed of all the splendid colors
+in this species. The long bare feathers of the tail are constantly rejected by
+the inhabitants. In other respects, this species has every thing in common with
+the former. These birds also follow a leader; which, however, has more of a
+dark purple in his wings; but this leader is distinguished from the 3d and 4th
+black kinds. The Papuan inhabitants of the island Missowal, (Mixoal, Maysel)
+relate that these Paradise-birds never migrate, but build nests in the highest
+trees, where they are found by the Alfubris. The beak and neck are longer in
+the male than in the female. By the people of Ternate, and Tidore, this bird is
+called Toffu or Burong Papuwa, Papua-bird. By the Papuans it is named Shag or
+Shague. The people of East Ceram give it the name of Samaleik; but in the isle
+of Sorghile, in New Guinea, it is called Tshakke. It was formerly believed that
+these birds were found in Gilolo or Halamahera, and the adjacent islands to the
+south and south-east; but it is now certain that they are peculiar to the
+Papuan isles. These extend from the southern extremity of Gilolo, and northern
+coast of Ceram, as far as the western part of New Guinea. The largest of them
+are Missowal (Maysol) lying to the north of Ceram; and Salawatti, or Salawat,
+situated near the country or island of Serghile, in New Guinea. This last, in
+the earliest Portuguese maps, is improperly called Ceram, and is separated from
+New Guinea. These Paradise-birds perch on the highest trees of the mountainous
+region, and are killed with blunt arrows by the people of Missowal. Others
+relate, that the natives medicate the water of which the birds are used to
+drink, with the India-berries (Menisperman Cocculus Linn.) whereby they are
+rendered so stupid as to be taken by the hand. These birds commonly feed on the
+fruit of the Tshampeda-tree, which they persorate with their bills, and thus
+extract the kernels. It is fabled by some, that when these birds become weak
+with age, they fly a great height toward the sun, till they fall down dead.
+The Papuans, after killing and embowelling them, dry the cavity with a hot
+iron, and enclose them in a joint of bamboo, in order the better to preserve
+them.
+
+III. and IV.
+THE black Paradise-birds. The larger variety of these is sold by the natives
+without wings and feet, and therefore is very difficult to be described with
+accuracy. The remains are generally stretched out on a stick to the length of
+four spans. The feathers of the head, neck, and belly are black, silky, and
+mixed with a radiant hue of purple and gold. Beak, blackish, an inch long. From
+both sides spring bunches of feathers, somewhat similar to quill-feathers, but
+in reality very different from them, for this species is always offered to sale
+with the wings cut off. The feathers in these bunches are extremely soft, with
+broad webs like peacocks feathers, of a fine shining green, and all reverted;
+whence Valentyne suspects that they become reverted in the bamboo joints in
+which they are enclosed by the natives. Tail, wedge-shaped. Tail feathers next
+the abdomen, hairy; upper ones, longer, and pointed; those immediately beneath
+these, above a span and a half in length, stiff, with loose doubly compound
+rays, black above, shining below. The birds of this variety are brought only
+from the part of New Guinea called Serghile. The inhabitants carry the skins
+dried upon sticks by smoke, and enclosed in bamboo joints, to the island
+Salawat, and exchange them for hatchets and coarse cloths. The Papuans call
+them Shagawa, and also, Paradise-birds from Serghile: in Ternate and Tidore,
+they are called Soffu-kokotu, Black Paradise-birds. Serghile is the most
+northern part of New Guinea, running out to a sharp promontory, situated beyond
+or to the east of Gilolo and the Papua island, and facing the north.
+
+BESIDES the greater black Paradise-bird, there is a lesser variety. Its
+feathers are equally long, but not so thick; black above, not shining. This
+variety is also destitute of the shining peacock feathers found in the first.
+It likewise wants the three long pointed tail-feathers, which are proper to the
+greater kind. The Alfubris, or inhabitants of the mountainous part of the isle
+of Messowal, shoot these birds with arrows, and sell them to the people of
+Tidore.
+
+V. PARADISEA ALBA, Latham Index, i. 197. b. WAYCHIHU. The same.
+THE white Paradise-bird is the rarest of all the species, and has two
+varieties, one entirely white, the other black and white. The first is very
+rare, and in habit much resembles the Paradise-bird of Papua. The second
+variety has its forepart black, and back-part white, with twelve slender
+crooked almost naked feathers. This kind is the rarest of all, and is procured
+only through the people of Tidore, because it is found in those Papuan isles
+only which are little frequented, particularly in Wayghihu (called also Wadju,
+Wardju, and Waygiu.) Some suspect that they are imported from Serghile, in New
+Guinea.
+
+VI.
+IN 1689, a new species of black Paradise-bird was first seen at Amboyna,
+brought from Missowal, about a foot in length, with a shining purplish hue.
+Head, middle-sized; bill, straight; back, as in the other species, adorned with
+purple-blue feathers, but under the wings, and on the belly, yellowish, as in
+the apodous species. Back of the neck, mouse-colored, greenish In this kind it
+is observable, that on the scapulae are bundles of green-edged feathers, which
+can be erected at pleasure, like wings. In place of a tail, it has twelve
+black, naked, setaceous and thready shafts, like pendulous feathers. Feet
+strong, with sharp claws. Head small; eyes encircled with black.
+
+VII. PARADISES REGIA. KING. Latham Syn. ii. 475. Index, i. 194.
+THE last species is the King-bird, which some reckon among the Paradise-birds;
+but, according to Valentyne, it is totally different from them. LINNAEUS and
+BUFFON, however, refer them to the Paradise-birds, chiefly induced by the shape
+of the bill, and the feathers peculiar to this genus. This bird is about seven
+inches in length, and somewhat exceeds a titmouse in bulk. Head, and eyes
+(which are surrounded with a black circle) small. Beak, straight. Crown of the
+head, flame-colored: nape of the neck, blood-colored: neck and breast, chestnut,
+with a band of bright emerald. Wings, large for the body; quill-feathers black,
+with rays spotted and streaked with shining red. Tail, straight, short, and
+brown. Intermediate tail-feathers, long, thread-shaped, black, exceeding the
+rest a palm in length, with a lunated feathered tip, of a shining green above,
+brown below. Belly, spotted: from the sides proceed bundles of broad-rayed
+feathers, one part of the rays, green, the other, brown. Back, blood-brown,
+glossy like silk. Feet, like those of a lark; three toes before, one behind.
+
+THIS bird never associates with the other species of Paradise-birds, but flies
+about the lonely thickets, wherever it sees red berries, nor ever fits upon
+tall trees.
+
+IN Aru it is called Wowi Wowi: in the Papua isles, Sopclo-o. The Dutch name it
+Kings-bird. It is chiefly brought from Aru-Sopolo-o; and especially from
+Wodjir, a well-known town of this island. The Aruans say they have never seen
+its nest; but suspect that it is a stranger from New Guinea, and there brings
+up its young, but never leaves Aru during the dry season of the western
+monsoon. It is taken in snares made of Gummatty, or with birdlime prepared from
+the Sukkom or bread-fruit (Artocarpus communis Forced. Charact.)
+
+IT is embowelled and dried, and sold in Banda. The Aruans put it in their
+helmets in their mock fights, and the game Tobakalil.
+
+THE illustrious BUFFON, or rather his friend Guencau de Montbeillard,
+describes six Paradise-birds in his Hist. of Birds, tom iii. edit. in 4to: and
+torn v. edit. in 12mo, p. 207, 238. These birds seem also to be delineated in
+Daubenton's splendid Planches Enluminces, No 254, 496, 631, 632, 633, 634.
+Sonner at likewise describes and delineates the same six birds. We shall now
+therefore briefly compare these six birds with what we have above described at
+length from Valentyn, vol. iii.
+
+I. L'oiseau de Paradis, is Valentyn's, I. Paradisea major Aruena; and the
+Paradisea apoda Linn.
+
+II. Le Manucode, is Valentyn's, 7. Avis regia; Paradisea regia Linn.
+
+III. MAGNIFICENT. Latham Syn. ii. 477. Index, i. 195. Le Magnisique, on
+Manucode a bouquets, may seem in some respect referable to Valentyn's Paradisea
+minor Papuana; though I consess it much differs from it.
+
+IV. SUPERB. Latham Syn. ii. 479. Index, i. 196. Le Superbe, on Manucode noir,
+as delineated in the Planches Enlum. seems to be either a young bird, or a hen,
+or taken at the moulting season; for Valentyn's 3. Paradisea nigra major, has
+long setaceous feathers in the tail; and the Hist. of Birds, as well as
+Daubenton's Le Superbe, are without them. What Gueneau de Monbeillard observes,
+however, is not to be overlooked; that the specimens in the royal Paris museum
+are ill kept, and have lost these long feathers by accident.
+
+V. GOLD-BREASTED. Latham Syn. ii. 481. Index, i. 196. Le Sisilet, ou Manucode
+a six filets. I can scarcely help thinking that this is Valentyn's, 4.
+Paradisea nigra minor, which by chance or design had lost its long filaments
+near the ears.
+
+VI. BLUE-GREEN. Latham Syn. ii. 482. Index, i. 197. Le Calybe, seems to be an
+obscure species.
+
+THE other Paradise-birds of Valentyn are not yet sufficiently ascertained. It
+is greatly therefore to be wished, that a naturalist should undertake a journey
+into New Guinea, and the Papua isles, since these regions seem full of new and
+unexplored natural wonders. In the meantime we hope that these observations
+concerning the Birds of Paradise will not be unacceptable to those who are
+desirous of an accurate knowledge of the works of Nature.
+
+INDIAN ZOOLOGY.
+THE LONG-TAILED SQUIRREL.
+
+I. SCIURUS MACROURUS. THE LONG-TAILED SQUIRREL.
+Sciurus. Zeylanicus pills in dorso nigricantibus, Raii Syn. Quad. 215. Sc.
+Macrourus, Gmelin. Lin. i. 148.
+THIS species is found in Ceylon and Malabar. In the Cingalese tongue it is
+called Dandoelana; and, LONG-TAILED-SQUIRREL.
+from the noise it makes, Roekea.
+
+It is about three times the size of the European squirrel.
+
+THE ears are tufted with black hairs: the end of the note is pink-coloured:
+the cheeks, legs, and belly, are of a dull yellow: between the ears is a yellow
+spot: the crown of the head, and the back, are black: from each ear is a
+bifurcated line or the same color, pointing down the cheeks: the upper part of
+the feet is covered with black hairs: the lower part naked and red.
+
+THE tail is near twice the length of the body, of a light ash-color, and
+extremely bushy. The part next the body quite surrounded with hairs: on the
+remainder the hairs ore separated, and lie flat.
+
+THE tree is the JAMBU Rumph. Amboin. i. 121. tab. 37. EUGENIA MALAC.
+EUGENA MALACCENSIS, Sp. Pl. 672. Fl. Zeyl. No 187. It is the most excellent of
+the Indian fruits, delicious in taste, grateful in smell, pleasing to the eye,
+and salubrious in its effects.
+
+ITS native place is Malacca; and is only cultivated in Goa and Amboina, on
+account of its fine qualities, its roseate scent and color, and its happy
+faculty of allaying the rage of thirst in the burning fevers of the torrid zone.
+
+THE BLACK and WHITE FALCON.
+
+II. FALCO MELANOLEUCOS. BLACK AND WHlTE FALCON.
+F. Melanoleucos, Gmelin. Lin. i. 274. Latham, i. 81. Index Ornith, i. 36.
+INHABITS Ceylon: its length is sixteen inches, BLACK AND WHITE FALCON.
+its weight about ten ounces.
+
+THE bill is black: the irides of a reddish yellow: the orbits marked with
+white specks. The head, neck, back, scapulars, quil-feathers, and some of the
+middle coverts of the wings, are black; the rest of the coverts, those of the
+tail, the tail itself, the breast and belly, are of a pure white.
+
+THIS species is called in the Cingalese, Kaloe Koeroelgoya. We are uncertain
+whether it is trained for the amusement of falconry, as some other kinds are,
+by the natives of Ceylon.
+
+THE tree is the Vidara of Rumphius, ii. 17. tab. 36. RHAMNUS JUJUBA.
+the Rhamnus jujuba, Sp. Pl. 282. Fl. Zeyl. No 89. It bears an eatable fruit,
+of very little flavor.
+
+III. OTUS BAKKAMOENA. THE LITTLE HORN OWL.
+Strix indica, Gmelin. Lin. i. 289. Latham, i. 127. Index Ornith. i. 56. No 14.
+THIS elegant species is found in Ceylon; LITTLE HORN OWL.
+is called there Bakkamoena, and is a scarce species even in that island.
+
+IT is represented of its natural size. The irides are scarlet: the horns take
+their origin from the base of the bill, and point to the side of the head: on
+their inner side they are dusky, on their exterior white.
+
+THE bill is dusky, surrounded with long bristles: the circle of feathers round
+the eyes is of a very pale ashcolor: the external circle of a yellowish brown.
+
+THE head of a deep ash color: the back dusky: coverts of the wings gray,
+marked with narrow, lines of black, pointing downwards: the quil-feathers
+regularly barred with black and white: the breast buff-colored, marked with
+small sagital black spots: the legs feathered half way down the naked part of a
+reddish yellow.
+
+THE plant is one of the most beautiful of the Indies; GLORIOSA SUPERBA.
+THE LITTLE HORNED OWL.
+but at the same time its roots are the most venomous. It is found in Ceylon
+and Malabar, and, on account of its charming appearance, is called by Linnaus,
+GLORIOSA SUPERBA, Sp. Pl. 437. By the natives it is styled Najajala and
+Nyaghala, possibly from its being possessed of a poison as potent as that of
+the serpent Naja, or Cobra de Capello, whose bite is the most fatal of any yet
+known.
+
+IV. TROGON FASCIATUS. THE FASCIATED COUROUCOU. Read, on the plate, THE
+FASCIATED COUROUCOU.
+
+Trogon fasciatus, Gmelin. Lin. i. 405. Latham, ii. 492. Index Ornith. i. 200.
+THIS species is rarely, FASCIATED COUROUCOU.
+found in the isle of Ceylon, where the Cingalese call, it Rantvan-kondea. A
+species bearing some resemblance to it is described by M. Brisson, iv. 165, by
+the name Le Couroucou Cendre; but the bend on the breast, which distinguishes
+the Indian species, evinces it to differ from that of Cayenne.
+
+ITS length was ten inches and an half: DESCRIPTION.
+the weight one ounce five-eighths.
+
+THE bill black, thick, strong, and arched; the base beset with bristles: the
+orbits naked, and of a deep blue: the irides yellow.
+
+THE head and neck of a very deep dusky blue, fading into a paler as it
+approaches the breast.
+
+ACROSS the breast is a fascia or band of white; beneath that the whole
+under-side is of a bright reddish orangecolor.
+
+THE FACIATED COUROUCOU.
+
+
+THE back is tawny; the coverts of the tail gray; the coverts of the wings, and
+the scapulars, elegantly barred with narrow undulated lines of black and white;
+the quil-feathers dusky, striped with white on their outward webs.
+
+THE tail is very long, tipped with black, and composed of feathers of unequal
+lengths; the exterior feathers being much the shortest.
+
+THE legs and feet small and dusky: the toes disposed two backward and two
+forward, as in the woodpecker tribe.
+
+THE plant is the Nummularia lactea minima. Rumph. NUMMULARIA.
+Amboin. lib. ix. c. 78.
+
+V. CUCULUS PYRRHOCEPHALUS. THE RED-HEADED CUCKOO.
+Cuculus Pyrrhocephalus, Gmelin Lin. i. 417. Latham, ii. 544. Index Ornith. i.
+222
+THE Cingalese give this species the name of Malkoha: THE RED-HEADED CUCKOO.
+it inhabits the woods, and lives on fruits
+
+ITS length is sixteen-inches: its weight four ounces.
+
+THE bill is much arched. strong, and of a greenish-yellow color: the crown of
+the head, and part of the cheeks, are of a bright crimson, entirely surrounded
+by a band of white. The hind part of the head and neck black, marked with small
+white spots: the fore part of the neck entirely black.
+
+THE back and wings black: the tail very long, composed of feathers of unequal
+lengths; their lower part black, the ends white.
+
+THE breast and belly white: the legs of a pale blue.
+
+THE RED HEADED CUCKOO.
+
+
+THE RED WOODPECKER.
+
+VI. PICUS MINIATUS. THE RED WOODPECKER.
+Picus Miniatus; Gmelin. Lin. i. 432. Latham, ii. 595. Index Ornith. i. 241.
+MR. Loten shot this on the Highlands of Java. It is called by the Malayans,
+THE RED WOODPECKER.
+Toekan, or the Carpenter, a name they give to woodpeckers in general, from the
+noise these birds make in boring trees, which resembles that made by a workman.
+
+IT is drawn the size of life. The bill is of a dusky blue: the head of a deep
+dull red, and adorned with a long crest pointing backwards: on the chin is a
+spot of yellow.
+
+THE hind part of the neck, the back, the coverts, and secondary feathers of
+the wings, are of the color of red lead: the fore part of the neck is of a
+rose-color: the belly white.
+
+THE quil-feathers black, marked with large white spots: the coverts of the
+tail green: the tail consist of sharp-pointed feathers, like the European kind,
+and is of a deep blue.
+
+VII. PERDIX BICALCARATUS. DOUBLE-SPURRED PARTRIDGE.
+Perdix Bicalcarata, Gmelin Lin. ii. 759. Forster Ind. Zool. 25. Ceylon
+Partridge, Lathham, iv. 758. Index Ornith. ii. 674.
+THE bill of the MALE is red: DOUBLE SPURRED PARTRIDGE.
+from that to the region of the eyes is a naked red space. The head is varied
+with black and white streaks. The whole neck, above and below, is black,
+elegantly marked with sagittal lines, the points tending upwards. The thighs
+white. The primaries dusky, edged with rufous. The back covered with rufous
+feathers, dusky on each side of their shafts. Tail dusky. Legs red, on each a
+pair of strong sharp spurs.
+
+THE head of the female is cinereous. The color of the back and belly rufous,
+brightest below. The tail dusky. Legs red and unarmed.
+
+THESE were taken near Colombo. The Cingalese call them Haben-Kukella.
+
+MandF. DOUBLE SPURRED PARTRIDGE.
+
+
+THE BLACK CAP'D PIGEON.
+
+VIII. COLUMBA MELANOCEPHALA. THE BLACK-CAPPED PIGEON.
+Columba Melanocephala, Gmelin. Lin. i. 781. Latham iv. 654. Index Ornith. ii.
+610.
+THIS most elegant species is painted the size of life. BLACK-CAPPED PIGEON.
+It was found on the ground in the isle of Java, HEAT OF THE TORRID ZONE.
+having dropped down dead in one of those hot days that are known only in the
+torrid zone, when the fowls of the air often perish, unable to respire; when
+lions, leopards, and wolves, immerge themselves up to their nostrils in the
+water, to preserve themselves from the scorching fun Boone's Account of the
+Climate and Diseases of Senegal.
+; and when even men themselves have been forced to ascend the highest trees, in
+order to draw in a more temperate air Phil. Transact. 1767.
+.
+
+SUCH a day occasioned the discovery of this species.
+
+THE fore part of the head, the cheeks, DESCRIPTION.
+and beginning of the breast, were white: the hind part of the head black: the
+chin yellow.
+
+THE rest of the neck, the breast, upper part of the belly, the back, coverts,
+and secondary feathers of the wings, of a fine green: the quil-feathers of a
+dark purple.
+
+THE lower belly and vent feathers of a fine yellow: the outside of the thighs
+green; the inside white; the lower side of the tail crimson: the legs red.
+
+MandF FLAMMEOUS. FLYCATCHER.
+
+IX. MUSCICAPA FLAMMEA. FLAMMEOUS FLYCATCHER.
+Muscicapa Flammea, Gmelin. Lin. ii. 942. Forster Ind. Zool. 25. Flammeous
+Flycatcher, Latham, iii. 338. Index Ornith. ii. 474.
+THE bill, head, neck, fore part of the back, FLAMMEOUS FLYCATCHER.
+and lesser coverts of the wings, black: rest of the back bright orange or
+flame-color: primaries partly black, partly orange: breast and belly of the
+last color, sinking into pale yellow toward the lower belly: tail dusky yellow
+toward the point: legs black.
+
+THE upper part of the head, and whole back, of the supposed female, is
+ash-colored: about the cheeks and throat dusky: breast orange: belly white:
+across the primaries a flammeous band, bounded above and below with black: tail
+black above.
+
+THESE are inhabitants of Ceylon.
+
+X. MOTACILLA SUTORIA. THE TAILOR BIRD. Motacilla Sutoria, Gmelin. Lin. i. 997.
+Latham iv. 515. Index Ornith. ii. 551.
+TAILOR BIRD.
+HAD Providence left the feathered tribe unendowed with any particular
+instinct, WONDROUS INSTINCT.
+the birds of the torrid zone would have built their nests in the same
+unguarded manner as those of Europe; but there the lesser species, having a
+certain prescience of the dangers that surround them, and of their own
+weakness, suspend their nests at the extreme branches of the trees; they are
+conscious of inhabiting a climate replete with enemies to them and their young;
+with snakes that twine up the bodies of the trees, and apes that are
+perpetually in search of prey; but, heaven-instructed, they elude the gliding
+of the one, and the activity of the other.
+
+AN Indian forest is a scene the most picturesque that can be imagined; AN
+INDIAN FOREST.
+the trees seem perfectly animated; the fantastic monkies give life to the
+stronger branches; and the weaker sprays wave over your head, charged with
+vocal and various-plumed inhabitants. It is an error to THE TAILOR BIRD.
+say that nature has denied melody to the birds of hot climates, and formed
+them only to please the eye with their gaudy plumage: Ceylon abounds with birds
+equal in song That of what the Portuguese call Dominiquin, is particularly fine.
+to those of Europe, which warble among the leaves of trees, grotesque in their
+appearance, and often laden with the most delicious and salubrious fruit.
+Birds of the richest colors cross the glades, and troops of peacocks complete
+the charms of the scene, spreading their plumes to a sun that has ample powers
+to do them justice. The landscape, in many parts of India, corresponds with the
+beauties of the animate creation: the mountains are lofty, steep, and broken,
+but clothed with forests enlivened with cataracts Those of the island of
+Celebes are distinguished for their magnificent scenery, at appears from the
+drawings in possession of Mr. Loten.
+of a grandeur and figure unknown to this part of the globe.
+
+BUT to give a reverse of this enchanting prospect, which it is impossible to
+enjoy with a suitable tranquillity; you are harassed in one season with a
+burning heat, or in the other with deluges of rain: you are tormented with
+clouds of noxious insects: you dread the spring of the Tiger, or the mortal
+bite of the Naja.
+
+THE brute creation are more at enmity with one another than in other climates;
+and the birds are obliged to exert unusual artifice in placing their little
+broods out of the reach of an invader. Each aims at the same end, NEST.
+though by different means. Some form their pensile nest in shape of a purse,
+deep, and open at top; others with a hole in the side; and others, still more
+cautious, with an entrance at the very bottom, forming their lodge near the
+summit This instinct prevales also among the birds on the banks of the Gambia,
+in Africa, which abounds with monkies and snakes: others (for the same end)
+make their nest in holes of the banks that over-hang that vast river. Purchase.
+ii. p. 1576.
+.
+
+BUT the little species we describe, DESCRIPTION.
+seems to have greater diffidence than any of the others: it will not trust its
+nest even to the extremity of a slender twig, but makes one more advance to
+safety by fixing it to the leaf itself.
+
+IT picks up a dead leaf, and, surprising to relate, sews it to the side of a
+living one The live leaf in the print is that of the Mango tree. A nest of this
+bird is preserved in the British Museum.
+, its slender bill being its needle, and its thread some fine fibers; the
+lining, feathers gossamer, and down. Its eggs are white. The color of the bird
+light-yellow: its length three inches, its weight only three-sixteenths of an
+ounce, so that the materials of the nest, and its own size, are not likely to
+draw down a habitation that depends on so slight a tenure.
+
+WHITE HEADED IBIS.
+
+XI. TANTALUS LEUCOCEPHALUS. THE WHITE-HEADED, IBIS.
+Tantalus Leucocephalus, Gmelin. Lin. i. 649. Latham, v. 116. Index Ornith. ii.
+706.
+IN size it is much superior to our largest curlews. The bill is yellow,
+WHITE-HEADED IBIS.
+very long, and thick at the base, and a little incurvated: the nostrils very
+narrow, and placed near the head: all the fore part of the head is covered with
+a bare yellow, DESCRIPTION.
+and seems a continuance of the bill; and the eyes are, in a very singular
+manner, placed very near its base.
+
+THE rest of the head, the neck, back, belly, and secondary feathers, are of a
+pure white; a transverse broad band of black crosses the breast: the
+quil-feathers, and coverts of the wings, are black: the coverts of the tail are
+very long, and of a fine pink color;, they hang over and conceal the tail.
+
+THE legs and thighs are very long, and of a dull flesh-color; the feet
+semi-palmated, or connected by webs as far as the first joint.
+
+THIS bird was taken in the isle of Ceylon, PLACE.
+and kept tame for some time at Colombo; it made a snapping noise with its bill
+like a stork; and, what was remarkable, its fine rosy feathers lost their color
+during the rainy season.
+
+RED TAIL'D WATERHEN
+
+XII. GALLINULA PHOENICURUS. THE RED-TAILED WATER-HEN.
+Rallus Phoenicurus, Gmelin. Lin. i. 715. Latham, v. 259. Index Ornith. ii. 770.
+THIS species is very common in Ceylon, RED-TAILED WATER-HEN.
+where it is called Kaloe-kerewaka, and seems the same kind that is so often
+figured on the Indian papers.
+
+ITS length is nine inches; DESCRIPTION.
+its weight seven ounces and a quarter.
+
+IT has the form of the European kind: the bill a little thicker, of a greenish
+cast, tinged with red; on the forehead is a flesh-colored spot.
+
+THE hind part of the head and neck, the back and coverts of the wings, are
+black: the quil-feathers black, marked with large spots of a bluish cast.
+
+THE crown of the head, the cheeks, and whole underside of the body, as far as
+the vent, are of a pure white: the vent feathers, and the tail, of a
+ferruginous red.
+
+THE-legs and feet long, and of a dirty green, tinged with red.
+
+XIII. ANSER MELANOTOS. THE BLACK-BACKED GOOSE.
+Anser Melanotos, Gmelin. Lin. i. 503. Latham, vi. 449. Index Ornith. ii. 839.
+NOTWITHSTANDING the isles of the East Indies swarm with crocodiles,
+BLACK-BACKED GOOSE.
+which are animals of insatiable voracity, catching at every living creature
+that frequents their element, yet no country, abounds more with aquatic birds;
+nature has happily given them a quickness of fight, and an instantaneous
+locomotive power, which enables them to elude the jaws of an enemy, which, it
+is well known, cannot turn without the utmost difficulty. It is by a fine
+instinct that the lesser and more agile species of ducks frequent, in flocks
+innumerable, the shores, the mouths of rivers, and the marshy parts of the
+isles, and are, with the crocodiles, joint tenants of the waters; while the
+larger and more clumsy fowl avoid those places, and, dividing into small
+families, haunt only the lakes and streams that lie Which Knox, in hit History
+of Ceylon, p. 3, says, the crocodiles never approach.
+in the deep recesses of the BLACK BACKED GOOSE.
+lofty and craggy mountains, protected by the cataracts that prevent the
+approach of their enemy.
+
+TAME ducks abound so greatly in the isles, INDIAN FOWLING.
+that the capture of the wild sort is much neglected. Decoys are unknown there:
+the commonest, method of taking them is this: A man goes into the water with a
+pot or a hollow calabash on his head, and walks or swims so low as to conceal
+his whole body: the birds, imagining the gourds to be brought down
+accidentally, suffer the fowler to approach them; he pulls them by the legs
+under water, fastens them to a girdle he wears for that purpose, and then
+proceeds in his sport. This method is also practiced in China, Du Halde Hist.
+China, i. 314.
+and was doubtless introduced there, and into India, from Egypt, the original
+seat of science.
+
+THE species of goose we now describe, DESCRIPTION.
+is extremely common in Ceylon, and is equal in size to our wild goose: the
+bill is long, and black; at the base is a knob, which in old birds is very
+large.
+
+THE head and neck are white, marked with small black spots: the breast and
+belly of a pure white: the back and wings are black, but the ends of the
+primary feathers of a fine variable green.
+
+THE tail is sharp-pointed and black: the legs of the same color.
+
+XIV. ANAS POIKILORHYNCHUS. SPOTTED-BILLED DUCK.
+Anas Poikilorhyncha, Gmelin. Lin. i. 535. Forster, Ind. Zool. 23.
+Spotted-billed Duck, Latham, vi. 487. Index Ornith. ii. 850.
+SPOTTED-BILLED DUCK
+THE bill of this species is black, tipped with yellow, DESCRIPTION.
+and marked on each side of the base with a red spot: a white line passes from
+thence to and beyond the eye. The cheeks, and under side of the neck and body,
+white, more and more clouded from the chin to the vent, which is totally black:
+the wings, back, and tail, are black; each feather slightly edged with white;
+some of the tertials wholly white: the speculum of a variable green, bounded
+above and below with a narrow line of white.
+
+THIS is the common wild duck of Ceylon; and, if I recollect right, is not
+inferior in size to the English wild duck.
+
+SPOTTED BILL DUCK.
+
+
+
+XV. ANHINGA. MELANOGASTER. THE BLACK-BELLIED ANHINGA.
+Plotus Melanogaster, Gmelin. Lin. i. 580. Latham, vi. 624. Index Ornith. ii.
+895.
+WE give it this epithet, BLACK-BELLIED ANHINGA.
+to distinguish it from an American species with a silvery belly Found in
+Brasil Vide Marcgravs, Hist. Brasiliae, 218.
+.
+
+THIS kind is found in Ceylon and Java, but is not peculiar to those islands; a
+variety, if not the some, being met with in Senegal Planches Enlianinies, 107.
+.
+
+IT fits on the shrubs that hang over the water; and, in a country where every
+one's ideas are filled with serpents, often terrifies the passengers by
+shooting out its long slender neck, which, in their first surprise, they take
+for the darting of some fatal reptile.
+
+ITS body is about the size of that of a common duck, DESCRIPTION.
+but the neck extremely long: the bill strait, long, and sharp-pointed; the
+upper part of a pale blue, the lower reddish.
+
+THE eye is very piercing.
+
+THE head and neck and upper part of the breast are of a light-brown; each side
+of the head, and the upper part of the neck, marked with a broad white line.
+
+THE crop is very large.
+
+THE back, scapulars, and coverts of the wings, are marked lengthways, in equal
+portions, with stripes of black and white.
+
+THE quil-feathers, belly, thighs, and tail, of a deep black; the tail
+remarkably long and slender.
+
+THE legs and feet of a pale green; the four toes united by webs, after the
+manner of those of the corvorant.
+
+TIGER SHARK
+ZEYLON WRASSE
+
+XVI. SQUALUS TIGRINUS. THE TIGER SHARK.
+Squalus. Tigrinus, Gmelin, Lin. i. 1493. Bloche, i. 19. No 4. Gronov. Mus. i.
+No. 136. Seb. Mus. iii, 105. tab. 34. fig. i. Herman, tab. Assin. p. 302,
+Forster, Ind. Zool. 24.
+THE head of this shark ends obtusely, TIGER SHARK
+being of an equal thickness: DESCRIPTION.
+the nostrils are at the end of the nose: at each corner of the mouth, is a
+strong beard: the fins of the back are rounded and contiguous: it is of the
+division that has the anal fin. The ground-color is dusky: the body marked with
+white bands passing from the back, toward the belly: the fins are spotted with
+the same color.
+
+THIS species grows to the length of fifteen feet, and is said to feed on the
+testaceous and crustaceous animals of the sea.
+
+XVII. LABRUS ZEYLANICUS. THE CEYLON WRASSE.
+Labrus Zeylanicus, Gmelin. Lin. i. 1287. Forster, Ind. Zool. 24. Labrus
+Polyodon, Seb. Mus. iii. p. 96. tab. xxxi. fig. 7.
+CEYLON WRASSE.
+THIS species resembles in form the elegant European species, DESCRIPTION.
+the L. Pavo, and L. Iulis. The head is blue: the coverts of the gills green,
+marked with purple lines: the whole body of a rich green: the dorsal and anal
+fins purple, edged with pale sky-blue: on the middle of the pectoral fin is an
+oblong purple spot, environed with light blue: the tail is lunated, the base
+blue: the two side rays (which appeared by the drawing to be strong) purple;
+the intervening rays yellow. The size, about a foot and a half.
+
+INHABITS the seas of Ceylon and Java: is called by the Cingalese,
+Dschirau-Malu: by the Dutch, Papegaay Visch, or Parrot-fish; and is eaten by
+the common people.
+
+THE INDIAN FAUNULA.
+FAUNULA INDICA.
+CLASS I. QUADRUPEDS.
+DIV. I. HOOFED.
+SECT. I. WHOLE-HOOFED.
+GENUS. I. HORSE.
+1. GENEROUS. HIST. QUAD. vol. i. No 1. 2. Dshikketi. -- 2. 3. Ass, wild and
+tame. -- 3.
+SECT. II. CLOVEN-HOOFED.
+II. OX.
+1. Great Indian. 6. -- A. 2. Little. 6. -- B. 3. Buffalo. -- 8. 4. Dwarf. 8.
+-- A. 5. Anoa. 8. -- B. 6. Guavera. 8. -- C.
+III. Sheep.
+1. Common. -- II. 2. Wild. -- H. p. 38. 3. Camera. -- F. p. 35.
+IV. GOAT.
+1. Domestic. No 13. a. p. 53. 2. Caucasan? -- 14.
+V. ANTELOPE.
+1. Algazel. -- 21. 2. Indian. -- 22. 3. Indostan. -- 26. 4. White-footed. --
+27. 5. Common. -- 31. 6. Smooth-horned. b. -- p. 80. 7. Chinese? -- 36.
+VI. DEER.
+1. Spotted Axis. -- 47. 2. Middle-sized A. -- 48. 3. Great A. -- 48.* 4.
+Porcine. -- 49. 5. Rib-faced. -- 50.
+VII. MUSK.
+1. Indian. -- 56. 2. Guinea. -- 57.
+VIII. CAMEL.
+1. One-bunched. -- 58.
+IX. HOG.
+1. Common. -- 61. 2. Baby-roussa. -- 65.
+X. RHINOCEROS.
+1. One-horned. -- 67.
+XI. ELEPHANT.
+1. Great. -- 70.
+DIV. II. DIGITATED QUADRUPEDS.
+SECT. I. ANTHROPOMORPHOUS.
+XII. APE.
+TAIL-LESS.
+1. Orang-outan No 72. 2. Satyr. Scbreberr, 64. tab. ii. B. 3. Long-armed. --
+74. 4. Lesser L. armed. -- 74. a. 5. Shaggy. Lev. Mus. 6. Golok. Phil. Tr. lix.
+72. 7. Pygmy. -- 73. 8. Barbary? Erxleben, 14.
+** WITH SHORT TAILS. BABOONS.
+9. Little. -- 83. 10. Pig-tail. -- 85. 11. Lion-tailed. -- 83.
+*** WITH LONG TAILS. MONKIES.
+12. Purple-faced. -- 89. 13. Talapoin. -- 99. 14. Egret. -- 101. 15. Monea. --
+102. 16. Chinese. -- 104. 17. Cochin-china? -- 107. 18. Tawny. -- 108. 19.
+Philippine. -- 115.
+
+XIII. MAUCAUCO.
+1. Tail-less. No 128. 2. Loris. -- 129. 3. Tarsier. -- 133. 4. Flying. -- 135.
+SECT. II. RAPACIOUS. CANINE TEETH
+XIV. DOG.
+1. Faithful. -- 136. 2. Bengal. De Buffon, v. tab. xxxiv. 3. Schackal. -- 145.
+XV. CAT.
+1. Lion. -- 151. 2. Tiger. -- 152. 3. Panther. -- 153. 4. Leopard. -- *154. 5.
+Lesser Leopard. -- 155. 6. Hunting. -- 156. 7. Bengal. -- 164. 8. Lynx. -- 170.
+and vol. ii. p. 565. 9. Persian L. -- 173. 10. Serval. -- 169.
+XVI. BEAR.
+1. Brown. -- 174.
+XVII. BADGER.
+1. Indian. -- 180.
+XVIII. OPOSSUM.
+1. Molucca. -- 182. 2. Javan. -- 183. 3. Phalanger. -- 190.
+XIX. WEESEL.
+1. Ichneumon. No 211. 2. Civet. -- 223. 3. Zibet. -- P. 348. 4. Fossane. --
+225. 5. Zeylan. Gmelin. Lin. Syst. 89. 6. Malacca. Sonnerat Voy. ii. 144. 7.
+Fasciated. The same, ii. 193.
+SECT. III. WITHOUT CANINE TEETH, GENERALLY HERBIVOROUS.
+XX. CAVIA.
+1. Surinam. HIST. QUAD. vol. ii. -- 238.
+XXI. HARE.
+1. Common. -- 241. 2. Rabbet. -- 244. 3. Ogotona. -- 249.
+XXII. PORCUPINE.
+1. Crested. -- 253. 2. Long-tailed. -- 254.
+XXIII. SQUIRREL.
+1. White-legged. -- 266. g. 2. Ceylon. Ind. Zool. tab. 1. -- 267. 3. Javan. --
+269. 4. Bombay -- 270. 5. Ruddy. -- 271. 6. Fair. -- 276. 7. Paim. -- 279. 8.
+Plantane. -- 280. g. 9. Great. Gmelin. Lin. Syst. 149. -- 281. Dschinschi.
+Cmelin. Lin. Syst. 151. FLYING.
+10. Salient No 81. 11. Arrow. Gmelin. Lin. Syst. 154.
+
+XXIV. JERBOA.
+1. Middle. -- 292. b. 2. Torrid. -- 294.
+XXV. RAT.
+1. Brown. -- 298. 2. Moule. -- 301. 3. Oriental. -- 304.
+XXVI. SHREW.
+1. Persuming. -- 337. 2. Murine. -- 340.
+XXVII. HEDGEHOG.
+1. Tendrac -- 357
+SECT. IV. WITHOUT CUTTING TEETH.
+XXVIII. SLOTH.
+1. Ursi-form. 2. Two-toed. -- 360.
+SECT. V. WITHOUT TEETH.
+XXIX. MANIS.
+1. Short-tailed. -- 368.
+XXX. ANT-EATER.
+1. Obscure. Last paragraph. No 372. 2. Talgoi. -- p. 50.
+DIV. III. PINNATED QUADRUPEDS.
+XXXI. WALRUS.
+1. Indian. -- 374.
+XXXII. MANATI.
+1. Whale-tailed. -- 390.
+DIV. IV. WINGED QUADRUPEDS.
+XXXIII. BAT.
+1. Ternate. -- 393. 2. Cordated. -- 397. 3. Striped. -- 404. 4. Molucca. --
+405.
+CLASS II. BIRDS.
+DIV. I. LAND BIRDS.
+ORDER I. RAPACIOUS.
+THIS Catalogue is taken from MR. LATHAM'S SYNOPSIS OF BIRDS, in Seven Volumes,
+Quarto (including the Supplement); and from his IINDEX ORNITHOLOGGICUS, the
+most complete Work in its kind which I am acquainted with.
+
+GENUS. I. VULTURE.
+1. BENGAL. LATH. I. 19. SYN. pl. 1. 2. Pondicherri. Son. Voy. Ind. ii. p. 182.
+pl. 104. VII. 6. 3. Indian. Son. Voy. Ind. ii. 183. pl. 105. -- 6. 4. Gingi.
+Sen. Voy. Ind. ii. 184. -- 7 5. Cheriway. Jacquin. Vog. pl. 4. -- 5. 6.
+Secretary. Phil. Trans, lxi. p. 55. tab. 2. I. 20. pl. 2.
+II. FALCON.
+1. Cheela. VII. 33. 2. Kite. Br. Zool. I. 61. 3. Indian. -- 34.*d. 4.
+Pondicheiri. Pl. Enlum, 416. -- 41. 5. Javan. Index Orn. p. 27. 6. Maritime.
+Licht.Mag. iv. 2, 6. 10. 7. Red Indian. Will. p. 81. t. 9. I. 69. 8. Crested
+Indian. I. 80. 9. White-crested. -- 82. 10. Pied. lnd. Zool. I. 81.and VII.20.
+11. Behree. VII. 35. 12. Brown. Brown III. Zool. 6. t. 3. I. 96. 13. Criard.
+VII. 38. 14. Bengal. Edw. Birds, iii. pl. 108. I. 112.
+III. OWL.
+* EARED.
+1. Ceylon. Brown III. p. 8. t. 4. I. 120. VII. 41. 2. Coromandel. VII. 44. 3.
+Bakkamuna. Ind. Zool. I. 127.
+** WITHOUT EARS.
+4. White. Br. Zool. -- 138. 5. Javan. Licbt. Mag. iv. 2. 10. Index 64 Orn. p.
+64. -- 64
+
+ORDER II. Pies.
+IV. SHRIKE.
+1. Malabar. Son. Voy. Ind. ii. pl. III. VII. 56. pl. 108. 2. Forked-tail. Pl.
+Enl. 189. I. 158. 3. Luzonian. Bris. ii. pl. 18. f. 1. -- 172 4. Antiguan. Son.
+Voy. pl. 70. -- 171. 5. Crested-red. Edw. Birds, pl. 54. -- 170. 6. Jocose. Pl.
+Enl. 508. -- 175 7. Bengal. Edw. Birds, pl. 190. -- 175 8. White. Son. Voy. pl.
+72. -- 189. 9. White-billed. Pl. Enl. 9. f. 1. -- 181. 10. Dominican. Son. Voy.
+pl. 26. -- 181. 11. Panayan. Ibid. pl. 70. -- 182. 12. Boulboul. VII. 57. 13.
+Spotted. J. R. Forster.
+V. PARROT.
+1. Gingi. Pl. Enl. 239. I. 209. 2. Amboina red. Pl. Enl. 240. I. 210. 3.
+Blue-headed. Pl. Enl. 192. -- 211. 4. Indian. Edw. pl. 292. -- 237 5. Osbeck's.
+-- 237 6. Red-breasted. Edw. pl. 232. -- 212. 7. Black-crowded. Seba, i. pl.
+63. f. 4. -- 213. 8. Papuan. Sen. Voy. pl. 111. -- 215. 9. Bornean. Edw. pl.
+173. -- 216. 10. Molucca Lory. Pl. Enl. 519. -- 274. 11. Coccmeous Lory. Pl.
+Enl. 143. -- 217. 12. Black-capped Lory. Edw. pl. 170. -- 273 13. Beautiful
+Lory. -- 217. 14. Crimson Lory. Pl. Enl. 518. -- 273 15. Gueby Lory. Pl. Enl.
+684. 219. 16. Ceram Lory, and Varieties -- 269, 270-1. 17. Variegated Lory. --
+220. 18. Purple-capped Lory. Edw. 171. and Pl. Enl. 119. -- 271. 19. Lory
+Parakeet. Edw. 174. -- 221. 20. Bontian. -- 323 21. Crimson-vented. -- 229. 22.
+Varied-winged. Son. Voy. pl. 43. -- 234 23. Lace-winged. Pl. Enl. 287. -- 244.
+24. Alexandrine. Edw. pl. 292. -- 234. 25. Purple-ringed. Albin. ii. pl. 18. --
+236. 26. Mustachoe. Pl. Enl. 517. -- 238 27. Blossom-headed. Pl. EnI. 144. --
+239. 28. Rose-headed. Edw. pl. 233. -- 239. 29. Red-winged. Edw. pl. 236. --
+246. 30. White-collared. Genesis Birds, 59. -- 251. 31. Black Cockatoo, Edw. pl.
+316. -- 260. 32. Red-crested C. Edw. pl. 160. -- 257. 33. Red-vented C. Brown's
+III. pl. 5. -- 258. 34. Great Whire C. Pl. Enl. 263. -- 256. 35. Red and White
+C. -- 260. 36. Hawk-headed. Edw. pl. 165. -- 266. 37. Red Molucca Lory. Pl.
+Enl. 519. I. 274. 38. Grand Lory. Pl. Enl. 683. -- 275 39. Cochin China. VII.
+65. 40. Green and Red Chinese Edw. pl. 231. I. 278. 41. Great-billed. Pl. Enl.
+713. -- 278. 42. Amboina Gramineous. Pl. Enl. 862. -- 279 43. Manilla Green.
+Bris. iv. pl. 22. f. 2. -- 296. 44. Eastern. VII. 64. 45. Amber. -- 65. 46.
+Golden-winged. Edw. pl. 293. I. 309. 47. Blue-rumped. VII. 66. 48. Red and
+Green. Edw. pl. 6. I. 311. 49. Sapphire-crowned. Edw. pl. 293. -- 312. 50.
+Philippine. Pl. Enl. 520. -- 311. 51. Black-winged. Brown III pl. 8. -- 316.
+52. Collared. Son. Voy. pl. 39. -- 317 53. Luzonian. Son. Voy. pl. 40. -- 318
+VI. HORN-BILL.
+1. Rhinoceros. Edw. pl. 281. B. -- 342. VII. 69. 2. Helmet. Edw. pl. 281. C.
+-- 343. 3. Philippine. Pet. Gaz. 28.f. 6. and 31.f. 1. -- 345. 4. Pied. Son.
+Voy. Ind. ii. pl. 121. -- 349. VII. 69. 5. Indian. Pl. Enl. 283. -- 351. 6.
+Panayan. Pl. Enl. 780, 781. -- 353. 7. Manilla. Pl. Enl. 891. -- 354. 8. White.
+-- 357. 9. Wreathed. Damp. Voy. iii. pl. 3. -- 358. VII. 70. 10. Gingi. Son.
+Voy. Ind. ii. pl. 121. VII. 71.
+VII. CROW.
+1. Philippine. Pl. Enl. 603. I. 381. 2. Short-tailed. Pl. Enl. 258. -- 398. 3.
+Philippine Sh. tailed. Pl. Enl. 89. -- 398. A. 4. Bengal Sh. tailed. Edw. pl.
+324. -- 399. 5. Molucca Sh. tailed. Pl. Enl. pl. 257. -- 395. c. 6. Malacca Sh.
+tailed, Son. Voy. Ind. ii. pl. 110. VII. 81. 7. Malabar Sh. tailed. Id. p. 191.
+-- 82. A.
+VIII. ROLLER.
+1. Bengal. Pl. Enl. 285. I. 410. 2. Senegal. Edw. pl. 327. -- 408. 3.
+Oriental. Pl. Enl. 619. -- 411. 4. Indian. Edw. pl. 326. -- 412. 5. Fairy. VII.
+87. 6. Grey-tailed. -- 86.
+IX. ORIOLE.
+1. Golden. Br. Zool. II. 449. 2. Black-headed. Edw. pl. 77. -- 451 3. Yellow.
+Edw. pl. 186. -- 451. B. 4. Indian. Aldrov. Av. i. pl. in p. 862. -- 452. D.
+X. GRAKLE.
+1. Minor Grakle. Edw. pl. 17. -- 455. VII. 90. 2. Greater Minor. -- 457. 3.
+Bald. Pl. Enl. 200. -- 457. 4. Paradise. Pl. Enl. 219. -- 458. 5. Dial. Edw.
+pl. 181. -- 465.
+XI. PARADISE.
+1. Great. Edw. pl. 110. -- 471. 2. King. Edw. pl. 496. -- 475. 3. Magnificent.
+Pl. Enl. 631. -- 477. 4. Creittd. Will. Orn. 92. Index Orm. p. 195. 5. Gorget.
+II. 478. pl. 20. 6. White-winged VII. 92. 7. Superb. Pl. Enl. 632. II. 479. 8.
+Gold-breasted. Pl. Enl. 633. -- 481. 9. Golden. Edw. pl. 112. -- 483. 10.
+Blue-green. Pl. Enl. 634. -- 482. 11. White. Index Orn. p. 107. 12. 12.
+Setaceous. Gerin. Orn. t.65. f. 1.? 197.12.b.
+XII. CARUCUI.
+1. Fasciated. Ind. Zool. II. 492. 7. and b. 2. Spotted. Brown. III. pl. 13. --
+491 3. Blue-cheeked. VII.93 4. Indian. -- 94
+XIII. BARBET.
+1. Philippine.Pl. Enl. 331. II. 500. 2. Black-throated. Son. Voy. pl. 34. --
+511. 3. Great. Pl. Enl. 871.? VII. 95. 4. Green. Pl. Enl. 870. II. 504. 5.
+Red-crowned. Brown. III. pl. 14. -- 505 6. Indian VII. 97. 7. Zeylan. Brown.
+III. pl. 15. II. 506. VII. 95. 8. Gerini? Gar. Orn. ii. pl. 181. Index Orn. p.
+207.
+XIV. CUCKOO.
+1. Indian spotted. Edw. pl. 59. II. 516. 2. Chinese spotted. Pl. Enl. 764. --
+519 3. Black. Pl. Enl. 274. VII. 99. 4. Coromandel crested. Pl. Enl. 872. II.
+520. 5. Bengal. Brown III pl. 13. -- 525 6. Sacred. Pl. Enl. 294. -- 526. 7.
+Panayan. Son. Voy. pl. 79. -- 527. 8. Grey-headed. VII. 102. 9. Sonnerat's. --
+102. 10. Yellow-bellied. Pl. Enl. 814. II. 527. 11. Paradise. Brif. iv. pl. 14.
+A. f. 1. -- 529 12. Collared. Pl. Enl. 274. -- 529 13. Red-headed. Ind. Zool.
+-- 544
+XV. WRYNECK.
+1. Wryneck. Br. Zool. -- 548.
+XVI. WOOD-PECKER.
+1. Little spottd. Br. Zool. II. 566. b. g. 2. Cardinal. Son. Voy. pl. 35. --
+576. 3. Brown. PL Enl. 748. f. 2. -- 577 4. Goa. Pl. Enl. 696. -- 582. 5.
+Bengal. Edw. pl. 182. -- 580. 6. Ceylon. Naturforseb. xiii. pl. 1. -- 581. b.
+7. Philippine. Pl. Enl. 691. -- 581. 8. Manilla. Son. Voy. pl. 36. -- 583 9.
+Half-billed. -- 586. 10. Red-winged. Ind. Zool. -- 595 11. Malacca. VII. III.
+XVII. KING-FISHER.
+1. Cape. Pl. Enl. 590. II. 610. VII. 114. 2. Black and White. Edw. pl. 9. --
+612. 3. Great Bengal. Pl. Enl. 894. -- 616. B. 4. Ten-rou joulon. Pl. Enl. 757.
+-- 617. 5. White-collared. Bris. iv. pl. 37. f. 2. A. -- 620. 6. Green-headed.
+Pl. Enl. 783. -- 620. 7. Collared. Son. Voy. pl. 33. -- 623. D. 8.
+Black-capped. Son. Voy. pl. 31. -- 625. A. 9. Coromandel. Son. Voy. Ind. ii.
+pl. 118. Ind. Orn. p. 252. 10. Red-headed. Genesis Birds. pl. 5. -- 629. and A.
+11. Purple. Pl. Enl. 778. f. 2. -- 630. 12. Bengal. Br. Zool -- 631. 13.
+Crested. Pl. Enl. 756. -- 632. 632. b. 14. Eastern. Bris. iv. pl. 37. f. 1. A.
+-- 633 15. Ternate. Pl. Enl. 116. -- 634 * THREE-TOED.
+1. Tridactylous. Son. Voy. pl. 32. Index Orn. i. 260. 645.
+
+XVIII. NUT-HATCH.
+1. Long-bill. VII. 118.
+XIX. TODY.
+1. Variegated. II. 659.
+XX. BEE-EATZR.
+1. Indian. Edw.pl. 183. -- 670. 2. Philippine. Bris. iv. pl. 43. f. 2. -- 672.
+C. 3. Philippine. Pl. Enl. 57. -- 674 4. Yellow. Will. Orn. pl. II. -- 676. 5.
+Coromandel. Son. Voy. Ind. ii. pl. 119. VII. 120. 6. Yellow-throated. II. 678.
+7. Red-headed. Brif. iv. pl. 44. f. 3. A. -- 679 8. Molucca. -- 684 Common.
+European. -- 667
+XXI HOOPO.
+1. Crested. Br. Zool II. 687. VII. 122. 2. Crested Promerops. Seb. i. t. 30.
+f. 5. -- 691. 3. Red-billed Pr. VII. 124. pl. 110. 4. Blue. -- ibid.
+XXII. CREEPER.
+1. Familiar? Br. Zool. II. 701. 2. Manilla. -- 706. A. 3. Red-breasted. Pl.
+Enl. 246. -- 706. 8. 4. Brown and White. Edw. pl. 26. -- 707. A. 5. Luzonian.
+Son. Voy. pl. 30. D. -- 708. B. 6. Philippine. Pl. Enl. 576. 1. -- 711. 7.
+Collared. Edw. pl. 265. -- 709. 8. Ceylon. -- 713. A. 9. Gray. Pl. Enl. 576. f.
+2. -- 714. 10. Little. Pl. Enl. 576. f. 3. -- 714. A. 11. Lotenian. PL Enl.
+575. f. 2. 3. -- 715 12. Green-gold. Seb. Th. pl. 69. f. 5. -- 716. 13.
+Asiatic. Index Orn. i. 288. 14. Red-backed. Son. Voy. Ind. ii. pl. 117. f. 1.
+VII. 132. 15. Red-spotted. Edw. pl. 81. II. 736 16. Indigo. VII. 130. 17.
+Yellow-bellied. Son. Voy. Ind. ii. pl. 116. f. 1. -- 131 18. Tusted. -- 132 19.
+Red-billed. -- 133 20. Yellow-winged. -- 133 21. Long-billed. -- 133 22.
+Macassar. Seb. i. pl. 63. f. 1. II. 741. 23. Indian. Seb. ii. pl. 19. f. 2. --
+741 24. Amboina. Seb. ii. pl. 62. f. a. -- 741
+ORDER. III. PASSERINE. XXIII. STARE.
+1. Contra. Edw. pl. 187. III. 5
+XXIV. THRUSH.
+1. Pagoda. -- 30. VII. 140. 2. Malabar. -- 30. VII. 140. 3. Chinese. Bris. ii.
+pl. 23. f. 1. -- 36. 4. Philippine. -- 38. 5. Surat. -- 38. 6. Pensive. Pl.
+Enl. 636. 564. -- 53 7. Hermit. Pl. Enl. 339. -- 54 8. Pigeon. -- 64. 9.
+Dominican. Pl. Enl. 627. 2. -- 58. 10. Songster. Son. Voy. pl. 73. -- 59 11.
+Malabar. -- 60. 12. Ceylon. Edw. pl. 321. -- 62. 13. Orange-headed. VII. 145.
+14. Indian. Pl. Enl. 564. 1. III. 66. 15. Gray. -- 67. 16. Mindanao. Pl: Enl.
+627. 1. -- 69. 17. Long-tailed. III. 72. pl. 39 18. Amboina. Seb. i. pl. 62. f.
+4. -- 73 19. Yellow-crowned. Brown III. pl. 22. -- 74. VII. 143. 20.
+Ash-rumped. Pl Enl. 273. 2. -- 74 21. Gingi. VII. 144. 22. Dauma. -- 145 23.
+Black and Scarlet. -- 146 24. Rose-colored. Edw. pl. 20. -- 142 Rock. European.
+III. -- 57
+XXV. COLY.
+1. Panayan. Son. Voy. pl. 74. -- 103. 2. Indian. VII. 147.
+XXVI. GROSBEAK.
+1. Gold-backed. Brown III. pl. 25. III. 115. 2. Cardinal. Mus. Carls. fase ii.
+t. 41. -- 118.b. 3. Boeton. Seb. i. pl. 60. f. 4. -- 119. 4. Madagafcar. Pl.
+Enl. 134.2. -- 119. 5. Java. Edw. pl. 41. 42. -- 129 6. Philippine. Pl. Enl.
+135. 2. -- 129 7. Bengal. Edw. pl. 189. -- 133 8. Sumatran. Mus: Carls. fase.
+iii. t. 71 Index Orn. 384. 9. Yellow? -- 139 10. Yellow-rumped. -- 140. 11.
+Malacca. Edw. pl. 355. -- 140. 12. Molucca. Pl. Enl. 139. 2. -- 141. 13. Cowry.
+Edw. pl. 40. -- 142. 14. Brown? -- 147 15. Lineated? Brif. iii. pl. 17. 1. --
+149 16. Red-billed. Edw. pl. 271. 2. -- 151. 17. Cinereous. Edw. pl. 179. 2. --
+154. 18. Indian. VII. 155. 19. Malabar. III. 154. 20. Orange-bellied. Edw. pl.
+83. 1. III. 157. 21. Prasine. Mus. Carls.fase. iii. t. 73. Index Orn. i. 396.
+22. Dwarf. Jacq. Vog. p. 28. pl. 13. -- 158
+XXVII. BUNTING.
+1. Long-tailed. Will. Orn. t. 45. -- 181 2. Panayan. Pl. Enl. 647. -- 184 3.
+Familiar. -- 194 4. Red-rumped. Pl. Enl. 101. 2. -- 208 5. Blue-faced. Bris
+iii. Pl. 7.s. 4. -- 209 6. Green. -- 209 7. Astatic. VII. 160
+XXVIII. TANAGRE.
+1. Amboina. Seb. i. pl. 38. f. 6. III. 244.
+XXIX. FINCH.
+1. Lovely. VII.168. 2. White-breasted. Pl. Enl. 224. 2. III. 268. 3. Collared.
+Edw. pl. 272. -- 280 4. Blue-bellied. Edw. pl. 131. -- 310 5. Amandavad. Edw.
+pl. 355. 1. -- 311 6. Brown. Pl. Enl. 115. 2. -- 312 7. Maia, or Cuba. Pl. Enl.
+109. 2. fem. -- 315 8. Ceylon. -- 317 9. Lunar. Mill. III. pl. 30. -- 320 10.
+Green-rumped. -- 320
+XXX. FLY-CATCHER.
+1. Pied. Br. Zool. Edw. pl. 30. -- 324 2. Coromandel. -- 331 3. Flammeous.
+Ind. Zool. -- 338 4. Cinnamon. IV. 447. 42. 5. Tusted. III. 334 6. Red-vented.
+Brown III. pl. 31. III. 335 7. Variety. Yellow-vented. -- ibid. 8. Guava. Son.
+Voy. pl. 28. -- ibid. 9. Yellow-breasted. Brown III. pl. 82. -- 336 10. Green.
+-- 336 11. Black. Son. Voy. pl. 27. 2. -- 338 12. Philippine. -- 339 13. Azure.
+Pl. Enl. 666. 1. -- 339 14. Blue-head. Son. Voy. pl. 26. 1. -- 339 15.
+Yellow-throat. Son. Voy. pl. 26. 2. -- 340 16. Paradise. Edw. pl. 113. -- 345
+17. Javan. Mus Carls. fase. iii. t. 75. Index Orn. ii. 490. 18. Cambaian -- 490
+XXXI. LARK.
+1. Sky? Br. Zool. IV. 368. 2. Malabar. Son. Voy. Ind. ii, pi. 113. 1. -- 379
+3. Gingi. Son. Voy. Ind. ii.pl. 113. 2. -- 380
+XXXII. WAGTAIL.
+1. White? Br. Zool. -- 395 2. Collared. Son. Voy. pl. 29. -- 396 3. Pied. Raii
+Syn. pl. 1. f. 1. -- 397 4. Javan. Br. Zool. var. 398. -- 399. 5. Indian. --
+399 6. Yellow. Br. Zool. Timor. -- 401. 6. A. 7. Green. Brown III. pi. 23. --
+403.
+XXXIII. WARBLER.
+1. Luzonian. PI. Enl. 235. 1. 2. -- 451. 2. Coromandel. 452. 3. Philippine.
+PI. Enl. 185. 2. -- 453 4. Wheat-ear. Br. Zool. -- 465 5. Pink. Brown III. pl.
+33. -- 473 6. Olive. Brown III. pl. 14. IV. 473. 7. Green. Edw. pl. 79. -- 474.
+8. Cingalese. Brown III. pl. 32. -- 474. 9. Superb. -- 501. pl. 53. 10. Blue
+headed. Son. Voy. t. 27. I. Index Orn. ii. 545. 11. Gold-crested Wren. Br.
+Zool. III. 508. 12. Tailor. Ind. Zool. -- 515. 13. Black-necked. VII. 187. 14.
+Cambaian. Index Orn. ii. 554. 15. Guzurat. Ibid. 16. Asiatic. Ibid. Yellow
+Wren. Br. Zool. IV. 512.
+XXXIV. MANAKIN.
+1. Little. -- 526.
+XXXV. TITMOUSE.
+1. Malabar. Son. Voy. Ind. ii. pl. 114. I. -- 555. 2. Indian. Mus. Carls.
+fasc. ii. t. 50. Index Orn. ii. 572.
+XXXVI. SWALLOW.
+1. Panayan. Son. Voy. pl. 76. -- 565. 2. Red-headed. -- 571. 3. Indian. --
+571. pl. 56. 4. Esculent. Bris. ii. pl. 46. f. 2 A. -- 578. Chimney. Br. Zool.
+-- 560.
+XXXVII. GOAT-SUCKER.
+I. Asiatic. VII. 195. 2. Indian. -- 196.
+ORDER IV. COLUMBINE.
+* TAIL EVEN AT THE END. XXXVIII. PIGEON.
+1. Domestic. PL. Enl. 466. IV. 605. 2. Laced. -- 610. 3. White-wniged. Edw.
+pl. 76. -- 617. VII. 197. 4. Great-crowned. Edw. pl. 338. -- 620. 5.
+Lesser-crowned. Son. Voy. Ind. ii. pl. 100. -- 622. 623. pl. 58. 6.
+Grey-headed. Son. Voy. pl. 66. -- 623. 7. Yellow-faced. Brown III. pl. 20. --
+624. 8. Purple-shoulder. VII. 201. 9. Asiatic. -- 202. 10. Green-winged. Edw.
+pl. 14. IV. 625. 11. Jamboo. -- 627. 12. Red-crowned. Son. Voy. pl. 67. -- 628.
+13. Parrot. Pl. Enl. 138. Son. Voy. pl. 65. -- 629. 630. 14. Aromatic. Pl. Enl.
+163. -- 631. 15. Nicobar. Pl. Enl. 491. -- 642. 16. Common Turtle. Pl. Enl.
+394. -- 644. 17. Luzonian T. Son. Voy. pl. 22. -- 646. 18. Collared. Pl. Enl.
+244. -- 648. 19. Gray. Son. Voy. Ind. ii. pl. 102. -- 649. 20. Barred. Edw. pl.
+16. -- 650. VII. 200. 21. Surat. Index Orn. ii. 609. 22. Cambayan. -- 652. 23.
+Malabar. -- 652. 24. Green. Pl. Enl. 142. -- 653. 25. Black-capped. Ind. Zool.
+-- 654. 26. Javan. Pl. Enl. 177. -- 654. 27. Blue crowned. -- 655. -- 657. 28.
+Red-breasted. Son. Voy. pl. 21. 29. Sanguine. Son. Voy. pl. 20. -- 657. 30.
+Malacca. -- 661.
+** LONG AND CUNEIFORM TAILS.
+31. Amboina. Brif. i pl. 9. f. 3. IV. 665. 32. Bantam. Mus. Carls. fasc. iii.
+t. 67. Index Orn. ii. 615.
+
+ORDER V. GALLINACEOUS.
+XXXIX. PEACOCK.
+1. Crested. Pl. Enl. 433. 434. IV. 668. pl. 60.
+XL. TURKEY.
+1. Horned. Edw. pl. 16. -- 680.
+XLI. PHEASANT.
+1. Wild Cock. Son. Voy. Ind. ii. pl. 94. 95. -- 698. 2. Colored. VII. 210. 3.
+Impeyan. -- 208. pl. 114.
+XLII. PARTRIDGE.
+1. Ceylon. Ind. Zool. IV. 758. VII. 222. 2. Francolin. Edw. pl. 246. -- 759.
+3. Hackled. -- 766. pl. 66. 4. Red. Pl. Enl. 150. 231. -- 767. 5. Gingi. --
+773. 6. Pondicherri. -- 774. 7. Fasciated. -- 221. 8. Asiatic. Index Orn. ii.
+649. 9. Indian. -- 752. 20. 10. Javan. Brown III. pl. 17. -- 775. 11. Common
+Quail. Pl. Enl. 170. -- 779. 12. Chinese. Edw. pl. 247. -- 783. 13. Noisy.
+Will. Orn. pl. 29. -- 787. 14. Coromandel. -- 789. 15. Manilla. Son. Voy. pl.
+24. -- 790. 16. Cambaian. Index Orn. ii. 655.
+* TRIDACTYLOUS.
+1. Luzonian. Son. Voy. pl. 23. IV. 792.
+XLIII. BUSTARD.
+1. Indian. Edw. pl. 250. -- 804. 2. Passarage. VII. 228. 3. White-chinned.
+Mill. III. pl. 33. IV. 806.
+XLIV. CASUARY.
+1. Galeated. PI. Enl. 313. V. 10. pl. 72.
+DIV. II. Water Fowl.
+ORDER. VII. Cloven-Footed.
+XLV. SPOON-BILL.
+1. Luzonian. Son. Voy. pl. 51. Index Orn. ii. 668. b
+XLVI. JABIRU.
+1. Indian. VII. 23.
+XLVII. HERON.
+* CRANES.
+1. Sibirian Crane. Pallas It. ii. t. 1. v. 37. 2. Indian Crane. Edw. 45. --
+38. 39. 3. Common Crane. Pl. Enl. 769. -- 40. 4. Japan Crane. V. 42. 5.
+Gigantic. -- 45. VII. 232. pl. 115.
+** HERONS.
+6. Philippine Heron. Pl. Enl. 898. -- 72. 7. Coromandel. Pl. Enl. 910. -- 75.
+A. 8. Cinnamon. -- 77. 9. Malacca. Pl. Enl. 911. -- 78. 10. Violet. Pl. Enl.
+906. -- 97. 11. Louhaujung. VII. 238. 12. Yellow-necked. -- 239.
+*** BEC-OUVERTS
+13. Pondicherry. Pl. Enl. 932. V. 101. 14. Coromandel. Son. Voy. Ind. ii. pl.
+p. 219. -- 102.
+
+XLVIII. IBIS.
+1. White-headed. Ind. Zool. -- 116. 2. Manilla. Son. Voy. pl. 47. -- 117. 3.
+Black-headed. VII. 240.
+XLIX. CURLEW.
+1. Luzonian. Son. Voy. pl. 48. V. 122.
+L. SNIPE.
+1. Woodcock? Br. Zool. -- 129. 2. Common Snipe. Br. Zool. -- 134. 3. Cape.
+VII. 244. E. 4. Bengal. Albin. iii. pl. 90. V. 140. D. 5. Madras. Raii Syn. t.
+I. f. 2. -- 141. 6. White Indian. V. 141.
+LI. SAND-PIPER.
+1. Goa. Pl. Enl. 807. -- 165.
+LII. PLOVER.
+1. Golden? Br. Zool. -- 193. 2. Long-legged. Br. Zool. -- 195. VII. 252. 3.
+Philippine. Son. Voy. pl. 46. -- 205. C. 4. Wattled. Pl. Enl. 880. -- 216. 5.
+Indian. VII. 254.
+LIII. RUNNER. CUESORIUS. LATHAM Index, ii. 751.
+1. Coromandel Pl. Pl. Enl. 892. V. 217.
+LIVE. PRATINCOLE.
+1. Maldivian. -- 224 2. Coromandel. -- ibid. 3. Madras. -- ibid.
+LV. RAIL.
+1. Philippine. Pl. Enl. 774. -- 230. 2. Striated Ph. Brif. v. pl. 14. f. 2. --
+232. C. 3. Dusky. -- 232. B. 4. Banded. Brif. v. pl. 15. f. 1. -- 233. 5.
+Brown. Pl. Enl. 773. -- ibid. 6. Ceylon. Brown III. pl. 37. -- 235.
+LVI. JACANA.
+1. Luzonian. Son. Voy. pl. 45. -- 245. 2. Indian. VII. 257.
+LVII. GALLINULE.
+1. Madras. Raii Syn. t, I. f. 4. V. 253. 2. Purple. Edw. pl. 87. -- 254. 3.
+Green. -- 257. 4. Red-tailed. Ind. Zool. -- 259. 5. Crested. -- 267.
+ORDER VIII. PINNATED FEET.
+LVIII. GREBE.
+1. Little. Pl. Enl. 945. -- 290. A.
+ORDER IX. WEB-FOOTED.
+LIX. ALBATROS.
+1. Wandering. Edw. pl. 88. -- 304.
+LX. SKIMMER.
+1. Black. Pl. Enl. 357, VI. 347.
+LXI. TERN.
+1. Caspian. Index Orn. ii, 804. b. 2. Philippine. Son. Voy. pl. 85. VII. 267.
+3. Panayan. Son. Voy. pl. 84. VI. 363. 4. White. Portlock Voy. pl. p. 312. --
+363.VII. 266.
+LXII. PETREL.
+1. Stormy. Edw. pl. 90. -- 411.
+LXIII. DUCK.
+1. Chinese? Pl. Enl. 374. -- 447. 2. Black-backed. Ind. Zool. -- 449. 3.
+Barred-head. VII. 177. 4. Greyhead. Brown. III. pl. 41. 42. VI. 458. 5.
+Spotted-bill. Ind. Zool. -- 487. 6. Falcated. Pl. Enl. 930. -- 517. A. 7.
+Pink-headed. VII. 276. pl. 119. 8. Coromandel. Pl. Enl. 949. 950. VI. 556. 9.
+Manilla. Son. Voy. t. 54. -- 557.
+LXIV. PELECAN.
+1. White. Edw. pl. 92. -- 575. 2. Roseate. Son. Voy. pl. 54. -- 579. 3.
+Manilla. Son. Voy. pl. 53. -- 583. 4. Philippine. Brif. vi. pl. 46. -- 583.
+LXV. DARTER.
+I. Black-bellied. Ind. Zool. -- 624.
+CLASS III. AMPHIBIA.
+ORDO I. REPTILIA.
+GENUS. I TESTUDO.
+IMBRICATA. Seb. Mus. i. tab. 80. fig. 9. Squamata. Bont. Java. 82. Lutaria.
+Amen. Acad. i. p. 139. No 23. Serpentina. Mus. Ad. Fr. 2. p. 36. Indica.
+Schneid. Schild, p. 355. No 14.
+II. RANA.
+Gibbosa. Seb. Mus. i. tab. 71. fig. 4. 5. Ventricosa. Seb. Mus. i. tab. 74.
+fig. I. Venulosa. Seb. Mus. i. tab. 72. fig. 4. Marginata. Mus. Ad. Fr. i. p.
+47.
+III DRACO.
+Volans. Seb. Mus. ii. tab. 86. fig. 3.
+IV. LACERTA.
+Gangetica. Edw. Act. Aug. 49. p. 639. t. 19. Monitor. Seb. Mus. ii. tab. 86.
+fig. 2. 2. Bicarinata. Mauritanica. b. Seb. Mus. i. tab. 108. fig. 2. 7.
+Iguana. Seb. Mus. i. tab. 95. fig. I. 2. Calotes. Seb. Mus. i. tab. 86. fig. 6.
+Superciliosa. Seb. Mus, i. tab. 94, fig. 4. Scutata. Seb. Mus. i. tab. 109.
+fig. 3, 4, Amboinensis, and Var. b. Lacustris. y. Seb. Mus. ii. tab. 12. fig.
+7. Vittata. Houtt. Act. Ulissing. 9. t. 2. Gecho. Forsk. Fn. Arab. p. 13. No 4.
+Chameleon. Seb. Mus. i. tab. 82. fig. 2. 4. 5. Agilis. Seb. Mus. ii. tab. 79.
+fig. 5. Tequixin. Plica. Seb. Mus. i. tab. 96. fig. 1. Serpens. Bipes. Seb.
+Mus. i. tab. 53. fig. 8.
+ORDO II. SERPENTS.
+V. BOA.
+Hipnale. Seb. Mus. ii. tab. 34. fig. 2. Constrictor. Seb. Mus. i. tab. 36.
+fig. 5.
+VI. COLUBER.
+Clotho. Seb. Mus. ii. tab. 93. Lutrix. Plicatilis. Seb. Mus. ii. tab. 57. fig.
+5. Alidras. Buccatus. Mus. Ad. Fr. i. tab. 19. fig. 3. Javanus. Seb. Mus. i.
+tab. 10. fig. 2. Berus. b. d Seb. Mus. ii. tab. 9. fig. 8. Typhlus. Reginae.
+Aeculapii. Afa /. Ad. Fr. i. 13. fig. 3. Mus. Ad. Fr. i. tab. II. fig. 2.
+Rhombeatus. Mus. Ad. Fr. i. tab. 24. fig. 2. Miliaris. Mus. Ad. Fr. i. p. 27.
+Albus. Mus. Ad. Fr. i. p. 24. t. 14. fig. 2. Agilis. Mus. Ad. Fr. i. tab. 21.
+fig. 2. Lacteus. Mus. Ad. Fr. i. tab. 18. fig. 1. Pallidus. Ibid. tab. 7. fig.
+2. Caecus. Seb. Mus. ii. tab. 90. fig. 1. Naja. Seb. Mus. i. tab. 44. fig. 1.
+Padera. Mus. Ad. Fr. ii. p. 44, Canus. Mus. Ad. Fr. i. p. 31. t. 11. fig. 1.
+Zeylonicus. Seb. Mus. i. tab. 100. fig. 4. Laticaudatus. Mus. Ad. Fr. i. tab.
+16. fig. 1. Atrow b. Seb. Mus. i. tab. 43. fig. 4. 5. Saturninus. Mus. Ad. Fr.
+i. tab. 9. fig. 1. Candidus. Ibid. tab. 7. fig. 1. Scaber. Ibid. tab. 10. fig.
+1. Carinatus. Exoletus. Ibid. tab. 10. fig. 2. Triscalis. Pelias. Ocellatus.
+Seb. Mus ii. tab. I. fig. 3. 8. Hitambocia. Seb. Mus. i. tab. 33. fig. 6.
+Tigrinus. Seb. Mus. ii. tab. 15. fig. 2. Molurus. Ahaetulla. Catesb. Car. ii.
+tab. 47. Petalarius, Mus. Ad. Fr. i. tab. 9. fig. 2. Filiformis. Ibid. tab. 17.
+fig. 2. Minervae. Ibid. p. 36. Cinereus. Ibid. p. 37. Mucosus. Ibid. tab. 23.
+fig. I. Caerulescens. Ibid. tab. 20. fig. 2.
+VII. ANCUIS.
+Meleagris. Seb. Mus. ii. tab. 21. fig. 4. Scytale. Ibid. tab. 2. fig. 1. 4.
+Arer. Ibid. tab. 73. fig. 3.
+VIII. CAECILIA.
+Tentaculata. Ibid. tab. 25. fig. 2. Glutinosa. Mus. Ad. Fr. i. tab. 4. fig. I.
+CLASSIS IV. PISCES.
+ORDO I. BRANCHIOSTEGI.
+GENUS. I. OSTRACION.
+TRIQUETER. Seb. Mus. iii. tab. 24. fig. 6. 12. Trigonus. Artedi Genesis 56. syn.
+85. Bicaudalis. Seb. Mus. iii. tab. 24. fig. 3. Tricornis. Quadricornis. Edw.
+Glean, tab. 284. fig. 1. Cornurus. Will. Ichth. t.I. 13. fig. 1. Tuberculatus.
+Arted. Genesis 55. syn. 84. Cubicus. Seb. Mus. iii. tab. 24. fig. 4. 5.
+II. TETRODON.
+Testudineus. Amaen. Acad. i. tab. 14. fig. 3. Electricus. Act. Aug. lxxvi. p.
+382. tab. 13. Oblongus. Bloch. Ausl. Fisch. ii. t. 146. fig. I. Ibid. fig. 2.
+Rostratus. Hispidus. Aman. Acad. iv. p, 207. No 23.
+III. SYNGNATHUS.
+Tetragonus. Bloch. Ausl. Fisch. i. t. 121. fig. 1. Hyppocampus. Will. Ichth.
+tab. I. 25.
+IV. PEGASUS.
+Draconis. Grow. Zooph. tab. 12. fig. 2. 3. Volans. Mus. Ad. ii. p. 56. Natans.
+Bloch. Ausl. Fisch. i. t. 121. fig. 2. 3.
+V. CENTRISCUS.
+Scutatus. Gron. Mus. ii. tab. 7. fig. 3. Valitaris. Pall. Spic. Zool. viii.
+tab. 4. fig. 8.
+VI. BALISTES.
+Tomentosus. Gron. Mus. i. tab. 6. fig. 5. Verrucosus. Mus. Ad. Fr. i. tab. 27.
+fig. 4. Biaculeatus. Will. Ichth. App. tab. 10. fig. 2. Aculeatus. Seb. Mus.
+iii. tab. 24. fig. 15. Vetula. Catesh. Carol. ii. tab. 22. Capriscus. Seb. Mus.
+iii. tab. 24. fig. 16. Punctacus. Nieuhof. Ind. ii. p. 275. Kleinii. Klein.
+Miss. Pisc. iii. tab. 3. fig. 12.
+VII. CYCLOPTERUS.
+Lumpus. b. g. Brit. Zool. iii. p. 103. No I. Nudus. Mus Ad. Fr. i. tab. 27.
+fig. I.
+ORDO II. CHONDROPTERYGII.
+VIII. SQUALUS.
+Catulus. Brit. Zool. iii. p. 90. No 9. Tigrinus. Seb. Mus. iii. tab. 34. fig.
+I. Glaucus. Brit. Zool. iii. p. 84. No 5. Canicula. Brit. Zool. iii. p. 88. No
+8. Zygaena. Rondel. Pisc. i. p. 389. Acanthias. Brit. Zool. iii. p. 77. No 2.
+Indicus. Gron. Mus. i. No 133.
+IX. RAJA.
+Pastimca. Brit. Zool. iii. p. 71. No 6.
+ORDO III. APODES.
+X. MURAENA.
+Colubrina. Pall. n. nord. Beytr. ii. t. 2. fig. 3. Anguilla. Brit. Zool. iii.
+p. 142. No 12.
+XL GYMNOTUS.
+Notopterus. Pall. Spicil. Zool. vii. tab. 6. fig. 2.
+XII. TRICHIURUS.
+Indicus. Will. Ichth. App. tab. 3. fig. 3.
+XIII. OPHIDIUM.
+Aculeatum. Will. Ichth. App. tab. 10. fig. I.
+ORDO IV. JUGULARES.
+XIV. CALLIONYMUS.
+Ocellatus. Pall. Spic. Zool. viii. tab. 4. fig. 13. Sagitta. Ibid. fig. 4. 5.
+XV. GADUS.
+Lota. Brit. Zool. iii. p. 163. No 14.
+XVI. BLENNIUS.
+Cristatus. Gron. Mus. i. No 75. Cornutus. Fasciatus. Bicch. Ausl Fisch. ii. t.
+162. fig. I. Supercihosus. Gron. Mus. n. tab 5. fig. 5. Mustelans.
+XVII. KURTUS.
+Indicus. Bloch. Ausl. Fisch. ii. tab. 169.
+ORDO V. THORACICI.
+XVIII. ECHENEIS.
+Neucrates. Seb. Mus. iii. tab. 33. fig. 2.
+XIX. CORVPHAENA.
+Pentadactyla. Block Ausl. Fisch. ii. t. 173. Fasciolata. Pall. Spicil. Zool.
+viii. tab. 3. fig. 2. Velifera. Ibid. fig. I.
+XX. GOBIUS.
+Schlofferi. Ibid. tab. I. fig. I. 4. Bodaerti. Ibid. tab. 2. fig. 4. 5.
+Cyprinoides. Ibid. tab. I. fig. 5.
+XXI. COTTUS.
+Grunniens. Seb. Mus. iii. tab. 23. fig. 4. Scaber. Bloch. Aust. Fisch. ii tab.
+180. Monopterigius. Bloch. Ausl Fisch. ii. t. 178. fig. I. 2.
+XXII. SCORPAENA.
+Horrida. Gron. Zooph. tab. II. 12. 13. fig. I. Volitans. Will. Ichth. App.
+tab. 2. fig. 3. Antennata. Bloch Ausl. Fisch. iii. t. 185. Didactyla. Pall.
+Spic. Zool. vii. tab. 4. fig. I. 3.
+XXIII. ZEUS.
+Insidiator. Bloch. Ausl. Fisch. iii. tab. 192. fig. 2. 3. Gallus. Seb. Mus.
+iii. tab. 26. fig. 34. Ciliaris. Block Ausl. Fisch. tab. 191.
+XXIV. PLEURONEC TES.
+Tricodactylus. Art. Genesis 18. syn. 33.sp. 60. Zebra. Block Ausl. Fisch. iii.
+tab. 181.
+XXV. CHAETODON.
+Canescens. Seb. Mus. iii. tab. 25. fig. 7. Acuminatus. Mus. Ad. Fr. i. tab.
+33. fig. 3. Pinnatus. Ibid. fig. 6. Cornutus. Seb. Mus. iii. tab. 25. fig. 6.
+Argrnteus. Amaen. Acad. iv. p. 249. Rostratus. Orbis. Ibid fig. 17 Bloch. Ausl.
+Fisch. iii. tab. 102. fig. 2. Nigricans. Act. Angl. 1784. ii. tab. 12.
+Lineatus. Seb. Mus. tab. 25. fig. I. Triostegus. Broussonet Ichth. Dec. i. t.
+4. Macrulepidotus. Seb. Mus. iii. t. 25. f. 8. Argus. Will. Ichth. App. p. 2.
+t. a. f. 2. Srriatus. Seb. Mus, iii. tab. 25. fig. 9. Arcuanus. Ibid. tab. 26.
+fig. 23. Vagabunqus. Ibid. tab. 5. fig. 18. Ciliaris. Edw. Glean, tab. 283.
+fig. 4. Saxarilis. Bloch. Ausl. Fisch. iii. t. 206. fig. 1. Rotundus. Mus. Ad.
+Fr. i. p. 64. Lanceolatus. Edw. Av. tab. 210. Dux. Block. Ausl. Fisch. iii.
+tab. 195. Pavo. Ibid. tab. 198. fig. 1. Vespertilio. Ibid. tab. 199. fig. 2.
+Unimaculatus. Ibid. tab. 201. fig. I. Bicolor. Ibid. tab. 206. fig. I.
+Ocellatus. Ibid. tab. 211. fig. 2. Bengalensis Ibid. tab. 213. fig. 2.
+Octofasciatus. Ibid. tab. 215. fig. I. Annularis. Ibid. tab. 215. fig. 2.
+Fiber. Ibid. tab. 212. fig. 2. Teria. Ibid. tab. 199. fig. I. Forsk. Fn. Arab.
+p. 60. No 82.
+XXVI. SPARUS.
+Insidiator. Pall. Spic. Zool. tab. 5. fig. I. Palpebratus. Pall. n. nord.
+Beytr. ii. t. 4. fig. I. 2. Spinus. Mus. Ad. Fr. ii. p. 74 *.
+XXVII. SCARUS.
+Schlofferi. Pall. Spic. Zool. viii. p. 41.
+XXVIII. LABRUS.
+Lunaris. Gron. Mus. ii. tab. 6. fig. 2. Trichopterus. Pall. Spic. Zool. viii.
+p. 45. Zeylanicus. Ind. Zool, tab. 13. fig. 3. Ferrugineus. Paroticus. Mus. Ad.
+Fr. ii. p. 76. Linearis. Amaen. Acad. i. p. 315.
+XXIX. PERCA.
+Polymna. Seb. Mus. iii. tab. 26. f. 20. 24. Cottoides. Mus. Ad. Fr. ii. p. 84.
+Stigma. Radula. Aman. Acad. i. p. 313.
+XXX. TRIGLA.
+Minuta.
+ORDO VI. ABDOMINALES.
+XXXI. SILURUS.
+Ascita. Mus. Ad. Fr. i. p. 79. t. 30. fig. 2. Costarus. Gron. Mus. ii. tab. 5.
+fig. 1. 2.
+XXXII. TEUTHIS.
+Hepatus. Catesb. Carol. ii. tab. I. fig. I. Java. Valent. Ind. iii. p. 339.
+fig. 410.
+XXXIII. SALMO.
+Gasteropelecus. Anostomus. Pall. Spic. Zool. viii. t. 3. fig. 4. 5. Gron. Mus,
+ii. tab. 7. fig. 2.
+XXXIV. FlSTULARIA.
+Chinensis. Pet. Gaz. tab. 68. fig. I. Paradoxa. Pall. Spic. Zool. viii. tab.
+4. fig. 6.
+XXXV. ESOX.
+Brasiliensis. Brown Jam. tab. 45. fig. 2. Gymnocephalus.
+XXXVI. POLYNEMUS.
+Paradiseus. Edw. Av. tab. 208.
+XXXVII. CLUPEA.
+Thrissa. Brousson. Ichth. i. tab. 10. Mystus. Amaen. Acad. v. tab. fig. 12.
+XXXVIII. CYPRIMUS.
+Tinea. Brit, Zool. iii. p. 306. No 3. Will. Ichth. t. 2. 5.
+CLASSIS V. INSECTA.
+ORDO I. ELEUTERATA.
+LUCANUS.
+ALCES. Fab. Sp. Ins. No I. Petiv. Gazoph. tab. 47. f. 15. Gazella. Fab.
+Mantis. p. I. Oliv. Coleopt. (Lucan) pl. 4. f. 13. a. b. Lama. Pl. 3. f. 8.
+Carinatus. Lin. S. N. No 5.
+SCARABAEUS.
+Alcides. Feb. Sp. Ins. No 2. Oliv. Col. (Scar.) pl. I. f. 2. Gideon. Lin. 3.
+pl. 11. f. 102. Centaurus. 4. pl. 11. f. 104. Oromedon. 5. pl. 18. 165.
+Aeigeon. 6. pl. 26. f. 119. Dichotomus. Lin. 9. pl. 17. f. 156. Claviger. 10.
+pl. 5. f. 40. a. b. Pan. 12. pl. 5. f. 35. pl. 23. f. 30. b. Simson. 19. pl.
+15. f. 142. Geryon. 25. pl. 24. f. 208. Quadrispinosus. 36. pl. 19. f 179.
+Quadridens. 37. pl. 12. f. 108. a. b. Fnema. Fab. Mant. Ins. No 12. Rhinoceros.
+L. Fab. Sp. Ins. No 40. pl. 18. f. 166. Coronatus. No 47. pl. 12. f. 110.
+Hircus. Fab. Sp. Ins. No 52. Piceus. 55. Oliv. Col. (Scar.) pl. 24. f. 211.
+Aygulus. 57. pl. 13. f. 120. and pl. 4. f. 28. a. b. Analis. Fab. Mant. Ins.
+64. Unifasciatus. Gmel. Lin. No 182. Schall. Hall. Naturs. I. p. 240. Scaber.
+L. Fab. Spec. Ins. 72. Oliv. Ccl. pl. 23. f. I. C. Pygmaeeus. Gmel. Lin. 186.
+Sch. II Not. f. 1. p. 239. Longimanus. L. Fab. Sp. Inf. 73. Oliv. Col. pl. 4.
+f. 27. Verer. Mant. App. p. 377. Barbarus. Spec. Ins. No 83. Marginellus. 88.
+pl. 13. f. 116. Sabaeus. 99. a. b. pl. 9. f. 85. Pithecius. 102. pl. 9. f. 73.
+Seniculus, 103. pl. 7. f. 56. a. b. Ammon. 105. pl. 12. f. III. Rhadamistus.
+109. pl. 14. f. 136. Lar. Mantiss. Ins. 124. a. b. Bifasciatus. Spec. Ins. III.
+pl. 13. f. 119. Capucinus. 113. pl. 2. f. 12. pl. 25. f. 12. b. Boas. Mant.
+Ins. 129. Bonasus. Spec. Ins. 114. pl. 6. f. 43. a-c. Bucephalus. 117. pl. 4.
+f. 26. pl. 10. f. 92. b. Lancifer. L. 119. pl. 4. f. 32. Spinisey. 131. pl. 12.
+f. 112. Fricator. Mant. Ins. 140. Miliaris. Sp. Ins. 141. pl. 18. f. 164.
+Koenigii. 145. pl. 9. f. 77. Pallipes. 153. Aenus. Sp. Ins. 156. Oliv. Coleop.
+(Scar.) pl. 14. f. 128. a. b. Catta. Fab. Mand. No 115. pl. 23. f. 201. Auglas.
+pl. 24. f. 212. M^lampus. pl. 17. f. 159. Tullus. pl. 19. f. 88. b. and pl. 11.
+f. 98. Hesperus. p. 14. f. 129. S^^^atus. pl. 21. f. 189. and 1 f. 10. f. 93.
+Erraticus. Lin. S. Not. No 29. Faun. Suec. No 383. TROX. Horridus. Fab. Sp.
+Ins. No 3. Oliv. Col. (Trox.) pl. 1. f. 2.
+MELOLONTHHA.
+Serrata. 2. Oliv. Col. (Melol.) pl. 1. f. 5. Lanigera. 10. pl. 4. f. 39. a. b.
+Glabrat 12. pl. 9. f. 80. Dorsalls. 17. Rusicoills. 24. pl. 9. f. 111.
+Erythrocephala. 23. pl. 7. f. 80. Rauca. 37. pl. 6. f. 62. Ferruginea. 38. pl.
+7. f. 82. Probolcidea. 49. pl. 8. f. 96. Podagrica. 52. pl. 5. f. 51.
+Mutabilis. 60. pl. 3. f. 24. Vittata. 74. pl. 8. f. 94. Candida. No 8. pl. 8.
+f. 98. Femoralis. 41. pl. 9. f. 110. Pubeseens. 57. pl. 6. f. 71. 7. p. 43. f.
+5. Unicolor. Gmel. Lin. 313. Fuesl. Arc. Ins. Ciliatus. 314. f. 6. Sepicola.
+Lin. S. Not. 55. Mus. Lud. Ulr. 24. Syriacus. Lin. S. Not. No 56. Mus. Lud.
+Ulr. 25. Leei. Gmel. Lin. 427. N. At. Stockb. 8. 178 f. 3. No 3. 4.
+TRICHIUS.
+Indus. Fab. Sp. Ins. No 2. Oliv. Col. (Ceton.) pl. 6. f. 40. Viridulus. 6. pl.
+6. f. 86.
+CETONIA
+Chinensis. 2. pl. 2. f. 5. a b. Nigrita. 3. pl. 10. f. 92. Splendida. 31. pl.
+4. f. 21. Elegans. 32. pl. 4. f. 25. Aurichalcea. 43. pl. 9. f. 78. Orichalca.
+Lin. S. N. iii. App. p. 224. Maculata. Fab. Sp. Ins. No 46. pl. 7. f. 66.
+Versicolor. 52. pl. 4. f. 23. Veriagata. 55. pl. 5. f. 31. b. and 30.
+Quadripunctata. Fab. Mant. No 12. pl. 10. f. 93. Capucina. 16. Ephippium. 31.
+Drur. Ins. 3. pl. 44 f. 3. Bisida. Oliv. Col. (Cet.)No 43. pl. 2. f. 9.
+Crucisera. 44. pl. 5. f. 29. Impressa. 45. pl. 8 f. 71. Caerulea. 55. pl. 5. f.
+31. a. Caerulea. Gmel. Lin. 382. Fuesl. Arch. In pl. 4. tab. 19. f. 30.
+Bimucronata. 384. P^ll. Ic. Ins. Russ. 1. tab. A. f. 13.
+HISTER.
+Maximus. Lin. S. Not. No OIiv. CoI. ( pl. t.) pl. 1. f. 2. Major. L. Fab.
+Spec. Ins. No 2. pl. 1. f. 4. a. b.
+APATE.
+Capucinus. 4. Sch. El. t. 28.
+DERMESTES.
+Lardarius. L. Fab. Spec. Ins. 1. Schaef. Ic. pl. 42. f. 3. Pellio. 5. pl. 42.
+f. 4. Ruficollis. 15. Thumb. N. Sp. Ins. 1. p. 8. f. 7. Marginatus. Gmel. Lin.
+44. pl. 7. f. 6. Piceus. 45. p. 8. Viridis. 48. p. 9.
+BRUCHUS
+Cacao. No 6. Theobromae. L. 7. Analis. 9. Abdominalis 13.
+TRITOMA.
+Vittata. Fab. Mant. No 4.
+HISPA.
+Bihamata. Lin. S. Not. No 3.
+SILPHA.
+Indica. L. Fab. Sp. Ins. No 3. Mus. Lud. Ulr. 38.
+OPATRUM.
+Cinereum. Gmel. Lin. 11. Fuesl. Arch. Ins. 4. tab. 21. A. a.
+COCCINELLA.
+Dimidiata. Fab. Sp. Ins. No 5. Cingulata. Fab. Mant. No 24. Sexmaculata. Spec.
+Ins. No 20. Septempunctata, L. 21. Schaf. Ic. tab. 9. f. 7. Centumpunctata.
+Gmel. Lin. 118. Fuesl. Arch. Ins. 4. tab. 22. f. 13. Transversalis. Fab. Spec.
+Ins. 24. Sparsa. Gmel. Lin. 120. 7. tab. 42. f. 11. 28-punctata. 48. Minuta.
+54. Thumb. N. Sp. Ins. 1. p. 11.
+CASSIDA.
+8-punctata. Fab. Mant. No 18. Marginata. L. Sp. Ins. No 25. Natursorsch. No 9.
+t. 2. Dorsata. Mantiss. 33. Bicornis. L. Sp. Ins. 29. Amaen. Ac. 6. p. 393. 9.
+Spinisex. L. 31. p. 392. 7. Trisasciata. Mant. 46. Annulata. Spec. Ins. 39.
+Naturf. 9. t. 2. f. 6. Bipunctata. L. 49. Alatrata. Lin. S. Not. No 18.
+Angustata. Gmel. Lin. No 31.
+ALURXUS.
+Femoratus. Fab. Sp. Ins. No 2. Drur. Ins. 2. tab. 34. f. 5.
+CHRYSMELA.
+14-punctata. L. 13. Fervi^e. 22. Uudulata. L. 41. Amoen. Ac. 6. p. 393. 14.
+Nitidi. Mant. No 64. Cruenta. Spec. Ins. 82. Sternicornis. Gmel. Lin. 147.
+Schal. Hall. Not. 1. t. 1. f. 1. Gigas. 153. Fuest. Arch. Ins. 4. t. 23. f. 2.
+Indica. 155. f. 5. Malaccensis. 249. Horn. Shr. Berl. Not. 8. t. 1. f. 9.
+Fascicornis. (Altica.) 66. f. 1.
+CRYPTOCEPHALUS.
+Koenigii. Fab. Sp. Ins. 45. Martinius. Gmel. Lin. No 74. Schal. Hall. Not. 1.
+p. 278. Peregrinus. 77. Fuesl. Arch. Ins. 4. t. 23. f. 25. Multicolor. 246.
+Horn. shr. Berl. Not. 8. t. 1. f. 6. Sumatranus. 247. f. 4. Coffae. 248. f. 7.
+Orientalis. 249. f. 3. Bataviensis. 250. f. 12. Javanus. 251. f. 2. 5. 8. 11.
+CISTELA.
+Analis. Fab. Sp. Ins. 8.
+CRIOCERIS.
+Cincta. 5. Palliata. 6. Act. Hall. 1. p. 279. Picta. Mantiss. 12. Testacea.
+20. 4-pustulata. 23. Impressa. 24. Abdominalis. Gmel. Lin. 130. Ochracea. 180.
+Fuesl. Arch. Ins. 7. t. 44. f. 9. p. q.
+EROTYLUS.
+Giganteus. L. Fab. Sp. Ins. No 1. De Geer, Ins. 5. tab. 16. f. 8. Longimanus.
+Mant. No 11.
+LAGRIA.
+Abdominalis. Fab. Mant. No 14. Inda. Lin. S. Not. No 121. Mus. Lud. UIr. 41.
+CURCULIO.
+Palmarum. L. Sp, Ins. No 1. Oliv. Col. (Curc.) pl. 2. f. 16. Indus. L. 5. Be
+Geer, Ins. 5. pl. 15. f. 22. Paganus. 6. Hemipterus. L. 8. pl. 15. f. 25.
+Melanocardius. L. 10. Sulz. Ins. 4. tab. 4. f. 11. Barbirostris. 65. Seb. Mus.
+4. tab. 95. f. 5. Frigidus. Fab. Mant. App. p. 381. Mucoreus. L. Fab. Sp. Ins.
+No 74. Muf. Lud. Ulr. 53. Pusio. L. 75. 46. Stigma. L. 79. 48. Hebes. 80.
+Annulatus. L. 81. 51. Reticulatus. 85. Stultus. Mant. No 117. Anchoraco. L
+Spec. Ins. 118. De Geer, Ins. 5. tab. 15. f. 4. Argyreus. L. Spec. Ins. 128.
+Mus. Lad. Ulr. 54. Curvipes. Mant. 183. Lacerta. Spec. Ins. 161. Frigidus.
+Mant. App. p. 381. Emeritus. L. Spec. Ins. 190. 56. Cinnamomi. Gmel. Lin. 275.
+Fuesl. Arch. Ins. 5. t. 24. f. 20. h. i. Globosus. Fab. Sp. Ins. No 193. Drur.
+Ins. 1. pl. 32. f. 4. Apterus. L. 206. De Geer. Ins. 5. tab. 16. f. 1.
+Viridanus. 219.
+ATTELABUS.
+Indicus. Mant. No 5. Thunb. N. Spec. Ins. 3. pl. 68. f. 81. Cyancus. 15.
+CLERUS.
+Apiarius. L. Fab. Sp. Ins. No 9. Schrf. Ic. pl. 48. f. 11. Cyaneus. Mant. No
+15.
+PRINUS.
+Trochlearis. Lin. S. Not. p. 622. Armillatus. L. Fab. Sp. Ins. No 21. Oliv.
+Col. (Prion.) pl. 5. f. 17. Rostratus. Mant. No 3. Spinosus. 26.
+CERAMBYX.
+Gigas. Fab. Mant. No 20. Fasciatus. Spec. Ins. No 23. Barbicornis. L. 24. Mus.
+L. Ulr. 68. Rugicollis. Mantiss. 40. Holosericeus 45. Longicollis 46. Sentis.
+Lin. S. Rat. p. 626. 23. Ferrugineus. 25. Platypus. Gmel. Lin. No 132. De Geer,
+Ins. 7. l. 49. f. 3.
+LAMIA.
+Vaginator. Fab. Mant. No 8. Grisator. 12. Nigricornis. Spec. Ins. 10.
+Ariolaror. 14. Reticulator. 16. Rotator. 32. Lusia. Fab. Mant. No 35. Molitor.
+Spec. Ins. 42. Rubus. L. 44. De Geer, Ins. 5. t. 13. f. 16. Scabrator. 46.
+Sentis. Lin. S. Not. No 23. Ferruginous. 25. Mus. Lud. Ulr. 70. Depressus. 26.
+Schr. Ins. 8. f. 10.
+STINOCORUS.
+Cyaneus. Fab. Spec. Ins. No 2. Forced. Cent. Ins. 40. (palliatus.) Rusticus.
+19.
+SAPERDA.
+Vittata. 11.
+CALLIDUM.
+Barbatum. 12. Compressum. Mant. 21. Glaucum. Spec. Ins. 41. Annulare. Mant.
+59. Venustum. Gmel. Lin. 298. Fuesl. Arch. Ins. 5. t. 26. f. 12. Indicum. 299.
+f. 16.
+LEPTURA.
+Linearis. Lin. S. Not. No 25. Mus. Lud. Ulr. 77.
+LAMPYRIS.
+Cincta. Fab. Sp. Ins. 6. Depressa 18. Compressa. Gmel. Lin. No Thunb. N. Sp.
+Ins. 4. p. 80.
+PYROCHROA.
+Nigripes. Mantiss. 5.
+LYMEXYLON.
+Testaceum. Fab. Spec. Ins. No 1.
+CUCUJUS.
+Rusus. Gmel. Lin. No 10. Swed. Act. Stock. 8. No 3. 21.
+CANTHARIS.
+Melanocephala. Fab. Spec. Ins. 13. Tropica. Lin. S. Not. No 19. Gron. Zooph.
+515. t. 14. f. 7.
+ELATER.
+Flabellicornis. L. Fab. Sp. Ins. No 1. Dr. Ins. 3. pl. 47. f. 1.? Speciosus.
+L. 2. Luridus. 3. Fuscipes. 9. Melanocephalus. 38. Notatus. 45. Pallipes. Fab.
+Ins. Mant. 46.
+BUPRESTIS.
+Gigantea. L. 3. Petiv. Gaz. t. 147. f. 16. 17. Vittata. 4. Ignita, L. 12. t.
+20. f. 8. Aenea. 15. Sternicornis. L. 17. Grew, Mus. t. 13. Chrysis. L. 18. De
+Geer, Ins. 4. t. 17. f. 25. Fulminans. Mantiss. 29. Impressa. Spec. Ins. 27.
+Scabra. 30. Plebeia. 41. Impressa. Mant. 61. Bimaculata. Spec. Ins. 45. Sulz.
+Ins. 57. t. 6. f. 15. 4-maculata. 46. Tristis. L. Fab. Sp. Ins. No 47. Mus.
+Lud. Ulr. 93. Nobilis. L. 49. Stricta. Lin. S. Not. No 4. 87.
+CICINDELA.
+Longicollis. Fab. Mamiss. No 1. Grossa. Spec. Ins. No 1. Cyanea. Mant. 2.
+Bicolor. Spec. Ins. No 2. Sexpunctata. 14. 4-lineata. 15. Biramosa. Mantiss.
+20. Thunb. N. Sp Ins. 1. pl. 26. f. 40. Catena. Spec. Ins. 18.
+HYDROPHILUS.
+Olivaceus. 2.
+DYTICUS.
+Limbatus. Sp. Ins. 5. Rusicollis. Mant. No 6. Fasciatus. Fab. Sp. Ins. 7.
+Vittatus. Spec. Ins. 10. Griseus. 12. Aciculatus. Gmel. Lin. 64. Fuest. Arch.
+Ins. 5. p. 123. No 4. Zeylanicus. 83. Gron. Mus. 2. p. 164. No 552.
+GYRINUS.
+Spinosus. 4.
+CARABUS.
+6-guttatus. 6. Reflexus. 20. Angulatus. Fab. Spec. Ins. 21. Levigatus. 28.
+Attelaboides. 30. Trilineatus. 31. Bimaculatus. L. Fab. Spec. Ins. 45. Sulz. H.
+Ins. t. 7. 4. 5. Cinctus. 62. Flexuosus. 66. Indicus. Gmel. Lin. 153. F Fuesl.
+Arch. Ins. 6. t. 29. f. 11. Splendid us. 154. p. 138. No 41. Marginellus. 155.
+p. 138. No 42.
+PIMELIA.
+Striata. 1. Gibba. Mantiss. 3. Fasciata. Spec. 18.
+SCARITES.
+Bucephalus. Gmel. Lin. No 20. t. 29. f. 16. 1.
+BLAPS.
+Striata. Fab. Sp. Ins. No 5. Crenata. 6.
+TENEBRIO.
+Laminatus. Mantiss. 1. Punctulatus. 2. Abbreviatus. Spec. Ins. 6.
+HELPOS.
+Maura. 5. Dentipes. 12.
+MYLABRIS.
+Fasciata. 1. Algirica. L. 3. Indica. Gmel. Lin. 16. 6. t. 30. f. 6. Undulata.
+18. 8. t. 48. f. 3. Bifasciata. 21. t. 48. f. 2.
+LYTTA
+Syriaca. L. Fab. Sp. Ins. 3. Fuest. Arch. Ins. 6. t. 30. f. 1. Ruficollis.
+Gmel. Lin. 13. 8. t. 48. f. 4.
+STAPHYLINUS.
+Aureus. Mantiss. 1.
+ORDO II. ULONATA.
+BLATTA.
+Gigantea. L. Fab. Sp. Ins. No 1. Drur. Ins. 2. t. 36. f. 2. Indica. 8.
+Petiveriana. 13. Peliv. Gaz. t. 71 f. 1. Orientalis. L. 14. Schaef. Ins. t. 88.
+f. 2. 3. Ruficollis. Mantiss. 22. Aterrima. Gmel. Lin. 32. Fuesl. Arch. Ins. 8.
+t. 49. f. 9.
+MANTIS.
+Gigas. L. Fab. Spec. Ins. 1. Petiv. Gaz. t. 60. f. 2. Necydaloides. L. 2.
+Roes. 2. Gryl. t. 19. Atrophica. 3. Pall. Spic. sasc. 9. t. 5. f. 1. Bispinosa.
+4. Linearis. Mont. 9. Gongyloides. L. Sp. Ins. 8. Drur. Ins. 1. t. 36. f. 2.
+Pauperata. 9. Strumaria. L. 11. Roes. Ins. 2. Gryll. t. 2. Tricolor. L. 12.
+Mus. Lud. Ulr. 117. Cancellata. 13. Siccisolia. L. 14. Roes. Ins. 2. Gryll. t.
+17. Pectinicornis. L. 15. Drur. Ins. 1. t. 50. f. 1. Urbana. 26. Pulchra.
+Mantiss. 34.
+ACHETA.
+Gryllotalpa. Spec. Ins. 1. Roes. Ins. 2. Gryll. t. 14. 15. Monstrosa. Fab. Sp.
+Ins. No 2. Drur. lns. 2. t. 42. f. 1. Orientalis. 7.
+LOCUSTA.
+Citrisolia. L. 1. Roes. Ins. 2. Gryll. t. 16. f. 1. Elongata. L. 10. t. 18. f.
+7. Femorata. Fab. Mant. 12. Ocellata. L. Sp. Ins. 12. Seb. Mus. 4. t. 73. f. 7.
+8. Triops. L. 16. Coronata. L. Fab. Sp. Ins. 16. 17. De Geer. Ins. 3. t. 38. f.
+5. Melanoptera. L. 18. Coriacea. L. 19. Mus. Ad. Fr. 136. Spinulosa. L. 28.
+Edw. Av. 2. t. 285. f. 3. 4. 5. Indica. Gmel. Lin. No 116. Fuesl. Arch. Ins. 8.
+t. 53. f. 2. Unicolor. Lin. S. Not. No 3. Mus. Lud. Ulr. 119. Carinata. 6. 122.
+Lamellosa. 21. Roes. Gryll. t. 18. f. 7? Rugosa. 25. Mus. Lud. Ulr. 132.
+Aquilina. 27. 133. Fastigiata. 29. 135.
+GRYLLUS.
+Succinctus. I Fab. Sp. 2. Amen. Ac. 6. p. 398. 36. Rericulatus. 7. Serripes.
+Mantiss. 8. Turcicus. 10. Punctatus. Sp. Ins. 14. Drur. Ins. 2. t. 41. f. 4.
+Haematopus. L. 16. De Geer. Ins. 5 t. 40. f. 10. Perspicillacus. L. 50. Amaen.
+Ac. 6. p. 398. 34.
+ORDO III. SYNISTATA.
+MONOCULUS.
+Polyphemus. L. Fab. Sp. Ins. No 1. Rumph. Mus. 21. t. 12.
+ONISCUS.
+Linearis. L. Fab. Sp. Ins. No 8. Pall. Spic. fasc. 9. t. 4. f. 11.
+SEMBLIS.
+Fuscata. 4.
+TERMS.
+Fatale. L 1. De Geer, Ins. 7. t. 37. f. 1.2.
+MYRMELEON.
+Pardalis. 2. Punctatum. Mant. 7.
+ICHNEUMON.
+Pedator. Spec. Ins. 52. Polycerator. 63. Punctatus. 104.
+SPHEX.
+Fervens. L. 12. Mus. Lud. Ulr. 406. Erythrocephala. 14. Argentata. Mantiss. 6.
+Maderaspatana. Spec. Ins. 16. Compressa, 19. Ciliata. Mantiss. 24. Vespiformis.
+Fab. Sp. Ins. No 23. Analis. 27. Affimilis. Mantiss. 33. Tropica. L. Spec. Ins.
+37. 408. Maura. Mantiss. 38. Auraca. 45. Nigrita. Spec. Ins. 45. Villosa. 47.
+Flava. 48. Flavicornis. 50. Indostana. Lin. S. Not. No 7. 407. Indica. 26. 408.
+TIPHIA.
+Collaris. Fab. Sp. Ins. No 8. Dorsata. Mantiss. 11. Ruficornis. 12.
+SCOLIA.
+4-pustulata. Sp. Ins. 13.
+CHRYSIS.
+Splendida. I. Oculata. 4.
+BEMBEX.
+Repanda. Mantiss. 6. Interrupta. 8.
+VESPA.
+Cincta. Fab. Sp. Ins. No 1. Sulz. Ins. t. 27. f. 5. Cornuta. L. Sp. Ins. 7.
+Drur. Ins. 2. t. 48. f. 3. Calida. L, 23. 4-punclata Mantiss. 55. Hebraea. 58.
+Flavescens. Sp. Ins. 50. Petiolata. 56. Esuriens. Mantiss. 75.
+CRABRO.
+Cornutus. Fab. Mant. No 3. Repandus. 5. Interruptus. 10.
+ANDRENA.
+Cincta. Sp. Ins. 8. Zonata. L. 11. Mus. Lud. Ulr. 415.
+APIS.
+Plumipes. 35. Bicolor. Sp. Ins. 55. Villosa. 56. Florea. Mantiss. 87.
+Smaragdula. 91. Cordata? Lin. S. Not. 15. Mus. Lud. Ulr. 414.
+NOMADA.
+Histrio. Fab. Sp. Ins. 1.
+FORMICA.
+Smaragdina. No 2. Compressa. Montiss. 2. Cinerascens. 12. Elongata. 13.
+Elevata. Sp. Ins. 16. Bihamata, 29. Dr. Ins. 2. t. 38. f. 7. 8. Maxillosa. 37.
+MUTILLA.
+Indica. Lin.S. Not. 3. Mus. Lud. Ulr. 419.
+ORDO IV. AGONATA.
+CANCER.
+Raninus. L. Fab. Sp. Ins. 1. Rumph. Mus. t. 7. f. T. V. Ceratopthalmus. Mant.
+6. Herbst. Cancr. 174. t. 1. f. 8. 9. Globus. Sp. Ins. 6. Craniolaris. L. 7.
+Rumpb. Mus. t. 10. f. A. B. Porcellanus. Mantiss. 11. Herbst. Cancr. 92. 12. t.
+2. f. 18. Corallinus. 23. Rumpb. Mus. t. 8. f. 5. Floridus. L. Sp. Ins. 16.
+Herbst. Cancr. t. 3. f. 39. Vocans. L. 17. Petiv. Gaz. t. 78. f. 5. Maculatus.
+L. 21. Rumph. Mus. t. 10. f. 1. Maenas. L. 25. t. 6. f. 0. Dormia. L. 27. t.
+11. f. 1. 6-dentatus. Fab. Mantiss. No 43. Rumph. Amb. t. 1. f. 5. Feriatus L.
+Sp. Ins. 2 28. Mus. t. 6. f. P. Pagurus. L. 29. t. 11. f. 4. Aeneus. L. 32.
+Seb. Mus. 3. t. 19. f. 17. Eornicatus. Sp. Ins. App. p. 502. Ochtades. Mantiss.
+55. Herbsi. Canc. t. 8. f. 54. Ovis. 66. f. 74. Cylindrus. Sp. Ins. 35.
+Chabrus. L. 36. Mus. Lud. Ulr. 438. Muricatus. Mantiss. 67. Herbst. Cancr. f.
+75. Erinaceus. 71. Superciliosus. L. 72. Seb. Mus. 3. t. 18. f. 11. Punctatus.
+L. Sp. Ins. 44. Rumph. Amboin. t. 10. f. 6. 7-spinosus. Mant. 75. Horridus. L.
+Sp. Ins. 51. Rumpb. Mus. t. 9. f 1. Longimanus L. 55. t. 8. f. 2. Longipes. L.
+56. t. 8. f. 4. Spinifer. L. 57. Mus. Lud. Ulr. 447.1
+PAGURUS.
+Latro. L. 1. Rumph. Mus. t. 7. f. 4. Diogenes. L. 3. t. 5. f. K. L. Hungarus.
+Mantiss. 4. Herbs, Cancr. t. 122. Miles. 6. f. 114. Clypeatus. 7.
+HIPPA.
+Adactyla? Fab. Mantiss. No 1. Dorsipes. L. 3. Rumph. Mus. Variolosa. 5.
+SCYLLARUS.
+Arctus. L. Sp. Ins. 1. t. 2. f. 6. D.
+ASTACUS.
+Homarus. L. 3. t. 1. f. A. Emeritus. L. Sp. Ins. 16. Gron. Zooph. 1000. t. 17.
+f. 8. 9.
+SQUILLA.
+Mantis. L. 1. Rumph. Mus. t. 3. f. 2. Scyllarus. L. 2. Seb. Mus. 3. t. 20. f.
+6. Ciliata. Mantiss. 3. Chiragra? Sp. Ins. 3. Rumph. Mus. t. 3. f. F.
+ORDO V. UNOGATA.
+LIBELLULA.
+Indica. Fab. Sp. Ins. 8. Drur. Ins. 2. t. 46. f. 1. Fasciata. L. 17. Edw. Av.
+t. 174. Americana. L. 23. Histrio. Mantiss. 24. Variegata. Lin. S. Not. 18.
+Amaen. Ac. 6. p. 412. No 86.
+AGRION.
+Ciliata. Fab. Sp. Ins. 3. Linearis. 5. Drur. Ins. 2. t. 48. f. 1.
+JULUS.
+Stigma. 8. Carnisex. 9. Scbroet. Ahh. 1. t. 3. f. 7. Indus. L. 10. Petiv. Gaz.
+t. 74. f. 3. Fuscus. L. 11. Seb. Mus. 2. t. 24. f. 4. 5.
+SCOLOPENDRA.
+Morsitans. L. 5. Petiv. Gaz. t. 13. f. 3. Dorsalis. 7. Clypeata. 8.
+Phosphorea. L. 11.
+ARANEA.
+Argentata. Fab. Sp. Ins. 18. Lusca. 51.
+PHALANGIUM.
+Caudatum. L. 7. Seb. Mus. 1. t. 70. f. 7. 8.
+SCORPIO.
+Aser. L. 3. Roes. Ins. 3. t. 65.
+ORDO VI. GLOSSATA.
+PAPILIO.
+* EQUITES TROES.
+Paris. L. Fab. Sp. Ins. 2. No 1. Drur. Ins. 1. t. 12. f. 1. Theseus. 3. Cram.
+Ins. 15. t. 180. B. Polytes. L. 4. 8. t. 90. B. Hector. L. 5. 12. t. 141. A.
+Romulus. t. 43. A. Helenus. L 7. 13. t. 153. A. B. Antenor. 8. Drur. Ins. 2. t.
+3. f. 1. Troilus. L. 9. 1. t. 11. f. 2. 3. 5? Palinurus. Fab. Mantiss. No 10.
+Deiphobus. L. Sp. Ins. 2. No 10. Cram. Ins. 16. t. 181. A. B. Pelaus. 12. 15.
+t. 177. A. B.C. Pammon. L. 16. 12. t. 141. B. Achates. 19. 16. t. 182. A. B.
+Polydorus. L. 20. 11. t. 128. A. B. Memnon. L. Var. 23. t. 222. A. B. Priamus.
+L. 21. 2. t. 23. A. B. Remus. 22. 1. t. 10. A. B.and 11. A. B. Agenor. L. 25.
+3. t. 32. A. B. Amphrisius. Mantiss. 23. 19. t. 219. A. Alcandor. t. 40. A. B.
+D. E. Sarpedon. L. Spec. Ins. 28. 11. t. 122. D. E. Amphimedon. 31. 17. t. 194.
+A. Aeneas. L. 32. 3. t. 29.C. -- F. Lysander. 33. 2. t. 24. E.? Polymnestor.
+35. 5. t. 53. A. B. Panthous. L. 36. 11. t. 123. 124. Remus. Mantiss. 24. 12.
+t. 135. A. 136. A. Pandarus. L. Spec. 37. Mus. Lad. Ulr. 198. Astenous. 38.
+Cram. Ins. 17. t. 195. A.
+** EQUITES ACHIVI.
+Ripheus. Fab. Mantiss. No 43. Cram. Ins. t. 385. A. B. Pyrrhus. L. Sp. Ins. 2.
+No 41. t. 220. A. B. Tiridares. 43. t. 161. A. B. Aeclus. Mnntiss. 50. t. 317.
+A. B. Fabius. Sp. Ins. No 47. Codes. Mantiss. 53. Leilus. L. Sp. Ins. 48. t.
+85. C. D. Ulysses. L. 52. t. 121. A. B. Patroclus. L. 53. t. 109. A. B.
+Diomedes. L. 54. t. 122. A. Varanes. 55. t. 160. D. E. Alcibiades. Mantiss. 65.
+Pompilius. 66. t. 37. A. B. Sinon. Sp. Ins. 59. Drur. Ins. t. 22. f. 3. 4.
+Anthcus Cram. Ins. t. 235. B. C. Chiron. 60. t. 200. D. E. Curious. Mantiss. 71
+Periander. 74. Codius. Sp. Ins. 69. t. 179. A. B. Mencstheus. 74. t. 142. A. B.
+Xuthus. L. 75. t. 73. A. B. Cresphontes. Sp. Ins. 77. Cram. Ins. t. 89. A. B.
+Orontes. L. 80. t. 83. A. B. Aegistus. t. 241. C. D. Agamemnon. L. 81. t. 106.
+C. D. Aegistheus. L. No 82. t. 200. A. B. C. Empedocles. Mantiss. 94. Euryalus.
+Sp. Ins. 83. t. 74. A. B. Phidippus. L. 85. t. 69. A. B. Nisus. 84. t. 150. A.
+B. Aurelius. 86. t. 168. A. B. Demoleus. L. 89. t. 231. A. B. Medon. L. 89. t.
+205. B.C. Philoctetes. L. 93. t. 20. A.B.C. Nireus. L. 93. t. 187. A. B.
+Amphimachus. 94. t. 84. A. B.? Amphitrion. 96. t. 157. A. B. Gambrisius. Fab.
+Mantiss. 113. t. 43. F. G. Drusius. t. 229. A. 23. A. Demophon. L. Sp. Ins. 97.
+t. 158. A. -- E. Eiurypylus. L. 106. t. 122. B. C. Astenous. t. 208. A. B.
+Sabinus. Sp. Ins. Ap. p. 502. t. 289. A. -- D. Jason. Lin. S. Not. No 38. Mus.
+Lud. Ulr. 210.
+*** HELICONII.
+Calliope. L. Fab. Sp. Ins. 107. Cram. Ins. t. 246. C. Melite. L. 108. t. 153.
+C. D. Mopsa. L. 109. t. 190. D. Mneme. L. 110. t. 190. C. Lybia. 111. t. 177.
+C. D. Violae. I. 112. t. 298. D. E. Terpsichore. L. 113. t. 298. A. B. C.
+Serena. 114. ttt, 268. A. B. Urania. L. Fab. Sp. Ins. No 117. Mus. Lud. Ulr.
+225. Psidii. L. 124. Cram. Ins. t. 257. P. Aspasia. Mantiss. 145. Aegle. Sp.
+Ins. 125. t. 126. C. D.? Thalia. L. 130. t. 246. A. Euryta. L. 131. t. 233. A.
+B. Aedea. L. 132. Clerck. Ic. t. 41. f. 2. Antiocha. L. 134. Cram. Ins. t. 38.
+E. F. Erato. L. 146. t. 119. A. Assarica. t. 363. A. B.
+*** PARANASSII.
+Quirina. 152. Piera. L. 153. t. 291 C. D. Pasithoe. L. 154. t. 258. E. F.
+Andromeda. 158. Idea. L. 160. t. 193. A. B.
+*****DANAI CANDIDI.
+Brassicae. L. 161. y. 271. E. f. Napi. L. 163. Albin. Ins. t. 52. F. G.
+Valeria. Cram. Ins. t. 85. A. Libythea. 172. Creona 175. t 95. C -- F. Nerissa.
+t. 44. A. Demopbile. L. 177. Clerck. Ic. t. 28. f. 4. Crocale. Cram. Ins. t.
+55. C. D. Hecabe. L. 178. t. 124. B. C. Drusilla. t. 110. C. Paulina. t. 110.
+E. F. Xiphia. 180. Hedyle. t. 186. C. D. Eucharis. Fab. Sp. Ins. No 181. Cram.
+Ins. t. 352. CD.E. f. Jugurtha. t. 187. E. F. Alcmeone. 186. t. 141. E.
+Oenippe. t. 229. B. C. Pyramhe. L. 188. Mus. Lud. Ulr. 245. Catilla. t. 229. E.
+F. Leucippe. 189. Cram. Ins. t. 36. A. -- C. Thetis. t. 238. F. G. Callirhoe.
+190. Pl. Enlum. t. 91. f. 1.2. Mesentina. t. 270. A. B. Glaucippe. L. 191.
+Cram. Ins. t. 164. A. -- C. Zelmira. t. 320. C. -- F. Euippe. L. 192. t. 91. D.
+-- G.? Coronnis. 193. t. 44. B. C. Hyparete. L. 194. Clerck. Ic. t. 38. f. 2.
+3. Evagete. Cram. Ins. t. 221. F. G. Scylla. L. 203. t. 12. C. D. Coronea. 201.
+t. 68. B. C. Cornelia. Mmitiss. 229. Agathina. t. 237. D.E. Judith. 230.
+Belisamae. t. 258. A. B. C. D Amata. Sp. Ins. 204. Aenippe. t. 157. C. D.
+Cypraea. Mantiss. 232. Hitaria. t. 339. E. F. Danae. Sp. Ins. 205. Sesia.
+Mantiss. 234. t. 217. C. D. E. Rahel. 235. Ada. t. 363. C. D. Messalina. 236.
+Zeuxippe. t. 362. E. F. Gnoma. Sp. Ins. 217. t. 361. C. D. Drya. 218. t. 120.
+C. D. Philea. L. 221. t. 173. E. F. Dorimenes. t. 387. C. D. Acasta. Lin. S.
+Not. No 83. Mus. Lud. Ulr. 250. Encedonia. 90. 244. Arsalte. 91. Clerck. Ic. t.
+23. f. 2. Damone. 93.
+DANIA FESTIVI.
+Midamus. L. Fab. Sp. Ins. 227. Cram. Ins. t. 266. A. B. Claudius. Mantiss.
+261. t. 266. C. Climene. t. 389. E. F. Liberius. Sp. Ins. 229. t. 210. G. H.
+Syphax. 234. t. 233. C. D. Eyialeus. Mantiss, 267. t. 189. D. E. Eualthe. Sp.
+Ins. 235. t. 17. E. F. Caenrus. L. 239. Mus. Lud Ulr. 271. Genutia. Cram. Ins.
+t. 206. C. D. Pinthaeus. L. 242. t. 258. Chrysippus. L. 245. t. 118. B. C.
+Hegesippus. 248. t. 180. A. Nicaeus. 255. t. 12. G. H. Gripus. 255. t. 183. C.
+D. Xanthus. L. 257. t. 183. A. B. Arccsilaus. Mantiss. 305. Eribotes. Sp. Ins.
+267. Morvus. 270. t. 48. A. B. Cocytus. Mantiss. 316. Obrinus. L. Sp. Ins. 275.
+t. 338. C. D. Ancaeus. L. 276. t. 49. E. F. Jairus. 281. t. 6. A. B. Philocles.
+L. 285. t. 184. D. E. F. Aeropus. L. 287. t. 111. F. G. Mineus. 294. t. 84. C.
+D. Baldus. 306. Zetes. Lin. S. Not. No no. Clerck. Ic. t. 43. f. 1. Encdadus.
+112. Mus Lud. Ulr. 354. Eribote. Lin. S. Not. No 115. Mus. Lud. Ulr. 233.
+Perius. 116. 261. Philomelus. 123. Amaen. Ac. 6. p. 404. 60.
+*NYMPHALES GEMMATI.
+Polynice. Fab. Sp. Ins. No 310. Cram. Ins. t. 195. D. E. Almana. L. 311. t.
+58. F. G. Asterie. L. 312. t. 58. D. E. Oenone. L. 313. t. 35. A. C. Erigone.
+t. 62. E. F. Lemonias. L. 314. t. 35. D. F. Villida. Mantiss. 366. Glycene.
+379. Orithya. L. Sp. Ins. 315 t. 32. E. F. Remulia. t. 232. F. G. Feronia. L.
+318. t. 192. E. F. Lampetia. L. Mantiss. 378. t. 148. D. D.t. 349. A.B.
+Roxelana. Sp. Ins. 320. t. 141. C. D. Minerva. 327. t. 116. E. F. Laomedia. L.
+333. t. 8. F. G. Cardui. 364. t. 26. E. F. Atlita. Mant. 388. Libye. L. Sp.
+Ins. 334. Sultz. Ins. t. 17. f. 7. Justina. Cram. Ins. t. 326. C. Hedonia. L.
+335. t. 69. C. D. Arsince. L. 345. t. 160. B. C. Panthera. Mantiss 407.
+Pipleis. L. Sp. Ins. 368. t. 60. A. B. Claudia. 369. Naturforch. 9. t. 2.
+Bankia. 371. Cram. Ins. t. 26. A. B. and 291. I. Leda. 376. t. 196. C. D.
+Rohria. Mantiss. 446. Arcensia. Cram. Ins. t. 292. D. E Constantia. t. 133. A.
+B. Polydecta. Fab. Sp. Ins. No 373. t. 144. E. F. Iphira. 379. t. 209. C. D.
+Tolumnia. 374. t. 130. F. G. Erminia. t. 176. A. B. Morna. 375. Polibete. t.
+234. D. E. and 235. C. D. Juliana. Fab. Sp. Ins. App. p. 503. t. 280. A. B.
+Egista. t. 281. CD. Helie. Lin. S. Not. No 152. Clerck. Ic. t. 34. f. 3. Arete.
+Cram. Ins. t. 313. E. F.
+**NYMPHALES PHALERATI.
+Ida. Cram. Ins. t. 42. C. D. and 374. C. D. Cydippe. L, Fab. Sp. Ins. 388. t.
+62. A. B. Penthesilia. 390. t. 145. B.C. Melita. t. 28. D. F. Cyane. 392. Drur.
+Ins. 1. t. 4. f. 1. Vitellia. Mantiss. 474. Cram. Ins. t. 349. E. F. Antilope.
+t. 183. E. F. Protogenia. Sp. Ins. 395. t. 189. F. G. Atalanta. 397. t. 84. E.
+F. Var. Charonia. 398. t. 47. A.B. C. Polychloros. L. 404. t. 330. C. D. Var.
+Juvcnta. t. 188. B. Dirce. L. 407. t. 212. C. D. Hippoclus. t. 222. C. D. C.
+Aureum. L. 410. t. 19. E. F. Ariadne. L. 412. t. 144. G. H. Proserpina. t. 218.
+C. D. Bolinae. L. 414. t. 65. E. F. Lisionasse. Cram. Ins. t. 205. A. B.
+Clytia. L. Sp. Ins. 415. Mus. Lud. Ulr. 296. Thyonneus. Cram. Ins. t. 222. E.
+F. Archesia. Sp. App. p. 504. t. 219. D. E. Amathea. L. Spec. Ins. No 416. t.
+209. A. B. Undularis. Sp. App. p. 504. t. 256. A. B. Monina. Mantiss. No 502.
+Lamis. t. 238. E. Allica. No 510. t. 280. E. F. Leucothoe L. Sp. Ins. 421 t.
+203. E. F.? Melicerta. 423. t. 211. E. F. Heliodore. Mantiss. 516. Ilithuia.
+Sp. Ins. 426. t. 213. A. B. Pelea. Mantiss. 523. Erymanthis. t. 238. F.G.
+Venilia. L. Sp. Ins. 431. t. 219. B. C. Alimena. L. 432. t. 221. A. B. C.
+Phoerusa. L. 433. t. 130. B. C. Manilia. t. 259. A. B. Hippona. 434. t. 90. C.
+D. Adonia. t. 259. C. D. Agatha. Mantiss. 530. Neaerea. L. Sp. Ins. 441. t. 75.
+C. D. Aceste. L. 442. t. 121. E. F. Porphyria. t. 259. E. F. Eurinome. 443. t.
+70. A. Neste. t. 256. E. F. Dissimilis. L. 444. t. 82. C. D. Assimilis. L. 445.
+154. A. Similis. L. 446. t. 30. D. Lotis. t. 230. D. E. Lais. 448. t. 110. A.
+B. Valentina. t. 327. C. D. Egialea. 449. t. 92. D. Alcippe. t. 389. G. H.
+Panope. 450. t. 65. C. D. Villida. Cram. Ins. t. 349. C. D. Hippia. Mantiss.
+545. Martha. 555. Elea. Sp. Ins. 460. t. 242. D. E. Cytherea. L. 474. Clerck.
+Ins. t. 39. f. 3. Phalantha. Fab. Sp. Ins. No 485. Drur. Ins. 1. t. 21. f. 1.
+2. Tipha. Lin. S. Not. No 164. Clerck. Ic. t. 32. f. 3. Canace. 173. Drur. Ins.
+1. t. 15. f. 1. 2. Idmone. 182. Mus. Lud. Ulr. 310. Elea. 183. Drur. Ins. 2. t.
+17. f. 5. 6. Janassa. 185. Mus. Lud. Ulr. 294. Nauplia. 1. 97. Clerck. Ic. t.
+46. f. 1. 2. Hypermnestra. 198. Amaen. Ac. 6. p. 407. 69. Nesaea. 199. Mus.
+Lud. Ulr. 302.
+PLEBEII RURALES.
+Amor. Fab. Sp. Ins. 491. Vulcanus. Cram. Ins. t. 208. E. F. Lisias. Mantiss.
+615. Etolus. 620. Ganymedes. Sp. Ins. 500. t. 40. C. D. Sphinx. 511. t. 46. F.
+G. Hyacinthus. 516. t. 36. C. D. Iarbus. Mantiss. 648. Baeticus. L. Sp. Ins.
+529. Ernst. Pap. d' Eur. t. 37. f. 76. Strephon. 531. Atymnus. Mantiss. 662.
+Cram. Ins. t. 331. D. E. Aeolus. Sp. Ins. 535. Pl. Enlum. t. 18. f. 6. 7.
+Simaethis. 537. Drur. Ins. 1. t. 1. f. 3. Ixion. 540. Nedymond. Cram. Ins. t.
+299. E. F. Rosimon. 541. Laius. t. 319. D. E. Amyntor. 543. t. 159. D. E.
+Triopas. Cram. Ins. t. 310. G. H. Eumolphus. t. 299. G. H. Hylax. Fab. Sp. Ins.
+559. Midas. 564. Melampus. t. 362. G. H. Aesopus. 565. Drur. Ins. 2. t. 9. f.
+3. 4. Phairus. 566. Cram. Ins. t. 238. C. Aratus. t. 365. A. B. Cephus. 576.
+Petavius. t. 365. C. D. Haraldus. Mantiss. 744. Ubaldus. t. 390. L. M. Neleus.
+L. Sp. Ins. 581. Crerck. Ic. t. 45. f. 2. Bochus. Cram. Ins. t. 391. C. D.
+Priassus. L. 591. Mus. Lud. Ulr. 319. Polybe. Lin. S. Not. No 218. Amaen. Ac.
+6. p. 404. 58. Timantes. 241. Mus. Lud. Ulr. 322. Peleus. 249. Clerck. Ic. t.
+45. f. 5.
+PLEBEII URBICOLE.
+Exclamationis. Fab. Sp. Ins. No 595. Augias. L. 597. Amen. Ac. 6. p. 410. 80.
+Colon. 598. Alcithoe. Cram. Ins. t. 80. C. D. Alexis. 619. Thrax. L. 620. 6. t.
+68. E. Dan. Mantiss. 798. Chromus. t. 284. E. Ladon. t. 284. G. Gnetus. Fab.
+Sp. Ins. No 624. Pl. Enl. t. 18. f. 8. 9. Polydetus. L. 627. Cram. Ins. t. 159.
+F. G. Coridon. t. 340. C. D. E. Phidias. L. 632. t. 41. C. D. Japetus. t. 365.
+E. F. Maimon. Fab. Sp. Ins. No 635. Cram. Ins. t. 22. C.? Forestan. t. 391. E.
+F. Menalcas. 639. Celaemis. t. 393. A. B. Spio. L. 645. Mus Lud. Ulr. 330.
+Menes. t. 393. H. I. Pygmicus. 646. Butes. Lin. S. Not. No 261. Clerck. Ic. t.
+46. f. 6. Phaleros. 272. Cereus. 273.
+
+SPHINX.
+Asiliformis. Fab. Sp. Ins. No 6. Nerii. 11. Cram. Ins. t. 224. D. Hypothoiis.
+t. 285. D. Dentata. 16. t. 125. G. Ancaeus. t. 355. A. Alope. Mautiss. 19. t.
+301. G. Ophekes. t. 285. B. Ello. L. Sp. Ins. 17. Drur. Ins. 1. t. 27. f. 3.
+Acteus. Cram. Ins. t. 248. A. Atropos. L. 23. t. 78. A. and 237. A. Phorbas.
+25. t. 55. B. Chiron. t. 137. E. Pagana. 29. Oldenlandiae. 37. Phalaris. t.
+149. A. Lycetus. 38. t. 61. D. Panopus. t. 222. A. B. Boerhaaviae. 39. Sultz.
+Ins. t. 20. f. 3. Eson. Cram. Ins. t. 226. C. Minus. Mantiss. 44. Drancus. t.
+132. F. Porcellus. L. Sp. Insl. 44. Ernst. Pap. t. 112. No 161. Convolvuli. L.
+46. Cram. Ins. t. 225. D. Celerio. L. Sp. Ins. 50. Cram. Ins. t. 125. E.
+Nessus. t. 226. D. Crantor Fab. Sp. Ins. No 51. t. 104. A. Alecto. L. 52. t.
+137. D. Gnoma. 53. t. 152. A. Menephron. t. 285. A. Hespera. 54. Faro. t. 285.
+C. Bums. Mantiss. 62. Vampyrus. 66. Ocypete? Lin. S. Not. No 4. Mus. Lud. Ulr.
+344. Megara. 21. Clerck. Ic. t. 47. f. 2. Tisiphone. 23. Mus. Lud. Ulr. 359.
+Brennus. Cram. Ins. t. 398. B.
+SESIA.
+Ixion. L. Fab. Sp. Ins. No 2. t. 68. F. Odomaculata. 8. Hippotes. t. 286. A.
+Haemorrhoidalis. 13. t. 52. C. D.? Fenestrata. 15. t. 251. D.
+ZYGAENA.
+Grus. t. 368. A. Diptera. 44. Aurata. t. 264. A. Creusa. Lin. S. Not. No 39.
+Clerck. Ic. t. 46. f. 3.? Cysseus. Cram. Ins. t. 355. B. Atereus. t. 400. A.
+Bombyliformis. t. 400. C.
+BOMBYX.
+Paphia. L. Fab. Sp. Ins. No 4. t. 147. A. B. Laocoon. t. 117. A. B. C.
+Mylitta. 7. t. 146. A. Fabia. t. 250. B. Luna. L. Fab. Sp. Ins. 15. Cram. Ins.
+t. 31. A. B. Fenestra. L. 18. Clerck. Ic. t. 55. f. 1. Polybia. Cram. Ins. t.
+369. A. Penelope. 19. t. 45. A. Jana. t. 396. A. Perspicua. L. 21. Mus. Lud.
+Ulr. 373. Conspicillator. Cram. Ins. t. 97. A. B. Militaris. L. 22. t. 29. B.
+Numana. t. 227. A. 228. A. Eugenia. t. 398. M. Promula. 34. t. 72. D. Aconyta.
+t. 131. A. Quadricinta. Maniss. 44. Barbara. t. 368. B. Lusca. 49. Niceta. t.
+368. C. Hibisci. Sp. Ins. 45. Glauca. t. 368. D. Imperialis. 62. Drur. Ins. 1.
+t. 9. f. 1. Lunata. Cram. Ins. t. 369. C. Crassicornis. 63. Silvandra. t. 369.
+D. Pasinuntia. t. 367. H. Nuda. Mantiss. 105. Evergista. t. 369. E. Hyphinoe.
+t. 154. B. Flava. Sp. Ins. 82. Petosiris. t. 397. D. Rutila. Mantiss. 131.
+Chrysorrhea. Spec. Ins. 102. Roes. Ins. 1. ph. 2. t. 22. Nitidula. Mantiss.
+153. Cyane. Sp. App. p. 506. Cram. Ins. t. 267. D. Crotalariae. Sp. Ins. 126.
+1. t. 5. C. D. Ricini. 127. Lectrix. 132. t. 192. C. Sanguinolenta. 128. t.
+183. D. Lepida. Cram. Ins. t. 130. E. Francisca. Mantiss. 200. Monycha. t. 131.
+C. Jesuita. Sp. Ins. 145. Lactinia. t. 133. D. Gloriosae. 150. Brorea. t. 312.
+E. Crim. 151. Punctigera. Lin. S. Not. 151. Clerck. Ic. t. 50. f. 3.
+NOCTUA.
+Strix. L. Fab. Sp. Ins. 3. Cram. Ins. t. 145. A. Ulula. 9. t. 174. E. Materna.
+L. 16. t. 174. A. B. Irynx. Mantiss. 10. Mineus. t. 131. D. Crepuscularis. L.
+Fab. Sp. Ins. 11. t. 159. A. Irrorata. Fab. Sp. App. p. 506. Lyncea. 506.
+Sinuata. 507. Squalida. Fab. Mant. No 13. Vespertilio. 16. Retorta. t. 116. D.
+Illibata. Sp. Ins. 13. Obscura. t. 274. B. Umminia. Sp. App. p. 506. t. 267. F.
+Inara. t. 239. E. Scrobiculata. Sp. Ins. No 14. Carenea. t. 269. E. F.
+Dioscoreae. 15. t. 30. A. -- C. Materna. 16. t. 174. A. B. Hypermnestra. t.
+323. A. B. Cephise. t. 227. B. Paphos. Mantiss. 24. Chione. Sp. Ins. 16. Saga.
+Mantiss. 29. Bajularia. Sp. Ins. 23. Cram. Ins. t. 172. C. Astrea. 21.
+Convoluta. 30. t. 208. D. Membliaria. t. 269. C. D. Ficus. 33. Lusca. Mantiss.
+49. Manlia. 36. t. 92. A. Caricae. 34. t. 133. E. 242. A.B. Leonina. 38.
+Fulvia. L. 43. Clerck. Ic. t. 55. f. 6. Avida. Fab. Mantiss. 68. Triangulum.
+74. Arcuata. 75. Vulpina. Sp. Ins. 50. Tigrina. 52. Mezentina. Cram. Ins. t.
+323. F. Cyllaria. t. 251. C. D. Geometrica. 53. Stolida. 54. Undata. 60.
+Ammonia. t. 250. D. Vittata. No 61. Hyppasia. t. 250. E. Frugalis. 62. Flava.
+63. Stigmatizans. 64. Alphea. t. 250. F. Equestris. 65. Javana. t. 274. C.
+Dorsalis. Mantiss. 103. Luminosa. t. 274. D. Rejecta. Sp. Ins. 66. Achatina. t.
+273. E. 288. A. Elata. 67. Archesia. t. 273. F. G. Mercatoria. 79. Cram. Ins.
+t. 62. C. D. Timais. t. 275. B. Rapta. Mantiss. 120. Orosia. t. 275. D.
+Partita. Sp. Ins. 80. Melanthus. t. 286. B. Pagana. 90. Joviana. t. 399. B.
+Orichalcea. 92. Clytia. t. 399. G. Signata. 96. Dominica. t. 399. H. Peponis.
+97. Nitidula. Mantiss. 153. Sinuata. Sp. Ins. 116. Amphix. t. 134. C.
+Histrionica. 117. Perithea. t. 172. D. Pelles. Lin. S. Not. No 104. Mus. Lud.
+Ulr. 388. Interrupta. 116. Cram. Ins. t. 185.
+PHALAENA.
+Strigaria. Fab. Sp. Ins. No 12. t. 133. C. Undaria. 20. Monilaria. 23.
+Rondelaria. 24. Macularia. 27. t. 129. C. Ocularia. 38. Perdica. t. 178. F.
+Hesperia. t. 251. B. Flavaria. Fab. Mant. No 32. Margaritaria. t. 367. K.
+Tripunctaria. L. Sp. Ins. 47. t. 22. E. Caudata. 64. t. 104. D. Lateraria.
+Mantiss. 77. Lactucina. t. 273. B. C. Venaria. Sp. Ins. 52. Cram. Ins. t. 29.
+A. Zemire. t. 367. 1. Obliquaria. Mantiss. 81. Rosalia. t. 368. F. Ernestina.
+t. 369. F. Sangarida. t. 381. D. Caudata. Sp. Ins. 64. t. 104. D. Fasciata. 65.
+Vulpenaria. t. 400. O. P. Arcuata. Matitiss. 104. Pampliilia. t. 368. G.
+Liturata. 109. Coleta. t. 368. H. Irrorata. Sp. Ius. 77. Carinenta. 78. t. 128.
+F. Eusebia. t. 369. G. H. Flaveolata. 91. t. 83. C. Fimbriata. t. 398, 0.
+Janata. L. 121. Mus. Lud. Ulr. 398. Expectata. 123. Cribrata. 133. Cram. Ins.
+t. 208. C. G. Marginata. t. 400. 1. Aestuata. L. 149. Mus. Lud. Ulr. 397.
+Capitata. 148. Sulphurata. 152. Flavata. t. 307. C. Violata. Mantiss. 238.
+Securata. 242. Canenta. t. 250. C. Perspectara. Sp. Ins. 163. Vitrata. Mautiss.
+255. Revidata. 258. Derogata. Sp. Ins. 166. Ejectata. 167. Sagittalis. Fab. Sp.
+Ins. 179. Amando. Cram. Ins. t. 247. E. Fuscalis. Fab. Sp. Ins. 182. Pueritia.
+Cram. Ins. t. 264. E. Angustalis. Mantiss. 309. Procopia. t. 368. E.
+Recurvalis. Sp. Ins. 192. Dentalis. 198.
+PYRALIS.
+Koenigiana. 65.
+TINEA.
+Cryptella. 25.
+ORDO VII. RYNGOTA.
+FULGORA.
+Diadema. L. Fab. Sp. Ins. No 3. Seb. Mus. 4. t. 77. f. 7. 8. Truncata. L. 11.
+Amen. Ac. 6. p. 399. 40. Hyalinata. 12. Festiva. 13.
+MEMBRACIS.
+Spinosa. 5. Sulz. Ins. t. 9. f. 6. Taurus. 10.
+TETTIGONIA.
+Fornicata. Gmel. Lin. 11. Mus Lud. Ulr. 156. Fasciata. Fab. Mantiss. f. Stoll.
+Cicad. 1. t. 4. f. 17. Spinosa. 6. Vaginata. 7. Conspurcata. Sp. Ins. 13.
+Repanda. L. 16. De Geer, Ins. 3. t. 33. f. 1. Testacea. Mantiss. 23. Stoll.
+Cicad. 1. t. 8. f. 41. C.
+CICADE.
+Perspicillata. Fab. Sp. Ins. No 1. Ocellata. 2. De Ceer, Ins. 3. t. 33. f. 2.
+Cunicularia. L. 11. Lanara. L. 12. Drur. Ins. 2. t. 37. f. 11. Tomentosa. 13.
+Barbata. 14. Hyalina. 31. Lyncea. 37.
+NOTONECTA.
+Nivea. 3. Indica. Mantiss. p. 534.
+NEPA.
+Annulata. Spec. Ins. 2. Rustica. 3. Fusca. Mantiss. 4. Stoll. Cimic. 2. t. 1.
+f. 1. Rubra. L. 6. 2. t. 7. V. Maculata. Sp. Ins. No 6. Linearis. L. 7. Schaef.
+Icon. t. 5. f. 5. 6.
+CIMEX.
+Nobilis. L. 2. Stoll. Cimic. 1 t. 1. f. 1. Clavipes. Fab. Mantiss. 5.
+Maculatus. 11. Rusticus. 26. Lunatcs. Sp. Ins. 9. 2. t. 13. f. 84. Valilii. 32.
+Histrio. Gmel. Lin. 12. Grandis. 171. Thunb. N. Sp. Ins. 2. No 31. f. 46.
+Taurus. Sp. Ins. 34. Dentatus. 43. Spinidens. Mantiss. 61. Hamatus. 80. Scaber.
+Gmel. Lin. 30. Amaen. Ac. 6. p. 400. 43. Pugnator. Fab. Mantiss. 84.
+Thoracicus. Gmel. Lin. 262. Stoll. Cimic. t. 8. f. 55. A. Hastatus. Fab.
+Mantiss. 88. Analis. Gmel. Lin. 263. t. 10. f. 72. B. Tenebrosus. Fab. Mentiss.
+93. Sulcatus. Gmel. Lin. 271. t. 6. f. 47. Fulvicornis. Fab. Mantiss. 94.
+Pustualatus. Gmel. Lin. 281. Geer, Ins. 3. t. 34. f. 2. Femoratus. Fab. Sp.
+Ins. 77. Aurantius. Mantiss. 116. Stoll.Cim. 1. t. 6. f. 39. Punctum. 117. 2.
+t. 6. f. 40. Nigripes. Sp. Ins. 92. Drur. Ins. 2. t. 36. f. f. Torquatus. 93.
+Guttatus. Man tiss. 121. Viridulus. L. Sp. Ins. 95. Mus. Lud. Ulr. 172.
+Peregrinator. Gmel. Lin. 40. 173. Beryllus. Mantiss. 127. Javanicus. Gmel. Lin.
+332. Stoll. Cim. t. 11. f. 2. 6-punftatus. L. Fab. Sp. Ins. 105. Mus. Lud. Ulr.
+175. Brunneus. Gmel. Lin. 334. Rubrofasciatus. Fab. Mantiss. 140. Ruficornis.
+Sp. Ins. 114. Gramineus. Mantiss. 161. Histrio. 167. Pictus. Sp. Ins. 117.
+Faber. Mantiss. 181. Cruciatus. Sp. Ins. 122. Indus. L. 140. Mus. Lud. Ulr.
+176. Civilis. Mantiss. 186. Familiaris. 190. Varicornis. 194. Malabaricus. Fab.
+Sp. Ins. No 147. Koenigu 156. Stell, Cimic. 2. t. 1. f. 5. Mendicus. 158.
+Cruentus. Mantiss. 214. Augur. Sp. Ins. 167. Mactans. Sp. Ins. 168.
+Erythrozonias. Gmel. Lin. 456. De Geer, Ins. 3. t. 35. f. 12. Sordidus. Fab.
+Mantiss. 231. Calens. L. Sp. Ins. 213. Gronov. Zooph. 712. Gronovii. L. 214.
+711. Cingulatus. Mantiss. 287. Pedestris. Sp. Ins. 224. Fossarum. 226. Filum.
+232. De Geer, Ins. 3. t. 35. f. 16.
+REDUVIUS.
+Gigas. 1. Marginatus. 7. Sanctus. Mantiss. 12. Pilicornis. 19. Collaris. Sp.
+Ins. 15. Sexguttatus. 17. 4-guttatus. 18. Aurantius. Punctum. 19. Bipunctatus.
+Fab. Mantiss. No 30. Fuscipes. 33. 5-spinosus. Sp. Inf. 27.
+ORDO VIII. ANTLIATA.
+BIBIO.
+Lar. 10. Sphinx. Mantiss. 20. Troglodyta. Sp. Ins. 20.
+SYRPHUS.
+Crassus. Mantiss. 7. 4-lineatus. 24.
+MUSCA.
+Jejuna. 2.
+ASILUS.
+Maculatus. Sp. Ins. 21.
+MYOPA.
+Cincta. 4.
+BOMBYLIUS.
+Maculatus. 7.
+PEDICULUS.
+Humanus. L. 1. Soboef. Elem. t. 95 Pubis. L. 2. Red. Exper t. 19. f. 1.
+Vulturis. 4.
+ACARUS.
+Elephantinus. L. Fab. Sp. Ins. No 1. Scbrank. Beytr. t. 6. f. 14. 15. Indus. L
+12.
+CLASS VI. VERMES.
+I. INTESTINA.
+N. B. From our ignorance of the productions of India in. this Class, we are
+obliged to omit many Genera.
+
+GORDIUS.
+M Edinensis. Sloone Jam. ii. 190. tab. 233. fig. 1.
+SIPUNCULUS.
+Saccatus. Amoen. Acad. iv. 454. tab, 3.
+II. MOLLUSCA.
+DORIS.
+Verrucosa. Seb. Mus. ii. tab. 61. fig. 5.
+NEREIS.
+Noctiluca. Amoen. Acad. iii. 203. tab. 3. Gigantea. Seb. Mus. i. tab. 81. fig.
+7.
+ACTINIA.
+Swalloo. An edible Species collected in the Molucca Isles.
+HOLUTHURIA.
+Priapus. Amoen Acad. iv. 255.
+SEPIA.
+Octopodia. Br. Zool. iv. No 44. tab. 28. Of a monstrous size in India.
+MEDUSA.
+Porpita. Amen. Acad. iv. 255. tab. 3. fig. 7.8.
+ASTERIAS.
+* ENTIRE.
+Luna. Adman. Acad. iv. 256. tab. 3. fig. 14.
+** STELLATED.
+Reticulata. Linck. tab. 41. fig. 72. tab. 0.3. fig. 36. Nodosa. Seb. Mus. iii.
+tab. 5. fig. 7. 8. Laevigata. Grew. Mus. tab. 8. fig. 1.2.
+*** RADIATED.
+Ciliaris. Linck tab. 40. fig. 70. tab. 37. and 56, Pectinata Linck. teb. 37.
+fig. 64. 66. Multiradiata. Linck. tab. 21. fig. 33. Caput Medusae. Seb. Mus.
+iii. tab. 9. and tab. II. Rumph. Mus. 41. tab. 16.
+
+ECHINUS.
+Esculentus. Rumpb. Mus. 31. tab. 13. B. Globuius. M.L.U. 706. Sphaeroides.
+Gratilla. M.L.U. 707. Lixula. Ibid. Diadema. Rumph. Mus. tab. 14. B. Lucunter.
+Gualt. Test. tab. 107. fig. C. Atratus. Rumpb. Mus. iii. tab. 13. fig. 2.
+Lacunatus. Ibid. tab. 14. fig. 2. Rosaceus. Rumph. Mus. tab. 14. fig. 2.
+Orbiculus. Gualt. tab. 7. fig. B.
+III. TESTACEA:
+DIV. I. MULTIVALVIA.
+CHITON.
+Aculeatus. Rumph. Mus, tab. 10. fig. 4. Squammosus. M.L.V. 465*. Punctatus.
+Seb. Mus. iii. tab. 1. fig. 13.
+LEPAS.
+Diadema. Rumph. Mus. tab. 14. fig. H. Anarifera. Argenville, tab. 2.6. fig. F.
+G. Testudinaria. Rumph, Mus. tab. 40. fig. K.
+PHOLAS.
+Dactylus, BORN. 14. I must: not omit my acknowlegements to the magnificent
+work on Shells by the Chevalier Ignatius a Born, for very considerable
+additions to this Catalogue. RUMPHIUS, justly styled the PLINY, must have the
+preference in every authority, as the great collector of most of the articles
+referred to.
+DIV. II. BIVALVIA.
+MYA.
+Vulsella. Rumph, Mus. tab. 90. fig. H.
+SOLEN.
+Vagina. Rumpb. Mus. tab. 45. fig. M. Cultellus Ibid. fig. F. Radiatus. Ibid.
+fig. E. Anatinus. Ibid. fig. O. Bullatus. Ibid. tab. 44. fig. N. Virens.
+TELLINA.
+* OVATAE.
+Gargadia. Rumph. Mus. tab. 43. fig. N. Lingua Felis. tab. 45. fig. G. Virgata.
+tab. 45. fig. H. Angulata. Lift. Conch, tab. 394. fig. 241. Gari. tab. 45. fig.
+D. Foliacea. tab. 45. fig. K. Laevigata. tab. 45. fig. I. Rostrata. Argenville,
+tab. 22. fig. O. Truncata.
+** SUBORBICULATAE.
+Remies. Rumpb. Mus. tab. 43. fig. 1. Reticulata. fig. E. Scobinata. Gualt.
+tab. 76. fig. E.
+
+CARDIUM.
+Cardissa. Rumph. Mus. tab. 42. fig. E. Retusum. Born. 41. tab. III fig. 1.2.
+Hemicardium. tab. 44. fig. H. Medium. M.L.U. 485. No 34. Tuberculatum. Rumph.
+Mus. tab. 48. fig. H. Fragum. tab. 44. fig. G. Unedo. tab. 44. fig. F.
+Isocardia. tab. 48. fig. 9. Aeolicum. Bonan. ii. fig. 91. Rusticum Rumph. Mus.
+tab. 44. fig. K.
+MACTRA.
+Plicataria. Sprengleri Gualt. tab. 85. fig. F. Trunculus Bonan. lv. tab. 4.
+fig. 3. 4. Scortum Argenville, tab. 21. fig. L.
+DONAX.
+Pubescens. M. L. U. 493. No 49*. Trunculus. BORN. lv. tab. iv. fig. 3.4.
+Scortum liii. tab. iv. fig. 1.
+VENUS.
+Gallina. Bonan. ii. tab. 64. 65. Flexuosa. Rumph. Mus. tab. 43. fig. O.
+Chione. tab. 42. fig. 9. Meretrix. Argenv. tab. 21. fig. F. Laeta Gualt. tab.
+28. fig. V. Castrensis. Rumph. Mus tab. 42. fig K. Fimbriata. tab. 43. fig. F.
+Squammosa. tab. 44. fig. M. *** IMPUBERES ORBICULATAE.
+Tigerina. tab. 43. fig. H. Prostrata. M.L.U. 504. No 66*. Incrustata List.
+Conch, tab. 310. fig. 146. Tigerina Secunda Rumph. Mus. tab 43. fig. H
+Pectinata. tab. 42. fig. D. Scripta. tab. 43. fig. C. Edentula. M. L. U. 508.
+No 74*. Punctata. Rumph. Mus. tab. 43. fig. G.
+**** IMPUBERES OVALES. SUPRA RIMAAI SUBANGULATE.
+Litrerata. Rumph. Mus. tab. 43. fig. B. Rotundata. M.L.U. 509. No 76*.
+Decussata. M.L.U. 509. No 77. Virginea.
+
+SPONDYLUS.
+Regius. Rumph. Mus. 156. No 8. Plicatus. tab. 47. Ostrea Electrica. Gaderopus.
+tab. 47. fig. E. 48. fig. 1. 2.
+CHAMA.
+Gigas. tab. 43. fig. A. B. Hippopus. tab. 42. fig. C. Lazarus. BORN. 83. tab.
+5. fig. 12. 13. 14. Arcinella. BORN. Davila, tab. 27. fig. T. Gryphoides.
+Bonan. ii. fig. 22.
+ARCA.
+*MARGINI INTEGERRIMO, NARIBUS RECURVATIS.
+Noae. tab. 44. fig. P.
+**MARGIN CRENATO.
+Anriquata. tab. 44. fig. 1. Decussata. Bonan. ii. fig. 60. Pallens. M. L. U.
+520. No 95. Tortuosa. Rumph. Mus. tab. 47. fig. K. Rhombea. List, Conch. tab.
+244. fig. 75. Pectunculus. tab. 239. fig. 73.
+
+OSTREA.
+*PECTINES AURICULATT, AEQUILATERES.
+Striatula. M. L. U. 523. No 101. Minuta. 524. No 102. Pleuronectes. Rumph.
+Mus. tab. 45. fig. A. B. Radula. tab. 44. fig. A. Plica. tab. 44. fig. O.
+**PECTINES AURICULA ALTERA INTUS CILIATO-SPINOSA.
+Pallium. tab. 44. fig. B. C. Nodosa. tab. 48. fig. B. Lima. tab. 44. fig. D.
+Cucullata. Born. 114. tab. vi. fig. 11. 12.
+***RUDES, OSTREAE DICTAE.
+Malleus. Rumph. Mus. tab. 47. fig. H. Edulis.? Bonan. 108. tab. 70. Perna.
+Isogonum. Gualt. tab. 97. fig. A. Ephippium. Rumph. Mus. tab. 47. fig. B.
+
+ANOMIA.
+Placenta. Lister Conch, tab. 104. fig. B. Seb. Mus. iii. tab. 90. fig. 8. 9.
+MYTILUS.
+**PARASITICI UNGUIBUS AFFIXI.
+Crista Galli. tab. 47. fig. B. Frons. Argenville, tab. 19. fig. D.
+**PLANI COMPRESSI.
+Margariceferus. Rumpb. Mus. tab. 40. fig. F.
+***VENTRICOSIUSCULL.
+Lithophagus. tab. 46. fig. F. Bilocularis. M. L. U. 540. No 133. Edulis. List.
+Ang. 182. fig. 28. Pictus. Born. 107. tab. vii. fig. 6. 7. Modiolus. Rumpb.
+Mus. tab. 46. fig. B.
+
+PINNA.
+Rudis. tab. 46. fig. L. Pedinata. Gualt. tab. 79. fig. A. Saccata. Rumpb. Mus.
+tab. 46. fig. N. Digitiformis. M. L. U. 546. No 146. Lobara. 547. No 147.
+Incurvata. Born. Rumpb. Mus. tab. 46. fig. M. Muricata. Rumpb. Mus. tab. 46.
+fig. M.
+DIV. III. TURBINATA.
+ARGONAUTA.
+Argo. Rumph. Mus. tab. 18. fig.
+NAUTILUS.
+Pompilius. Ruvish. Mus. tab. 17. fig. A. C. D. Spirula. tab. 20. fig. 1.
+CONUS.
+Marmoreus. tab. 32. fig. N. I. Imperialis. tab. 34. fig. H. I. Literatus. tab.
+31. fig. D. Generalis. tab. 33. fig. V. Virgo. tab. 31. fig. I. K. Capicaneus.
+tab. 33. fig. K. Miles. tab. 33. fig. W. **SPIRA PYRAMIDATA.
+Summus Admiralis. tab. 34. fig. B. C. D. Ebaeus. tab. 32. fig. B. B. Glaucus.
+tab. 33. fig. G. G. Monachus. tab. 33. fig. C. C. Minimus. Argenville, tab. 12.
+fig. A. Betulinus. Rumph. Mus. tab. 31. fig. C. Stercus Muscarum. tab. 33. fig.
+3. A. A. Nussatella. tab. 33. fig. E. E. Textile. tab. 32. fig. O. P. Aulieus.
+tab. 33. fig. 3. Striatuj. tab. 31. fig. F. Magus. tab. 32. fig. 2. Tragulinus.
+tab. 31. fig. V. Ermineus. Seb. Mus. iii. tab. 42. fig. 31. 34. 35. 40. Varius.
+Argenville, tab. 12. fig. R. Spectrum. Rumph. Mus. tab. 32. fig. 1. Tulipa.
+tab. 34. fig. K. L. Geographus. tab. 31. fig. G.
+
+CYPRAEA.
+Mappa. tab. 38. fig. B. Arabica. Rumpb. Mus. tab. 38. fig. M. Carneola. tab.
+38. fig. K. Testudinaria. tab. 38. fig. C. Talpa. tab. 38. fig. I. Caput
+Serpentis. tab. 38. fig. F. Mauritiana. tab. 38. fig. E. Vitellus. tab. 38.
+fig. L. Tigris. tab. 38. fig. A. Lynx. Lister Conch. tab. 683. fig. 30.
+Isabella. Rumph. Mus. tab. 39. fig. G. Onyx. tab. 38. fig. B. Hirundo. Lister
+Conch. tab. 674. fig. 20. Born. 184. tab. viii. fig. II. Asellus. Rumph. Mus.
+tab. 39. fig. M. Cribrana. Lister Conch. tab. 695. fig. 42. Moneta. Rumpb. Mus.
+tab. 39. fig. C. Annulus. tab. 39. fig. D. Caurica. tab. 38. fig. P. Dracaena.
+tab. 39. fig. E. Erosa. tab. 39. fig. A. Helvola. tab. 16. fig. 17. Ocellata.
+Lister Conch. tab. 696. fig. 43. Pediculus. Rumph. Mus. tab. 39. fig. P.
+Nucleus. tab. 39. fig. 1. Staphylaea. Born. 194. tab. viii. fig. 18. Cicercula.
+Rumph. Mus. tab. 39. fig. K. Globulus. tab. 39. fig. N.
+BULLA.
+Ovum. tab. 38. fig. Q. Birostris. Lister Conch. tab. 711. fig. 66. Verrucosa.
+Rumph. Mus. tab. 38. fig. H. Naucum. tab. 27. fig. H. Ampulla. tab. 27. fig. G.
+Pbysis. Lister Conch, tab. 715. fig. 75. Amplustre. Born. tab. ix. fig. I.
+Ficus. Rumph. Mus. tab. 27. fig. K. Rapa. Rumph. Mus. tab. 27. fig. E.
+Terebellum. tab. 36. fig. S. Virginea. Lister Conch. tab. 12. fig. 7. tab. 15.
+fig. 10. Achatina. Born. tab. x. fig. 1. 2.
+VOLUTA.
+Auris Midae. Rumph. Mus. tab. 33. fig. H. H. Oliva. tab. 39. fig. 3. Et
+Plurimae Variet. Vide Born. 214. 215. Gibbosa.? Lister Conch. tab. 723. fig.
+10. Hispidula. Born. y. List. Conch. tab. 722. fig. 9. Bullata. tab. 83. fig.
+11. Dactylus. tab. 812. fig. 23. Scabricula. Gualt. tab. 53. fig. D.
+Sanguisuga. Rumph. Mus. tab. 29. fig. V. Caffra. Gualt. tab. 53. fig. E.
+Vulpecula. Rumph. Mus. tab. 29. fig. R. Plicaria. Gualt. tab. 54. fig. F.
+Episcopalis. Rumph. Mus. tab. 29. fig. K. Mitra Papalis. tab. 29. fig. I.
+Capitellum. Gualt. tab. 37. fig. A. Muricata. Martin Konch. iii. tab. 99.
+Ceramica. Rumph. Mus. tab. 24. fig. A. tab. 49. fig. L. Pyrum. tab. 36. fig. 7.
+Aethiopica. tab. 31. fig. B. A. Olla. Gualter. tab. 29. fig. A.
+BUCCINUM.
+*AMPULLACEAE.
+Galea. Rondel. Test. p. 106. Perdix Rumph. Mus. tab. 27. fig. C. Pomum. tab.
+27. fig. B. Sulcosum. Seb. Mus. iii. tab. 68. fig. 14. 15. Dolium. Rumph. Mus.
+tab. 27. fig. A.
+**CASSIDEA.
+Echinophorum. Rumph. Mus. tab. 27. fig. 1. Comutum. tab. 23. fig. 1. Rufum.
+tab. 23. fig. 1. Tuberosum. Seb. Mus. iii. tab. 73. fig. 10. 11. Flammeum.
+Rumph. Mus. tab. 23. fig. 2. Pullus. tab. 23. fig. C. Areola. tab. 25. fig. B.
+and 1. Granulatum. tab. 25. fig. C.
+***CASSIDEA LABRO MURICATO.
+Erinaceus. tab. 25. fig. D. 6. 7. Glaucum. tab. 25. fig A. Vibex. tab. 25.
+fig. E. Papillosum. tab. 29. fig. M. Glans. tab. 29. fig. P.
+****CALLOSA AD COLUM. REFLEXAM.
+Arcularia. tab. 27. fig. M.
+*****COLUM. QUASI ABROSA, PAANA.
+Harpa. tab. 32. fig. K. L. Persicum. tab. 27. fig. E. Smaragdulus. Argenville,
+tab. 6. fig. P.
+******GLABRA.
+Spiratum. Rumph. Mus. tab. 49. fig. C. D. Glabratum. Argenville. tab. 9. fig.
+G.
+*******ANGULATA.
+Undosum. Rumph. Mus. tab. 29. fig. O. Bezoar. Argmville, tab. 15. fig. G.
+********TURRITA, LAEVIA, SUBULATA.
+Maculatum. Rumph. Mus. tab. 30. fig. A. Subulatum. tab. 30. fig. B.
+Crenulatum. tab. 30. fig. E. Strigilatum. tab. 30. fig. H. Duplicatum. Bonan.
+iii. fig. 110. Lanceatum. Rumph. Mus. tab. 30. fig. O. Dimidiatum. tab. 30.
+fig. C.
+
+STROMBUS.
+*DIGITATI.
+Chiragra. tab. 35. fig. A. B. Scorpius. tab. 36. fig. K. Lambis. tab. 35. fig.
+E. F. H. Millepeda. tab. 36. fig. I.
+**LABRO LOBATO.
+Lentiginosus. tab. 37. fig. Q. Gallus. tab. 37. fig. 5. Auris Dianae. Rumph.
+Mus. tab. 37. fig. R. Luhuanus. tab. 37. fig. S. Gibberulus. tab. 37. fig. V.
+***LABRO AMPLIATO.
+Epidromis. tab. 36. fig. M. Canarium. tab. 36. fig. N. Vittatus. tab. 37. fig.
+X. Urceus. tab. 37. fig. T.
+
+MUREX.
+*SPINOSI.
+Haustellum. tab. 26. fig. E. Tribulus. tab. 26. fig. G. Cornutus. tab. 26.
+fig. 5. Brandaris. tab. 26. fig. 4.
+**FRONDOSI.
+Tripterus. Martin Konch. iii. tab. 111. fig. 1033. Triqueter. fig. 1038.
+Ramosus. Rumph. Mus. tab. 26. fig. D. Saxarilis. tab. 26. fig. C. a.
+***VARICOSI.
+Rana. tab. 26. fig. G. el. Varietas. Lister Conch. tab. 949. fig. 44. Lampas.
+Rumph. Mus. tab. 28 fig. C. Olearium. Bonan. iii. fig. 289. Femorale. Rumph.
+Mus. tab. 26. fig. B. Pyrum. Rumph. Mus. tab. 26. fig. E. Rubecula. Gualt. tab.
+49. fig. 1. Anus. Rumph. Mus. tab. 24. fig. F.
+****ECHINATI SINE ROSTRO.
+Hippocastanum. tab. 24. fig. 4. Mancinella. tab. 24. fig. 5. Ricinus. tab. 24.
+fig. E. Senticosus. tab. 29. fig. N. Melongena. tab. 24. fig. E. Rapiformis.
+Lister Conch, tab. 894. fig. 14. Lacerus. Idem. tab. 958. fig. 11.
+*****INERMES ROSTRO ELONGATO.
+Babylonius Rumph. Mus. tab. 29. fig. L. Javanus. Bonan. iii. fig. 79. Colus.
+Rumph, Mus. tab. 29. fig. F. Morio. Bonan. iii. fig. 357. Cochlidium.
+Argenville, tab. 9. fig. A. Spirillus. Martin Konch. tab. 115. fig. 1069.
+Aruanus. Rumph. Mus. tab. 28. fig. A. Tritonis. tab. 28. fig. B.
+******TURRITI SUBULATI ROSTRO BREVI.
+Vertagus. tab. 30. fig. K. Sulcatus. Bonan. iii. fig. 68. Aluco. Romph. Mus.
+tab. 30. fig. O. Coronatus. tab. 30. fig. N. Radula. Bonan. iii. fig. 327.
+
+TROCHUS.
+*UMBILICATI.
+Niloticus. Rumph. Mus. tab. 21. fig. A. Maculatus. tab. 21. fig. c. Bonan.
+iii. fig. 27. 28. Perspectivus. tab. 27. fig. L. Solaris. tab. 20. fig. K.
+**IMPERFORATI.
+Vestiarius. Lister Conch. tab. 650. 51. fig. 46. 48. Labio. Rumph. Mus. tab.
+21. fig. E.
+***TURRITI.
+Telescopium. tab. 21. fig. 12.
+
+TURBO.
+*SOLIDI, IMERFORATI.
+Cochlus. tab. 19. fig. 4. Petholacus. tab. 19. fig. D. 5. 6. 7. Chrysostomus.
+tab. 19. fig. E. Pagodus. tab. 21. fig. D. Calcar. tab. 20. fig. 1. Rugosus.
+Bonan. iii. fig. 12. Marmoratus. Rumph. Mus. tab. 19. fig. A. B.
+**PERFORATI, SOLIDI.
+Pica. tab. 21. fig. A. Argyrostomus. tab. 19. fig. 3. Margaritaceus? Bonan.
+iii. fig. 11. Delphinus. Bonan. iii. fig. 31. Distortus. Rumph. Mus. tab. 20.
+fig. H. Scalaris. Wentel-trap. tab. 49. fig. A.
+
+HELIX.
+*TESTA ANCIPITI.
+Scarabeus. tab. 27. fig. 1.
+**ANFRACTIBUS CARINATIS.
+Ringens. Bonan. iii. fig. 330. 331. Carocolla. Argenville, tab. 8. fig. D.
+***UMBILICATAE ANFRACTIBUS ROTUNDIS.
+Cornea. Br. Zool. iv. tab. 83. fig. 126. Ampulkcea. Rumph. Mus. tab. 27. fig.
+Q. Cretacea. Born. tab. xvi. fig. 1. 2. Ungulina. Rumph. Mus. tab. 27. fig. R.
+Janthina. tab. 20. fig. 2.
+****OVATAE IMPERFORATAE.
+Amarula. tab. 33. fig. F. F. Haliotoidea. tab. 90. fig. R.
+
+NERITA.
+*UMBILICATAE.
+Canrena. Bonan. iii. fig. 228. 224. et Argenville, tab. 7. fig. C. Glaucina.
+Brit. Zool. iv. tab. 87. fig. 141. Rufa. Rumph. Mus. tab. 22. fig. D. Vitellus.
+Rumph. Mus. tab. 22. fig. A. Albumen. tab. 22. fig. B. Mamilla. tab. 22. fig.
+F.
+**IMPERFORATAE, EDENTUTAE.
+Cornea. Argenville, tab. 7. fig. M.
+***IMPERFORATAE, DENTATAE.
+Pulligera. Lister Conch. tab. 143. fig. 37. Pennata. tab. 604. fig. 29.
+Polita. a. tab. 600. fig. 7. b Bonan. iii. fig. 221. g Rumph. Mus tab. 22. fig.
+1. Peloronta. tab. 22. fig. K. Albicilla. tab. 22. fig. 8. Grossa. tab. 22.
+fig. N. Chamaleon. tab. 22. fig. L. Undata. tab. 22. fig. 4. Exuvia. tab. 22.
+fig. 9.
+
+HALIOTIS.
+Midae. Argenville, tab. 3. fig. A. Striata. Martin Konch. i. tab. 14. fig.
+138. Marmorata. Argenville, tab. 3. fig. B. Asinina. Rumph. Mus. tab. 40. fig.
+E. F.
+PATELLA.
+*LABIATAE.
+Equestris. tab. 40. fig. P. O.
+**ANGULATAE.
+Saccharina. Rumph, Mus. tab. 40. fig. B.
+***MUCRONATAE.
+Lutea. Born. 424. tab. 17. fig. 8.
+****INTEGERRIMAE VERTICE OBTUSO.
+Testudinaria. Argenville, tab. 2. fig. P. Radiata. Born. tab. 18. fig. 10.
+Compressa. Lister Conch. tab. 541. fig. 25. Fusca. Bonan. i. fig. 4.
+
+DENTALIUM.
+Elephantimim. Rumph. Mus. tab. 41. fig. 1. Dentalis. tab. 41. fig. C. Entalis.
+Bonan. i. fig. 9. Politum. Gualt. tab. 10. fig. F. Aprinum. LINNAEI. Eburneum.
+LINNAEI.
+SERPULA.
+Lumbricalis. Rumph. Mus. tab. 41. fig. 1. Polythalamia. tab. 41. fig. D. E.
+Arenaria. tab. 41. fig. L. Anguina. tab. 41. fig. 2. Muricata. tab. 41. fig. H.
+Penis. tab. 41. fig. 7.
+TEREDO.
+Navalis. Planc. Conch. 17. No 2.
+SABELLA.
+Scruposa. LINNAEI.
+IV. LITHOPHYTA.
+TUBIPORA.
+Musica. Ellis Zooph. page 144.
+MADREPORA.
+Fungites. page 149. Pileus. Rumph. Amb. vi. t. 88. f. 2. 3. Labyrinthiformis.
+Ellis Zooph. page 160. No 34. Favosa. page 167. No 61. Polygama. Amoen. Acad.
+iv. tab. 3. fig. 15. Fascicularis. Ellis Zooph. page 151. No 5. Porites. page
+172. No 77. Damicornis. Rumph. Amb. vi. tab. 86. fig. 3. Muricata. Ellis Zooph.
+page 171. No 76. Oculata. Seb. Mus. iii. tab. 116. fig. 1. 2.
+Infundibuliformis. Gualt. Test. tab. 42. Fastigiata. Ellis Zooph. page 152. No
+8. Ascillaris. page 153. No 11. Anthophyllites. page 151. No 4. Cristata. page
+158. No 27. Aspera. page 156. No 21. Cinerascens. page 157. No 26. Daedalea.
+page 163. No 43. Scabrosa. page 156. No 22.
+MILLEPORA.
+Alcicornis. Sloan. Jam. i. tab. 17. fig. 1. Fascialis. Ellis Cor. tab. 30.
+fig. A. a. b. Cellulosa. tab. 25. fig. D. d. Polymorpha. tab. 27. fig. C.
+V. ZOOPHYTA. ISIS.
+Hippuris. Ellis Zooph. page 105. No 2. Ochracea. page 105. No l.
+GORGONIA.
+Abies. page 103. No 6. g. page 99. No 1. Aenea. Rumph. Amb. vi. tab. 80. fig.
+2. Antipaches. tab. 77. Pectinata. Ellis Zooph. page 85. No 9.
+SPONGIA.
+Flabelliformis. Rumph. Amb. vi. tab. 80. fig. 1. Fistularis. Sloan. Jam. i.
+tab. 24. fig. 1. Aculeata. Rumph. Amb. vi. tab. 90. fig. 2. Tubulosa. Seb. Mus,
+iii. tab. 97. fig. 2. Tomentosa. Ellis Zooph. page 187. No 7.
+SERTULARIA.
+Pennaria. Lin. Syst. page 1313. No 26. Pennatula. Ellis Zooph. page 56. No 31.
+VORTICELLA.
+Conglomerata. Amoen. Acad. iv. tab. 3. fig. 1.
+FINIS.
+

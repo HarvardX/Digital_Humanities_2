@@ -1,0 +1,883 @@
+AN ESSAY, TOWARD A DEFINITION OF ANIMAL VITALITY; READ AT THE THEATER, GUY's
+HOSPITAL, January 26, 1793;
+
+IN WHICH SEVERAL OF THE OPINIONS OF THE CELEBRATED JOHN HUNTER ARE EXAMINED
+AND CONTROVERTED.
+
+By JOHN THELWALL, MEMBER OF THE PHYSICAL SOCIETY, etc.
+
+FELIX, QUI POTUIT RERUM COGNOSCERE CAUSAS.
+VIRGIL. LONDON: PRINTED BY T. RICKABY; AND SOLD BY G. G. J. AND J. ROBINSONS,
+PATERNOSTER-ROW; DEBRETT, PICCADILLY; AND COX, ST. THOMAS'S STREET, BOROUGH.
+
+1793.
+
+[Entered at Stationers' Hall.]
+
+TO HENRY CLINE, ESQUIRE. Lecturer on Anatomy and Surgery, and Surgeon to St.
+Thomas's Hospital.
+SIR,
+IT is with no small degree, of diffidence that I presume to dedicate this
+first effort at Scientific Investigation to you; nor could I ever so far have
+prevailed upon myself, had not my desire to testify the gratitude I feel for
+the many obligations I owe to yourself and family, been considerably stronger
+than my hopes, that any thing contained in this Essay could be worthy of your
+attention. -- I do not, Sir, approach you with the venal breath of panegyric;
+nor can I have the presumption to hope, that any laurels can be added to your
+reputation by one who has yet all his own to gather; but as I am now hastening,
+in a new character, to the bar of the public, I am actuated by a feeling
+natural enough to mankind -- the desire of appealing first to that decision
+which is likely to have the strongest bias toward lenity and indulgence. You,
+Sir, need not be told the disadvantages under which I have attempted to form an
+opinion upon an abstruse Physiological Question, which has always, even to the
+most learned professors, appeared to be involved in so much obscurity and
+doubt; and you will, perhaps, be kind enough (if my Definition should ever
+engage so much attention, as to be the object of conversation in those
+respectable medical circles you frequent) to apologize for the imperfections of
+a young Theorist, whose information upon the subject has almost entirely been
+derived (in the few hours he could steal from other studies and other pursuits)
+from the Lectures to which yourself, Mr. Haighton, and Mr. Ashley Cooper, have
+been so kind as to invite me It is an act of justice due to the celebrated
+Lecturer on Comparative Anatomy, to confess, that I never was personally at his
+Lectures; and that, except in the instance where I have mentioned the authority
+of the Encyc. Brit. my quotations are taken from the manuscript copy belonging
+to a very ingenious pupil, who, a few years ago, was a constant and diligent
+attendant.
+. I am aware, Sir, that to this the ill-natured critic might reply: but why,
+then, intrude his puerile speculations on the world? To this I must reply, for
+myself, that the reception of this little Essay in the Society, The Essay was
+disenssed for six successive nights to a theater particularly thronged; and the
+following Letter of Thanks was officially addressed to the Author: Theater,
+Guy's-Hospital, March 2, 1793.
+
+SIR,
+I AM desired, by the Members of the PHYSICAL SOCIETY, to return you their most
+sincere Thanks for your excellent and very valuable Essay, toward a Definition
+of Animal Vitality, the Abilities you displayed during the discussion, and the
+instruction which this institution has received from your Assistance in the
+debates.
+
+I am, SIR, With the greatest Respect. Your most obedient humble servant,
+George Johnson, Secretary. J. Haighton, Praeses.
+Mr. THELWALL, Westen Street, Borough.
+
+
+where it had the honor to be read, was by far too flattering for a young man
+like myself to be insensible to; and the solicitations of some of the most
+respected and intelligent members appeared a sufficient justification, in the
+eye of prudence, for hazarding its publication. I have, therefore, committed it
+to the Press, in the assurance, that, if these gentlemen have leaned too far on
+the side of partiality. I shall not fail to be set right again by the kind
+severity of some, who will incline, with sufficient force, the other way. Among
+these, however, will not, I am sure, be enumerated the Gentleman, whose,
+
+With the utmost gratitude and esteem, I have the honor to remain, JOHN
+THELWALL, Maze Pond, Southwark.
+
+AN ESSAY, etc. READ TO THE PHYSICAL SOCIETY.
+INTRODUCTION.
+MR. PRESIDENT,
+AS my sole motive for becoming a member of this society was the pleasure I
+always derived from the enlightended conversation of gentlemen of the Medical
+Profession, and as I have hitherto attended to the science only as a matter of
+entertaining curiosity, and not as a pursuit to which I have any present
+intention of devoting myself, I might, perhaps, without encountering the
+censure of the candid and considerate, have endeavored to excuse myself from
+the execution of a talk to which the nature of my pursuits must necessarily
+render me so inadequate. But, as I am no friend to privileges, and would have
+every member of society endure his proportion of the public burdens; and as,
+above all, I would wish to exclude the idle drone from the hive of science, I
+felt myself called upon to perform the part allotted by our institutions, and
+to give every gentleman that opportunity of canvassing and controverting my
+opinions, which, with respect to theirs, I have occasionally exercised myself.
+
+I have discarded, therefore, as far as possible, the timidity naturally
+attendant upon the many disadvantages under which I labor, and launching into
+a new and untried region, have brought my little tribute of physical knowledge,
+or rather speculation, to the general fund; confident only in the hope, that
+the smallness of its value will in some degree be compensated by the
+cheerfulness with which it is contributed.
+
+My Theory will no doubt be found, in many respects, defective, from the want
+of more general information in the sciences of Anatomy and Physiology; and may,
+perhaps, be erroneous in others, from the misapprehension of scattered facts,
+imperfectly collected, without the concatenation of circumstances by which they
+might be elucidated and explained. But such as it is, I am sure the society
+would pardon its imperfections, if they knew the numerous avocations among
+which it has been digested, and the small proportion of time I have been
+enabled to devote to its composition.
+
+I make these observations, not to abate the ardour of controversy, or restrain
+the keenness of investigation. It is from that ardour, from that keenness, and
+not from any vague conjectures in this essay, that edification is to be
+expected by the society; and so far am I from wishing to shelter my hypothesis
+behind the screen of any personal consideration, that I should neither be
+displeased at being convinced that I am wrong, nor backward in acknowledging my
+conviction. Reputation is not to be expected from so transient an attention as
+I have been enabled to pay to this subject; nor can there be any disgrace in
+the failure of an attempt, which is the result rather of necessity than of
+choice.
+
+In short, candor of judgment, and not indulgence in investigation, is what I
+solicit from the society; and for that I shall not solicit in vain.
+
+It is necessary, however, before I proceed to my subject, to premise one
+remark. I do not here profess to delineate a perfect system. I have entitled my
+paper an Essay, and as such only I wish it to be considered. I shall not
+therefore be expected to demonstrate every proposition, or to draw out every
+part of my theory with amplitude and perspicuity.
+
+This, I believe, is what has never yet been done; nor, from the limits of our
+present knowledge, can it rationally be expected of any hypothesis upon this
+subject. The Anatomical Physiologist himself is frequently left to wander in
+the regions of conjecture. The functions of almost every organ may be traced
+farther than the existence of such organs can be detected by the minutest
+enquiry: Analogy, therefore, is often called upon to supply the place of
+Demonstration; or the more easy expedient is appealed to, of passing over in
+silence what cannot be readily accounted for. Many of the conjectures, it is
+true, which the imperfection of the senses, or the deficiency of observation,
+has rendered necessary to professors, have gathered confidence from the great
+authorities by which they have been sanctioned: yet let it not be forgotten,
+that it is not in the nature of authorities to change conjectures into proofs.
+Let us remember also, that reason is the greatest authority of all; and that
+when systems clash, and demonstrations are not to be had, we ought not to
+consider who is the author of this, or who of that opinion, but which it is
+that involves the fewest absurdities, or is best supported by analogy, and the
+correspondence of the general laws of Nature.
+
+AN ESSAY, TOWARD A DEFINITION OF ANIMAL VITALITY.
+IT is an apparent paradox, but it is not therefore the less true, that those
+ideas, or phenomena, that are most familiar to us, should frequently be the
+most difficult to explain. This is particularly the case with the subject of
+the present Essay.
+
+Life is a term so constantly recurring, and, indeed, as one would at first
+suppose, an image so perpetually presenting itself to our senses -- and the
+difference is so striking, between the pale insensate corpse, and a living
+being, with all the expressions, actions, and attributes with which, in the
+higher scale of animals, he generally offers himself to our eyes, or our
+imaginations, that a vulgar observer would sneer at the philosopher who should
+suggest the difficulty of ascertaining in what vitality consists: yet where is
+the student, who, upon serious examination, has found himself satisfied with
+any thing that has been said upon the subject?
+
+Does not the greatest anatomical philosopher, even of the present enlightened
+age, tacitly confess the confusion of his ideas in this respect, when he
+declares that, "From an examination and survey of animal matter when dead, only
+we gain an idea of living animal matter;" and that "as from life only we gain
+an idea of death, so from death only we gain an idea of life?"
+
+Before we can possibly derive any sort of information from this antithesis, it
+is necessary that we should be instructed how life and death may be accurately
+discriminated; for how are we to make comparisons between objects which we are
+unable to separate from each other? But even this has never successfully been
+attempted; for though there are certain signs (as putrefaction, etc.) by which
+the death of the animal may be demonstrated; yet, as it is not even pretended
+that putrefaction is the act of vital dissolution, -- or, in other words, that
+the body which is not putrid is necessarily alive -- death must have taken
+place, independently of any such change; and we are, therefore, just as much in
+the dark as ever with respect to the ultimate test by which the presence of
+life may be ascertained.
+
+Treatise after treatise has been written on the Vital Principle; theory has
+pulled down theory without end; and the gross contradictions which have marked
+the opinions of the greatest characters upon the subject, might induce one to
+think that, even with respect to the general idea, we are still entirely at a
+loss; that we are seeking for an imaginary something -- a phantom of the brain,
+which, perhaps, has no real existence: and, indeed, if the term is to be
+literally understood -- if this Vital Principle is to be considered as a
+distinct or independent essence, separable from the effects and actions by
+which the state of vitality is to be ascertained, I am not sure that this
+conclusion will be found to involve as much absurdity as is included in the
+contrary opinion.
+
+I am well aware that there are some, who, from the first blush of this
+observation, may be inclined to smile, and consider it as the ne plus ultra of
+skepticism: but the philosopher will do well to keep the distinction between a
+vital principle, and the state of vitality, constantly in his mind: the former
+properly meaning a living CAUSE -- the latter simply a modification or effect,
+to which the name of life is given, and which may be the result of a
+cooperation of other causes, neither of which need, in themselves, of
+necessity be alive. -- In other words, to contend for the existence of a Vital
+Principle, is to contend that there is superadded to organized matter a
+distinct something, in itself alive, by which the vital functions are carried
+on; while, on the other hand, the State of Vitality need not of necessity be
+construed, as meaning any thing more than the condition of the animal body
+during the continuance of those functions.
+
+Now -- that there is a state of animal existence, that may properly be called
+the State of Life, and be put in direct contradistinction to that of Death, and
+that upon the previous induction of this state depend all the higher functions
+of the sensitive being, are certainly among the most self-evident of all simple
+propositions. Nor is it less certain, that there must be an exact and precise
+moment (nay, fraction, or, if I may so express myself, mathematical point of a
+moment), in which this state of life ceases, and that of death begins; though
+whether that moment can ever be ascertained by any sensible and positive mark
+of discrimination, is matter of considerable doubt: but if this Vitality is to
+be considered, ab origin, as a Principle, (by which, physically or
+philosophically speaking, I conceive is always to be understood, a simple,
+elementary, and first natural cause), and not, as itself, an effect of the
+cooperation of other principles, or natural and pre-existing causes, I own,
+for my own part, I must be rather slow in yielding my assent; and, while I bow
+with respect to superior judgments, must claim the prerogative of exercising my
+own.
+
+Egypt, Greece and Rome are, it is true, against me: -- the ancients and the
+moderns -- Aristotle and Plato, Plutarch, Moses, and John Hunter; and yet
+against this host of Giants I presume to lift my pigmy lance, and brave the
+unequal combat.
+
+The most ancient of the opinions transmitted to us upon this subject, I
+believe, is that of the Egyptians, which considers the Soul (or living
+Principle) as a kind of shadow, or aerial substance, diffused through every
+part of the body, animating every limb, and partaking of all its proportions.
+
+Man, according to them, consists of three parts -- a gross perishable body --
+an intellectual principle, or intelligent mind, by which he is elevated above
+the brute creation -- and an image, or soul, exactly resembling the body in
+shape, in magnitude and feature, upon which animation, and all the functions of
+the animal frame depend; and in which, also, they conceive the intellectual
+principle to be enshrined.
+
+That these were considered, in the proper meaning of the word, as distinct
+principles, is evident, since they are treated as being capable of independent
+existence -- the soul, or vital principle, continuing many of its functions
+after its separation from the body; and the mind, or intellectual power, after
+the final separation, being sometimes consigned to a different residence from
+the soul.
+
+This opinion (which still, with some slight variations, continues to be
+popular among Divines and Moralists, and has been mangled and metamorphosed
+even by our philosophers themselves) was adopted by the Greeks, was infused
+into the subtle and intricate philosophy of Aristotle, dilated upon by the
+divine genius of Plato, beautified by the sublime invention of that most
+ancient of their poets and philosophers, the immortal Homer; and, at length,
+was taught by Plutarch to the Roman World, in the following manner:
+
+"Man," says he, "is a compound subject, but not of two parts, as is commonly
+believed, because the understanding is generally accounted a part of the soul;
+whereas it as far exceeds the soul, as the soul is diviner than the body. Now
+the soul, when compounded with the understanding, makes REASON, and, when
+compounded with the body, makes PASSION; whereof one is the source or principle
+of pleasure or pain -- the other of vice or virtue. Man, therefore, properly
+dies two deaths; the first makes him two of three, and the second makes him one
+of two."
+
+This hypothesis has certainly beauty and ingenuity to recommend it to our
+imaginations; and is also, to my conceptions at least, somewhat more
+comprehensible than those systems which refer the operations of gross matter to
+immaterial agency. It is, however, like all the speculations of the ancients
+upon these subjects, unfounded in experimental enquiry, and unsupported by
+facts or observation: yet St. Paul, (who derived much of his inspiration from
+the ancient poets and philosophers) has given it the sanction of his authority,
+by dividing, in distinct terms, the triune man into Body, Soul, and Spirit.
+
+This being the case, it is not at all surprising that modern philosophy should
+have been more anxious to frame such systems as were reconcilable with this
+tripartite division, than such as might be consistent with known facts, or
+maintainable on the grounds of reason; and that we should accordingly find this
+theory so stoutly defended to the present hour, with the slight alteration only
+of transposing the soul into the place of mind or spirit, and substituting
+Vital Principle in the place of soul. Some philosophers, however, by
+considering the immaterial essence as the animating principle, and others, by
+considering the animating principle as the only medium of intelligence, have
+reduced human existence to a twofold nature: I, for my part, shall simplify
+the subject still farther -- and, regarding man as differing from other animals
+rather in the extent than in the nature of his powers, shall consider him,
+together with the inferior tenants of creation, in an individual point of view
+only; as consisting of a simple organized frame, from the susceptibility and
+presence, or the non-susceptibility, or absence of stimuli in which arises the
+whole distinction between the living body and the dead. Wherever there is a
+perfect organization of the animal substance, there, I conceive, we have the
+susceptibility (or, as it may, perhaps not improperly, be called, the
+PRE-DISPOSING CAUSE) of Life: whatever may be that specific stimulus, by which
+such susceptibility may be disposed to be excited, that, I conceive, must be
+admitted to be the REMOTE CAUSE, or agent by which Life is to be produced: from
+the intimate combination of these results, that meliorated or altered state of
+the organized frame, which may be considered as the PROXIMATE CAUSE; and the
+Vital Action, as it may properly be called, or the power by which the vital
+functions are performed, being the ultimate effect of these cooperating
+causes, is, in reality, as I humbly presume, to be considered as that Life, or
+Animal Vitality, for which, under so many denominations and imaginary forms,
+the Philosopher and the Medical Professor have so long been seeking.
+
+Such is the general idea, which, upon the simple principles of materialism, I
+have formed of life; and so to define this idea as to account for the
+phenomena, without appealing to the fanciful creations of the visionary brain,
+or abstruse and unmeaning terms of pretended science, is the task I have
+undertaken.
+
+But before I enter more particularly into the subject, it will be necessary to
+bestow some consideration on another theory that has lately very much amused,
+and, according to my judgment, misled the scientific world -- The theory, I
+mean, of the Vital Principle being resident in the blood.
+
+This doctrine, in all probability, had its origin in the remotest antiquity;
+since the fatal consequences that result to the animal frame, from the spilling
+of this important fluid, must have been frequently observed, especially in the
+ages of barbarism and violence, long before the faculties of man were
+sufficiently improved for refined speculations, or philosophical researches
+into nature: but the prejudices of ignorance have sometimes been ascertained,
+and more frequently adopted, by the luminaries of science and the world; and
+this hasty opinion (for such to me at least it appears) has not wanted
+supporters among those who will long continue to claim the applause and
+admiration of mankind.
+
+And first, I must particularize, that this doctrine has received the direct
+sanction of the great Jewish Lawgiver (or whoever was the author of the Five
+Books of Sacred History generally ascribed to him) in the following, among a
+variety of texts of a similar nature -- "For it is the life of all flesh; the
+blood of it is the life thereof: therefore I said unto the children of Israel,
+Ye shall eat of the blood of no manner of flesh: for the life of all flesh is
+the blood thereof; whosoever eats it shall be cut off."
+
+I am very well aware, that the sublime language of Revelation is not always to
+be interpreted with philosophical precision -- the enthusiasm of divine
+inspiration frequently elevating the style of the holy penman to a degree of
+poetical hyperbole, which would be perfectly unintelligible to the cold
+perceptions of reason and enquiry, if it were not for the friendly appeals of
+the commentator to mystical allegory, and metaphorical elucidation: but as the
+doctrine here quoted is merely illustrative of the simple mandate, that the
+Jews should not eat of the blood of animals slain for their sustenance, there
+can be no doubt of its being intended to be literally understood as the opinion
+of Moses, that the blood is absolutely the Vital Principle.
+
+For this opinion, I am very much inclined to suspect, that no better
+foundation will be discovered than the acknowledged fact, that when the blood,
+or any very considerable portion of it, is drawn away, the vital functions of
+the animal will cease: but, unfortunately for this theory, these functions will
+also cease, without the proportion of this fluid being at all diminished: and
+as there are also several other parts entering into the composition of the
+animal, which, if subtracted, even in part, resign the body to inevitable
+destruction, we might as well say, that the stomach thereof, or the kidneys, or
+the liver thereof, is the life thereof, as that the blood is to be so
+considered. Nay, from what we are now acquainted with concerning the nervous
+system, there would be much better reason to suppose, with some later
+philosophers, that the life of the animal is in the brain, rather than in the
+blood, since so much of the latter may be lost without essential injury, while
+the former cannot receive the slightest wound without bringing on immediate
+dissolution; and though, upon serious reflection, there is every reason to
+believe, that the fatal catastrophe is produced as much, at least, by the
+consequent extravasation of the blood, as by any immediate susceptibility of
+injury in the substance of the brain; yet this does not weaken the argument,
+since it is evident, that it is not the loss of blood from the vessels which is
+the real cause of the mischief (for much larger quantities may be drawn from
+the same part by mere external wounds, without any alarming consequences); but
+that the injury produced by the extravasation results from the consequent
+oppression on the organ, by which its active energy is restrained and benumbed,
+and, of course, its vital functions will be stopped.
+
+From this, and a variety of other considerations, it is evident that the brain
+is, at least, more vital than the blood, since the compression of the former is
+more dangerous than even a very considerable deduction of the latter.
+
+But it might, perhaps, be objected to the whole of this reasoning, that many
+animals have life, which have neither brain, nor kidneys, nor liver, nor,
+strictly speaking, even stomachs; for I know not how the simple cavities of the
+leech or polipus can, in strict propriety, be considered as stomachs.
+
+This objection being founded in truth, it is necessary that we should give it
+its utmost force, and admit it as a demonstration, that animal life neither
+consists in, nor is absolutely dependant upon any one of these particular
+organs: but as it will be admitted, that though they have not these, they have
+some other organs, which, as far as is necessary for the performance of their
+functions, supply the place of these, the cases will still be found to be in
+some degree parallel -- for, strictly speaking, many of the most imperfect
+animals have no blood (at least, according to the general idea which is given
+of it in the descriptions of anatomists), there being, perhaps, as much
+difference between the ichor, which supplies its place in several classes of
+insects and reptiles, and the compound fluid, which, in the more perfect
+animals, we call by the name of blood, as between this ichor and the sap of
+vegetables, and a variety of other simple juices of animal or vegetable
+substances. If, therefore, the Vital Principle is to be sought in the
+circulating fluids, we ought rather to say, that the SERUM thereof is the life
+thereof, than the BLOOD.
+
+But as I am informed, that the immortal Harvey upheld a doctrine similar to
+that I am combating; and as so great an authority as John Hunter has thought
+proper, in some degree, to sanction the opinion, it is necessary to treat it
+more at large, and to abandon the cursory observation of the Jewish Lawgiver,
+for the more elaborate and practical researches of the British Anatomical
+Philosopher.
+
+I have said, that John Hunter's Theory sanctions, in some degree, the opinion
+of Moses; for I think it very doubtful, whether he means to carry it to the
+full extent, and to assert, that the Vital Principle is peculiarly, or
+originally, in the blood. The Editors of the Encyc. Brit. it is true, ( title
+BLOOD, vol. iii. p. 313), evidently understood him in this manner, as will
+appear from the following quotation: "The uses of this fluid are so various,
+and of such an important nature, that some have not scrupled to affirm the
+blood to be actually possessed of a living principle, and that the LIFE of the
+whole body is derived from IT. This opinion was first broached by the
+celebrated Harvey," ( this I have already shown to be a mistake Vide p. 13. of
+this Essay, where it is shown to have been the opinion of Moses, etc.
+), "the discoverer of the circulation: but in this he was never much followed;
+and the hypothesis itself, indeed, has been pretty much laid aside and
+neglected, till of late that it was revived by Mr. J. Hunter." After which are
+quoted the six arguments, (which I shall presently endeavor to examine) as
+advanced by that great professor, to support this broad and unqualified
+opinion: but, in the manuscript copy of his Lectures, which I have principally
+made use of, he begins the subject with the simple assertion only, that the
+blood "is endowed with a principle of life, in itself, equally with the solid
+parts."
+
+Now, whether all or any, either of the particular fluid or solid parts, I
+treat the word parts here, not as alluding to limbs or proportions, but as
+referring to the separate and different species of substance of which the body
+is constituted -- as bone in contradistinction to muscle, muscle in
+contradistinction to nerve, nerve to membrane, and the like.
+possess in themselves (that is to say, either separately, or absolutely) a
+principle of life, I do not at present enquire, because it seems to involve the
+general question, (which must be referred to its proper place in my Essay);
+namely -- Whether life itself is to be considered as a distinct and positive
+essence, or, simply, as the result of a particular harmony and correspondence
+of the whole, or aggregate combination, preserved and acted upon by a
+particular stimulus? On this subject, indeed, it is sufficiently evident that I
+have the misfortune to differ from the illustrious authority before me; but as
+I am now examining the doctrine only of the Vitality of the Blood, it is but
+necessary for me just to observe, that as nothing more is directly asserted in
+the proposition, than that the blood of the living body is equally alive with
+the bones and ligaments, and muscular fibers, etc. of which such living body is
+composed, it does not seem to lie considerably in the way of my theory;
+because, if in other respects I can but substantiate my opinion, the difference
+will not be very great, whether we admit the blood as participating in the
+Vitality, produced as I shall endeavor to show, or consider it as nothing more
+than a specific fluid, giving nourishment to the various substances, and
+conveying to the different organized parts the necessary stimuli, by which Life
+or the Vital Action is to be produced or sustained. Nay, when he afterward
+proceeds to assert, that "Blood is not only alive itself, but also, by
+circulation through every part of the body, becomes the means of, and carries
+Life to, the other parts;" I do not yet perceive the absolute necessity of
+entering the lists upon this part of the subject, because he does not palpably
+assert, that the Life to be conveyed is, sui generis, or originally in the
+blood; but only that this fluid is the agent by which the Vitality is
+communicated to the respective parts; and it is my intention to admit that the
+blood, in the more perfect, and the serous fluid, substituted in its place, in
+the less perfect animals, is the appropriate medium, by which alone the stimuli
+necessary for the production and sustainment of Life can be absorbed and
+properly diffused through the organized frame: and, indeed, several passages
+might be produced to countenance the suspicion, that this justly admired
+Lecturer so far agrees with the Theory I mean to enforce, as to admit that the
+Vital Principle is, at least, sustained and re-invigorated (if not absolutely
+generated), not independently by the blood itself, but from something imbibed
+in its passage through the lungs; for he acknowledges, that "Before blood is
+capable of giving life," (in other words, according to his own theory, before
+it is alive), "it must have circulated through the lungs, where it undergoes
+some essential change. Perhaps," continues he, "it is then in its second state,
+or vivification."
+
+It is obvious to remark, that if the blood is not "in its state of
+vivification" till it has passed through the lungs, Vitality cannot be the
+property of the blood itself, but only a consequence of some action, or
+superaddition, acquired in its passage through that organ; and, consequently,
+that the Vital Principle (to use the language of those philosophers who
+consider Life as a separate essence) is to be sought, not in the blood, but in
+that subtle element, or whatever it is, which is imbibed by means of the
+respitory system.
+
+But (if it is not presumption for me to say so) there seems to be some degree
+of obscurity -- perhaps, if I were speaking of any man but John Hunter, I
+should venture to say contradiction, in the doctrines of the Lecturer, upon
+this subject; for he immediately afterward denies that the blood derives its
+Vitality from its passage through the lungs, in the following words: "Perhaps
+it might be thought that Life is given to the Blood in the Lungs in consequence
+of the heat applied there, as heat is supposed to act upon the Egg; but it must
+be remembered, that Life is not given to the Egg by heat, only action produced
+by it." By which it should seem that he means to be understood as considering
+the Vital Principle to be a property of the blood itself (so long as it
+continues in its perfect state) independent of respiration; and that this
+action of the Lungs is only necessary for the purposes of circulation, and the
+production of action in the other parts of the frame, by the distribution of
+this principle.
+
+And yet, if the Egg be alive (which, let it be remembered, I do not positively
+admit), how can this be? since (previous to the alteration taking place, from
+the application of heat, during the period of incubation), it contains no blood
+whatever; and, consequently, if the Vital Principle be in the blood, must be
+alive without the principle of life -- a paradox, which, perhaps, it would be a
+little entertaining to hear the advocates of this doctrine explain.
+
+Not, however, to dwell upon so ambiguous a passage, there are, in the Lectures
+of this truly great man, sufficient foundations for the opinion apparently
+entertained by the Editors of the work above quoted, as well as by several of
+his pupils and admirers -- namely, That he means to represent Vitality, or,
+according to his own expression, the Vital Principle, as residing originally,
+and in an emphatic sense, in the blood, and derived from it to the other parts
+of the system. He even, in the clearest manner, affirms its superior
+vivification over the nerves in particular: for while these, according to one
+of his aphorisms on the Vitality of the Blood, are not concerned in "conveying
+life to parts, but only direct the motions of the parts," the blood is
+explicitly affirmed not only to "convey life to the other parts," but to be
+absolutely "the living support of the nerves themselves:" by which it is
+evident, that we must understand not only that the nourishment of these
+sensitive organs, but even their Vitality, is derived, not from their
+organization and the stimuli (of which they are, perhaps, the important
+repositories, or reservoirs), but from the Vital Principle peculiarly resident
+in the blood, and deposited there for the purpose of being communicated and
+diffused to other parts.
+
+These other parts then being dependant (according to this theory) upon the
+blood, not only for their support and enlargement, but, also, in an immediate
+view, for their Vitality, it is clear that if the system of the Lecturer does
+not go the whole length with Moses, of saying that the blood of the animal is
+the life thereof, at least that he supposes Life, of itself, and independent of
+any particular action or stimulus to belong to, or be a property of, the blood;
+while to the rest of the animal substance, it only belongs in a secondary
+signification, as being imparted by the blood. And this, perhaps, we are the
+more bound to consider as his real meaning, as he maintains the doctrine of its
+vitality even after coagulation; and even delivers it as his opinion that this
+phenomenon "is owing to an action of self-preservation in the blood, or to an
+effort for its continuance." So that, according to this position, and the
+arguments that follow upon the circumstance of coagula becoming vascular under
+particular circumstances, we are not to consider the vitality of the blood as
+the consequence of its state, condition, and harmony, with the other parts Vide
+Note, page 19.
+of the body, but to look upon it as a principle inherent in it, and equally a
+property of it, whether in one state and situation, or another -- whether in
+its vessels, or in a state of extravasation -- whether in a fluid or a solid
+form -- a circumstance attributed to no other of the component parts of the
+animal frame: these being considered as having no other principle of life, but
+what they immediately derive either from the blood, or from their harmony with
+the system in general; whose resources must cease before any material change in
+their nature and substance can take place. And yet, if this argument is
+properly sifted, I question whether it will make much for the Vitality of the
+blood, in any point of view whatever. For as no similar change in any other
+fluid was ever brought forward as an evidence of a Vital Principle in such
+fluid, I cannot see that any phenomenon, that would not be considered as a
+proof of Vitality, or of an effort of self-preservation, in any other instance,
+should have such stress laid upon it, for such purposes in the case before us.
+
+With respect to the generality, probably to all, of the fluids capable of
+congelation, it might, perhaps, be objected, that they afford no parallel
+example of permanent change of structure; as they are capable of resolution to
+their original form, which blood is not. But petrified substances, in which the
+change is permanent and entire, might at least be said, in this respect, to
+have as good a claim to the attributes of a vital principle and action of
+self-preservation, as the blood, which is here said to metamorphose itself into
+something else, in order to continue its existence. Besides, if the coagulation
+of the blood be an action of its Vitality, and an effort of its Vital Principle
+for its preservation, how comes it that it will coagulate after having been
+frozen; for John Hunter admits, that what he calls the Vital Principle of the
+Egg, is destroyed by freezing; and, indeed, nothing is more injurious to
+vitality of every kind, than the frigorific process: and yet Mr. Hewson informs
+us, that blood may be completely frozen, and preserved in that condition (as
+other dead animal substances may) for a considerable time; and yet, after it is
+again reduced, by an increase of temperature, to its fluid form, it will
+coagulate just as usual.
+
+Having thus examined the general state of the question, I shall preceed to
+review the six arguments brought forward upon the authority of the lecturer, in
+the Encyclopedia, in support of the opinion previously quoted -- ( vide page 18
+of this Essay.) For the more ample statement of these, however, (not to swell
+my Essay to an unnecessary length, by quotations from a book, which is in the
+hands of every body) I shall refer to the work itself.
+
+With respect to the first of these, derived from "the power which the blood
+possesses, of uniting living parts," it is to be remembered, that this is only
+the case in those instances where blood is immediately supplied by the parts to
+be united, and where, consequently, from its temperature, its assimilitude to
+the parts with which it is to enter into combination, its glutinous texture,
+and a variety of obvious reasons, it may naturally be supposed to form the best
+cementing medium; and the healing of wounds, by other applications, which have
+evidently no Vital Principle, appears to me sufficient to show, that this is no
+proof of Vitality. All that is requisite, in either instance, being to keep the
+living parts in contact, and exclude the air, and other injurious, extraneous
+particles, till Nature has a sufficient opportunity of exerting her restoring
+powers.
+
+The blood, yet warm, and fluid from the wound, may naturally enough be
+expected to enter intimately into the different portions of the severed parts;
+and all further injuries being thus prevented, it is neither singular nor
+strange, that the separated vessels should again unite, from the attraction of
+similar particles so frequently observed, when circumstances are favorable to
+the experiment; and that the stream of blood, driving toward its usual course,
+should at last find its way again through the coagulum formed by the blood thus
+bound up with the injured parts, and complete their restoration. -- 2 and 6.
+Exactly upon the same principle I account for the phenomenon from which the
+second argument is drawn; namely -- That "coagula of extravasated blood will
+become vascular:" for this, I believe, is never the case, except when the
+coagula come in contact, or nearly in contact, with arteries previously formed.
+This, therefore, seems to prove nothing more than that coagulated blood, when
+preserving a proper degree of temperature, from its situation, is the proper
+medium, or soil, into which the arteries may strike and ramify -- all living
+parts, perhaps, having a tendency to grow and enlarge, so long as sufficient
+stimuli are supplied, and the proper medium is presented. For my own part, I
+cannot but observe, that all the preparations I have seen, intended to support
+this argument, have only suggested a process similar to that observable in
+vegetation, where the moist earth, in contact with the roots of plants or
+trees, supplies the proper medium into which the fibers are stimulated to
+extend their growth. And hence it is, that I find no difficulty in accounting
+for the junction of the testicle of the cock, to the liver of the hen, into
+whose abdomen it had been introduced, as mentioned in illustration of the first
+argument; or, for the vascular appearance of the coagulum, found between the
+separated parts of the fractured os humeri, upon which the sixth, or rather the
+reiteration of the second argument, is founded. -- 3. As for the third
+argument, drawn from the power of the blood, to preserve an equal degree of
+temperature in the living body, during the prevalence of different temperatures
+of the atmosphere -- I shall at present make no other answer to this, than by
+observing, that if the Theory I am about to suggest is well founded, that will
+be sufficient to account for this phenomenon, without appeal to any other
+hypothesis: for if the air may be admitted to be sufficiently impregnated with
+the same specific stimuli in the coldest, as well as in the hottest day, there
+can be no reason why the blood should be expected to have a lower degree of
+temperature on the former than on the latter -- whether it be admitted to be
+possessed of a Vital Principle independent of such stimuli, or not. -- 4. As
+for the "Blood being capable of being acted upon by a stimulus," -- this is
+saying no more than may be proved of a variety of things that have confessedly
+no pretensions to life whatever: and as the only particular effect which is
+instanced as produced by the stimulating influence on the blood, (namely
+coagulation), would never be admitted as a proof of life in any other fluid
+whatever, it cannot, as far as I am able to discover, be made any use of in
+illustration of the point in question. 5. The fifth argument, that "the blood
+preserves life in different parts of the body," is equally applicacable to the
+Theory of the Lecturer, and to my own; for, whether it be considered as
+retaining in itself the Vital Principle, or being the sole medium through which
+Vitality can be produced, we must equally admit its importance, not only in
+preserving, but in diffusing life: I shall therefore only observe, that the
+collateral part of the argument, which asserts, that "when the nerves, going to
+a part, are tied, the part becomes paralytic," is, I believe, overthrown by
+later experiments; and that sensation only, and not the power of acting the
+muscles, is interrupted by the ligature of nerves. Upon this, however, (as I
+certainly do not mean to rob the blood of its vital honors, to bestow them on
+the Brain and Nerves), I shall not at present enlarge; but shall conclude what
+I have to say upon this subject, by observing that, perhaps, the whole doctrine
+of the Vitality of the Blood (in whatever point of view it may be taken)
+originated in the mind of the Lecturer, from observing the important offices it
+performs in the fustainment and reproduction of parts confessedly and palpably
+alive. Now, that the nerves (for example), as well as every other part of the
+animal body, are nourished by the blood, is sufficiently evident, and that, but
+for such nourishment, these parts must, by exhaustion, lose their Vitality, is
+equally obvious; but that the fluid, nourishing and sustaining a living part,
+must of necessity be itself alive, is what I cannot readily admit, because it
+seems to contradict the known laws and phenomena of nature. Air and water are
+the proper and necessary nourishment of plants, without which vegetation must
+quickly be exhausted and expire; but no one will, therefore, contend, that air
+and water are alive: nor will the difficulty be removed, by objecting, that air
+and water are only the food of plants, and that the nourishment of the
+vegetable is immediately derived from the circulating sap, as that of the
+animal from the blood; for as no digestive process can be assigned to the
+plant, air and water must be the immediate nourishers of the sap; and,
+consequently, the conclusion must either be, that the living sap is nourished
+by air and water, which are not alive, or that the sap, which is not alive,
+nourishes the living plant; which, with respect to the argument before us, is
+just the same: in short, it might as well be maintained, that whatever supports
+a sensitive part must itself be sensitive; or that nothing but nerve should
+nourish a nerve, or muscle but muscle, etc. which would drive us back to the
+obsolete opinion of those philosophers, who maintained, that all things contain
+the component parts of all things; and, in short, would even compel us to
+appeal to the doctrine of an ancient sect of Atheists, who, to get rid of the
+necessity of a Deity, insisted upon the original and eternal Vitality of
+matter, and accounted for the growth and nourishment of living things, by
+arguing, that the particles that nourished them were themselves possessed of a
+living principle. If, however, we abide by the mode of reasoning suggested by
+the known phenomena of nature, a much more simple theory will present itself,
+in the evident tendency of small accumulations of matter (when placed under
+favorable circumstances) to assimilate, and even identify themselves with the
+larger masses to which they adhere, or with which they enter into combination;
+which will sufficiently account for the nourishment and growth of the living
+body, without attributing Vitality to the blood, by which it is sustained.
+
+Having thus taken as brief a survey as the nature of the subject would permit,
+of some of the principal opinions, that have, at different times, commanded the
+attention of the scientific world, I shall proceed to the professed object of
+my Essay; namely -- to consider of the Definition. Of this undertaking the
+difficulty must be readily admitted; or, should pride or petulance be inclined
+to deny it, the subterfuges to which the most ingenious ornaments of medical
+science have been driven, would furnish a sufficient reply. Some have given it
+up entirely, and satisfied themselves with a negative test, instead of a
+positive definition; asserting, that the only criterion of its absence is
+putrefaction: but these cautious maxims, though they may be adopted, for
+security, by the practitioner employed in the benevolent labor of snatching
+from premature dissolution the pale victims of accident or despair, will not
+satisfy the spirit of the philosophical enquirer: he, indeed, may frequently be
+compelled to wander in the gloom of doubt and negation; but his active mind
+will scorn such sullen darkness, and pant for the glorious prospects of truth
+and certitude; to which, however, I have not the arrogance to profess that I
+shall conduct him.
+
+By some it has been contended, that life consists in action, or excited
+irritability; by others, simply in organization: but both of these would admit
+a variety of instances, that can lay no claim to any sort of Vitality, much
+less to that sort of Vitality which is the subject of the present paper: with
+respect to the former, I need only instance, that parchmen, leather, thread,
+etc. may be excited to considerable action by either heat or moisture, as may
+also a variety of light bodies, by the application of electricity: and, as for
+organization, this I consider to be no other than that arrangement of
+dissimilar parts, by which a harmony and communication of the whole is
+produced, so as to enable it to preserve itself in a given state, and resist
+its own dissolution. This, therefore, is very inadequate to our idea of life;
+for matter will continue to be organized when LIFE has ceased; as it also, I
+conceive, must be organized before LIFE begins; in illustration of which, I
+should rather be inclined to quote the instance of the Egg, which (with all the
+deference due to the high authority of John Hunter) appears to me to be
+organized, though not alive, previous to incubation: I conceive also, that many
+bodies may be considered as organized, that were never intended to live at all.
+To those, however, who wish to consider life as entirely dependant on
+Organization, I submit the following Definition: That perfect harmony of
+organized parts, by which the animal frame is rendered so far susceptible of
+the proper stimuli, as to have its functions, or any of them, induced upon such
+stimuli being applied: and this the Society will be kind enough to keep in
+their minds, as what I mean, when I come hereafter to speak of Specific
+Organization. -- Others have considered Animal Life as consisting in the
+performance of the Animal functions: but this definition would exclude, from
+all pretensions to Vitality, many beings, which common sense must admit to be
+alive; for an animal may certainly live, when it neither does, nor can perform,
+all its functions; and, as for ascertaining which may be dispensed with, and
+which may not, this, I believe, has never been successfully attempted.
+
+The definition of John Hunter appears to me particularly vague and
+unsatisfactory. "Life," says he, "does not consist in any modification of
+matter: it either is something superadded to matter, or else it consists in a
+peculiar arrangement of certain fine particles of matter, which, being thus
+disposed, acquire the properties of Life." The Disciples of this justly
+celebrated man must pardon me, if I am inclined to smile at this definition, or
+rather indefinite description of Life, and to declare, that I never in my life
+met with any thing more completely incomprehensible. "Life does not consist in
+any modification of matter;" and yet, perhaps, "it consists in a peculiar
+arrangement of certain fine particles of matter, which, being thus disposed,
+acquire the properties of Life!" What is the fineness of these particles of
+matter, but a modification of matter? -- What is the peculiar arrangement --
+what the disposition of these particles, but a modification of matter? In
+short, is not this telling us, in other words, that Life positively is not a
+modification of matter, but that yet, perhaps, it is a modification of matter?
+As for the other position, that Life consists in something superadded to
+matter, I had once occasion to controvert this incomprehensible axiom at the
+Lyceum, when, all of a sudden, a sneer went round the Theater, and a hundred
+mouths were filled with fury against me, as though I had stood up, in the
+presence of the Pope and his Cardinals, to deny the doctrine of the Trinity. I
+shall venture, however, once more to assert, that the spiritual allusions of
+this sentence are too fine for the gross conceptions of my material organs.
+According to my dull comprehensions, matter and vacuum stand precisely in the
+same degrees of contradistinction as something and nothing; and, in the former
+case, as in the latter, it is impossible for me to admit the negation of the
+one, without, at the same time, acknowledging the affirmation of the other. --
+Where there is not matter, there there is vacuum; -- where vacuum is not, there
+there must be matter. Those effects, which are not produced by the operations
+of some modification of matter, or, in other words, of something, must of
+course be produced by some modification of vacuum, or, in other words, of
+nothing; and how vacuum, or nothing, can be so modified as to produce Life, I
+leave to the consideration of the Metaphysicians. It is evident, however, that
+this is not what the Lecturer means; because, though he denies the modification
+of matter, he admits the superaddition of something. -- But what is this
+something that is not matter? -- Is it Spirit? I certainly do not think it the
+part of a philosopher absolutely to deny the existence of every thing that he
+cannot demonstrate; but, as contradictions are not to be admitted, I must, for
+my own part, maintain, that if there is any such thing entering into the animal
+composition (though our senses have never yet been capable of taking cognizance
+of it) as Spirit, having an existence separate and distinct from organization,
+and that gross perishable kind of substance we call body, that such Spirit,
+however subtle, however refined, must still be material: and then, indeed, the
+absurdity vanishes -- because that more subtle matter can act upon that which
+is more gross and inert, we have sufficient evidence in the action of air, and
+of the electric fluid. And that this (a fine and subtle, or aeriform essence)
+is the real and genuine meaning of the term Spirit, about which divines and
+philosophers have so long been contending, is, I conceive, sufficiently
+demonstrable, not only from its etymology, but also from the common application
+of the word in the other senses in which it is still retained: as, for example,
+-- by the spirit of any distilled or fermented fluid, we always mean to express
+that more subtle and volatile principle (the alkohol of the chemists) mixed
+with, and diffused through such fluid, and whose materiality (notwithstanding
+its superior subtility) is no more to be questioned than that of the grosser
+parts of the fluid with which it enters into combination. In short, it will
+perhaps be found, that all Nouns, immediately or arbitrarily derived from
+Verbs, The natural mode of derivation seems to be of the Verb from the Noun;
+this being evidently likely to precede in the first rude attempts at language:
+but there are many words now in use, which must have come to us in the contrary
+direction -- as Heaven, for example, which still retains, simply and
+absolutely, the meaning (that which is heaved or lifted up), which it brought
+from the parent verb, to beave.
+whether of the same, or any other language, still retain, in a considerable
+degree, their paternal signification; and spirit must, perhaps, be admitted to
+bear no other meaning than the Latin spiro (to breathe), from which it is
+confessedly taken: or, if we must needs make a distinct living existence of it,
+then can it possibly mean no other than a vital aeriform substance, diffused
+though the frame, and giving animation to the respective parts. So that, at any
+rate, this something superadded to matter, can only be a more refined species
+of matter added to that which is more gross; and, of course, it constitutes
+that very modification which the Lecturer denies. -- It has been stated, in
+defense of this passage, that by some thing superadded, no more is meant than
+some quality; but this would by no means mend the matter, since nothing can be
+added but what has a previous and separate existence. Two things brought
+together may, it is true, occasion the existence of a third, different from
+both; but this third is not added, but produced. Now qualities have no separate
+existence, nor can they even be conceived in the imagination, otherwise than as
+connected with the things of which they describe the shades or attributes: they
+are, in fact, solely and purely, modifications of matter, and, consequently,
+this interpretation involves all the absurdity and contradiction of which I
+have before complained.
+
+But it is much more easy to find fault with the definitions of others, than to
+frame such as are not faulty: I shall proceed, therefore, to my task with
+caution; and, beginning with a general, proceed to a particular definition. --
+Life then, in the animal, we will say, is that state of action, by which the
+functions, or any of the functions of the animal, are carried on. This
+definition, it is true, neither points out how the action is supposed to be
+induced, nor the state of the animal previous to the induction: I proceed,
+therefore, to add, that, previous to the existence of life, the body must have
+attained a SPECIFIC ORGANIZATION; and that Life, or, in other terms, the Vital
+Action, is induced by the application of proper stimuli: thus, then, life in
+the animal is that state of action (induced by specific stimuli upon matter
+specifically organized), by which the animal functions, or any of them, are
+carried on. To the whole of this, I know, may be objected, the assertion of
+that great man, whom, with such repeated arrogance, I have ventured to oppose:
+namely -- That Life may exist without matter, being in "a state of action, and
+the property of self-preservation may alone be present, Life being at the same
+time present in its full force." To the solitary instance, however, brought in
+support of this assertion, I must reply, that the life of the Egg is by no
+means obvious to my understanding; for, although the Egg be so far organized as
+to be endowed with the principle of self-preservation; so, also, are various
+fruits, etc. whose Vitality, I suppose, after they are plucked, will not be
+contended for Some, perhaps, will contend for the life of the kernels, seeds,
+etc. I, however, should content myself with contending for their specific
+organization; by which, upon the application of proper stimuli, they are
+rendered susceptible of Life.
+. In short, it does not appear to have any one property or attribute, which, in
+any other substance, would be deemed a sufficient test of Vitality, till the
+stimulus of heat, being properly applied, so meliorates the arrangement of
+particles, as to induce the specific organization essential to the
+susceptibility and production of Vital Action. -- By this, then, it will
+appear, that I consider the preliminary principles of life to be a specific
+organization and a specific stimulus; the perfect contact of these to be the
+immediate cause, and life itself to be the state of action produced by this
+union.
+
+It will now only be expected, that I should give an opinion upon the nature of
+the stimulus required. But, in order to do this, I must first premise, that I
+consider the Blood, independent of its nutritive power, as the specific medium
+by which the stimuli must be conveyed to the different parts of the organized
+frame, so as to produce the Vital Action. This Blood, then, in its passage
+through the Lungs, collects a something, which generates a specific heat (for
+it is evident, that heat, unless thus generated, will not answer the purpose),
+which it diffuses through the whole vascular system, and then (exhausted of its
+vivifying power) returns again to the lungs, to exhale whatever noxious
+particles it may have collected, and to inhale a fresh portion of the same
+vivifying principle. But what is this something -- this vivifying principle? --
+Is it atmospheric air itself? -- Certainly not. The coats of the arteries, and
+the membranous linings of the cells of the lungs, forbid the access of such an
+element; besides, it has been proved by experiment, that in the arteries of the
+living body there is no air. Something, however, it must be, that is contained
+in the atmosphere, and something of a powerful and exquisitely subtle nature.
+
+If, then, we look upon the component parts of our atmosphere, what can we
+discover so competent to the task -- so subtle, so powerful, so nearly
+approaching to that idea of an ethereal medium, which some philosophers have
+supposed necessary to complete the chain of connection between the divine
+immortal essence, and the dull inertion of created matter, as the electrical
+fluid? -- that principle, whose presence, under such a variety of forms, is
+constantly presenting itself to the researches of the philosopher! -- whose
+agency, in so many of the phenomena of Nature, we are daily detecting! and
+which, perhaps, will one time be discovered to be the real principle by which
+all heat and action are originally generated and maintained!
+
+FINIS.
+BY THE SAME AUTHOR.
+
+In the Press, and the First Volume now ready for Delivery, THE PERIPATETIC;
+Or, SKETCHES of the HEART, of NATURE, and of SOCIETY; In a SERIES of JOURNALS,
+in VERSE and PROSE, of the ECCENTRIC EXCURSIONS of SYLVANUS THEOPHRASTUS, 3
+Vols. Price 9s. in boards.
+
+SCBSCRIPTIONS received by the Author, by the Publishers of this Pamphlet, and
+HOOKHAM and CARPENTER, Bond-Street.
+
+

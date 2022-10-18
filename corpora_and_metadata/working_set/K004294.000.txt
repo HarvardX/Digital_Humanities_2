@@ -1,0 +1,669 @@
+Philas Trans. Vol. LXVIII. Tab. 1. p
+
+Fig: 1.
+
+Fig: 2.
+
+
+
+THE FORCE OF FIRED GUNPOWDER, AND THE INITIAL VELOCITIES OF CANNON BALLS,
+DETERMINED BY EXPERIMENTS; From which is also deduced The Relation of the
+Initial Velocity to the Weight of the Shot and the Quantity of Powder.
+
+By CHARLES HUTTON, F.R.S. PROFESSOR OF MATHEMATICS IN THE ROYAL MILITARY
+ACADEMY.
+
+Read at the ROYAL SOCIETY, Jan. 8, 1778.
+
+LONDON: Printed by J. NICHOLS (Successor to Mr. BOWYER). MDCCLXXVIII.
+
+The Force of fired Gunpowder, etc.
+THESE experiments I made at Woolwich in the summer of the year 1775, assisted
+by several able officers of the royal artillery at that place, and other
+ingenious gentlemen. The object of them was the determination of the actual
+velocities with which balls are impelled from given pieces of cannon, when
+fired with given charges of powder. These experiments were made according to
+the method invented by Mr. ROBINS, and described in his treatise, entitled, New
+Principles of Gunnery, of which an account was printed in the Philosophical
+Transactions for the year 1743. Before the discoveries of that ingenious
+gentleman very little progress had been made in the true theory of military
+projectiles. His book, however, contained such important discoveries, that it
+was soon translated into several of the languages on the continent, and the
+famous Mr. L. EULER honored it with a very extensive commentary in his
+translation of it into the German language. That part of it has always been
+particularly admired which relates to the experimental method of ascertaining
+the actual velocities of shot, and in imitation of which were made the
+experiments related in this paper. Experiments in the manner of Mr. ROBINS were
+generally repeated by his commentators and others, with universal satisfaction,
+the method being so just in theory, so simple in practice, and altogether so
+ingenious, that it immediately gave the fullest conviction of its excellence,
+and of the abilities of its author. The use which that gentleman made of this
+invention was, to obtain the actual velocities of bullets experimentally, in
+order to compare them with those which he computed a priori from his new
+theory, and thereby to verify the principles on which it is founded. The
+success was fully answerable to his expectations, and left no doubt of the
+truth of his theory, when applied to such pieces and bullets as he had used:
+but these were very small, being only musket balls of about one ounce weight;
+for, on account of the great size of the machinery necessary for such
+experiments, Mr. ROBINS and other ingenious gentlemen had not ventured to
+extend their practice beyond bullets of that kind, and satisfied themselves
+with earnestly wishing for experiments to be made in a similar manner with
+balls of a larger sort. By the experiments in this paper I have endeavored, in
+some degree, to supply this defect, having made them with small cannon balls of
+above twenty times the size, or from one pound to near three pounds weight.
+These are the only experiments that I know of which have been made with cannon
+balls for this purpose, although the conclusions to be deduced from such are of
+the greatest importance to those parts of natural philosophy which are
+dependent on the effects of fired gunpowder; nor do I know of any other
+practical method of ascertaining the initial velocities of military projectiles
+within any tolerable degree of the truth. The knowledge of this velocity is of
+the utmost consequence in gunnery: by means of it, together with the law of the
+resistance of the medium, every thing is determinable relative to that
+business; for, besides its being an excellent method of trying the strength of
+different sorts of powder, it gives us the law relative to the different
+quantities of powder, to the different weights of shot, and to the different
+lengths and sizes of guns. Besides these, there does not seem to be any thing
+wanting to determine any inquiry that can be made concerning the flight and
+ranges of shot, except the effects arising from the resistance of the medium.
+
+Of the nature of the experiment, and of the machinery used in it.
+The intention of the experiment is to discover the actual velocity with which
+a ball issues from a piece, in the usual practice of artillery. This velocity
+is very great; from one thousand to two thousand feet in a second of time. For
+conveniently estimating so great a velocity, the first thing necessary is to
+reduce it, in some known proportion, to a small one. This we may conceive to be
+effected thus: suppose the ball, with a great velocity, to strike some very
+heavy body, as a large block of wood, from which it will not rebound, so that
+they may proceed forward together after the stroke. By this means it is
+obvious, that the original velocity of the ball may be reduced in any
+proportion, or to any slow velocity which may conveniently be measured, by
+making the body struck to be sufficiently large; for it is well known, that the
+common velocity, with which the ball and block of wood would move forward after
+the stroke, bears to the original velocity of the ball only, the same ratio
+which the weight of the ball has to that of the ball and block together. Thus
+then velocities of one thousand feet in a second are easily reduced to those of
+two or three feet only; which small velocity being measured by any convenient
+means, let the number denoting it be increased in the proportion of the weight
+of the ball to the weight of the ball and block together, and the original
+velocity of the ball itself will thereby be obtained. In these experiments,
+this reduced velocity is rendered very easy to be measured by a very simple and
+curious contrivance, which is this: the block of wood, which is struck by the
+ball, is not left at liberty to move straight forward in the direction of the
+motion of the ball, but it is suspended, as the weight or ball of a pendulum,
+by a strong iron stem, having a horizontal axis at top, on the ends of which it
+vibrates freely when struck by the ball. The consequence of this simple
+contrivance is evident: This large ballistic pendulum, after being struck by
+the ball, will be penetrated by it to a small depth, and it will then swing
+round its axis and describe an arch, which will be greater or less according to
+the force of the blow struck; and from the size of the arch described by the
+vibrating pendulum, the velocity of any point of the pendulum itself can be
+easily computed; for a body acquires the same velocity by falling from the same
+height, whether it descend perpendicularly down, or otherwise; therefore, the
+length of the arch described, and of its radius, being given, its versed sine
+becomes known, which is the height perpendicularly descended by the
+corresponding point of the pendulum. The height descended being thus known, the
+velocity acquired in falling through that height becomes known from the common
+rules for the descent of bodies by the force of gravity; and this is the
+velocity of that point of the pendulum: this velocity of any known point
+whatever is then to be reduced to the velocity at the center of oscillation, by
+the proportion of their radii or distances from the axis of motion; and the
+velocity of this center, thus obtained, is to be esteemed the velocity of the
+whole pendulum itself; which being now given, that of the ball before the
+stroke becomes known from the given weights of the ball and pendulum. Thus then
+the mensuration of the very great velocity of the ball is reduced to the
+observation of the magnitude of the arch described by the pendulum, in
+consequence of the blow struck. This arch may be measured after various ways:
+in the following experiments it was ascertained by measuring the length of its
+chord by means of a piece of tape or small ribband, the one end of which was
+fastened to the bottom of the pendulum, and the rest of it made to slide
+through a small machine contrived for the purpose, which will be hereafter
+described; for thus the length of the tape drawn out, was equal to the length
+of the chord of the arch described by the bottom of the pendulum.
+
+This description may convey a general idea of the nature and principle of the
+experiment; but besides the center of oscillation and the weights of the ball
+and pendulum, the effect of the blow depends also on the place of the center of
+gravity and the point of impact: it will, therefore, be now necessary to give a
+more particular description of the machine, and of the methods of finding the
+abovementioned requisites, and then investigate our general rule for
+determining the velocity of the ball, in all cases, from them and the chord of
+the arch of vibration.
+
+Of the particular description of the machine, and of the determination of the
+centers of gravity and oscillation.
+Tab. 1. Fig. 1. is a representation of the machine used in the first three
+courses of experiments; and fig. 2. of that which was used in the other two. I
+shall here describe the former of these, and afterward take notice of the few
+particulars in which the other differs from it when I come to treat of the use
+of the latter.
+
+The first pendulum consisted of a block of sound and dry elm, being nearly a
+cube of twenty inches long, which was fastened to a strong iron stem on the
+back part of it by screw-bolts, having a thick iron axis at the top, whose ends
+were turned truly cylindrical, to roll pretty freely in sockets made to receive
+them; the whole being supported by a four-legged stand of very strong timber,
+which was firmly fixed in the ground. A is the face of the cube into which the
+balls were fired; by means of the blow it is made to swing round the axis BC,
+and the chord of the arch thereby described is measured by the tape DEF
+fastened to the bottom of the wood at D, and sliding with some slight friction
+through a little machine of brass, fixed at E for that purpose, the tape being
+marked with inches and tenths, for the more easily measuring of the chord or
+part of it drawn through by the pendulum. The whole length of this pendulum,
+from the middle of the axis to the ribband at D, was 102 inches. The weight and
+the other dimensions were taken each day when the experiments were made, and
+then registered; and the manner of discovering the places of the centers of
+gravity and oscillation was as follows:
+
+To find the center of oscillation, the pendulum was hung up, and made to
+vibrate in small arcs, and the time of making two or three hundred vibrations
+was observed by a half-second pendulum. Having thus obtained the time answering
+to a certain number of vibrations, the finding of the center of oscillation is
+easy: for if v denote the number of vibrations made in s seconds, then it is
+well known, that as vv ss 39.2 39.2 ss/ vv = the distance in inches from the
+axis of motion to the center of oscillation; and by this rule the place of that
+center was found for each day.
+
+The center of gravity was ascertained by one or both of the two following
+methods. First, a triangular prism of iron AB, being placed upon the ground
+with an edge upwards, the pendulum was laid across it, and moved forward or
+backward on the stem or block as the case required, till the two ends exactly
+balanced each other; then, as it lay, the distance was measured from the middle
+of the axis to the part which rested on the edge of the prism, or the center of
+gravity of the pendulum. The other method was as in the latter of the two
+annexed figures, where the ends of the axis being supported on fixed uprights,
+and a chord fastened to the lower end of the pendulum, was passed over a pulley
+at P, different weights W were fastened to the other end of it, till the
+pendulum was brought to a horizontal position. Then, taking also the whole
+weight of the pendulum, and its length from the axis to the bottom where the
+chord was fixed, the place of the center of gravity is found by this
+proportion, as p the weight of the pendulum w the appended weight d the whole
+length from the axis to the bottom: dw/ p = the distance from the axis to the
+center of gravity. Either of these two methods gave the place of the center of
+gravity sufficiently exact; but the coincidence of the results of both of them
+was still more satisfactory.
+
+Of the rule for computing the Velocity of the ball.
+Having described the methods of obtaining the necessary dimensions, I proceed
+now to the investigation of the theorem by which the velocity of the ball is to
+be computed. The several weights and measures being found, let then b denote
+the weight of the ball, p the whole weight of the pendulum, g the distance of
+the center of gravity below the axis, h the distance to the center of
+oscillation, k the distance to the point struck by the ball, z the velocity of
+this point struck after the blow, v the original velocity of the ball, c the
+chord of the arch measured by the tape, and r its radius, or the distance from
+the axis to the bottom of the pendulum.
+Then the effect of the blow struck by the ball is as ^ or, as ^ the weight of
+a body, which, being placed at the point struck, would acquire the same
+velocity from the blow as the pendulum does at the same point. Here then are
+two bodies, b and ^, the former of which, with the velocity v, strikes the
+latter at rest, so that after the blow they both proceed uniformly forward
+together with the velocity z; in which case it is well known, that ^; and
+therefore the velocity z is ^. But because of the accession of the ball to the
+pendulum, the place of the center of oscillation will be changed; and from the
+known property of that point we find ^ to its distance from the axis. Call this
+distance of the center of oscillation, of the mass compounded of the ball and
+pendulum, H. Then, since z is the velocity of the point whose distance is k, we
+have this proportion, as ^ the velocity of this compound center of oscillation.
+
+Again, since ^ is the versed sine of the described arc c, its radius being r;
+therefore as ^ the versed sine to the radius H, or the versed sine of the arc
+described by the center of oscillation, which call V; then is V the
+perpendicular height descended by this center, and the velocity it acquires by
+the descent through this space is thus easily found, viz. as ^ the velocity of
+the center of oscillation deduced from the chord of the arc which is actually
+described.
+
+Having thus obtained two different expressions for the velocity of this
+center, independent of each other, let an equation be made of them, and it will
+express the relation of the several quantities in the question; thus then we
+have ^ from which we obtain ^ the true expression for the original velocity of
+the ball the moment before it strikes the pendulum.
+
+COROLLARY. But this theorem may be reduced to a form much more simple and fit
+for use, and yet be sufficiently near the truth. Thus, let the root of the
+compound factor ^ be extracted, and it will be equal to ^ within the 100000th
+part of the truth in such cases as generally happen. But since ^ is usually but
+about the 300th or 400th part of pg, and that bk differs from ^ but by about
+the 80th or 100th part of itself, therefore pg + bk is within about the 20000th
+or 30000th part of ^. Consequently v is ^ very nearly. Or, farther, if g be
+written for k in the last term bk, then finally v is ^, or ^, which is an easy
+theorem to be used on all occasions; and being within about the 3000th part of
+the truth, it is sufficiently exact for all practical purposes whatever. Where
+it must be observed, that c, g, k, r, may be taken in any measures, either feet
+or inches, etc. provided they be but all of the same kind; but h must be in
+feet, because the theorem is adapted to feet.
+
+SCHOLIUM. As the balls remain in the pendulum during the time of making one
+whole set of experiments, by the addition of their weight to it, both its
+weight and the centers of gravity and oscillation will be changed by the
+addition of each ball which is lodged in the wood, and therefore p, g, and h,
+must be corrected after every shot in the theorem for determining the velocity
+v. Now the succeeding value of p is always p + b; or p must be corrected by the
+continual addition of b: and g is corrected by taking always ^, or ^ nearly for
+each successive value of g; or g is corrected by adding always ^ to the next
+preceding value of g: and lastly, h is corrected by taking for its new values
+successively ^, or by adding always ^, or ^ nearly, to the preceding value of
+h; so that the three corrections are made by adding always, b to the value of
+p, ^ to the value of g, ^ to the value of h.
+
+
+Before we proceed to the experiments it may not be improper to take notice of
+three seeming causes of error, which have not been brought to account in our
+theorem for determining the velocity of the shot; and to examine here whether
+their effects can sensibly affect the conclusion. These are the penetration of
+the ball into the wood of the pendulum, the resistance of the air to the back
+of it, and the friction on the axis: by each of these three causes the motion
+of the pendulum seems to be retarded. The principle on which our rule is
+founded supposes the momentum of the ball to be communicated to the pendulum in
+an instant; but this is not accurately the case, because that this force is
+communicated during the small time in which the ball makes the penetration; but
+as this is generally effected before the pendulum has moved one-tenth of an
+inch out of its vertical position, and usually amounts to scarcely more than
+the 200th part of a second, its effect will be quite imperceptible, and
+therefore it may safely be neglected in these experiments. As to the second
+retarding force, or the resistance of the air to the back of the pendulum, it
+is manifest that it will be quite insensible, when it is considered that its
+velocity is not more than three feet in a second, that its surface is but about
+twenty inches square, and that its weight is four or five hundred pounds.
+Neither can the effect of the last cause, or the friction on the axis, ever
+amount to a quantity considerable enough to be brought into account in these
+experiments: for, besides that care was taken to render this friction as small
+as possible, the effect of the little part which does remain is nearly balanced
+by the effect it has on the distance of the center of oscillation; for as this
+center was determined from the actual vibrations of the pendulum, the friction
+on the axis would a little retard its motion, and cause its vibrations to be
+slower, and the consequent distance of this center to be greater; so that the
+other parts of our theorem being multiplied by h, or the root of this distance,
+which is as the time of a vibration, it is evident that the friction in the one
+case operates against that in the other; and that the difference of the two is
+the real efficacious cause of resistance, and which therefore is either equal
+to nothing, or very nearly so.
+
+These general causes of error in the principles of the experiments are
+therefore safely omitted in the theorem: and our only care must be to guard
+against accidental errors in the actual execution of the business.
+
+Of the experiments.
+The gun, with which the experiments were made, was of brass; the diameter of
+the bore or cylinder at the muzzle was 2 4/25, or 2.16 inches; but its diameter
+next the breech was a small matter less, being there only 2 2/25, or 2.08
+inches; so that the greatest cast-iron ball it would admit was just 19 ounces
+avoirdupois, or 1 pound wanting half an ounce; but sometimes leaden balls were
+used, which weighed above 1 pound, and sometimes long or cylindrical shot which
+weighed near three pounds; the length of the bore was 42, or 42.6 inches, so
+that it was nearly 20 calibers long.
+
+The powder used was of the sort which is commonly made for government; the
+quantity was two, four, or eight ounces to a charge, which was always put into
+a light flannel bag, and rammed more or less, as expressed in each day's
+experiments, but without ever using any wad before it.
+
+The distance of the gun from the pendulum was 29 or 30 feet; which distance
+was found by firing the piece, with eight ounces of powder without a ball, at
+different distances, till the force of the elastic fluid was found not to move
+the pendulum.
+
+The penetrations of the balls into the wood were attempted to be taken, but
+were soon neglected on account of their uncertainty, because of so many balls
+striking in or near the same part of the wood. The depth of the penetration
+seemed to be near about three inches in solid wood when two ounces of powder
+was used.
+
+The first course of experiments was on the 13th of May, 1775, it being a
+clear, dry day. The weights and measures then taken were thus, viz. p = 328
+pounds, the weight of the pendulum, g = 72 inches, the distance of the center
+of gravity, h = 88 inches = 7 feet, the distance of the center of oscillation,
+r = 102 inches, the distance to the bottom or tape.
+The value of h = 88 was determined from the number of forty vibrations being
+made in a minute; for as 402 602 4 9 39.2 88. The number of shot was eight, and
+the circumstances and results as exhibited in the following table.
+
+Number. Weight of powder. Diam. of the ball. Height of the charge. Struck
+below the axis, k. Weight of the ball. Weight of the ball, b. Values of p.
+Values of g. Chord of the arc, c. Veloc. per second. Oz. In. Inches. Inches.
+Oz. Pounds Pounds Inches. Inches. Feet. 1 2 1.98 92.5 17 1.094 328.0 72.0 13.0
+458 2 2 1.98 92.5 17 1.094 329.1 72.1 17.8 631 3 2 1.98 3.15 91.6 17 1.094
+330.2 72.2 18.1 650 4 2 1.97 3.15 91. 17 1.078 331.3 72.3 17.6 646 5 2 1.97
+3.15 90.5 17 1.078 332.3 72.3 16.3 604 6 2 1.96 3.15 92.4 17 1.063 333.4 72.4
+16.2 598 7 4 1.97 4.5 92. 17 1.078 334.4 72.5 24.0 881 8 4 1.96 4.5 90.5 17
+1.063 335.5 72.5 25.0 950
+
+By computing the velocities from our theorem investigated in the corollary,
+they come out as they are here registered in the last column of the table, and
+they are all pretty regular excepting the first one, which is about one-fourth
+part less than the rest with the same weight of powder, and which irregularity
+must have been caused by some unperceived accident. The values of p and g were
+each corrected by their respective theorems; but the value of h was kept the
+same (7 feet) throughout, because that its correction was so small as not to
+make a difference of above a foot or two at most in the velocity: and for the
+same reason this correction is neglected, as quite unnecessary, in the rest of
+the experiments of the other days following.
+
+The mean velocity of the second, third, fourth, fifth, and sixth numbers is
+626, and of the seventh and eighth it is 915; that is, the velocity with two
+ounces of powder was 626 feet per second, and that with four ounces was 915
+feet; and these two velocities are in the ratio of 1 to 1.46. But the mean
+weight of the balls in the former case was 17 ounces, and in the latter it was
+17 ounces; and the ratio of the quantities of powder was that of 1 to 2. But
+the direct sub-duplicate ratio of the powder, compounded with the inverse
+sub-duplicate ratio of the weights of the shot, forms the ratio of 1 to 1.42,
+which is nearly equal to the ratio (1 to 1.46) of the velocities; that is, in
+this instance the velocities are very nearly as the square roots of the
+quantities of powder directly, and the square roots of the weights of the balls
+inversely. The powder was forced up with only one stroke of the rammer.
+
+The second course was performed on the 3d of June, 1775, which was a clear,
+dry day, but windy. Some of the experiments of this day are doubtful, as indeed
+is evident from their irregularity, on account of the wind blowing the tape,
+which was not very properly secured by the little brazen machine through which
+it was made to slide.
+
+The powder was taken from the bottom of a barrel, and the charges rammed a
+little closer than those of the former day; and so tight did the shots fit
+toward the breech, that many strokes of the rammer were necessary to drive
+them home.
+
+The fourth and fifth shots were of a long form, which may be called
+spherico-cylindrical, as they were cylinders terminated by hemispherical ends,
+so that their section through the axis was of this form, and the length of the
+axis was near double the diameter of the shot.
+
+The fourth shot, or first of the long sort, struck sideways, making a hole of
+the shape of the above section, only its length or axis was not horizontal but
+vertical, thus.
+
+The last shot lay obliquely in the wood; it appeared to have struck with its
+end foremost, or nearly so, as the oblique position in which it lay seemed to
+be caused by its striking against a former shot lodged in the wood, with the
+hance of its end, so as to flatten it in that part.
+
+Of the pendulum, the weight, length, and centers of gravity and of oscillation
+were the same as when taken the former day before the experiments were made;
+the former balls having been extracted, and the holes filled up with wood.
+
+Number. Weight of powder. Diam. of the ball. Height of the charge. Struck
+below the axis, k. Weight of the ball. Weight of the ball, b. Values of p.
+Values of g. Chord of the arc, c. Veloc. per second. Oz. In. Inches. Inches.
+Oz. Pounds Pounds Inches. Inches Feet. 1 2 2.08 2.85 88 19 1.219 328.0 72.0
+24.3 800 2 2 2.08 2.85 89 19 1.219 329.2 72.1 30.5 1003 3 2 2.08 2.85 93 19
+1.219 330.4 72.1 30.0 943 4 2 2.08 3.35 92 46 2.906 331.6 72.2 57.0 767 5 2
+2.08 3.35 93 46 2.906 334.5 72.4 54.0 731
+
+Here the first shot is again so much smaller than the two following ones, that
+some irregularity must have attended it, on which account we cannot make any
+use of it. The mean between the second and third is 973; and between the fourth
+and fifth the mean is 749; that is, the velocity of the 19 ounce ball is 973,
+and that of the 46 ounce shot 749 feet per second, which two numbers are in the
+ratio of 1.3 to 1. But the reciprocal subduplicate ratio of the weights (19 and
+46) is the ratio of 1.54 to 1: therefore, in this instance, the velocity of the
+heavier shot is a little less than would arise from the inverse ratio of the
+square roots of the weights of the shot. But the accurate ratio cannot
+certainly be drawn from these numbers, on account of the doubtfulness of some
+of them, as was before observed.
+
+It is very remarkable, that in the experiments of this day, the mean velocity
+with two ounces of powder is 973, whereas it was no more than 626 in the former
+day with the same quantity of powder, notwithstanding the balls were heavier
+with the greater velocity in the proportion of 19 to 17 nearly. This remarkable
+difference must be chiefly owing to the windage in the first course: and from
+hence we may perceive the great advantage to be gained by the use of balls
+approaching in proportion nearer to the diameter of the bore of the gun than
+what is prescribed in the present establishment. Possibly, however, some part
+of this difference might be owing to some small inequality in the powder, as
+that which was used this day was taken from the bottom of a barrel. Perhaps
+also some part of the effect may be owing to the greater degree of ramming
+which the powder had in this course.
+
+The third course was made on the 12th of June, 1775, it being a clear, dry,
+and calm day. The powder in the experiments of this day was rammed in the same
+degree as in the last one. It was also nearly the same in the succeeding days,
+as may be perceived by inspecting the fourth column of each course, which,
+denoting the height of the charge, shows the degree of compactness with which
+the powder was lodged in the piece. The dimensions, as taken this day, were
+thus: p = 324 pounds, the weight of the pendulum. g = 71.4 inches, the distance
+of the center of gravity. h = 88 inches = 7 feet, the distance of the center of
+oscillation. r = 102 inches, the whole length to the tape.
+
+
+Number. Weight of powder. Diam. of the ball. Height of the charge. Struck
+below the axis, k. Weight of the ball. Weight of the ball, b. Values of p.
+Values of g. Chord of the arc, c. Veloc. per second. Oz. Inches. Inches.
+Inches. Oz. Pounds Pounds Inches. Inches. Feet 1 2 2.080 2.85 94 19 1.219 324.0
+71.4 23.0 700 2 2 2.036 2.85 94 18 1.141 325.2 71.5 24.5 799 3 2 2.045 2.85 93
+18 1.156 326.4 71.6 22.0 715 4 4 2.062 4. 92 19 1.188 327.5 71.7 27.3 880 5 4
+2.036 4. 93 18 1.141 328.7 71.7 35.0 1163 6 4 2.045 4. 93 18 1.156 329.9 71.8
+33.0 1087
+
+Here the common mean weight of the ball is 18 ounces, the mean velocity with
+two ounces of powder is 738, and that with four ounces of powder is 1043 feet
+per second. The ratio of these two velocities is that of 1 to 1.414; that is,
+accurately the ratio of the square roots of the quantities of powder.
+
+Of the experiments made with the other pendulum, which is represented in fig.
+2.
+The first pendulum was gradually more and more rent and shattered by the
+firing of so many balls into it, till at the end of the last course of
+experiments it had become quite useless. Another was then fitted up, and with
+it were performed the two following courses.
+
+This second pendulum consisted of a cubical block of sound elm, of near two
+feet long, fixed to the iron stem, but not exactly in the manner of the former;
+for in this the stem was placed vertically over the center of the top-end, to
+which point it continued whole, but there divided in two, each passing to right
+and left over the top down the sides, and returning along the bottom, and being
+at proper intervals fastened to the wood with iron pins. A thick sheet of lead
+was fastened over each of the two upright faces into which the shot were to be
+fired, both to guard them from splintering very much, and to add to the weight
+of the pendulum. The whole was then firmly secured by two very thick iron bands
+or hoops, passed horizontally quite around the wood, and firmly fixed to it,
+the one next the upper end, and the other near the lower, so as strongly to
+resist the endeavors of the shot to split the wood.
+
+The whole weight of the pendulum, thus fitted up, was 552 pounds; its whole
+length, from the middle of the axis to the tape at the bottom, was 101 inches;
+the distance to the center of gravity was 78 inches; and the distance to the
+center of oscillation was 88 inches equal to 7 feet, which was exactly the same
+as that of the former pendulum, their numbers of vibrations being alike in the
+same time.
+
+Instead of suspending this pendulum, after the manner of the former, by the
+ends of its axis in grooves turned to fit them, they were only placed on flat,
+level pieces of wood, on which this pendulum vibrated much freer than the other
+did; but a small nail was driven into the supporting wood, just behind each end
+of the axis, to prevent the stroke of the shot from throwing it off the stand.
+
+To this pendulum was adapted a better machine for the tape to slide through
+than the former one was, the inconvenience of which had often been experienced
+by its catching and entangling the tape, so as to interrupt its free motion,
+and once indeed to break it. This new one, however, is at once very simple, and
+perfectly free from every inconvenience, giving just the necessary degree of
+friction to the tape, without ever stopping its motion; so that of the real
+quantity drawn out by the vibration of the pendulum there could not possibly be
+the least doubt. This simple contrivance consisted barely of about fix or eight
+inches of the list of woollen cloth fastened upon the arch of a small piece of
+wood, which was shaped into the form of the segment of a circle thus, the tape
+being made to pass through between the curved side and the list, which was
+moderately stretched and fastened by its two ends to those of the little arch.
+
+Upon the whole, the machinery was all so perfect, and every circumstance
+attending the experiments of the two ensuing days so carefully observed, that I
+can with great safety rely on the conclusions resulting from them. And as those
+of the one day were made with leaden balls, and those of the other with iron
+ones, which differ greatly in weight, every other circumstance being the same,
+they afford very good means for discovering the law of the different weights of
+shot, while the variations in the powder from two to four and eight ounces
+furnish us with the rule for the different quantities of it.
+
+The fourth course was on the 20th of July, a fine clear day. The powder was a
+mixture of several of the sorts made for government, and the balls were of
+lead. The quantities of powder were two, four, and eight ounces alternately;
+and the dimensions at first were thus: p = 552 pounds, the whole weight of the
+pendulum. r = 101 inches, its whole length. g = 78 inches, the distance of the
+center of gravity. h = 88 inches = 7 feet, that of the center of oscillation.
+
+
+Number. Weight of powder. Diam. of the ball. Height of the charge. Struck
+below the axis, k. Weight of the ball. Weight of the ball, b. Values of p.
+Values of g. Chord of the arc c. Veloc. per second. Oz. Inches. Inches. Inches.
+Oz. Pounds Pounds Inches. Inches. Feet 1 2 2.021 2.85 90. 28 1.766 552.0 78.0
+14.8 612 2 4 2.021 4.4 87. 28 1.766 553.8 78.0 20.5 879 3 8 2.032 7.1 87. 28
+1.797 555.5 78.1 27.5 1164 4 2 2.026 2.85 90. 28 1.781 557.3 78.1 15.0 622 5 4
+2.026 4.4 88. 28 1.781 559.1 78.1 20.5 871 6 8 2.032 7.1 92. 28 1.797 560.9
+78.2 28.5 1154 7 2 2.021 2.85 89.8 28 1.766 562.7 78.2 14.3 605 8 4 2.026 4.4
+91.3 28 1.781 564.5 78.2 21.0 870 9 8 2.026 7.1 87. 28 1.781 566.2 78.3 26.8
+1169
+
+Let us now collect together the several velocities belonging to the same
+quantity of powder, in order to take their means, thus: Veloc. with 2 ounces.
+Veloc. with 4 ounces. Veloc. with 8 ounces. 612 879 1164 622 871 1154 605 870
+1169 3)1839 3)2620 3)3487 The means, 613 873 1162
+
+The uniformity of these velocities is very striking, and the means with two,
+four, and eight ounces of powder are 613, 873, and 1162, which are in the ratio
+of 1, 1.424, and 1.9; these numbers are nearly in the ratio of the square roots
+of the quantities (2, 4, and 8) of powder, the numbers in this latter ratio
+being 1, 1.414, and 2, where the small difference lies chiefly in the last
+number. A small part of this defect in the greatest velocity is to be
+attributed to the mean weight of the balls used with it being greater than in
+the others; for the mean weight of the balls used with eight ounces of powder
+is 28 ounces, while that with the two and four ounces is only 28; the
+reciprocal sub-duplicate ratio of these is that of 1 to 1.006, in which
+proportion, increasing 1.9 the number for the greater velocity, it becomes
+1.91, which still falls short of 2 by.09, which is about the 1/22d part too
+small for the sub-duplicate ratio of the powder. This defect of a 22d part is
+owing to three evident causes, viz. 1. The less length of cylinder through
+which the ball was impelled; for by inspecting the fourth column, denoting the
+height of the charge, it appears, that the balls lay three or four inches
+nearer to the muzzle of the piece with the eight ounce charge than with the
+others. 2. The greater quantity of elastic fluid which escaped in this case
+than in the others by the windage; this happens from its moving with a greater
+velocity, in consequence of which a greater quantity escapes by the vent and
+windage than with the smaller velocities. 3. The third cause is the greater
+quantity of powder blown out unfired in this case than in that of the less
+velocities; for the ball which was impelled with the greater velocity would be
+sooner out of the piece than the others, and the more so as it had a less
+length of the bore to move through; and if powder fire in time, which cannot be
+denied, although indeed that time is manifestly very short, a greater quantity
+of it must remain unfired when the ball with the greater velocity issues from
+the piece, than when that which has the less velocity goes out, and still the
+more so as the bulk of powder which was at first to be inflamed in the one case
+so much exceeded that in the others. The effect, however, will arise chiefly
+from the first and last of these three causes, as that of the second will
+amount to very little; because that the effect arising from the greater
+velocity with which the fluid escapes at the vent and windage, is partly
+balanced by the shorter time in which it acts.
+
+From the above reflections we may also perceive, how small the quantity of
+powder is which is blown out unfired in any of these cases, and the amazing
+quickness with which it fires in all cases: for although the time in which the
+ball passed through the barrel, when impelled by the eight ounces of powder,
+was not greatly different from the half only of the time in which it was
+impelled by the two ounces, it is evident that in half the time there was
+nearly four times the quantity of powder fired.
+
+The fifth or last course was on the 21st of September, 1775, fine clear
+weather, but a little windy.
+
+The machinery and the balls were of iron, but powder the same as in the last
+course, and the dimensions as follows: p = 553 pounds, the weight of the
+pendulum. r = 101 inches, its length. g = 78 1/^ inches, the distance of the
+center of gravity. b = 84.775 inches = 7.065 feet, that of the center of
+oscillation, the pendulum making 68 vibrations in 100 seconds.
+
+
+Number. Weight of powder. Diam. of the ball. Height of the charge. Struck
+below the axis, k. Weight of the ball. Weight of the ball, b. Values of p.
+Values of g. Chord of the arc, c. Veloc. per second. Oz. Inches Inches Inches.
+Oz. Dr. Pounds Pounds Inches. Inch. Feet. 1 2 2.062 3. 88.3 19 0 1.188 553.0
+78.1 11.4 702 2 4 2.062 4.3 88.3 19 0 1.188 554.2 78.1 17.3 1068 3 8 2.062 6.7
+91.0 19 0 1.188 555.5 78.2 23.6 1419 4 2 2.070 3. 90.7 19 3 1.201 556.8 78.2
+11.4 682 5 4 2.080 4.3 90.7 19 8 1.221 558.1 78.2 17.3 1020 6 8 2.064 6.7 90.7
+19 0 1.190 559.4 78.2 22*3 1352 7 2 2.060 3. 91. 18 15 1.184 560.6 78.3 11.4
+695 8 4 2.058 4.3 90. 18 14 1.180 561.9 78.3 15.3 948 9 8 2.049 6.7 90. 18 9
+1.163 563.1 78.3 22.9 1443 10 2 2.047 3. 88.3 18 9 1.160 564.3 78.3 10.9 703 11
+4 2.037 4.3 88.3 18 4 1.142 565.5 78.4 14.8 973 12 8 2.036 6.7 88.3 18 3 1.140
+566.6 78.4 20.6 1360 13 2 2.034 3. 92. 18 3 1.137 567.8 78.4 11.4 725 14 4
+2.034 4.3 92. 18 3 1.137 569.0 78.4 15.0 957 15 8 2.031 6.7 94.3 18 1 1.131
+570.1 78.5 22.5 1412
+
+Let us now take the means among those of the same quantity of powder, thus:
+Veloc. with 2 ounces. Veloc. with 4 ounces. Veloc. with 8 ounces. 702 1068 1419
+682 1020 1352 695 948 1443 703 973 1360 725 957 1412 5)3507 5)4966 5)6986 The
+means, 701 993 1397 And these mean velocities with two, four, and eight ounces
+of powder, are as the numbers 1, 1.416, and 1.993; but the sub-duplicate ratio
+of the weights (two, four, and eight) of powder gives the numbers 1, 1.414, and
+2, to which the others are sufficiently near. It is obvious, however, that the
+greatest difference lies in the last number which answers to the greatest
+velocity, and which is again in defect. It will still be a little more in
+defect if we make the allowance for the weights of the balls; for the mean
+weight of the balls with the two and four ounces is 18 ounces, but of the eight
+ounces it is 18; diminishing therefore the number 1.993 in the reciprocal
+sub-duplicate ratio of 18 to 18, it becomes 1.985, which falls short of the
+number 2 by.015 or the 133d part of itself; which defect is to be attributed to
+the same causes as it was in the last course of experiments before explained.
+
+Let us now compare the corresponding velocities in this course and the last.
+In this course they are 701, 993, 1397; In the last they were 613, 873, 1162.
+Now the ratio of the first two numbers, or the velocities with two ounces of
+powder, is that of 1 to 1.1436; the ratio of the next two, is that of 1 to
+1.1375; and the ratio of the last is that of 1 to 1.2022. But the mean weight
+of the shot was, for two and four ounces of powder 28 ounces in the last
+course, and 18 ounces in this; and for eight ounces of powder, it was 28 in the
+last, and 18 in this: taking now the reciprocal subduplicate ratios of these
+weights of shot, we obtain the ratio of 1 to 1.224 for that of the balls which
+were fired with two ounces and four ounces of powder, and the ratio of 1 to
+1.241 for the balls which were fired with eight ounces. But the real ratios
+above found are not greatly different from these. And the variation of the
+actual velocities from this law of the weights of shot incline the same way in
+this course, as they appeared to do in the second course of these experiments.
+
+We may now collect into one view the principal inferences that have resulted
+from these experiments.
+
+1. And first, it is made evident by them, that powder fires almost
+instantaneously, seeing that almost the whole of the charge fires though the
+time be much diminished.
+
+2. The velocities communicated to balls, or shot of the same weight, with
+different quantities of powder, are nearly in the sub-duplicate ratio of those
+quantities. A very small variation, in defect, taking place when the quantities
+of powder become great.
+
+3. And when shot of different weights are fired with the same quantity of
+powder, the velocities communicated to them are nearly in the reciprocal
+sub-duplicate ratio of their weights.
+
+4. So that, universally, shot which are of different weights, and impelled by
+the firing of different quantities of powder, acquire velocities which are
+directly as the square roots of the quantities of powder, and inversely as the
+square roots of the weights of the shot, nearly.
+
+5. It would therefore be a great improvement in artillery to make use of shot
+of a long form, or of heavier matter; for thus the momentum of a shot, when
+fired with the same weight of powder, would be increased in the ratio of the
+square root of the weight of the shot.
+
+6. It would also be an improvement to diminish the windage; for by so doing,
+one-third or more of the quantity of powder might be saved.
+
+7. When the improvements mentioned in the last two articles are considered as
+both taking place, it is evident that about half the quantity of powder might
+be saved, which is a very considerable object. But important as this saving may
+be, it seems to be still exceeded by that of the article of the guns; for thus
+a small gun may be made to have the effect and execution of one of two or three
+times its size in the present mode, by discharging a shot of two or three times
+the weight of its natural ball or round shot. And thus a small ship might
+discharge shot as heavy as those of the greatest now made use of.
+
+Finally, as the above experiments exhibit the regulations with regard to the
+weights of powder and balls, when fired from the same piece of ordnance, etc.;
+so by making similar experiments with a gun, varied in its length, by cutting
+off from it a certain part before each course of experiments, the effects and
+general rules for the different lengths of guns may be certainly determined by
+them. In short, the principles on which these experiments were made, are so
+fruitful in consequences, that, in conjunction with the effects resulting from
+the resistance of the medium, they seem to be sufficient for answering all the
+enquiries of the speculative philosopher, as well as those of the practical
+artillerist.
+
+

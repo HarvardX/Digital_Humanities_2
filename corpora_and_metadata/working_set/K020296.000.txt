@@ -1,0 +1,2793 @@
+HENRY the SECOND; OR, THE FALL OF ROSAMOND.
+
+[Price One Shilling and Sixpence.]
+
+HENRY the SECOND; OR, THE FALL of ROSAMOND: A TRAGEDY; AS IT IS PERFORMED AT
+THE THEATER ROYAL, COVENT GARDEN.
+
+Written by THOMAS HULL.
+
+Poor artless Maid, to stain thy spotless Name,
+Expense, and Art, and Toil united strove,
+To lure a Breast that felt the purest Flame,
+Sustained by Virtue, but betrayed by Love.
+SHENSTONE's ELEGIES. LONDON: Printed for JOHN BELL, near Exeter-Exchange,
+Strand.
+
+M.DCC.LXXIV.
+
+PREFACE.
+I Hold it an indispensible Duty to mention some Circumstances, which gave
+Birth to the following Scenes, wherein I shall not only indulge my Pride, but,
+perhaps, in some Degree, palliate the Boldness, and (as it may be thought by
+many) Presumption of my Understanding.
+
+The Fable and Conduct of this Tragedy were projected as long ago as the Year
+1761, by the late Mr. Shenstone, at his sweet Retirement, the Leasowes, in
+Warwickshire. Herein consists my Pride, that I enjoyed a happy (but too short)
+Intimacy with that amiable and accomplished Man.
+
+In the Summer of that same Year, See Mr. Shenstone's Letter, No. 105, to Mr.
+Graves, Sept. 14, 1761.
+Mr. Shenstone had been present at the Performance of a hasty Alteration of Mr.
+Hawkins's Tragedy of Henry and Rosamond, which I produced at the Theater at
+Birmingham, for the temporary Use of a particular Friend. Undigested and
+imperfect as it was, that excellent Judge said, there was a Pathos in the
+Story, which, notwithstanding the Defects of the Drama, made the Representation
+very pleasing; and he signified his Wonder that such an affecting and popular
+Tale should not have found its Way to the Stage. Hence arose many Conversations
+on the Subject, all which terminated in his advising me to make the Story my
+own. The known Kindness of his Heart, perhaps, gave me Credit for greater
+Abilities, than I really possessed. He continued to encourage me with a Warmth
+which flatters me in the Pecollection; and, after I had left Warwickshire,
+obliged me with several Letters to the same Purpose, which I still preserve as
+valuable Relicts.
+
+In one of those Letters he suggested the Character of the Abbot; in Order, as
+he said, to add a little more Business to a Story, which otherwise might be too
+barren to furnish Matter for five Acts. It may easily be supposed I forthwith
+adopted his Idea, and carefully treasured in my Mind every Sentiment he let
+fall on this, as well as other Subjects; and I can say, with great Truth, that
+among the many Conversations I enjoyed with that excellent Man, I never knew
+one from which I did not derive considerable Instruction, as well as Delight.
+
+The unexpected Loss of this most estimable Friend He died Feb. 11, 1763.
+(which will ever be lamented by all who knew him) dispirited me from the
+Undertaking, and I laid aside my Plan, together with all his Letters, till the
+Beginning of last Year. The Scheme itself, it is true, had often, in the
+Interval, occurred to my Remembrance, but a Doubt of my Ability to execute it,
+even in a passable Manner, deterred me from the Attempt.
+
+Mrs. Hartley's Arrival at Covent Garden Theater, and the warm Solicitations of
+a Friend, induced me once more to resume the Design. The happy Suitability (if
+I may be allowed the Phrase) of her Figure, to the Description of Rosamond (as
+may be found in Dr. Percy's amusing and instructive Collection of old Ballads,
+Vol. ii. Page 137) viz. Her crisped Locks, like Threads of Gold,
+Appeared to each Man's Sight;
+Her sparkling Eyes, etc. etc.
+assisted by the Softness and Gentleness of her Demeanor, encouraged me, at
+length, to make the Attempt; and the unniverfal Aprobation given by the Public
+to her Appearance, Manner and Performance, on the first Representation of this
+Play, happily convinced me I was not singular in my Opinion.
+
+In the general Execution of the Piece I have paid a particular Attention to
+the old Ballad, and endeavored at a Simplicity of Style, both which Mr.
+Shenstone earnestly recommended. I am not conscious of any further Helps,
+except having adopted the Idea (not the Matter) of an Interview between the
+King and Clifford in the Monastery, from Mr. Hawkins.
+
+I had originally made Clifford die of a broken Heart, under the S^^ction of
+the Death of King Lear, as originally drawn by that great Master of human
+Nature. Shakespeare; but the general Opinion of the Public, and the Persuasions
+of my Friends, induced me to vary my Design in the Representation.
+
+I have little further to add, but my Entreaties that the Reader will be
+pleased to judge with Lenity, what was undertaken with Diffidence.
+
+Advised, assisted, and encouraged as I was originally, to this Undertaking, by
+the Possessor of such eminent Abilities, and such Benignity of Disposition, I
+seek no living Patron, but pride myself in having this Opportunity to dedicate
+my humble Production,
+
+With the warmest Affection and Gratitude,
+
+TO THE MEMORY OF WILLIAM SHENSTONE, ESQUIRE.
+
+Westminster, January 19, 1774.
+
+Advertisement.
+THE Author would justly incur the Charge of Ingratitude were he not to return
+his warmest Acknowledgments to the Public for their very indulgent Reception of
+this Play; to Mr. Colman for his spirited and deservedly admired Epilogue; and
+to the Performers for their Zeal and Assiduity in the Study and Support of
+their respective Characters.
+
+PROLOGUE,
+Written and Spoken by the AUTHOR.
+LONG Time oppressed with painful Doubts and Fears,
+At length the dread decisive Hour appears,
+The awful Trial comes! and here I stand,
+TO abide the Verdict of my native Land.
+Will not the Judge himself for Favor plead,
+When the poor trembling Culprit owns the De^^;
+When in false Arts he scorns to seck Support,
+But throws him on the Mercy of the Court?
+Such is my State, whom will Ambition draws
+To stand the Judgment of dramatic Laws;
+Bold the Attempt, (and, much I fear, in vain),
+That I, the humblest in the Muses' Train,
+Should dare produce; in this nice-judging Age,
+My own weak Efforts on the dangerous Stage!
+Had I the slightest Touch of plaintive Row,
+Whose Numbers often have bade your Sorrows flow,
+Your Plaudit undismayed I might implore,
+And Rosamond might plead, like hapless Shore:
+But as it is, your Kindness be my Friend,
+For that alone I sue -- to that I bend.
+If by an artless Tale, in artless Strain,
+A mild and patient Hearing I obtain,
+And my poor Labors over, behold ye part
+With unpain'd Ear and undisgusted Heart,
+'Twere Triumph and Delight! but if the Lays,
+Deserve your Censure, which aspired to Praise,
+Even to your Kindness will I not presume,
+Nor strive to deprecate my proper Doom;
+This sole Indulgence let my Fault procure,
+Mildly inflict, submissive I endure.
+CHARACTERS.
+HENRY II. King of England, Mr. SMITH. HENRY Prince of Wales, Mr. WROUGHTON.
+CLIFFORD, Mr. HULL. ABBOT, Mr. CLARKE. SALISBURY, Mr. GARDNER. VERULAM, Mr. R.
+SMITH. LEICESTER, Mr. THOMPSON.
+QUEEN ELEANOR, Miss MILLER, ROSAMOND, Mrs. HARTLEY. ETHELINDA, Miss PEARCE.
+SCENE, Oxford, and Places adjacent.
+
+HENRY the SECOND; OR, THE FALL of ROSAMOND.
+ACT I.
+SCENE, an Apartment in Salisbury's House. Enter CLIFFORD and SALISBURY.
+CLIFFORD. SALISBURY, no more; seek not with empty Words
+To talk down Grief like mine; had thou a Child,
+Whom thy fond Heart had dwell'd and doated on,
+As mine on Rosamond, and felt'st the Pang
+Of seeing her devote her matchless Beauty
+To lawless Love, her Dignity and Virtue
+To Infamy, and Shame, thou would not brook
+Vain Consolation.
+
+SALISBURY. Judge not I esteem
+Thy Sufferings light, or think thy Pains will yield
+To cold Philosophy.
+
+CLIFFORD. No -- Would thou ease
+The tortured Wretch, thou must sit down beside him,
+Shed Tear for Tear, in sympathizing Silence;
+List to the Tale which Sorrow loves to tell,
+And, by partaking the dislressful Cause,
+Sooth the strong Woe that will not be controlled.
+
+SALISBURY. Give thy sull Bosom Vent, thy Friend shall wait
+With patient and participating Heart.
+
+CLIFFORD. I ask but that; for should thou weary Language,
+Ransack the Stores of subtle Sophistry,
+For deepest Arguments -- my simple Answer
+Confutes and baffles all -- I Have lost my Child.
+
+SALISBURY. I grant it, Lord, and meant alone to stand
+A friendly Mediator 'twixt thyself
+And the o'er-ruling Tumults of thy Mind.
+I dread their Violence. Did thou not talk
+O^ Vengeauce and Redress? Whence should they spring?
+Where would thou point them? Say, is this a Time
+To add to Henry's Troubles? now, when dark
+Intestine Feuds and foreign Foes combine
+To shake his Throne and Peace?
+
+CLIFFORD. Cousin, thou call'st
+A Blush to these old Checks, at the bare Thought
+Of what thy Words imply. Think thou I mean,
+Had this weak Arm the highest Power of Vengeance,
+To stain my native Land with civil Slaughter?
+No, Heaven forefend! nor should a Danger reach
+My Sovereign's sacred Life. Were there a Wretch
+Accursed enough to raise his traitorous Arm
+Against Henry's Breast, Clifford would rush between,
+Oppose himself to the Assassin's Point,
+And glory in the Death that saved his King.
+
+SALISBURY. My Mind's at Peace.
+
+CLIFFORD. So rest it, noble Salisbury!
+Shall I be plain, and tell thee all my Weakness?
+'Spite of ungrateful Henry's Perfidy,
+'Spite of the Sorrows that assail my Heart,
+I love him still, I love this royal Robber.
+In early Youth I led him to the Field,
+Trained his adventurous Spirit, shared his Dangers,
+And by his Side maintained my Country's Honor,
+In many a gallant Feat; Oh, hard Return!
+How has he paid this Love!
+
+SALISBURY. When headlong Passions
+Mislead him not from his instinctive Greatness,
+How nobly shows he! Wisdom, Learning, Policy,
+Inform his Mind, and generous Honor sways it.
+
+CLIFFORD. Where was it fled, that Guardian of Man's Heart
+When, with infidious Arts, in evil Hour,
+He lured my chaste, my duteous Rosamond
+From Virtue and Obedience? Was she not
+All that a Parent's fondest Wish could form?
+In vain her modest Grace and Diffidence
+Bore the dear Semblance of her Mother's Sweetness,
+And promised an unsullied Length of Days.
+She Is lost, and the bright Glories of our Line
+Are stained in her Disgrace.
+
+SALISBURY. Thy pious Heart,
+Alive to all the Dangers and Mishaps
+That wait on tempting, Beauty, does not need
+My interposing Voice to wake soft Pity
+For the lost Rosamond. The Love of Goodness
+Not wholly leaves the Breast that Error stains,
+But often abides, a wholesome Monitor,
+To call the miserable Culprit back
+To its forsaken Laws. So may it fare
+With her. It Is true the King, when in her Sight,
+Engrosses all her Thoughts; but in her secret
+And solitary Hours, sad she regrets
+Her ruined Innocence, and mourns that Love
+Which led her to destroy a Father's Peace,
+And stain the Honors of a spotless Line.
+
+CLIFFORD. To save her from a deeper Plunge in Guilt
+Is all my present Purpose; against the King,
+No other Weapons do I mean to use,
+But those which best become the manly Heart,
+Reason and Conscience; let him give her back,
+Stained and dishonored as the Mourner is,
+Let him restore her to these aged Arms,
+I ask no more.
+
+SALISBURY. Unfold thy utmost Wish,
+And if a Friend's Assistance may avail,
+Command thy Kinsman's warmest Services.
+
+CLIFFORD. Conceal my being here; let not the King
+Know Clifford treads these Bounds; he must be won
+To my Discourse, unconscious who I am.
+I have devised a Means -- enquire not now,
+But patient aid me, and await the Issue.
+I have good Hopes that all the generous Fires,
+Which warmed his noble Heart, are not extinct;
+If so, I may once more embrace my Child,
+My still dear Rosamond. -- Blame not my Weakness,
+I cannot lose the Father in the Judge,
+I seek not to inflict but banish Pain;
+TO awaken in her Breast a just Remorse
+For her past Failings; and entice her Steps
+To some serene Abode, where Penitence
+And Contemplation dwell, and jointly sooth
+The contrite Sinner's Mind, with glowing Hopes
+Of Heaven's Indulgence, and its promised Grace.
+[Exeunt.
+SCENE II. A retired Grove belonging to the Palace. Enter Prince of WALES and
+LEICESTER. PRINCE. My Spirit will not brook it! What avails
+The empty Name and Title of a King,
+Without imperial Power! why with his Son
+Divide his Throne, unless he meant to grant
+A Share of that supreme Authority,
+Which only lends Stability to Greatness
+And gives its highest Luster -- to be caught
+With the gay tinsell'd Garb of Royalty,
+Befits an Idiot only; let him know
+That Henry's Son inherits Henry's Pride,
+And may in Time, with daring Hand, assume
+What now he is debarred.
+
+LEICESTER. Your Wrongs are great;
+But be not too precipitate and rash,
+Lest you therein defeat the Means by which
+You wish to gain. Beware, the watchful Eye
+Of Curiosity besets our Paths;
+Speak not so loud.
+
+PRINCE. What Danger? Should the King
+Himself o'er-hear, confront me Face to Face,
+I would not shrink; mine Eye should not abate
+Its angry Fire, nor my sunk Heart recall
+The smallest Drop of that indignant Blood
+That paints my glowing Cheek; but I would speak,
+Avow, proclaim, and boast my settled Purpose:
+I have a double Cause to urge me on,
+A royal Mother's Wrongs joined to my own.
+Do I not see her injured, scorned, abandoned,
+For the loose Pleasures of a Wanton's Bed,
+His beauteous Minion, whom embower'd he keeps
+In Woodstock's mazy Walks? Shall he do this
+Un-notic'd, un-reproach'd, yet dare to check
+My honest Ardour? He has yet to learn,
+That Parent who expects his Son to walk
+Within the decent Pale of rigid Duty,
+Should keep a heedful Watch over his own Steps,
+And by his Practice well enforce the Doctrine
+He means to have him learn.
+
+LEICESTER. Yet check this Passion,
+And hear the Dictates of my cooler Mind.
+Is not the Council here convened this Morn,
+By Henry's Order, to debate the Courtesy
+Of the French Monarch, who even now invites
+Thy royal Presence to his gallant Court,
+On friendly Visit?
+
+PRINCE. Yes -- and here the Partner
+In England's Throne waits, till their mighty Wisdoms
+Shall have determined what his Course must be,
+And deign to call him in; waits like a servile
+And needy Pensioner, that asks a Boon.
+
+LEICESTER. Again you lapse into this wild Extreme.
+Forget a while Ambition and Revenge,
+And court cool Wisdom; act the Politician;
+Play to their Humors, yield to their Decrees;
+Use this French Journey, as the happy Step
+To mount to your Desires. -- Though here deprived
+Of Power, in Normandy your Half-King Title
+Enables you to scatter Favors round,
+Such as shall gain you popular Applause
+And win your Subjects' Hearts -- This Point obtained,
+All you can ask is yours; you may command
+Where now you sue, and Henry's Self may fear
+Your Potency, and grant your highest Wish.
+
+PRINCE. By Heaven thou have inflamed my eager Soul
+With bright Imaginations of Renown,
+Of Conquest and Ambition; I a while
+Will try to sooth this proudly swelling Heart,
+Into mild Heavings, and submissive Calms,
+For this great Purpose.
+
+LEICESTER. To your Aims devoted,
+I Will privily away, and meet you there;
+Will worm myself into each Norman Breast;
+Pour in their greedy Ears your early Virtues,
+Your Love of them, their Interest and Honor;
+Then join in any hardy Enterprise
+That Forethought can suggest, and win the Palm,
+Or die beside thee.
+
+PRINCE. Generous, gallant Friend!
+I have not Words to thank thee -- to my Breast
+Let me receive the Guardian of my Glory,
+In full Assurance that his noble Friendship
+Shall never be forgot.
+
+LEICESTER. Behold, the Queen;
+She moves this way.
+
+PRINCE. I will retire a while;
+I would not meet her, till this hoped Departure
+Be fixed irrevocably, lest her fond
+Maternal Love and Softness might prevail
+Over that instinctive Yielding in the Breast,
+Which Nature wakens when a Mother sues,
+And win some Promise from my pliant Heart,
+That I should scorn to break.
+[Exit.
+LEICESTER. What if I try
+To win her to our Cause? The frequent Wrongs
+Which fire her haughty Mind, joined to Affection
+For her young Henry, may engage her Help
+In any Scheme that promises Revenge.
+But soft -- the present is no Time for that;
+For with her comes that busy meddling Abbot,
+That Dealer in dark Wiles, who rules and guides
+The Consciences of all who weakly crouch
+To his Mock-Sanctity. I will avoid him --
+Even now some Mischief broods within his Mind!
+Perhaps towered me; for he, of late, has shown me
+Marks of Respect and Courtesy, wherein
+He was not wont to deal. Time only will
+Explain the Object of his present Aims,
+For in his Proteus-Face, or even his Words,
+No smallest Trace of what employs his Thoughts
+Can ever be descried.
+[Exit. Enter QUEEN and ABBOT.
+QUEEN. Tell me no more
+Of long-protracted Schemes and tedious Wiles;
+My Soul is all Impatience: Talk to me
+Of Vengeance, speedy Vengeance.
+
+ABBOT. What can be
+Devised to punish, pain, and mortify,
+Beyond what is enjoined on Henry's Head?
+Though distant from the venerable Shrine,
+Where martyred Becket's sacred Blood was spilled,
+Is he exempt from Penance? Does not here
+Our careful Mother Church pursue her Foe?
+Is he not nightly doomed to tread the lone
+And solemn Isles of Ida's holy House,
+In deep Atonement for the barbarous Fall
+Of that dear murdered Saint?
+
+QUEEN. And what attones
+For Eleanor's loud Wrongs, her murdered Peace?
+Will all the Penances ever yet devised
+By dronish Priests, relieve my tortured Heart?
+Will they recall my Henry's truant Love,
+Or blast the Charms of that deluding Witch,
+Who lures him from me? This is the Redress
+Which Eleanor demands -- this the Revenge
+Alone, which she can condescend to take.
+
+ABBOT. Nor is this past my Hope to purchase for you:
+My Thoughts, devote to you and your Repose,
+Continually labor for your Good.
+Alas! you know not, mighty Queen, the Sighs
+My Heart has heaved, the Tears mine Eyes have shed,
+For your injurious Treatment; and, even now,
+Would you but bid your just Resentment cool,
+I think the wished Occasion is at Hand,
+That gratifies your most enlarged Desire.
+
+QUEEN. Thy Words are Balsam to my wounded Peace.
+Go on, go on; dwell on this pleasing Strain,
+And I will worship thee.
+
+ABBOT. Is not the Council
+Convened by Henry? Do they not decree
+Your darling Son shall strait for France?
+
+QUEEN. Ay, there
+Again is England's Queen insulted, mocked --
+Have I no Right of Choice? Shall the dear Boy,
+Whose noble Spirit feels his Mother's Wrongs,
+Shall he be banished from me, torn away,
+My only Comforter?
+
+ABBOT. He must not go.
+You must prevent it -- practice every Art;
+Nay, bid your Pride and fierce Resentment bend
+To soft Request and humblest Supplication,
+Ere suffer his Departure.
+
+QUEEN. Tell me, Father,
+How this is to be done. Can thou speak Peace
+To the tumultuous Bosom of the Deep,
+When the loud Tempest tears it? Can I meet
+With patient Meekness my Oppressor's Sight?
+Wear an apparent Calmness in my Face,
+While heaving Anguish struggles in my Mind?
+It will not be.
+
+ABBOT. There are no other Means,
+What though the Council urge State Policy,
+And Public-Good, for their Consent herein,
+Their inward Aim is to oblige the King,
+Who labors this great Point. And what is his Drift?
+No courteous Scheme, to please his Brother France:
+But merely to remove the gallant Prince.
+
+QUEEN. Say thou?
+
+ABBOT. He fears a Rival in the Hearts
+Of discontented Subjects; the brave Youth,
+With Speech undaunted, that disdains Disguise,
+Has freely spoke your Wrongs: Hence Jealousy
+Broods in the King, lest your aspiring Son
+May prove, in Time, a Bane to his Pursuits,
+In wanton Dalliance, and illicit Love.
+
+QUEEN. Is this the End of all his boasted Care
+For my Son's Weal, his Happiness and Honor?
+This the great Cause his Brother France must see
+The all-praised Heir of England's mighty Throne?
+Oh, Henry! Whither is thy Greatness sled?
+Is thy bold Pride, thy Majesty of Heart,
+Sunk in low Stratagems and mean Deceits?
+So will it ever be, when Perfidy
+Pollutes the Soul; the Sense of Honor flies,
+And Fraud and Meanness fill the vacant Seat.
+
+ABBOT. Lose not the precious Hours in useless Reasonings;
+Speed to the Presence; seize the first fair Moment:
+Hang on his Garment, clasp his stubborn Knees;
+Foil Art with Art, and practice every Means
+To win the King from this abhorred Design.
+
+QUEEN. I go; however ill-suited to the Task,
+I will essay it. -- Stoop, exalted Heart,
+A Moment stoop; and, Tongue, learn thou a new,
+An unbeseeming Lesson; let the Cause,
+The noble Motive, consecrate the Means.
+Remember, Eleanor, thou fall'st a while,
+To rise more glorious; to record thy Name
+Amid the fairest Legends of Renown,
+A brave Avenger of thy Sex's Wrongs.
+[Exit.
+ABBOT. Go, shallow Woman! thy impatient Soul,
+That mounts to Frenzy at each slight Surmise
+Of Injury, makes thee a precious Tool
+For deep-laid Policy to work withal.
+The Prince must here abide -- his towering Pride,
+And Leicester's hot and enterprizing Genius,
+Assisted by my subtle Aid, may raise
+A Storm that shall destroy this haughty King,
+This Poison to our Cause and holy Order.
+Henry, thou know not what a Foe thou have
+In this un-mitigable Breast -- my Soul
+Abhors thee, and will never know Repose,
+Till thou have fallen a Victim to my Rage.
+The greatest, noblest Cause inspires my Deeds!
+Look down, Oh, sainted Becket! with Delight,
+On thy true Servant! Let thy blessed Spirit
+Assist my Purpose, while I seek Revenge
+On him who dared insult our holy Faith,
+By instigating sacrilegious Hands
+With thy dear Blood to stain our hallowed Shrines.
+[Exit.
+END OF THE FIRST ACT.
+ACT II.
+SCENE, an Apartment in the Palace. Enter the KING and VERULAM. KING. TRUE,
+Verulam, and it must be thy Care
+To check this growing Pride, which mounts so fast,
+And like the forward Sapling boldly strives
+To emulate the lofty Cedar's Height,
+Which long has tower'd in unrivaled Strength,
+The Glory of the Wood.
+
+VERULAM. That Zeal and Love,
+Which hitherto has won my Master's Confidence,
+Long as the Lifeblood warms this aged Heart,
+Shall be employed to serve him: but this asks
+The nicest Caution; soft Advice must sooth
+His headstrong Spirit, that, on the least Surmise
+Of an usurped Authority, would start
+Aside, indignant of Control.
+
+KING. To thee,
+Thy Love and Prudence, we confide the Whole.
+Thy polished Sense, thy Knowledge of Mankind,
+And long Experience, render thee most fit
+For this great Task.
+
+VERULAM. The Time of his Departure,
+Is it yet fixed?
+
+KING. On our Decree alone
+That Point depends; he shall with Speed away;
+These rude Commotions, that assail us round,
+May call us from our Realm; should it prove so,
+He must not here remain; his Stay were fatal.
+
+VERULAM. Not so, I hope, my Liege.
+
+KING. Prudence enjoins
+Our strictest Caution. What his own Ambition
+Might of itself attempt, we cannot say,
+But there is a farther Danger to be feared.
+
+VERULAM. His Virtues will defend him from such Deeds,
+As Honor and Obedience must alike
+Condemn; and he has Virtues which, I trust,
+Will cast a Luster over his rising Years,
+When the slight Indiseretions of his Youth
+Are buried in Oblivion.
+
+KING. I trust so, too;
+Yet, Verulam, where splendid Virtues grow
+Great Errors also shoot; his Time of Life
+Is now in that capricious, wavering State,
+When the soft Bosom is susceptible
+Of every new Impression; his Colleague,
+(From whom we wish him sunder'd) subtle Leicester,
+Is ever at his Ear, watchful to seize
+The unguarded Moment of the youthful Heart,
+When dark Insinuations may prevail
+Upon his ductile Mind. Be thou in Readiness,
+On our first Notice.
+
+VERULAM. This important Point,
+Which waited only, what this Morn has given,
+The Council's Sanction, has been long debated.
+I am prepared, my Liege.
+
+KING. Behold our Son!
+Enter the PRINCE. Henry, the Council, zealous for thy Welfare,
+The ripe Improvement of thy growing Virtues,
+And the successive Glories of our Line,
+Have by their Voices sanctified our Will,
+In thy Departure hence. Go, reap that Profit
+Which the discerning and ingenious Mind
+Gains from new Climes, that Knowledge of the World,
+Of Laws, of Customs, Policy, and States,
+Which Observation yields alone, and Books
+And learned Guides imperfectly convey.
+
+PRINCE. I thank my Father's Love; the Council wisely
+Bend to thy Will; they but allot what else
+Had been demanded by the future Heir,
+And present Partner in the imperial Seat.
+My glowing Youth and kindling Spirit scorn
+To live cooped up within one scanty Bound:
+Would Life permit, it were Delight to trace
+Each sceptered Region of the peopled World,
+To mark, compare, define their various Modes,
+And glean the Wisdom that results from all.
+
+KING. Blessed in the Inheritance of England's Throne,
+This Ardour well besits thee. Go, my Henry,
+Visit our Brother France; there shine a Star
+Of this rich Diadem; let the bright Dawn
+Of thy young Virtues glitter in their Eyes;
+Those Virtues which shall grace this glorious Isle,
+When we are low in Dust.
+
+PRINCE. And show a Heart
+Prepared to vindicate each royal Due,
+With the last Drop that warms its swelling Veins.
+
+KING. Spoke with a freeborn Spirit -- Yet beware,
+Be not impetuous to grasp at Power,
+Nor use it, when obtained, beyond the Limits
+Of Reason and Uprightness; in the Monarch
+Do not forget the Man. This honest Lord,
+An able Counselor and steady Friend,
+We make Companion of thy Expedition;
+Receive him, Henry, from thy Father's Hand,
+Worthy thy Friendship, wear him near thy Heart;
+And should some hasty Warmth mislead thy Youth,
+Be his white Hairs the reverend Monitors,
+To warn thee back to the neglected Path,
+From which thy Steps had strayed.
+
+PRINCE. I love his Virtues,
+And thus receive the Man my Sire esteems.
+Enter the QUEEN.
+QUEEN. Must I then lose him? Is he not my Son?
+Or has a Mother's Tongue no Right to plead
+In her own Sufferings? Oh, my Lord, my Henry,
+Stand thou between thy Wife, and the hard Sentence
+Of Men, who feel not the soft Ties of Nature,
+And give me back my Boy.
+
+KING. Madam, forbear!
+Parental Feelings in my Bosom sway,
+Strong as in thine. Is he not lost alike
+To Henry as to Eleanor? Subdue
+This unbecoming Weakness, that prefers
+Self-Satisfaction to the public Weal.
+He must away.
+
+QUEEN. Alas! there was a Time
+When Henry's Speech had falter'd over and over,
+Ere he had uttered, with determined Breath,
+So harsh a Sentence. Is that Time forgot?
+-- Nay, turn not from me, Henry! does thy Heart
+Shame to avow the Guests it harbored once,
+Fond Love and gentle Pity?
+
+PRINCE. Cease, my Mother,
+Oh, cease to interrupt my Course of Glory;
+I go but for a Season, to return
+More worthy thy Endearments.
+
+QUEEN. Art thou, too,
+A Traitor to my Peace? And do thou wish
+To fly a Mother's Arms? To leave her here,
+Helpless and unprotected! Oh, my Son!
+Oppose not thou my Wish, but rather join
+To melt a Father's Heart.
+
+KING. 'Twere useless, Madam;
+Think who thy Husband is, and what his Ties.
+How light, how wavering must he appear
+In public Eyes, should he abjure the Point
+He has just labored! Recollect thyself --
+Thou can not wish him so to slight the Claim^
+Of Wisdom, and of Honor.
+
+QUEEN. Nor the Claims,
+The softening Duties of domestic Life;
+The Claims of Happiness, of inward Peace,
+Which long my Heart has sighed for.
+
+KING. Eleanor,
+Once more, remember who we are; a King
+That will not brook to be arraigned and schooled
+For petty Indiscretions. Henry judges
+His own Mis-doings, and the Chastisement
+Must be inflicted by his conscious Mind,
+Not the bold Railings of another's Tongue.
+
+QUEEN. I will be mild, be patient, be advised;
+I do recall my Words, revoke each free,
+Each hasty Breath of my unguarded Speech,
+Which has offended thee; henceforth I bend
+My Temper to thy Will, thy nicest Wish,
+So I may keep my Son.
+
+KING. No more -- thou ask
+What cannot be.
+
+QUEEN. Thus lowly on my Knee
+Will I turn Suppliant for him.
+
+KING. Oh, forbear!
+That Posture ill becomes us both. I grieve
+Thou should be so importunate, for what
+We must not, cannot, will not grant.
+
+QUEEN. For this
+Have I debased myself? Has England's Queen
+Bent lowly to the Earth, to be denied
+A Suit, the Mother had a Right to claim?
+My Heart swells high, indignant of the Meanness,
+And scorns itself for such Servility.
+
+KING. Prefer a proper Suit, thou can not ask
+What Henry shall refuse.
+
+QUEEN. Oh no! Thy Grants,
+Thy kind consenting Smiles, thy soothing Accents,
+Thy Love, thy Faith, are all withdrawn from Eleanor,
+And given to another; conscious Shame
+O'er-pow'rs me, while I own they once were dear:
+But I will now forget them, raze them out
+From my officious Memory, which has dared
+To call them back to my insulted Heart.
+
+KING. Well does this Railing, which thy Fury promised,
+Warn us to part; our Kindness meant to give
+Some Days Indulgence to the Mother's Feelings.
+
+QUEEN. I scorn both that and thee.
+
+PRINCE, [Aside.] My Bosom swells,
+Impatient of her Wrongs -- down, down, a while,
+The Time -- the Time will come --
+
+KING. Lord Verulam*
+Prepare thee, on the Instant; he shall hence
+Before yon Sun decline. If thou have aught
+Of Love or Duty for thy Mother's Ear,
+Thou have free License, Henry, to employ
+The present Moments in that pious Office;
+Yet take good Heed -- let not a Woman's Weakness
+Melt thy Resolves, and tempt thee to forget
+The Debt thou ow'st thy Country and thy King.
+[Exit with Verulam.
+PRINCE. Restrain those precious Drops, my dearest Mother,
+That trembling stand in thy swollen Eyes, and show
+Like the full Bubblings on the Fountain's Brim,
+Pressing to pass their Bounds; abate this Grief,
+And bid thy Bosom rest.
+
+QUEEN. If thou behold'st
+One Tear disgrace mine Eye, fierce Indignation,
+Not Grief, has called it forth -- away, away --
+Seem not solicitous about the Cause
+That pains thee not; thou art no more a Son,
+No more a Comfort to thy Mother's Woe.
+
+PRINCE. Oh, by the Hopes I have of future Fame,
+I do not merit these ungentle Terms.
+Revoke thy Words -- resume those gentle Strains,
+Which wont to fall upon thy Henry's Ear,
+And Nature's Feelings will unfluice my Heart
+In Blood to thy Complainings.
+
+QUEEN. Art not thou
+Joined with the rest, a Foe to my Repose?
+See thou not how thy Mother is neglected,
+Abandoned, scorned? Yet thou can yield Obedience
+To the Decrees of him who thus insults me,
+And leave me to my Wrongs.
+
+PRINCE. Can I oppose
+A Parent's absolute Command? Oh, Madam!
+Think on my State, how critically nice;
+'Twixt two such urgent Claims, how hard to judge!
+I must resist a King and Father's Power,
+Or seem neglectful of a Mother's Woes.
+Judge me not so; even while I own the Strength
+Of this imperial Mandate, and prepare
+To speed for France, I feel for your Afflictions,
+Lament your helpless State, and could, with Joy,
+Yield up my Life, to save you from Disgrace.
+
+QUEEN. There spoke my Son again! Oh, my dear Henry!
+If thy Soul's Truth confirms these precious Words,
+(And that it does, I trust that starting Tear)
+Reflect what further must betide my Life,
+What future Hoards of Misery and Shame
+Fate has to pour upon my wretched Head.
+My Share in the imperial Seat, my Life
+Even now, perchance, is doubtful; all Ills threaten;
+And when the mighty Measure is complete,
+When every Breast, but thine, is callous towered me,
+Must I call out in vain for my Defender?
+Or must I yield my Spirit to my Wrongs,
+And poorly die beneath them?
+
+PRINCE. Ere the Hour
+Arrive, that should behold that dire Event,
+I would myself redress thee, would excite
+My Norman Subjects in thy just Defense;
+Would head them, and oppose my vengeful Sword
+To each oppressive Breast, (save One alone)
+To vindicate thy Rights.
+Enter VERULAM.
+VERULAM. The King, my Lord,
+Expects you.
+
+PRINCE. I attend him strait.
+[Exit Verulam.
+QUEEN. This Haste
+Has Malice in it.
+
+PRINCE. Heed it not, my Mother;
+This Journey (if my Guess deceive me not)
+Shall be the Source of Good; and on thy Head
+May all that Good descend! Be Death my Lot,
+So I give Peace to thee!
+
+QUEEN. I will not shame
+Thy noble Spirit with weak wom'nish Tears,
+Or one disgraceful Sigh. Will thou remember
+Thy Mother's Wrongs?
+
+PRINCE. I will.
+
+QUEEN. Adieu, begone;
+[Exit Prince. Glory and Bliss be thine! This gallant Boy
+(So my prophetic Mind forebodes) shall prove
+My great Avenger, and Oppression's Scourge.
+Perfidious Henry! thou impell'st my Soul
+To these Extremes; thou make me what I am.
+Had thou continued, what I knew thee once,
+Endearing, tender, fond -- but hence the Thought!
+Let me shun that, lest my great Heart recoil,
+And shrink inglorious from its mighty Task.
+Why comes he not? This Abbot! Oh, it is well.
+Enter the ABBOT. Where are thy Councils now? Thy subtle Schemes?
+All weak and un-availing -- I am lost;
+Sunk in my own Esteem; have meanly bent
+Beneath injurious Henry's lordly Pride,
+And heard my Prayers rejected.
+
+ABBOT. Hapless Queen!
+Thy Wrongs, indeed, cry loud.
+
+QUEEN. My Son's torn from me.
+
+ABBOT. I Have heard it all.
+
+QUEEN. And sat inactive down,
+To wait the slow Events of Time and Chance!
+
+ABBOT. Misdeem me not, great Queen; I have revolved
+Each Circumstance, with nicest Scrutiny;
+Even from this Journey, which we wished to thwart,
+Much Good may be derived; if the Prince breathe
+The Spirit of his Mother --
+
+QUEEN. Peace! my Policy
+Has flown before thee there; I have explored
+His active Spirit; found him what I hoped:
+For me he sallies forth; for me returns,
+To vindicate my Rights.
+
+ABBOT. As we could wish;
+And a sharp Spur, to forward his Designs
+In any daring Enterprise, is Leicester.
+By secret Emissaries I have learned,
+Within this Hour, that warm, ambitious Friend
+Withdraws from Court, and speeds to join the Prince
+In Normandy.
+
+QUEEN. But what avail these Views,
+Of distant Vengeance, to my present Pangs?
+Here I endure the Bitterness of Woe,
+While my cursed Rival, bane of all my Joys,
+Dwells in Tranquillity and soft Content;
+In placid Ease, within her Fairy-Bower,
+Enjoys my Henry's Smiles, his fond Endearments,
+And Vows of Love -- Ah! due to me alone!
+
+ABBOT. That Dream shall vanish quickly.
+
+QUEEN. Say thou, Father?
+
+ABBOT. This very Evening, my religious Function
+Demands me at the Fair-one's Bower.
+
+QUEEN. The Fiend's --
+
+ABBOT. To thy sole Use the Time shall be employed.
+I will awaken in her timorous Mind
+The Dangers of her State; load her with Scruples;
+Then work her Temper to some dangerous Scheme,
+That shall undo her Favor with the King.
+
+QUEEN. Its Nature? -- Speak --
+
+ABBOT. Tax me not, gracious Mistress,
+To farther Explanation -- Let me have
+The Triumph and Delight to pour at once
+My subtle Scheme, and its desired Success,
+In thy enraptured Ear.
+
+QUEEN. Enough -- go on,
+And give me this great Comfort; let me hear
+The Sorceress is sundered from his Arms;
+Work me this Miracle -- Renown, and Wealth,
+Unbounded Power, and royal Patronage
+Shall be thy great Reward.
+[Exit.
+ABBOT. For Wealth and Power
+I on myself alone depend -- Vain Dreamer!
+Who weakly can suppose I toil for thee.
+No, I have further, higher Views, beyond
+Thy feeble Stretch; -- the supple Rosamond
+Shall prove a greater Bane to thy Repose,
+Than thou divin'st; her will I instigate,
+With her soft Blandishments and witching Phrase,
+To practice on her Lover, till she lure him
+To cast thee from thy regal Dignities,
+Divorce thee from his Bed and Throne; that done,
+The Enchantress rises to the vacant Seat;
+Thus one great Point of my Desire is gained;
+Power uncontrollable awaits my Nod:
+The Gewgaw, dazzl'd with her Pomp, shall
+Rule the King, and I rule all, by ruling her.
+[Exit. SCENE changes to a Cloister. Enter CLIFFORD, dressed as an Abbot.
+CLIFFORD. Thou Garb, for holy Purposes designed,
+Assist my honest Artifice; conceal
+My aged Form from Recollection's Trace,
+And be my Passport to my mourning Child,
+I Will hallow thee with Gratitude and Tears.
+This is the awful Hour, if right I learn,
+When in these solemn Isles the royal Henry
+Treads, Pilgrim-like, these Flints, and pours his Soul
+In Sighs for murdered Becket -- where, alas!
+Where are the deep Laments, the bitter Tears,
+Which he should shed for Clifford's ruined Peace?
+He comes, the great Disturber of my Breast:
+Even noble in his Guilt! -- my Heart avows
+The fond Affection that I bore his Youth,
+And melts within me. -- Let me shun his Sight
+A Moment, to retrieve my sinking Spirit.
+[Retires. Enter the KING, as a Pilgrim.
+KING. Must it be ever thus? still doomed to tread
+This sullen Course, and for a bitter Foe?
+Becket, though in his Grave, torments me still.
+And what avails it him, who sleeps unconscious
+Of my forced Penance? Heart, resume thy Strength!
+Rouse thee! resist the bigot Imposition,
+And be thyself again.
+
+CLIFFORD. Who thus vents forth
+[Advancing* His sore Disquiets?
+
+KING. What is he who asks?
+If yon expiring Lamp deceive me not,
+Thy Garb betokens a religious Function.
+
+CLIFFORD. Thou judge well.
+
+KING. Inform me, holy Guide,
+What boot the Punishments your Laws enjoin?
+Self-Castigation, balmy Sleep renounced,
+And lonely Wand'rings over the rugged Flint,
+Through the long-cloister'd Isle?
+
+CLIFFORD. Much, pious Stranger,
+Much they avail: within these silent Walls
+Chaste Contemplation dwells; this hallowed Gloom
+Inspires religious Musings, ardent Prayer,
+Which, by their servid Impulse, waft the Soul
+Of erring Man, above this Vale of Weakness,
+And teach him to regain, by heavenly Aid,
+What he had forfeited by human Frailty.
+
+KING. Divinely spoke! But well may thou declaim
+On their Utility, who never have felt
+Their harsh Severities -- Thou happily can
+Produce the Legend of a Life unstained.
+
+CLIFFORD. No -- would to Heaven I had that Boast; but ranked
+Amongst Error's Sons, I share the general Lot.
+Too numerous are my Faults; but one, alas!
+Beyond the rest I mourn -- Spare me a Moment,
+While I give Respite to my swelling Grief.
+
+KING. Methinks thou have involved me in a Share
+Of thy Distress. For what art thou enjoined
+This rigid Duty, similar to mine?
+Who has inflicted it?
+
+CLIFFORD. Myself -- my Conscience.
+
+KING. Thyself!
+
+CLIFFORD. The Mind that feels its own Demerits,
+Needs no Infliction from another's Tongue.
+
+KING. My Ears, my Soul, are open to thy Words --
+Give me to know thy Crime.
+
+CLIFFORD. How can I utter it,
+And not sink down with Shame?
+
+KING. Let Shame betide
+The coward Heart that will not own its Frailties;
+If there is a Grace in Man superior far
+To all beside, it must be that true Pride,
+That bids him speak his own Misdeeds. Proceed.
+
+CLIFFORD. I had a Friend -- the Darling of my Soul --
+He loved, he honored me -- the Trade of War
+He taught my Youth; in many a hardy Field
+Have we together sought, asserted England's
+And noble Henry's Fame, Henry, the greatest,
+The best of Kings! --
+
+KING. Oh, painful Recollection!
+[Aside. Thou once had such a Friend, ungrateful Henry!
+
+CLIFFORD. A Length of Brotherhood we 'joy'd together,
+Till all its Blessedness was spoiled by me.
+He had a Daughter, beauteous as the Eye
+Of Fancy ere imagined --
+
+KING. Spare me, spare me --
+Oh, bitter Tale! thou had a Daughter, Clifford!
+[Aside,
+CLIFFORD. I marked her for my own; poured the false Tale
+Of wily Love into her credulous Ear,
+And won her artless Heart.
+
+KING Tumultrous Pangs
+[Aside. Rush like a Torrent through my bursting Breast; --
+My Crime, reflected by this Stranger's Tale,
+Glares frightful on me! Till this Hour, I knew not
+My Trespass was so great -- Oh, with what weak,
+What partial Eyes we view our own Misdeeds!
+The Faults of others are a huge Olympus,
+Our own an Emmet's Nest.
+
+CLIFFORD. Heart, Heart, be strong!
+[Aside. He muses deeply on it -- I have hurt
+[To the King. Thy soft Humanity, I fear. -- Perchance
+Thou have a Daughter, who, like this my Victim,
+Has strayed from Virtue's Path.
+
+KING. Away, Away --
+I can endure no more -- O Conscience, Conscience,
+[Aside. With what a wild Variety of Torments
+Thou rushest through my Soul! -- It Is all Distraction,
+And asks some more than human Strength of Reason,
+To save me from Despair.
+[Exit.
+CLIFFORD. Kind Heaven, I thank thee;
+His noble Nature is not quite extinguished,
+He Is wounded deep -- Oh! may he but retain
+This Sense of the sore Pangs he brought on me,
+Till I have rescued my repentant Child,
+And all my Business in this Life is done.
+[Exit.
+END OF THE SECOND ACT.
+ACT III.
+SCENE, an Apartment in the Bower. ROSAMOND discovered writing. ETHELINDA
+attending. ROSAMOND. IT is in vain -- my trembling Hands deny
+Their wonted Office -- my distracted Mind
+Revolves a thousand Projects to regain
+Its vanished Peace; yet all by Turns evade
+My feeble Efforts; like the lucid Vapors,
+Which rise successive in a Summer's Sky,
+And court our Observation, yet are lost,
+Ere Fancy can assign them Name or Shape,
+Lost in the wide Expanse. Ah me! how weak,
+How insufficient to its own Desires,
+Is the poor Breast which Honor has deserted!
+
+ETHELINDA. Say, is it ought thy Servant can discharge?
+She wishes to relieve thy Woe, and shares
+Thy every Pang.
+
+ROSAMOND. Thy sympathizing Heart
+Has often consol'd me, softened the rude Hour
+Of bitter Recollection, and repelled
+Encroaching Agony -- My Henry gave thee
+A Servant to my Use; but thy mild Nature,
+So ill adapted to the lowly State
+Wherein thy Lot was cast, taught me to change
+That servile Title for the Name of Friend.
+
+ETHELINDA. Give me that Office now, and let me speak
+Thy Meanings there.
+
+ROSAMOND. I know not what I mean.
+In vain, alas! she strives to please herself,
+Who has offended Virtue. On that Paper
+I wished to pour my Duty to my Father,
+Implore his dear Forgiveness, beg one Blessing,
+Ere yet he sleep in Peace -- Oh, Rosamond!
+Well have thou spoke! for in the Grave alone
+Can Clifferd rest. -- Peace and Repose on Earth
+Thine impious Offenses have denied him.
+Ere this, perhaps, he is laid low in Dust,
+And his last Hours were charged with Grief and Shame.
+
+ETHELINDA. Hope better, my fair Mistress; raise thy Thoughts
+From the dark Musings of despondent Woe,
+To these bright Scenes of Happiness and Joy.
+
+ROSAMOND. I have no Title to them; these bright Scenes
+May give Delight to unpolluted Breasts,
+But not to mine! The Charmer, Happiness,
+Has long deserted me; with her loved Mate,
+Seraphic Innocence, she winged her Flight,
+I fear, for ever. -- This retired Abode,
+Graced with each Ornament inventive Fancy
+Can furnish, to allure the admiring Eye,
+Serves but to sting me deeper with Remorse;
+Upon my Cheek imprint a stronger Glow
+Of conscious Shame, reflecting on the Cause,
+The wretched Cause, that brought me to their View.
+
+ETHELINDA. These are the Dictates of deforming Spleen,
+That to the low dejected Mind presents
+False and disgustful Objects. Henry's Absence
+Is the sad Source that casts this mournful Gloom
+On all around: three Days have now elapsed
+Unmarked by him and Love; when he arrives,
+The Bower, the Groves, will wear a fairer Aspect,
+And all be dressed in Beauty and Delight.
+
+ROSAMOND. It Is true, I try to wear the Smile of Joy
+In my dear Conqueror's Sight: Nay, I do wear it;
+My Heart acknowledges the soft Delight
+His Presence gives. Had I not loved too well,
+I had not been this Wretch! -- My Soul doats on him!
+I live but in his Looks. Why was he not
+By Fate ordained some rustic Villager,
+And I the Mistress of a neighbor Cot,
+That we had met, as happy Equals do,
+And lived in Pleasures unallay'd by Guilt!
+
+ETHELINDA. Yet to engage the dear, the tender Hours,
+Which royal Henry spares from public Toils;
+To call that Heart your own, which all agree
+To love and honor; feast upon those Smiles,
+Which millions sigh for --
+
+ROSAMOND. Cease, my Ethelinda;
+Thou know not how thy Words afflict my Breast.
+Think not, though fallen from Innocence, my Mind
+Is callous to the Feelings of Humanity,
+Of Truth, or Justice. I reflect full often,
+Even in my happiest Moments, there lives One
+Who has a Right to Henry's every Hour,
+Each tender Vow, and each attractive Smile:
+I know it, and condemn my feeble Heart,
+For yielding to Desires all moral Laws
+Forbid, and in-born Reason disapproves.
+
+ETHELINDA. You school yourself too harshly.
+
+ROSAMOND. Oh, not so!
+I have much more to bear. I have not yet
+Learned the great Duty Expiation claims:
+To part, my Ethelinda.
+
+ETHELINDA. Part! from whom?
+
+ROSAMOND. From Henry -- from the Monarch of my Heart;
+My Wishes' Lord, my All of earthly Bliss!
+Thou marvel'st at my Words -- but it must be;
+It is the sole Atonement I can make
+To a fond Father's Woes, his injured Fame,
+The tarnish'd Glories of a noble Line,
+The royal Eleanor's insulted Rights,
+And my own conscious, self-arraigning Heart.
+
+ETHELINDA. Oh! do not flatter that fond Heart with Hope
+Of such exertive Power! Beneath the Trial,
+Your Strength would fail, your Resolution droop;
+You could not yield him up.
+
+ROSAMOND. By my warm Hopes
+Of mild Remission to my great Offenses,
+I feel my Bosom equal to the Task,
+Hard as it is; so Henry left me not
+In Anger or Unkindness, but resigned me,
+With the dear Care of a protecting Friend,
+To the soft Paths of Penitence and Peace,
+I would embrace the Torment it entailed,
+And bless him for each Pang.
+
+ETHELINDA. Behold he comes!
+[Exit. Enter the KING.
+KING. My Rosamond! my ever new Delight!
+Receive me to thy Arms, enfold me there,
+Where ever-blooming Sweets perpetual rise,
+And lull my Cares to Rest.
+
+ROSAMOND. It was not thus
+My Henry used to visit this Retreat;
+Bright Cheerfulness was wont to dance around him,
+Complacent Sweetness sat upon his Brow,
+And soft Content beamed lovely from his Eye.
+
+KING. Well thou reprov'st me; I will strive to chase
+The gloomy Cloud, that overhangs my Spirit,
+The Effect of public Business, public Cares.
+(My Tell-Tale Looks, I fear, will speak the Pain
+My Heart still suffers, from that Stranger's Converse.)
+[Aside. Often do I mourn the Duties of my Station,
+That call my Thoughts to them, and claim the Hours,
+Which I would dedicate to Love and thee.
+
+ROSAMOND. I meant not to reproach thee; 'twas my Zeal,
+For the dear Quiet of thy Mind, that spoke.
+I cannot see the slightest Shade of Grief
+Dim the bright Luster of thy chearing Eye,
+But Apprehension pains me, lest for me
+Thy Glory be diminished to the World.
+
+KING. I seek not empty popular Acclaims;
+Thy tender Accents falling on mine Ear,
+Like rural Warblings on the panting Breeze,
+Convey more Rapture, more supreme Delight,
+Than Io-Paeans of a shouting World.
+
+ROSAMOND. To see bright Satisfaction glow within
+Thy manly Cheek, behold the rising Smile,
+And hear thee speak the Gladness of thy Heart,
+Is my best Joy, my Triumph, and my Pride;
+And yet, my Henry, ought it to be so?
+Still should I listen to the Siren, Pleasure,
+While awful Virtue lifts her sober Voice,
+And warns my Heart of her neglected Precepts?
+
+KING. Forbear, forbear these soft Complaints, and speak
+Of Rapture; speak of my improving Ardour,
+And thy unceasing Love.
+
+ROSAMOND. Oh! thou divin'st not
+How many heavy Hours, and sleepless Nights,
+Thy Rose endures! how much my faulty State
+(Blessed as I am in thee) arraigns my Mind;
+Often in the bitter Hours when thou art absent,
+My Father's Image rises to my View,
+Arrayed in gloomy Grief, and stern Reproof.
+Nay, do not eye me with that melting Fondness;
+Have thou not often bade me cast my Cares
+On thee, and told me, thou would bear them for me?
+Hear then, oh, hear me! for to whom but thee
+Can I unload my Heart?
+
+KING. Oh, speak not thus.
+Should these sad Accents stain the precious Moments,
+When Henry flies from a tumultuous World
+To tranquil Joys, to Happiness, and thee?
+What busy Fiend, invidious to our Loves,
+Torments thy gentle Breast?
+
+ROSAMOND. Trust me, my Henry,
+This is no sudden Gust of wayward Temper,
+It Is Reason's Impulse; often has my Heart endured
+Afflictive Pangs, when my unclouded Face
+Has worn a forced and temporary Smile,
+Because I would not hurt thy noble Mind.
+Advancing Time but multiplies my Torments,
+And gives them double Strength; they will have Vent.
+Oh! my Protector, make one glorious Effort
+Worthy thyself -- remove me from thy Arms;
+Yield me to Solitude's repentant Shade.
+
+KING. Renounce thee, did thou say! my Rosamond!
+Were those the Words of her and Love?
+
+ROSAMOND. They were;
+It is my Love entreats; that Love which owns
+Thee for its first, its last, its only Lord.
+Allow me to indulge it, undisturbed
+By the sore Miseries which now surround me,
+Without the Sense of Guilt, that Fiend who waits
+On all my Actions, on my every Thought.
+
+KING. By Heaven, I never knew Distress till now!
+Thy Accents cleave my Soul; thou do not know
+What complicated Agonies and Pangs
+Thy Cruelty prepares for Henry's Heart!
+He must endure a Throe, like that which rends
+The seated Earth, ere he can summon Strength
+To banish thee for ever from his Arms.
+
+ROSAMOND. Think, Conscience; Honor, plead.
+
+KING. Down, busy Fiend;
+[Aside. That Stranger's Tale, and Clifford's crying Wrongs,
+Distract my tortured Mind -- in Pity cease --
+[To Ros. I cannot part with thee.
+
+ROSAMOND. A thousand Motives
+Urge thy Compliance -- will not public Claims
+Soon call thee from thy Realm? When thou art gone.
+Who shall protect me? Who shall then provide
+A safe Asylum for thy Rosamord,
+To guard her Weakness from assailing Fears,
+And threatening Dangers?
+
+KING. What can here alarm thee?
+
+ROSAMOND. Perpetual Apprehensions rise; perchance
+The poignant Sense, how much my Crimes deserve,
+Adds to the Phantoms; Conscience-stung I dread
+I know not what of Ill. Remove me hence,
+My dearest Lord; thus on my Knees I sue,
+And my last Breath shall bless thee. Give me Misery,
+But rescue me from Guilt.
+
+KING. What, lead thee forth
+From these once happy Walls; yield thee, abandoned,
+To an unpitying, unprotecting World!
+Then turn, and roam uncomfortably round
+The changed Abode, explore in vain the Bliss
+It once afforded; like a restless Sprite
+That hourly haunts the desolated Spot
+Where all his Treasure lay! Bid me tear out
+This seated Heart, and rend each vital String,
+I sooner could obey thee.
+[Going.
+ROSAMOND. Turn, my Henry;
+Leave me not thus in Sorrow! Can thou part
+In Anger from me?
+
+KING. Anger! -- Oh! thou sweet one!
+Witness these Pangs! -- I cannot, will not lose thee --
+
+ROSAMOND. Confirm my Pardon then; pitying, reflect
+It Is the first Hour I ever beheld thy Frown.
+Forgive me -- oh, forgive me!
+
+KING. Spare me -- spare
+A Moment's Thought to my distracted Soul,
+To ease the Throbs, and hush the swelling Tumults,
+Which my fond Love would fain conceal from thee,
+Thou exquisite Tormentor!
+[Exit.
+ROSAMOND. Heaven sooth thy suffering Mind, restore thy Peace,
+And win thy yielding Spirit to my Prayer!
+For it must be -- the Blow must be endured,
+Though Nature tremble at it -- Heaven requires it:
+I hear the sacred Voice that claims aloud
+Atonement for its violated Laws.
+When I am sunder'd from him, never again
+To feast my Eyes on his loved Form, or share
+His Converse more, it will be then no Sin,
+Nor Heaven nor Man can be offended then,
+If sometimes I devote a pensive Hour
+To dwell upon his Virtues; or, at Night,
+When Sleep, like a false Friend, denies his Comforts,
+I bathe my solitary Couch with Tears,
+And weary Heaven for Blessings on his Head.
+Enter the ABBOT.
+ABBOT. Health to the Fair, whose radiant Charms diffuse
+Bright Beams around, and shame meridian Day
+With rival Luster and superior Beauty!
+
+ROSAMOND. Alas, good Father, my dejected Heart,
+Ill-suited now to Flattery's soothing Breath,
+Is wrapped in other Thoughts.
+
+ABBOT. An old Man's Praise
+Is of small Worth; nor should thou term it Flattery,
+The Approbation which the ready Tongue
+Spontaneous utters at thy Beauties' Sight:
+But thy sad Eyes are swollen with Tears, I trust
+They flow from holy Motives.
+
+ROSAMOND. Thou have often
+Preached, in persuasive Accents, the great Duty
+Of combating Temptation; teaching Virtue
+To gain Dominion over assailing Passions,
+And with her pious Firmness guard the Breast.
+
+ABBOT. I have, fair Daughter.
+
+ROSAMOND. These thy holy Precepts,
+My melancholy Heart, I hope, has learned;
+The self-convicted Mourner has resolved
+To turn from Guilt's delusive dangerous Way,
+And seek the penitential Paths of Peace.
+
+ABBOT. Explain thyself, my Pupil; lay thy Meanings
+Clear to my View.
+
+ROSAMOND. I have resolved to leave
+This Culprit-State of unchaste, lawless Love,
+And, in some Solitude's protecting Shade*
+Atone, by future Purity of Life,
+My Errors past.
+
+ABBOT. It Is nobly purposed, Daughter;
+Worthy the Precepts I have given thy Youth,
+And the great Efforts of exalted Virtue:
+But why retire to moaping Solitude?
+The Heart is weak that finds itself unable
+In any Situation to repent
+Its past Misdeeds; it is the Principle,
+And not the Place, attones; we may be good,
+And yet abide in active, cheerful Life;
+There are a thousand Pleasures and Delights
+Not inconsistent with the strictest Truth
+And Sanctity of Mind.
+
+ROSAMOND. It may be so,
+And such may be indulged by those whose Lives
+Have never been branded with a flagrant Crime;
+But Wretches like myself, whom Conscience taxes,
+With violated Chastity and Justice,
+Have forfeited those Rights.
+
+ABBOT. I like not this --
+She dares debate -- She judges for herself --
+I must restrain this Freedom -- it is Presumption.
+[Aside.
+ROSAMOND. Yes, all shall be renounced, all that conspired
+To make my guilty Situation wear
+The Face of Bliss; Splendour and Affluence,
+All shall be given up, and well exchanged,
+If they obtain Remission for my Crimes.
+
+ABBOT. Some farther Meaning lurks beneath these Words,
+Which my foreboding Fears dislike.
+[Aside.
+ROSAMOND. My Hen^y
+I have solicited to this great Purpose,
+Of my new-open'd, new enkindled Mind.
+
+ABBOT. As I divined -- Destruction to my Views!
+[Aside.
+ROSAMOND. Why turn'st thou from me? Breathe thy pious Comforts
+To nourish my Resolves.
+
+ABBOT. Think thou, fond Pupil,
+Thy Paramour will yield to thy Request?
+Oh no! his Passion is too much his Master.
+Think thou, can he who doats upon thy Beauties,
+Doats even to Folly --
+
+ROSAMOND. Spare me, holy Father --
+Wound not my Ear with one contemptuous Word
+Against his Dignity: I cannot bear it.
+
+ABBOT. My Recollection, zealous for thy Ease,
+Recalls the casual Word. I grieve to see thee
+Misled by Phantoms: but there is a Way,
+A clear and certain Way to Happiness,
+Which thou have not descried.
+
+ROSAMOND. Inform me, Father,
+How I may compass the religious Ends
+My State demands, and my whole Soul aspires to,
+Without disquieting my Henry's Peace,
+And I will bless thee for it.
+
+ABBOT. Love alone
+Confers true Honor on the Marriage-State.
+Without this Sanction of united Hearts,
+The sacred Bond of Wedlock is defiled,
+And all its holy Purposes overthrown.
+
+ROSAMOND. Be plain, good Father.
+
+ABBOT. Happiness should crown
+The Altar's Rites -- and Henry sure deserves
+To be supremely happy -- thou alone
+Can make him so. Need I say more?
+
+ROSAMOND. Speak on.
+Clear unambiguous Phrases best befit
+My simple Sense.
+
+ABBOT. His Union with the Queen
+Cannot be termed a Marriage; Heaven disdains
+The prostituted Bond, where hourly Jars
+Pervert the blessed Intent; thy vain Retirement
+What boots it Eleanor? who now retains
+The Name alone of Queen; or what avails
+The Title of a Wife? Thou art the espoused
+Of his Affections; let the Church then shed
+Her holy Sanction on your plighted Loves;
+A pious Duty calls, assert thy Claim,
+Let thy fond Lord divorce her from her State,
+And Rosamond shall mount the vacant Throne.
+
+ROSAMOND. Thy specious Arguments delude me not;
+My Soul revolts against them. Hence, I scorn
+Thy further Speech -- Have I not Crimes enough?
+Have I not amply injured Henry's Wife,
+But I must further swell the guilty Sum?
+Fly with thy wicked, thy pernicious Schemes,
+To Breasts whence every Trace of Good is banished.
+I am not yet so vile; 'twas Henry's Self
+I loved, not England's King; not for the Wealth
+Of Worlds, for all that Grandeur can afford,
+The Pride of Dignity, the Pomp of Power,
+Nor even to fix my Henry mine alone,
+Will I advance one added Step in Sin,
+Or plant another Torment in her Breast,
+Whom too severely I have wronged already.
+[Exit.
+ABBOT. Bane to this coward Heart, that shrunk beneath
+The peevish Outrage of a frantic Girl!
+The vain Presumer sorely shall repent
+Her bold licentious Pride, that dared oppose
+Her upstart Insolence against my Control,
+Whose Bidding should direct her every Thought.
+Had she obeyed, the doting King perchance
+Had raised the painted Moppet to his Throne,
+And by that Deed, had lost his People's Love;
+A ready Victim to the daring Bands
+That threaten him around. That Hope is lost --
+New Schemes must be devised -- all Arts employed;
+For nothing shall appease my fierce Resentment,
+Till the foul Wounds given to our mitred Saint,
+Be deep avenged in Henry's impious Heart.
+[Exit.
+END OF THE THIRD ACT.
+ACT IV.
+SCENE the Palace. The ABBOT alone. ABBOT. IT shall be so -- the Queen herself
+shall be
+My Instrument of Vengeance, both on Henry,
+And that audacious Minion, who presumed
+To disobey my Dictates. This new Project
+Cannot deceive my Hopes: The haughty Eleanor,
+Fired by those Demons, Jealousy and Anger,
+Will set no Bounds to her outrageous Will,
+And she has suffered Wrongs that might inflame
+A colder Breast. But why recoils my Heart
+At Thought of Harm to this presumptuous Wanton?
+Why feel reluctant Strugglings, as if Virtue
+Checked and condemned my Purpose? It Is not Harm;
+It Is Piety, it is Mercy. -- Will she not
+Be taken from a Life of Sin and Shame,
+And placed where she at Leisure may repent
+Her great Offenses? This is giving her
+Her Soul's Desire. -- But Eleanor, not I,
+Shall be the Means. Night gathers round apace:
+Ascend, thick Gloom, and with thy sable Wings
+Veil Henry's Peace for ever from his Eyes!
+Enter QUEEN. Hail, honored Queen!
+
+QUEEN. Art thou a Comforter?
+Thine Order calls thee such; but thou approachest
+Unlike the Messenger of gladsome Tidings:
+Delay is in thy Step, and Disappointment
+Sits on thy Brow.
+
+ABBOT. Oh, skilful in the Lines
+Which the Mind pictures on the obedient Visage,
+To speak her inward Workings!
+
+QUEEN. Thy Designs
+Have failed?
+
+ABBOT. To thee I yield the Palm of Wisdom,
+Effective Policy, and deep Contrivance;
+To thee resign it all.
+
+QUEEN. Lose not the Moments
+In vain Lamentings over Mischances past:
+One Project foiled, another should be tried,
+And former Disappointments brace the Mind
+For future Efforts, and sublimer Darings.
+
+ABBOT. Thy noble Spirit may perchance succeed
+Where all my Arts have failed. I boast no Power
+Over this perverse, this self-directed Wanton;
+She seems new-fram'd -- her gentle Disposition,
+Which erst was passive to Instruction's Breath,
+As vernal Buds to Zephyr's soothing Gale,
+Is banished from her Breast; imperious Tones
+Exalt her Voice, and Passion warms her Cheek.
+
+QUEEN. Whence can it spring, this new presumptuous Change?
+Can she assume the Port of Arrogance?
+She, whose soft Looks and hypocritie Meekness
+Have won admiring Eyes and pitying Tongues,
+While I am taxed with warm and wayward Temper,
+For that I have not Meanness to conceal
+A just Resentment for atrocious Wrongs,
+But bid them glow within my crimson Cheek,
+And flash indignant from my threatening Eye.
+
+ABBOT. The Lures of Greatness, and Ambition's Baits,
+Are eagerly pursued by soaring Minds:
+When first their Splendour is displayed before them,
+Anticipating Hope exalts their Brightness,
+And fires the wretched Gazer, even to Frenzy.
+
+QUEEN. What Hope -- what Greatness -- what Ambition? Speak!
+Explain thy Meaning, ease the gathering Tumult
+That struggles here, and choaks me with its Fullness.
+
+ABBOT. I fear to speak.
+
+QUEEN. Why fear? Look on me well;
+I am a Woman with a Hero's Heart.
+Be quick -- be plain -- thou have no Tale t'unfold
+Can make me shudder -- though it make me feel.
+
+ABBOT. Her wild Imagination hurries her
+Beyond Belief, or even Conception's Limit;
+Safely protected by the royal Favor
+Of her great Master (may I say his Love?)
+
+QUEEN. On with thy Speech -- Dispatch!
+
+ABBOT. She threats Defiance
+To every other Power, and all Control:
+Bids me, with haughty Phrase, no more assume
+The Right to check her Deeds; exalts herself
+Above the Peers and Worthies of the Realm:
+Nay, frantic in her fancied Excellence,
+Becomes thy Rival in imperial Rule,
+And plumes herself on future Majesty.
+
+QUEEN. The Traitress! but thou err'st, it cannot be:
+Thou have mista'en her Words; her coward Heart
+Could not conceive such Insolence of Speech,
+Such arrogant Presuming.
+
+ABBOT. In Effect
+All was expressed, though not in open Terms;
+Hearts so determined rarely speak their Meaning,
+Lest just Prevention intercept their Purpose:
+But thus much, in the Fullness of her Passion,
+Fell from her Lips: Let her a while enjoy
+(These were her Words) her transitory Greatness!
+Anon the Beam may take a different Poise;
+The Mistress may become the exalted Wife,
+The haughty Wife become the abandoned Mistress.
+
+QUEEN. Breathed she those daring, those audacious Accents,
+And does the Wretch survive it? Be it so!
+She only lives to gratify my Vengeance.
+Ere the vain Dreamer mount her airy Throne,
+She shall be taught the Power of Royalty
+Over her own Littleness, her Pigmy Pride.
+
+ABBOT. You do not mean to see her?
+
+QUEEN. Yes -- I do --
+She thirsts for Honor; I will show it her;
+Will deign to set before her shrinking View
+Majestic Eleanor, the exalted Wife,
+And with a Glance destroy her.
+
+ABBOT. All you seek
+May be obtained by this great Condescension:
+Within your Power, beneath your Eye abashed,
+Whelmed with her Crimes, and shrinking in her Fears,
+She Will crouch to any Terms; bind her by Oath
+No more to see your Lord; or if you doubt
+The Efficacy of that Tie, remove her
+From the gay Bower her Infamy has stained.
+Perform a holy Work; force her to quit
+The wanton Course of her abandoned Life,
+And in some dim, secure Retreat, where you
+Alone command, conceal the Sorceress
+For ever from the godlike Henry's Eyes.
+
+QUEEN. Oh, precious Doctrine! learned Comforter!
+Continue thus to counsel; leave my Heart,
+My dauntless Heart, to execute thy Schemes.
+
+ABBOT. When mean you --
+
+QUEEN. Now; this Night -- my eager Fury
+Brooks no Delay -- Thou must advise the Hour.
+
+ABBOT. About the Season when imperial Henry
+Speeds to his Midnight Penance at the Convent,
+I will with nicest Caution watch the Moments --
+
+QUEEN. And be my Guide?
+
+ABBOT. Devoted to your Bidding.
+
+QUEEN. But soft -- the Means of our Access -- did not
+This grand Apostate to his nuptial Bond,
+Contrive some childish Toy, some subtle Clue,
+Without whose Aid Enquiry's Foot in vain
+Attempts to find the Wanton's close Retreat?
+
+ABBOT. He did; but that Device is only practiced
+When public Duties call him from his Realm;
+Then is the Minion deep immured within
+The very Heart of the obscure Recess;
+But now that he with frequent Eye o'erlooks
+And watches his cag'd Turtle, she enjoys
+Free Range of the whole Bower, by few attended,
+And none but who submissive yield Obedience
+To our grave Habit and religious Order.
+
+QUEEN. Enough, use wary Watch -- and hye with Speed
+To my impatient Soul.
+[Exit Abbot. Conceal her! yes,
+In that deep Cavern, that eternal Gloom,
+Where all her Shames may be concealed -- in Death;
+Atonement less than this were insufficient
+To gratify my boundless Thirst of Vengeance.
+Long have they revell'd in the mighty Pangs
+That rent my Heart -- it is now my Turn to Triumph,
+When I behold the Traitor sunk in Grief,
+Plaining to her whose Bosom will be cold
+To his Distress, superior will I rise,
+Proudly exult in his severest Pangs,
+Point at her lifeless Corse, for whom he scorned me,
+And loud exclaim in his afflicted Ear,
+Behold the Victim of Despair and Love.
+[Exit.
+SCENE, an Apartment in the Bower. Enter ROSAMOND with a Letter, and ETHELINDA.
+ROSAMOND. No, Ethelinda -- Never from that Hour,
+That fatal Hour when first I saw my Hero,
+Saw him returning from the Field of War,
+In manly Beauty, flushed with glorious Conquest,
+Till our last grievous Interview, did Henry
+Show Word or Look ungentle -- Nay, even now,
+Here in the full Distraction of his Soul,
+Over his strong Woes soft Tenderness prevails,
+And all the Fondness of unbounded Love.
+
+ETHELINDA. But what does he resolve?
+
+ROSAMOND. There Ethelinda,
+He gives me fresh Disquiet, Frenzy seems
+To guide his wayward Pen; he talks of Life
+As of a Load he wishes to lay down,
+If I persist in my unnatural Purpose,
+For such he terms it. Can thou think, my Henry,
+I suffer not Affliction great as thine?
+Yes, let the present Tumults in my Breast
+Be Witness how I struggle with Affection,
+Stand up and war with Nature's strongest Power,
+In Duty and Religion's righteous Cause
+
+ETHELINDA. And must your Gentleness abide such Trials,
+Such hard Extremity of Wretchedness?
+Is there no middle Course to steer?
+
+ROSAMOND. Forbear!
+Seek not to tempt me from that proper Sense
+Of my deep Faults, which only can sustain me
+In this sore Trial; to remit my Fervor,
+Were to be lost again.
+
+ETHELINDA. He Will never Consent
+To yield you up, resign you to your Woe,
+Unfriended, unsustain'd, to heave alone
+The bitter Sigh and pour the unpitied Tear.
+
+ROSAMOND. He says he will return to me, and soon;
+Then paints the Anguish of his bleeding Heart,
+In unconnected Phrase and broken Periods;
+Adjures me, by our Loves, no more to urge
+The hard Request on which his Life depends.
+Oh, did I ever think I could refuse
+What Henry asked -- but this -- It must not be --
+Lend me thy Arm, my Friend, a sudden Faintness
+Comes over me, and instinctive Boadings whisper
+I shall not long survive my Henry's Loss.
+
+ETHELINDA. Oh, chide them from you! at the sad Idea
+My Sorrows stream afresh.
+
+ROSAMOND. Weep not for that,
+It Is my best Comfort. In the Grave alone
+Can I find true Repose, that quiet Haven,
+Whereto the wretched Voyager in Life,
+Whose little helpless Bark long Time has strove
+Against the rude Beatings of tumultuous Guilt,
+Often casts an ardent Look, an eager Wish,
+To gain a Shelter there from future Storms.
+
+ETHELINDA. Let me conduct thee to the cheering Breeze,
+Thy Looks are pale.
+
+ROSAMOND. Oh thou, that art all Mercy,
+[Kneels. Look down, indulgent, on the Child of Frailty;
+With Pity view her Errors, and instruct her
+How to obtain returning Peace and Pardon.
+Enter CLIFFORD in his Disguise.
+CLIFFORD. Stay thee, fair Mourner, wherefore do thou shun
+The Messenger of Comfort?
+
+ROSAMOND. Ethelinda!
+What Voice was that? My startled Fancy wakes
+New Terrors! Yet it cannot be --
+
+CLIFFORD. My Daughter! --
+
+ROSAMOND. All gracious Heaven! it is he --
+[Faints.
+CLIFFORD. Oh, let me clasp her
+To a fond Father's aged Breast, and call
+Her sinking Spirit from the Shades of Death.
+
+ETHELINDA. Oh, reverend Stranger, if thou be'st her Father,
+With gentle Voice allure her; do not cast
+The Frown of Anger on her meek Distress,
+Her Softness cannot bear it.
+
+CLIFFORD. Fear not, Virgin!
+Assist to raise her -- the returning Blood
+Faintly renews its Course! her timid Eye
+Speaks painful Apprehension.
+
+ROSAMOND. Where is fled,
+That reverend Form? even now it hovered over me,
+Sent by kind Heaven, the sacred Delegate
+Of Comfort and Protection.
+
+CLIFFORD. Rosamond!
+Oh! turn not from me -- do not shun my Sight,
+In Pity shrink not from a Father's Eye,
+Who comes to chase thy Sorrows; comes to shed
+Some pious Drops over thy afflicted Heart,
+Ere he is mingled with the Dust.
+
+ROSAMOND. Thus lowly
+Bent to the Earth, with abject Eye, that dares not
+Look up to that much injured reverend Face,
+Let me implore thy Pardon.
+
+CLIFFORD. Rise, my Child,
+Oh rise and let me gaze on that loved Form,
+Which once was all my Comfort.
+
+ROSAMOND. But which now
+You look upon with Anger and Disgust.
+My Crimes deserve it all.
+
+CLIFFORD. Nay, meet my Eye --
+Survey me well: Do thou behold therein
+A rigid Judge? Oh no, the Father melts
+In these fast-streaming Tears.
+
+ROSAMOND. Has pitying Heaven
+Heard the sad Prayer of such a guilty Wretch,
+And granted, in the Moment of Affliction,
+A Parent's Presence, and returning Blessing,
+To his repentant Child!
+
+CLIFFORD. Do thou repent? --
+And did thou wish once more to see thy Father?
+Dry up thy Tears, and answer me with Firmness;
+Do thou repent? -- Have thou the Fortitude
+To break the fatal Tie that linked thy Soul
+To lawless Love, and all its false Allurements?
+Can thou look up, with steady Resolution,
+To that great Power who loves repentant Hearts,
+And say thou will no more transgress?
+
+ROSAMOND. I can,
+I can, my Father; that all-seeing Power,
+To whom thou have appealed, can witness for me,
+I have renounced the Paths of Sin and Shame,
+And mean to spend my sad Remains of Life
+In deep Contrition for my past Offenses.
+
+CLIFFORD. To find thee thus, is Rapture to my Soul!
+Enter my Breast, and take again Possession
+Of all the Fondness that I ever bore thee.
+By my best Hopes, when in thy smiling Youth
+Aline Eye has hung enamored on thy Charms,
+Thou shew'dst not then so lovelily as now,
+Dressed in those graceful penitential Tears.
+
+ROSAMOND. Oh, my Father!
+And may I still look up to thee with Hope
+That the dear Love and Tenderness, thy Breast
+Once cherished for thy darling Rosamond,
+Is not extinguished quite?
+
+CLIFFORD. Alas, my Child!
+I am not lost to Nature and her Ties.
+We are all frail; preach Stoics how they will,
+It Is not a Parent's Duty to cast off,
+But to reclaim, the Wanderer of his Blood.
+One Question more, on that depends my Peace --
+Shall I behold my Child redeemed from Shame,
+Or must I sink with Sorrow to the Grave,
+Ere this great Business of my Soul's accomplished?
+
+ROSAMOND. Command my Heart; can I, thus lost to Goodness,
+Assuage thy Cares, and soften the Decline
+Of weary Nature? say, my dearest Father,
+And by the Zeal of my Obedience, prove
+The Truth of my Contrition.
+
+CLIFFORD. Hear me then,
+Thou darling of my Bosom! -- Westward hence,
+On the slow Rising of a fertile Hill,
+A virtuous Dame, of honorable Race,
+Has sounded and endowed a hallowed Mansion
+To pure Devotion's Purposes assigned.
+No Sound disturbs the Quiet of the Place,
+Save of the bleating Flocks and lowing Herds,
+And the meek Murmurs of the trilling Stream
+That flows sweet-winding through the Vale beneath;
+No Objects intercept the Gazer's Eye,
+But the neat Cots of neighboring Villagers,
+Whose lowly Roofs afford a pleasing Scene
+Of modest Resignation and Content.
+There Piety, enamored of the Spot,
+Resides; there she inspires her holy Fervor,
+Mild, not austere; such Piety, as looks
+With soft Compassion upon human Frailty,
+And sooths the Pilgrim-Sinner to embrace
+Repentant Peace beneath her holy Roof. --
+Say, will thou quit, for such serene Delights,
+This gay Abode of Shame?
+
+ROSAMOND. I will, my Father;
+My Wish invites to such a soft Retreat.
+Oh, lead me forth!
+
+CLIFFORD. Thy Words give added Strength
+To my weak Frame, and warm my languid Blood.
+Some two Hours hence, when Midnight veils the Globe,
+Disguised, as now, in this religious Garb,
+Again expect me, to redeem thee hence,
+And guide thy Steps to that Abode of Bliss --
+Here break we off --
+
+ROSAMOND. Once more thy Blessing on me,
+While I pour forth the silent Gratitude
+Of my full Soul for thy returning Love.
+
+CLIFFORD. Warm as thy Soul can wish, my Child, receive it.
+Oh, the supreme Delight 'twill be, to see thee
+Restored to holy Peace and soft Content,
+And sometimes share thy Converse; then devote
+My lonely Intervals to ceaseless Prayer,
+That Heaven will pour on thy repentant Heart
+Its healing Mercy, and its promised Grace!
+[Exit.
+ROSAMOND. Propitious Power, who chear'st the Mourner's Spirit,
+Accept my boundless Thanks -- thy pitying Goodness
+Inspired my Father's Heart, and sent him hither
+To succor and sustain me. Oh, continue
+Thy strengthening Fervor, that I may not shrink
+From the great Task I have begun, but rise
+An Object worthy thy returning Grace!
+
+ETHELINDA. My gentle Mistress, I partake your Transport,
+Yet Apprehension checks the rising Joy.
+What Agonies will pierce your Henry's Heart --
+
+ROSAMOND. Peace, on thy Life! seek not to wake again
+Those Thoughts which I must hush within my Breast;
+The Lover is forgot; what Clifford's Daughter
+Leaves unperform'd, Clifford himself will perfect.
+That Tongue, whose wholesome Counsels Henry wont,
+In early Life, to listen and obey.
+That Heart, which loved his Virtues, will again
+Exert its Power, and win him to applaud
+The Minister of Peace, who leads me hence
+To that Asylum my Offenses claim.
+
+END OF THE FOURTH ACT.
+ACT V.
+SCENE, the Bower. Enter ROSAMOND and ETHELINDA. ROSAMOND. IS it the vain
+Suggestion of my Fears,
+Or do unwonted Sounds, and buzzing Murmurs,
+Ride in each Breeze?
+
+ETHELINDA. It Is Fancy's Coinage all;
+Your Mind, alarmed lest any thwart Event
+Should interrupt this Night's important Business,
+Creates false Terrors.
+
+ROSAMOND. Twice within this Hour
+Has it presented to my tortured Sight
+My Father in the Agonies of Death,
+Gasping and pale, and stretching forth his Hands
+To me for Aid and Pity.
+
+ETHELINDA. When Suspense
+And Expectation hold Dominion over
+The agitated Bosom, these Illusions
+Are busy to torment us.
+
+ROSAMOND. Angels speed him
+In Safety to me! and console my Henry,
+When he shall seek his Rosamond in vain
+Around this once-lov'd Bower! When thou behold'st him,
+(O! can it be a Crime to leave a Sigh,
+One soft Adieu for him, who was so dear?)
+Say, Ethelinda, that I left these Walls
+Not with a hardened, but a tutored Mind,
+Not desperate, but resolved; armed with that due,
+That holy Resolution, which becomes
+My State and Purpose; and when busy Memory
+Recalls the sad Idea of our Loves,
+(Too often alas! I fear 'twill press my Mind!)
+I Will pour my fervent Prayers, that Bliss and Honor
+May crown the Hero's Days!
+
+ETHELINDA. I will do all
+My Mistress bids; but must I stay behind?
+Must I renounce the sweet Companionship,
+Her Gentleness and soft Humanity
+Have taught me to esteem my highest Bliss?
+
+ROSAMOND. This once, obey -- this Night's great Business done,
+I claim no Duty more; but when the Storm
+Shall be o'er-blown, and all be calm again,
+If aught of Good befall my after-Hours,
+Thou, Ethelinda, shall partake it with me.
+Go now, collect together those dear Pledges,
+The only Treasure I shall carry hence,
+My Henry's Letters; my o'er-harrass'd Spirits
+Would sink beneath the Task.
+[Exit Ethel. Ill-boading Fears
+Possess me still; such as I often have heard
+Haunt the sick Couch, Death's fable Harbingers.
+Enter QUEEN with a Bowl and Dagger.
+QUEEN. Ay, there the Trait'ress sits. Who could surmize
+Guilt kept abode in such an Angel-Form?
+Approach, thou beauteous Fiend! Well may thou start,
+It Is Eleanor that calls; she comes to wake thee
+From the vain Dream, which thou have long enjoyed,
+To Justice and Atonement.
+
+ROSAMOND. Shield me, Powers,
+From that wronged Form! My Fears are all explained!
+
+QUEEN. No Power can shield thee now -- Thy Prayers are fruitless;
+Now cry in vain to him who has undene thee,
+Who robbed thee of thy Innocence of Heart,
+And taught thee to be Rival to a Queen.
+
+ROSAMOND. Most injured Majesty, thus to the Earth
+I bow myself before thee. I consess
+My heinous Crimes; I sink beneath their Weight:
+Yet Oh! take Pity on a hapless Creature
+Misled by fatal Love, immersed in Guilt,
+And blinded to the Evils that ensued!
+
+QUEEN. And plead'st thou that in thy Defense, fond Wretch,
+Which loudest cries against thee? Knew'st thou not
+Who Henry was, what were his noble Ties?
+How did thy Passion dare aspire so high?
+Thou should have sought within thine own Degree
+Mates for thy wanton Hours; then had thou not
+Debased a Monarch in his People's Eyes,
+Nor waked the Vengeance of an injured Queen.
+
+ROSAMOND. Alas, thou look on me as on a Wretch
+Familiar with Pollution, reconciled
+To hardened Guilt, and all its shameless Arts;
+I am not such. Night's holy Lamps can witness
+What painful Sighs my sad afflicted Heart
+Has heaved, what streaming Tears my Eyes have poured,
+To be released from the pernicious Snare
+Wherein I was involved!
+
+QUEEN. Those Sighs and Tears,
+Had true Contrition been their holy Source,
+Should have inspired thy Heart to break the Snare,
+And set itself at Freedom.
+
+ROSAMOND. O! it is true
+They should; but in my rebel Breast they found
+Too strong Resistance. Love has been my Fault,
+My Bane, my Ruin; long he held entranced
+My fascinated Sense --
+O let this very Weakness plead my Cause
+Within your royal Breast; revolve, great Queen,
+How you have loved, and let those tender Feelings
+Win you to pity me!
+
+QUEEN, Aside. What Witchery
+Of Language hangs upon this Circe's Tongue?
+Why droops my Resolution? rouse thee, Eleanor,
+Remember the great Cause that brought thee hither,
+Nor let a Harlot's Sigh, or treacherous Tear,
+Relax thy Fortitude.
+
+ROSAMOND. What shall I do
+To humble me yet lower in thy Sight?
+What Form of Language shall my Lips adopt
+To move thy Mercy? I confess my Crimes,
+Confess their Heinousness, and sue for Pardon:
+Can I do more? Even Heaven is won by Tears,
+By contrite Heart, and fervent Supplication;
+Shall thou be harder to appease -- O hear!
+A Woman's Weakness claims a Woman's Pity.
+Exert that Dignity of Soul that rises
+Above Resentment to a pleaded Wrong,
+And teach me how to make Atonement.
+
+QUEEN. Hence!
+[Aside. Encroaching Weakness! coward Heart, abjure it --
+Think on thy mighty Wrongs -- Arm thee to meet
+My Words with noble Firmness! Death alone;
+Appeases Eleanor's insulted Love.
+
+ROSAMOND. Death, said thou? -- Death! -- O yet --
+
+QUEEN. Behold, Deluder!
+I will not stain me in thy Blood; this Cup
+Contains thy Doom.
+
+ROSAMOND. Oh! do not bid me die,
+Steeped as I am in Guilt; closed in a Convent,
+Where Heaven's clear Air and animating Light
+Never fond an Entrance, let me be condemned
+To all the Hardships ever yet devised;
+Or banish me to roam far-distant Realms,
+Unfriendly Climates, and unsocial Wastes,
+So thou afford me some remaining Hours
+To reconcile my Soul to that great Summons,
+When Heaven shall to deign to call.
+
+QUEEN. Profane no more
+The Name of Heaven with thy polluted Breath,
+Thou who have sprun'd its Laws! Justice demands
+Thy forfeit Life. Thou shall no more mislead
+A Monarch's noble Mind, no more devise
+Insiduous Arts, to work a Queen's Disgrace:
+Thou shall not live to rob her of her Rights,
+Her Lord's Affection, and imperial Pride,
+That thou may seize the abdicated Seat,
+And Triumph in her Fall.
+
+ROSAMOND. By Heaven's pure Grace,
+My Mind never harbored such an impious Thought!
+
+QUEEN. Heap not fresh Crimes, thou have enough already.
+
+ROSAMOND. Have I no Evidence on this side Heaven?
+And must I fall alone, unjustified?
+Where is the holy Abbot? Where my Henry?
+
+QUEEN. Thy Henry! thine! -- That Word has fired anew
+My failing Spirit. Drink!
+
+ROSAMOND. Yet, yet, relent --
+
+QUEEN. Drink! or this Poniard searches every Vein --
+
+ROSAMOND. Is there no Pity? None? -- This awful Silence
+Has answered me, and I entreat no more.
+Some greater Power than thine demands my Life;
+Fate summons me; I hear, and I obey --
+O, Heaven! if Crimes like mine may hope Forgiveness,
+Accept a contrite Heart!
+[Drinks.
+QUEEN, O, beauteous Witch!
+Had thou been less alluring, or had I
+Forgot to Love, thou had not met this Fate.
+[Aside.
+ROSAMOND. Thou art obeyed -- Once more I bend before thee --
+Nay harden not thy Heart to the last Accents
+Of a poor Wretch, that hurries to her Grave.
+Look, look upon me; I behold thee not
+With unforgiving and resentful Eyes;
+I deem thee but the destined Instrument
+Of righteous Heaven, to punish my Misdeeds.
+
+QUEEN. A Flood of Agony o'erwhelms my Soul,
+And all my Pride and Rage is washed away
+[Aside.
+ROSAMOND. Now cast an Eye of Pity on my Tears,
+Now, in these awful, these tremendous Moments,
+Thou can not doubt my Truth. By my warm Hopes
+Of Mercy at that Throne where all must bow,
+My only Crime was Love. No Power on Earth
+Could have impelled me to a further Wrong
+Against thy State or Peace.
+
+QUEEN. I must believe thee --
+What then remains for me? O rise, and wreak
+Thy Vengeance on my now-relenting Rage.
+Behold these Tears -- My Wrongs are all forgot --
+Excess of Passion, Love, that knew no Bounds,
+Drove me, with execrable Haste, to act --
+What now I would resign all earthly Bliss
+To have undone again.
+
+KING, within. Seize all that haunt
+These winding Avenues -- let none escape.
+
+ROSAMOND. Ah me! that Voice!
+
+QUEEN. It Is Henry's -- let him come,
+And take his Share of Misery.
+Enter the KING, ETHELINDA, and Attendants.
+KING. Where, where is she? --
+O fell, vindictive Fiend, what horrid Act
+Has thy dark Rage been dealing?
+
+QUEEN. Mad Revenge!
+
+ETHELINDA. Lo! the dread Means! all this my Mind foretold,
+When the Queen's Train first met my startled Eye,
+
+ROSAMOND. Even now my flitting Spirit is on the Wing;
+The deadly Draught runs through my scorching Blood,
+I feel it at my Heart -- O! Henry -- Henry! --
+
+KING. Malicious Rage, thou rid'st the Lightning's Flash
+To execute thy Vengeance! Ethelinda,
+Thy Zeal was cool, thy Expedition slow,
+Compared to that fell Tyrant's rapid Heat.
+Lift up thine Eyes -- O! do not leave me yet --
+Why melts Compassion in thy languid Look?
+The Flames of Fury should be kindled there,
+Against him, who left thee to invading Fate,
+Who saw not thy Distress, heard not thy Cries,
+When black Revenge was pouring Torments on thee! --
+O cruel Woman, unrelenting Fiend! --
+
+ROSAMOND. Calm, calm thy Mind; vent not thy Fury there,
+Her Wrongs cried loud, and her great Heart is wrapped
+In Sorrow for the Deed.
+
+KING. What now avails it?
+Compunction should have sprang when she beheld
+The streaming Tears course one another down
+Thy beauteous Cheek, and read the speechless Grief
+Of thy imploring Eyes. -- O! was it thus
+I thought to see my Rosamond again! --
+Has Fury, like an Eastern-Blast, destroyed
+The sweetest, loveliest Flower that ever bloomed?
+But I will die beside thee; never more
+Revisit cheerful Day, nor dream of Comfort,
+When thou art parted from me.
+
+ROSAMOND. Cease, O! cease
+These useless Plainings; consecrate to Peace
+The few remaining Moments -- nor let Rage
+Impel thy Soul to meditate Revenge
+For a poor Wretch, who justly thus atones
+Her numerous Crimes. O, royal Eleanor!
+Hear these last Accents -- Howsoe'er I loved,
+However guilty I have seemed to you,
+This very Night I had resolved to leave
+These fatal Walls, and, by my Father's Guidance,
+Devote my future Days to Penitence.
+
+KING. Does not thy Blood, like mine, halt in thy Veins,
+And chill the Seat of Life?
+
+ROSAMOND. Extend thy Pity,
+(I cannot wrong thee further) grant me now
+One Moment to indulge the tender Feelings
+Of hapless Love, and breathe a fond Adieu,
+Ere this poor harrass'd Spirit quit my Breast.
+
+KING. Why this Compassion to the wretched Cause
+Of all thy Miseries! I am the Source
+Of every Pang, that feeds on thy loved Heart --
+Of this thy fatal End. -- Reproach, revile me --
+Do any thing but look thus kindly on me,
+And I will struggle with my mighty Woes,
+Taught by thy great Example.
+
+ROSAMOND. O, my Henry!
+Let not the sad Remembrance of my Fate
+Sit on thy Heart, nor call my present State
+A Misery; I wished some sure Retreat
+From Grief and Shame, and Heaven has heard my Prayer.
+
+QUEEN. Unhappy Victim of my blinded Fury,
+I almost envy thee thy present State;
+Thou soon wilt be at Ease; while I must live
+To all the Torments which a guilty Mind
+Inflicts upon itself.
+
+KING. Can thou feel thus,
+Yet could remain obdurate to her Tears,
+And deaf to her Entreaties?
+
+QUEEN. A Deed like this
+Was foreign to my Heart, had not the Fraud
+Been poured into my Ears, that I was meant
+To be divore'd for ever from thine Arms,
+Be made an Outcast from thy Bed and Throne,
+That she might rise my Substitute in all.
+
+KING. What black-soul'd Demon could possess thy Mind
+With such a hellish Falsehood?
+
+QUEEN. He -- that Fiend!
+CLIFFORD brought on in his Disguise.
+KING. Wretch, take thy Death.
+
+ROSAMOND. Forbear!
+[Faints.
+CLIFFORD. Strike, Henry, strike!
+Why start'st thou back? I shrink not from the Blow;
+New Woes assail me at that sinking Object,
+And all thy Sword can do is Mercy now.
+
+KING. Thou, Night, in tenfold Darkness close me round,
+From that much-injur'd Form!
+
+CLIFFORD. My Child, my Child,
+Awake, and let me once more hear thy Voice.
+Speak, speak, my Rosamond; tell my sad Heart
+What further Woe awaits it. Has Affliction
+Robbed me of Sense, or do I see the Pangs
+Of ruthless Death within thy struggling Eye?
+
+ROSAMOND. Thou do, my Father; let me bless thy Goodness,
+Ere Speech forsake me; thou art come to execute
+Thy pious Promise -- Fate prevents thy Care,
+And I submit. My penitential Tears,
+My Hopes of heavenly Mercy, and thy Pardon,
+Alleviate Death's sharp Terrors.
+
+CLIFFORD. O! what Hand
+Has robbed me of the latest Ray of Hope,
+That trembling glittered on my Eve of Life?
+
+QUEEN. In me behold the Murderer of thy Peace!
+Vent thy Reproaches, load me with thy Curses,
+I Will bear them all; high as I am in Rank,
+And proud in Heart, I bend to make Atonement.
+My Rage unsex'd me; and the dire Remembrance
+Will ever haunt my Mind.
+
+KING. It will have Vent.
+Lo, injured Clifford, Henry kneels before thee!
+Henry, who spurned the holy Ties of Friendship,
+The kindly Brotherhood of human Nature,
+And robbed thee of thy Child; yet let me mingle
+My penitential with thy pious Tears
+Over this loved Form, for whom my Heart weeps Blood.
+
+ROSAMOND. Peace, Peace, a Moment! let my parting Spirit
+Glide gently hence; Death hurries on apace.
+O! welcome! hide me in thy peaceful Breast
+From the dread Horrors that surround me here. --
+Confusion, Shame, oppress my languid Thoughts
+In this dread Moment. -- Ye, much-injur'd, pour
+Compassion on me now! Thou, royal Eleanor --
+Thou best of Fathers -- O forgive! -- And thou,
+Beloved Henry! -- Oh! --
+[Dies.
+KING. Art thou then gone? --
+And did thy dying Looks and Words speak Pardon
+To thy Destroyer? In that parting Sigh,
+The meekest, kindest Spirit took its Flight
+That ever held Abode in human Breast.
+O, sorrowing Clifford! how shall I atone
+Thy bleeding Injuries?
+
+CLIFFORD. It needs not, Henry;
+My Child lies dead before me -- It Is enough --
+One Grave will hold us both -- My failing Heart
+Had but few Drops of Life's warm Stream remaining,
+Grief soon will drink them all --
+
+KING. What now can Fate do more?
+Rain, Eyes, rain everlasting Floods of Tears
+Over this sad Monument of lawless Love.
+
+QUEEN. If thy torn Heart can spare from its own Anguish
+A Moment's Respite, hear! Thou know me, Henry;
+Was Cruelty an Inmate of this Breast,
+When thou were kind and constant? Think what Pangs
+I must have felt, ere wrought to this black Deed;
+Let that Reflection win one pitying Tear
+For all my Sufferings, and I ask no more.
+
+KING. It shall be so; and we will reign together
+In solemn, sad, uncomfortable Woe.
+
+QUEEN. No, Henry, no; the Hand that is foul with Murder,
+(Bear Witness, Heaven!) shall never be closed in thine.
+To the sad Cloister and repentant Prayer
+I give my future Life. Hail, gloomy Shades!
+Ye best befit the execrable Wretch,
+Who, daring to assume the Bolts of Vengeance,
+Dealt Desolation with unbounded Fury,
+And showed the Faults she meant to punish slight,
+Compared to her, and her atrocious Crimes.
+[Exit Queen.
+KING. In this great Deed thou have out-gone thy Henry,
+Peace to thy troubled Soul! Ye hapless Pair,
+Accept these Tears, for ever will they flow,
+While Memory recalls this dreadful Scene.
+Here let the gay Seducer turn his Eyes,
+And see the dread Effects of lawless Love:
+Learn, it is no single Crime, the Mischief spreads
+To all the dearest Ties of social Life.
+Not only the deluded Virgin's Heart
+Falls the sad Victim of his traitorous Art,
+But often, a Prey to one licentious Deed,
+The Friend, the Lover, and the Parent bleed.
+
+EPILOGUE,
+Written by G. COLMAN, Esquire.
+Spoken by Miss BARSANTI.
+GREAT and fair Ladies! Lords gallant and mighty!
+Behold a Female -- fresh from Otaheite.
+Stretch to the Southern Ocean your Idea,
+And view, in me, the Princess Oberea.
+Full three long Hours I Have sat, with smothered Rage,
+To hear the Nonsense of your tragic Stage,
+To see a Queen majestically swagger,
+A Bowl in this Hand, and in this a Dagger;
+To stab or poison (cruel Inclination!)
+A Maid, who gave a Husband Consolation.
+Ah, Ladies! no such Queen at Otaheite;
+Love there has Roses -- without Thorns to fright ye;
+Frolic our Days, and to complete our Joy,
+A Coterie's formed -- it is called the Arreoy,
+Where Love is free and general as the Air,
+And every Beau gallants with every Fair;
+No Ceremonies bind, no Rule controuls
+But Love, the only Tyrant of our Souls!
+But Pleasure's foreign to these Northern Climes,
+And Love, I hear, unknown in these dull Times:
+Never was Maiden in these Days caught tripping,
+Never was Wife on Pleasure's Ice found slipping:
+True to their Lords, to Gallantry never prone,
+Divorces are so rare, the Name's scarce known.
+Yet in our Southern Air -- at least I Am told --
+Nor French nor Englishmen were quite so cold;
+And, if your Poet of tonight say true,
+Love formerly warmed British Ladies too;
+And Ladies of old Times perhaps might plead,
+That modern Ladies are the self-same Breed.
+There is a Place, I Am told, called Doctor's Commons,
+Whence Husbands issue to false Wives dread Summons;
+For each pretends, an all-sufficient Elf,
+To keep a Lady to his precious Self.
+Yet Man, proud Man, from Oberea know,
+That female Follies on your Follies grow;
+And all your Hopes of Constancy are vain,
+If Marriage binds not in a mutual Chain.
+If in cold Sheets ye leave poor Nell to sleep,
+And some fair Rose in Covent Garden keep;
+Think of the Ills that wait domestic Strife,
+The heaviest Care of all the Cares of Life --
+A tempting Mistress, and an angry Wife!
+For you, ye Fair, whom conscious Virtue arms,
+And with her Graces heightens Beauty's Charms,
+Hear a frail Sister on your Pity call,
+And save fair Rosamond a second Fall!
+FINIS.
+IN THE PRESS, And on the Fifth of February, 1774, will be published, By the
+AUTHOR of this PLAY, RICHARD PLANTAGENET; A LEGENDARY TALE: Embellished with a
+beautiful Vignette, representing a very pathetic Interview between two
+distinguished Personages, From the Design of a Capital Master, And engraved by
+Mr. SHERWIN, Pupil to Mr. BARTOLOZZI. Price 2^. beautifully printed in Quarto.
+
+BOOKS written by the same Author, or published under his particular
+Inspection, and sold by JOHN BELL.
+THE PRODIGAL SON, an Oratorio; written by Mr. HULL, of Covent Garden Theater,
+and set to music by Mr. ARNOLD. A new and improved edition, as it was
+performed, with universal applause, at the late installation at Oxford; and
+embellished with a beautiful engraving, adapted to the subject. Price 1^.
+GENUINE LETTERS from a GENTLEMAN to a YOUNG LADY, his Pupil, calculated to form
+the taste, regulate the judgment, and improve the morals. Written some Years
+since, now first revised and published, with notes and illustrations, by Mr.
+THOMAS HULL, of the Theater Royal, Covent Garden. In two neat volumes, price
+6s. sewed. The History of Sir WILLIAM HARRINGTON, written in the year 1756, and
+revised and corrected by the late Mr. RICHARDSON, author of Sir Charles
+Grandison, ^^^ris^a, etc. first published in 1771, since which time it has met
+with a very successful sale, and acquired a degree of estimation, only to be
+equalled by Mr. Richardson's works, to which these volumes have been generally
+recommended as a valuable supplement. The second edition, in four neat volumes.
+Price 10s. fewed. The FRIENDS; or Original Letters of a person deceased; now
+first published from the manuscript in his correspondent's hands. In two
+volumes, price 6s. bound. The ADVANTAGES of REPENTANCE: a Moral Tale, attempted
+in Blank Verse, and founded on the Anecdotes of a private family. By THOMAS
+HULL. The second Edition. Price 1s.
+This Day is published, BELL's EDITION OF Shakespeare's Acting Plays.
+
+With twenty-four engravings, done from original drawings made on purpose for
+this work, by Mr. Edwards of the Royal Academy, and executed at a very great
+expense, by a select number of the most eminent English engravers; together
+with two speaking portraits of SHAKESPEARE and GARRICK, Both which are executed
+by Mr. Hall, and deservedly looked upon as the best productions of this country.
+
+This curious edition is beautifully printed on fine demi paper, in five
+volumes, price only Fifteen Shillings sewed; and also on superfine royal paper,
+large enough to admit of marginal notes, at One Guinea per set, sewed.
+
+It contains twenty-four of the author's most esteemed plays, each of which is
+ornamented with a beautiful frontispiece, and regulated, by permission of the
+Managers, agreeable to the present mode of performance at the Theaters Royal in
+London, by Mr. Hopkins, prompter, at Drury Lane, and Mr. Younger, prompter, at
+Covent Garden; with notes critical and illustrative, respecting the text, and
+the requisites necessary to do each material character justice on the stage, By
+the AUTHORS of the DRAMATIC CENSOR.
+
+The Introduction contains an essay on Oratory, which may serve as improving
+lessons to professors of the pulpit and the bar, as well as of the stage. --
+The less esteemed plays of Shakespeare will be published early this season, in
+order to complete this immortal author's works, in the same elegant and
+convenient manner; those, therefore, who wish to possess the first impressions
+of the future, as well as the present plates, are desired to forward their
+address as soon as possible to the publishers.
+
+London: printed for John Bell, near Exeter Change, in the Strand, and C.
+Etherington, at York.
+
+Mr. BELL,
+I have purchased your edition of Shakespeare's Acting Plays, with which I am
+abundantly pleased. Your promises were large, but your execution has been
+greater, and I heartily hope that fuccess will not be slow, in rewarding so
+spirited a performance. Works of elegance, though eagerly sought after in
+foreign countries, are rarely to be met with in our own; the causes have been
+differently assigned, but the present work plainly proves, that they proce^d
+not so much from a dearth of abilities, as from a want of spirit to encourage
+them. -- You have opened the road to excellence, and I doubt not but your
+fellow traders, though they have not spirit to project, will have meanness
+enough to follow your steps. -- Should this be the case, as I have some private
+reasons to believe it will, with this very publication, you may rest assured,
+that the Public will always advert to the primary cause, and support your
+improvements, in spite of every undue influence which their extensive
+connections may be supposed to effect.
+
+I have sent a copy of the following Criticisms, which are not my own
+sentiments alone, but those of all whom I have conversed with on the subject,
+to the St. James's Chronicle, which with this letter, you are at liberty to
+make what use of you think proper, without offending
+
+your friend and well-wisher, W. R.
+January 17, 1774.
+
+J. Bell's respectful acknowledgements to the writer of the above, and as it,
+together with the following, contains such flattering testimonies of candid
+approbation, he hopes he shall stand excused by the Writer, and justified by
+the Public, for communicating both in this manner, without trespassing on the
+confidence of either.
+
+CRITIQUE on Part of the PLATES in BELL's Edition of SHAKESPEARE.
+Excellent engraving is a beauty of itself, and will always to the generality
+of people appear an ornament, independent of the design, or other qualities, of
+a good print. The French seem to have understood this better than any other
+nation.
+
+In imitation of the magnificent editions of the Louvre, they have bedecked
+their ordinary books with cuts, signets, medalions, head and tail pieces; in
+the execution of which lies all their merit. Neatness and propriety strike at
+once a superficial eye, and therefore aiding their language with the bagatelles
+I have mentioned, the Parifians are thought to have sold more books than any
+three cities in Europe.
+
+An edition of Shakespeare's acting plays being lately advertised, I had the
+curiosity to glance at the proposals, but coming to that part of the
+advertisement, where five volumes, with elegant plates, are offered for fifteen
+shillings, I pitied Shakespeare, and thought no more of the work. They are now
+published, and afford a happy instance of what the public are to expect from a
+bookseller, who has spirit to share his profits with artists of merit. I had
+often thought of writing something upon the present subject, and cannot,
+without injustice, pass this new edition in silence.
+
+With exception of one or two at most, these plates are highly finished,
+finished with freedom and force, united to the admired neatness of the French
+Burin. I am sorry the designs are not, upon the whole, equal to the execution*
+though many of them merit the highest applause; and since I have criticized the
+plates of former editions, I shall make equally free with the present, and
+praise or blame, where, in my opinion, either is deserved.
+
+Othello gives no idea of the noble Moor. The expression of jealousy is too
+ambiguous and strong to be marked with success in miniature; he looks not like
+an injured soldier, but an old enraged eunuch of the seraglio. Iago is an
+excellent figure, his action steady, the attitude speaks design, and the eye
+watches the effect of his villainy upon the unhappy husband.
+
+Brutus and the Evil Genius would not make the ghost of a Roman between them;
+it is a bad print, and no part of it better than another.
+
+Rosalind and her companion, in the comedy of As you like it, is one of the
+sweetest cuts I remember to have seen; the action is well chosen, the
+expression just, and the execution delicate as the subject. The softness of the
+sex shines through the masculine dress, and finely conveys the idea of the
+poet. Had the trees in the back ground been executed with a little more care,
+and the keeping better preserved, this print would have been a masterpiece.
+
+Every person must be pleased with Pistol in Harry the fifth: the design is
+good, the action natural -- the expression strong, and the execution superior
+to any poetical cut I ever saw in an English publication.
+
+Iachimo and Imogen deserve great approbation; the seen is dumb show,
+therefore capable of being perfectly represented: accordingly, the sang-froid
+of the Italian, taking an inventory of the lady's beauty, is nicely hit -- she
+sleeps well; her posture is natural, and the execution fleshy and delicate.
+
+The delivery of the letter in Henry the Eighth, must also give universal
+satisfaction; there is a great deal of character in the king and Wolsey, and
+what is further commendable, they are portraits of these personages. Wolsey
+receives the letter with a courtly smile, in place of that stupefaction visible
+in the Cardinal of Gravelot, before its contents were known.
+
+Falstaff assuming the conquest of Percy, is a pleasant high-finished cut; Sir
+John recalls rather too much the idea of Mr. Shuter in that part, but the youth
+and gallant figure of the prince is happily struck, and the fallen Percy
+judiciously foreshortened. I think he should have retained something of the
+terrible in death.
+
+Doctor Caius, Mrs. Quickly, and Simple, in the Merry Wives of Windsor, are
+truly comic, well conceived, and convey the very spirit of the scene; the
+execution is equal to the design, and make together a very perfect print.
+
+Mr. Grignion has been very happy in the frontispiece for Much ado about
+Nothing -- His etching gives a peculiar spirit to a print, where he is pleased
+to bestow pains and the arch smile in the face of the prince and Leonato, in
+pretended conference, demands the attention of an actor.
+
+The feelings of old Lear, are finely marked; the figure, though small, is
+dignified; and poor Tom almost shivers upon the paper.
+
+I could with pleasure review the others, but have already exceeded the short
+sketch intended. The subject of prints is fertile and entertaining. I could
+wish to see it treated by those who have more leisure and abilities than I am
+master of. Their merits might thence become more generally understood, and the
+art rendered of solid use and ornament to the works of the learned.
+
+The present publication I consider as a considerable advance to this
+improvement, and the public will likely view it in the same light.
+
+BOOKS published for JOHN BELL.
+FENCING FAMILIARIZ'D; or a new treatise on the ART of SWORD-PLAY. Illustrated
+by elegant engravings, representing all the different attitudes on which the
+principles and grace of the art depend; painted from life, and executed in a
+most elegant and masterly manner. By Mr. OLIVIER, educated at the Royal Academy
+at Paris, and professor of fencing, in London. Price 7s. bound.
+
+The author of this work humbly presumes, that he has offered many considerable
+improvements in the art of fencing; having founded his principles on nature,
+and confuted many false notions, hitherto adopted by the most eminent masters;
+he has rendered the play simple, and made it easy and plain, even to those who
+were before unacquainted with this Art. After bringing his scholar as far as
+the assault, and having demonstrated to him all the thrusts and various
+parades, he lays down rules for defense in all sorts of sword-play." The
+Monthly reviewers, express themselves in the following terms: "For ought we
+dare say to the contrary, Mr. Olivier's book is a very good book, and may help
+to teach, as much as books can teach, the noble science of defense; or, as our
+author terms it, sword-play; and it is made more particularly useful, by the
+various attitudes and positions, which seem to be here accurately and elegantly
+delineated. BELL's COMMON PLACE BOOK. Formed generally upon the principles
+recommended and prac^i^ed by Mr. LOCK. Price 11. 5^.
+
+This work is elegantly executed from copper plates, on superfine writing demi
+paper, and may be had of all the booksellers in England, by enquiring for
+Bell's Library Commonplace Book, f^^m^d upon Mr. Locke's principles. This book
+is generally bound in vellum, containing 5 quires of the very best demi paper
+properly prepared, for 1^. 5^. Ditto, if bound in parchment, 1l. and so in
+proportion for any quantity of paper this book may contain, deducting or adding
+two shillings for every quire that may be increased or decreased, and bound as
+above.
+
+Mr. Lock has confined his elucid^tion to the advantages arising from reading;
+in selecting remarkable passages from b^oks: but this is not the only purpose
+to which the Commonplace Book may be successfully applied. It is not solely
+for the divine, the lawyer, the poet, philosopher, or historian, that this
+publication is calculated: but these its uses are experimentally known, and
+universally admitted. It is for the use and emolument of the man of business,
+as well as of letters; for men of fashion and fortune, as well as of study; for
+the traveller, the trader; and in short for all those who would form a system
+of useful and agreeable knowledge, in a manner peculiar to t^emselves, while
+they are following their accustomed pursuits, either of profit or pleasure.
+MISCELLANEOUS ANTIQUITIES, or a Collection of CURIOUS PAPERS, either published
+from scarce Tracts, or now first printed from original Manuscripts. Number I.
+and II in quarto, Price 2s. each; to be continued occasionally. Printed at
+Strawberry-hill. Just Published by Mr. HAMILTON at ROME, and executed under his
+Inspection (at a very great Expense) by the most eminent Engravers, a beautiful
+and much admired Work, entitled
+
+The ITALIAN SCHOOL of PAINTING; Consisting of FORTY PRINTS, taken from the
+Works of all the great ITALIAN MASTERS; beginning with MICHAEL ANGELO, and
+ending with CARRACCI.
+
+On account of the great Advance in the Duty, that could not be foreseen at the
+first Publication, the Publisher finds himself under the Necessity of advancing
+the Price to Four Guineas and a Half.
+
+CUPID's REVENGE, a Farce, as it is acted at the Theater Royal in the
+Hay-Market. Price 1s. The DRAMATIC CENSOR; or CRITICAL COMPANION. Being an
+instructive and entertaining Preceptor for the Playhouse. In two handsome 8vo.
+volumes, embellished with beautiful frontispieces. Price 12s.
+
+These two volumes are supposed to comprehend the whole of the author's design:
+he has given a critical investigation of above fifty of the most considerable
+acting plays; with remarks also on the performers who have appeared in the
+principal characters of those plays. He seems to be intimately conversant with
+theatrical affairs, to have formed a just estimate of the merit of the actors;
+and to have offered many judicious criticisms on the writings of our principal
+dramatic poets. MONTHLY REVIEW. An EASY WAY to PROLONG LIFE, by a little
+Attention to what we eat and drink; (...) a chemical analysis, or an enquiry
+into the nature and properties of all kinds of food, how far they are wholesome,
+and agree with different constitutions. With some directions respecting our way
+of living. Written in such a manner as to be intelligible to every capacity.
+Price as.
+
+A work no one that once reads will grudge the money for; it being on a subject
+that long wanted treating on, and with which every one should be acquainted.
+
+Collected from the authorities of some of our ablest Physicians, by a MEDICAL
+GENTLEMAN.
+
+A HISTORY and DEFENSE of MAGNA CHARTA. By Dr. SAMUEL JOHNSON. Containing also
+a short account of the rise and progress of national freedom, from the invasion
+of Julius Caesar to the present times. Second edition, price 5s. 3d. in boards.
+
+This is a very useful publication, particularly at the present period, when
+the nature of our constitution is so much the subject of animadversion. The
+author, together with the original charter, has given an English translation,
+for the benefit of his unlearned readers, and a circumstantial account of the
+manner in which this sacred Palladium of English liberty was originally
+obtained from King John. He compleats the whole with an essay on parliaments,
+from their origin in England, and their half-yearly existence, to their
+septennial duration, and displays no less an extensive fund of knowledge, than
+a laudable exactness in the course of his relation. The PORTRAIT of LIFE; or,
+Various EFFECTS of VIRTUE and VICE, delineated; designed for the use of
+schools, as well as the closet; with a view to form the rising minds of youth
+of both sexes to virtue, and destroy in their infancy those foibles and
+frailties, which youth in particular are addicted to. Now first published, in
+two volumes, Price 6s. FREE THOUGHTS on SEDUCTION, ADULTERY, and DIVORCE; with
+reflections on the galiantry of princes, particularly those of the blood royal
+in England. Price 5s. 3d. in boards. REMARKS on the ENGLISH LANGUAGE; being a
+detection of many improper empressions used in conversation, and of many others
+to be found in authors. By R. BAKER. Price 2s.
+
+Mr. Baker, the author of the^e remarks, has pointed out a great number of
+improper expressions, which we frequently heat in conversation, or meet with in
+books;and has subjoined many useful observations. CRITICAL REVIEW. TEN MINUTES
+ADVICE to every Gentleman going to purchase a Horse out of a Dealer, Jockey, or
+Groom's Stable, Price 1s. WOODBURY; or, the Memoirs of WILLIAM MARCHMONT, Esquire.
+and Miss WALBROOK. Letters. In two neat volumes, price 6s. bound. The
+GENTLEMAN's POCKET FARRIER, showing how to use your horse on a journey; and
+what remedies are proper for common accidents that may befall him on the road.
+
+This little tract has been in great estimation, for these fifty years past,
+and has gone through many edition in Ireland. The remedies it prescribes, are
+simple, and easily obtained, and never fa^l of cure, where the disorder is
+curable. And no man who values his horse should presume to travel without it.
+
+ADVERTISEMENT.
+
+It may not be unnecessary to acquaint the reader, that these prescriptions
+have not been hastily jumbled together, but are experimentally efficacious. A
+great many books have been written on farrlery, of which Gibson's is
+undoubtedly the best, but his rules are too tedious for the pocket. Such a book
+therefore as this, is necessary on a journey, in order to refer to as occasion
+requires; and it contains as much as is known by any of our common farriers.
+
+As small as this tract may appear, it will be found to inform gentlemen,
+first, what methods are best to be used, if their horses fall lame. Secondly,
+what medicines are proper to give him when sick. Thirdly, how to direct the
+operations, and escape the impositions, of ignorant men. In short, by the help
+of this treatise, gentlemen will be able to prevent a groom or farrier from
+injuring their horses, by improper applications, and mistaking one distemper
+for another.
+
+The receipts are few, naked, and cheap; the poultice but one, and contrived on
+purpose to prevent trouble, and save time and cha^ges, by pointing out the best
+remedies at first, such as are easiest to be got, and such as make the
+speediest cures: and the reader may be assured that they have been
+experimentally confirmed, by a practice of thirty years. The book is drawn up
+in a manner calculated for a gentleman's pocket, supposing him upon a journey;
+and no man, who values his horse, should travel without it.
+
+The TOBACCONIST, a Farce, as it is acted at the Theater Royal, in the
+Hay-Market. Price 1s. The MACARONI, a new Play, as it is acted at the
+Theatres-Royal. Price 1s. 6d.
+

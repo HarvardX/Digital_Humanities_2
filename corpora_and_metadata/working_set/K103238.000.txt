@@ -1,0 +1,261 @@
+CALCULATIONS TO DETERMINE AT WHAT POINT IN THE SIDE OF A HILL ITS ATTRACTION
+WILL BE THE GREATEST, etc.
+
+BY CHARLES HUTTON, LL. D. AND F. R. S.
+
+Read at the ROYAL SOCIETY, Nov. 11, 1779.
+
+LONDON: Printed by J. NICHOLS (Successor to Mr. BOWYER).
+
+M DCC LXXX.
+
+CALCULATIONS, etc.
+TO NEVIL MASKELYNE, D. D. F. R. S. AND ASTRONOMER ROYAL.
+Royal Military Acad. Sept. 21, 1779. DEAR SIR,
+AS the experiment of determining the universal attraction of matter, which you
+lately conducted with so much accuracy and success, is of so great importance
+and curiosity, that it may probably be hereafter repeated by the learned in
+other countries, and in other situations; and as the utmost precision is
+desirable in so nice an experiment; I have composed the enclosed paper to
+determine the best part of a hill for making the observations, so as to obtain
+the greatest quantity of attraction.
+
+I have no doubt, Sir, that the determination of this point will appear of some
+consequence in the opinion of one who has the improvement of useful knowledge
+so much at heart; and if the manner in which it is here made, meet your
+approbation, I shall desire the favor of your presenting it to the Royal
+Society.
+
+I have the honor to be, etc.
+
+1. The great success of the experiment, lately made by the Royal Society, on
+the hill Schehallien, to determine the universal attraction of matter, and the
+important consequences that have resulted from it, may probably give occasion
+to other experiments of the same kind to be made elsewhere: and as all possible
+means of accuracy and facility are to be desired in so delicate and laborious
+an undertaking; it has occurred to me that it might not be unuseful to add, by
+way of supplement to my paper of calculations relative to the abovementioned
+experiment, an investigation of the height above the bottom of a hill, at which
+its horizontal attraction shall be the greatest; since that is the height at
+which commonly the observations ought to be made, and since this best point of
+observation has never been any where determined that I know of, but has been
+variously spoken of or guessed at, it being sometimes accounted at, and
+sometimes at of the height of the hill; whereas from these investigations it is
+found to be generally at about only of the altitude from the bottom.
+
+2. Let ABCEDA be part of a cuneus of matter, its sides or faces being the two
+similar right-angled triangles ABC, ADE meeting in the point A, and forming the
+indefinitely small angle BAD. Then of any section bced, perpendicular to the
+planes ABD and ADE, the attraction on a body at A in the direction AB, is equal
+to the constant quantity s s; where s = sin. BAC and s = sin. BAD, to the
+radius 1.
+
+diagram
+
+For, first, since the magnitude of the flowing section is every where as A b2,
+and the attraction of the particles of matter inversely as the same, or as 1/A
+b2; therefore their product or A b2/A b2 or 1 (a constant quantity) is as the
+force of attraction of bced.
+
+Then to find what that quantity is. Put AB = a, and BC = x; then BD or CE (the
+distance between the two planes at the distance AB) is = as. Now the force of a
+particle in the line CE is as 1/AC2 in the direction AC, and therefore it is as
+AB / AC3 in the direction AB; consequently the force of the whole lineola CE in
+the direction AB is AB.CE / AC3; and therefore the fluxion of the force of the
+section BCED or f is ^; and the fluent gives ^ for the attraction itself.
+
+3. To find now the attraction of the whole right-angled cuneus on a body at A
+in the direction AB. -- Since the force of each section is s s by the last
+article, therefore the force of all the sections, the number of them being AB
+or a, is ass = s. AB. BC / AC the force of the whole cuneus ABCEDA.
+
+diagram
+
+4. To find the attraction of the rectangular part ABCD on A in the direction
+AB; ABCD being one side of the cuneus, and AD its edge. -- Put AD = BC = b, and
+AB = x. Then, the force of any section as BC being always as s s by Art. 2, the
+fluxion of the force or f will be ^; and the fluent is ^ the attraction of ABCD.
+
+diagram
+
+5. To find the attraction of the right-angled part BCD of a cuneus whose edge
+passes through A the place of the body attracted. -- Put AB = a, BC = b, BD =
+c, DA = d = a - c, DC = e, AC = g, and DP = x. Then, the force of any section
+PQ being still as s s, the fluxion of the force of the part DPQ is ^; and the
+correct fluent when x = c is ^ the force of a body at A in the direction AB.
+
+diagram
+
+6. To find the attraction of the right-angled part BCD on the point A. --
+Using here again the same notation as in the last article, we have ^. The
+correct fluent of which, when x = c, is ^.
+
+7. To apply now these premises to the finding of the place where the
+attraction of a hill is greatest, it will be necessary to suppose the hill to
+have some certain figure. That position is most convenient for observing the
+attraction, in which the hill is most extended in the east and west direction.
+Supposing then such a position of a hill, and that it is also of a uniform
+height and meridional section throughout; the point of observation must
+evidently be equally distant from the two ends. But instead of being only
+considerably extended, I shall suppose the hill to be indefinitely extended to
+the east and to the west of the point of observation, in order that the
+investigation may be mathematically true, and yet at the same time sufficiently
+exact for the before-said limited extent also. It will also come nearest to the
+practical experiment, to suppose the hill to be a long triangular prism, so
+that all its meridional sections may be similar triangles. Let therefore the
+triangle ABC represent its section by a vertical plane passing through the
+meridian, or one side of an indefinitely thin cuneus whose edge is in PG; or
+rather PBCGP the side of one cuneus, and PAGE the side of another, their common
+edge being the line PG perpendicular to the base AC; P being the required point
+in the side AB where the attraction of the section ABC, (...) indefinitely thin
+cuneus, shall be greatest in a direction parallel to the horizon AC. And then
+from the foregoing suppositions, it is evident that in whatever point of AB the
+attraction of ABC is greatest, there also will the attraction of the whole hill
+be the greatest.
+
+diagram
+
+8. Now draw HPDEF parallel to AC; and AH, PG, BY, CF, perpendicular to the
+same. Then it is evident that at the point P, in the direction PF, the
+attraction of PBCGP is affirmative, and that of PAGE negative. But PBCGP is =
+PBD + BDE + PFCG - EFC; and PAGE = PHAG - PHA. Therefore the attractions of PBD,
+BDE, PFCG, PHA, are affirmative; and those of EFC, PHAG, negative.
+
+Put now BY = a, AI = b, IC = c, AB = d, BC = e, AC = g = b + c, and PG = x,
+the altitude of the point P above the bottom. Also let s = the sine of the
+indefinitely small angle of the cuneus to rad. 1; and ^.
+
+Then by Art. 3, the attraction of PBD is s. PD. BD / BP = sb x a- x/ d, of PHA
+is s. PH. PG / PA = sb x x/ d.
+
+
+By Art. 4, the attraction PFCG is s. PG x h. l. PF+PC / PG = sx x h. l. ag-
+bx+ qq/ ax, PGAH is s. PG x h. l. PH+PA / PG = sx x h. l. b+ d/ a.
+
+
+By Art. 5, the attraction of EFC is ^.
+
+Lastly by Art. 6, the attraction of BDE is ^.
+
+These quantities being collected together with their proper signs, and
+contracted, we have ^ for the whole attraction in the direction PE.
+
+9. Having now obtained a general formula for the measure of the attraction in
+any sort of triangle, if the particular values of the letters be substituted
+which any practical case may require, and the fluxion of this attraction be put
+= 0, the root of the resulting equation will be the required height from the
+bottom of the hill.
+
+10. But for a more particular solution in simpler terms, let us suppose the
+triangle ABC to be isosceles, in which case we shall have d = e, and g = 2 b =
+2 c, and then the above general formula will become ^ for the value of the
+attraction in the case of the isosceles triangle, where q2 is ^. And the
+fluxion of this expression being equated to 0, the equation will give the
+relation between a and x for any values of b and d, by a process not very
+troublesome.
+
+11. Now it is probable that the relation between a and x, when the attraction
+is greatest, will vary with the various relations between b and d, or between b
+and a. Let us therefore find the limits of that relation, between which it may
+always be taken, by using two particular extreme cases, the one in which the
+hill is very steep, and the other in which it is very flat, or a very small in
+respect of b or d.
+
+12. And first let us suppose the triangular section to be equilateral; in
+which case the angle of elevation is 60, which being a degree of steepness that
+can scarcely ever happen, this may be accounted the first extreme case. Here
+then we shall have d = 2 b = a3, and the formula in Art. 10, will become s x: 2
+a- r- x/2 + x x h. l. 2 a+2 r- x/3 x + a- x/4 x h. l. a+2 r+ x/ a- x for the
+value of the attraction in the case of the equilateral triangle, in which r is
+^.
+
+13. Or if we take x = na, where n expresses what part of a is denoted by x,
+the last formula will become ^ for the case of the equilateral triangle.
+
+14. To find the maximum of the expression in the last article, put its fluxion
+= 0, and there will result this equation ^; the root of which is n =.251999.
+Which shows that, in the equilateral triangle, the height from the bottom to
+the point of greatest attraction, is only 1/500th part more than of the whole
+altitude of the triangle. And this is the limit for the steepest kind of hills.
+
+15. Let us find now the particular values of the measure of attraction arising
+by taking certain values of n varying by some small difference, in order to
+discover what part of the greatest attraction is wanting by observing at
+different altitudes.
+
+16. And first using the value of n (.251999) as found in the 14th article, the
+general formula in Art. 13, gives sa x 1.0763700 for the measure of the
+greatest attraction.
+
+17. If n = 3/10, or x = 3/10 a; the same formula gives sa/20 x: 17 - 79 + 6h.
+l. 17+279/9 + 7/2 h. l. 13+279/7 = sa x 1.0702512 for the attraction at 3/10 of
+the altitude, which is something less than the other.
+
+18. If n = 4/10 = the formula gives sa/20 x: 16 - 76 + 8h. l. 8+76/6 + 3h. l.
+7+76/3 = sa x 1.0224232 for the attraction at 4/10 or of the altitude; less
+again than the last was.
+
+19. If n = 5/10 =; the formula gives ^ for the attraction at half way up the
+hill; still less again than the last.
+
+20. If n = 6/10 =; the formula gives sa/20 x: 14 - 76 + 12h. l. 7+76/9 + 2h.
+l. 8+76/2 = sa x.8109843 for the attraction at 6/10 or of the altitude from the
+bottom; being still less than the last was. And thus the quantity of attraction
+is continually less and less the higher we ascend up the hill above the.251999
+part, or in round numbers.252 part of the altitude. Let us now descend, by
+trying the numbers below.252; and first,
+
+21. If n =.25 =; the same formula in Art. 13, gives sa x: 7 - 13 + 2 h. l.
+7+213/3 + 3/2 h. l. 5+213/3 = sa x 1.0763589 for the attraction at of the
+altitude; and is very little less than the maximum.
+
+22. If n = 2/10 =; the formula gives 1/10 sa x:9 - 21 + 2 h. l. 9+221/3 + 2
+h.l. 3+21/2 = 1/10 sa x 9 - 21 + 2 h. l. 23+521/2 = sa x 1.0684622 for the
+attraction at 2/10 or of the altitude; and is something less than at of the
+altitude.
+
+23. If n = 1/10; the formula gives sa/20 x: 19 - 91 + 2 h.l. 19+291/3 + 9/2 h.
+l. 11+291/9 = sa x.9986188 for the attraction at 1/10 of the altitude; still
+less than the last was. And, lastly,
+
+24. If n = 0, or the point be at the bottom of the hill; the formula gives ^
+for the attraction at the bottom of the hill; which is between and of the
+greatest attraction, being something greater than but less than of it.
+
+25. The annexed table exhibits a summary of the 6/10 8109843 5/10 9340963 2/13
+4/10 10224232 1/20 3/10 10702512 1/180 252/1000 10763700 0 10763589 1/97852
+2/10 10684622 1/134 1/10 9986188 1/14 0 7746531 2/7 calculations made in the
+preceding articles; where the first column shows at what part of the altitude
+of the hill the observation is made; the second column contains the
+corresponding numbers which are proportional to the attraction; and the third
+column shows what part of the greatest attraction is lost at each respective
+place of observation, or how much each is less than the greatest.
+
+26. Having now so fully illustrated the case of the first extreme, or limit,
+let us search what is the limit for the other extreme, that is, when the hill
+is very low or flat. In this case b is nearly equal to d, and they are both
+very great in respect of a; consequently the formula for the attraction in Art.
+10, will become barely ^; the fluxion of which being put = 0, we obtain ^;
+hence therefore ^, and ^. Which shows that the other limit is 29/100; that is,
+when the hill is extremely low, the point of greatest attraction is at 29/100
+of the altitude, like as it is at 25/100 when the hill is very steep. And
+between these limits it is always found, it being nearer to the one or the
+other of them, as the hill is flatter or steeper.
+
+27. Thus then we find that at of the altitude, or very little more, is the
+best place for observation, to have the greatest attraction from a hill in the
+form of a triangular prism of an indefinite length. But when its length is
+limited, the point of greatest attraction will descend a little lower; and the
+shorter the hill is, the lower will that point descend. For the same reason,
+all pyramidal hills have their place of greatest attraction a little below that
+above determined. But if the hill have a considerable space flat at the top,
+after the manner of a frustum, then the said point will be a little higher than
+as above found. Commonly, however, of the altitude may be used for the best
+place of observation, as the point of greatest attraction will seldom differ
+sensibly from that place. And when uncommon circumstances may produce a
+difference too great to be entirely neglected, the observer must exercise his
+judgment in guessing at the necessary change he ought to make in the place of
+observation, so as to obtain the best effect which the concomitant
+circumstances will admit of.
+
+

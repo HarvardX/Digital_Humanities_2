@@ -1,0 +1,1831 @@
+THE CALCULATION OF Solar Eclipses WITHOUT PARALLAXES.
+
+A Calculation of the Great Eclipse of the Sun, April 22d. 1715 in the Morning,
+from Mr. Flamsteed's Tables; as corrected according to Sr. Isaac Newtons Theory
+of the Moon in the Astronomical Lectures, with its Construction for London Rome
+and stockholme. By W: Whiston MA.
+NB. The Inquisitive are desired nicely to Observe whether in such Places where
+the Eclipse is plainly Total, there be not streaks of Red Light just before and
+after that Total Darkness; and how long it is visible; For if there be, it will
+imply that it is an Atmosphere about the Moon that is the occasion of it, and by
+its duration the height of the same Atmosphere - may in some measure be
+determined also.
+
+The Sun's True Place and Anomaly
+s s Anno Dom. 1701 9 20 43 50 3 7 40 10 Years -- 14 11 29 36 46 11 40 April,
+days -- 21 3 19 24 24 15 hours -- 21 51 45 3 7 52 5 minutes -- 36 1 29 Place of
+the Perihel. Sun's Mean Motion 1 10 38 14 1 10 38 14 Equation Added 1 36 27 s
+Mean Motion Sun's True Place 1 12 14 4^ 10 2 46 9 s Mean Anomaly The General
+Eclipse by the Calculation From Dr. Halley h h Beginning -- 7. 30 7 21 Middle
+-- 9. 51 9 42 End -- 12. 12 12 3 The Eclipse at London from the Calculation.
+From Dr. Halley h h Beginning -- 8. 18 8 7 Middle -- 9. 24 9 13 End -- 10. 35
+10 24
+
+
+
+The Construction Explaind
+This Scheme represents one half of the Enlightened Disk of the Earth as seen
+from its Center Projected at the distance of the Moon. The Elliptick Parallels,
+with their Hours, represent the Cities of London, Rome, and Stockholme, as
+placed at those Hours at different Times. The Principal strait Line divided by
+dotts represents the Path of the Moons Center ever the Disk of the Earth: And
+by the Hours in Larger and those above and below in smaller Characters, the
+Position of the Center is determind at those Times for those Places
+respectively. So that if with a pair of Compasse^ we take from the proper Scale
+the Semediameter of the Penumbra, and carry it along the Path till it first
+reaches to, and then leaves the same minute on any Parallel that is the very
+time of its Begin^ing and Ending there. And if at any intermediate time in both
+you make Circles, one with the Moons Semidiameter on its Path; the other with
+the Suns on any of the 3 Parallels* the Intercepted part will show the quantity
+of the Eclipse at that time in the Place to ^ which the Parallel you we does
+belong. And if you carry a Square along the Path, till the Perpendicular side
+cuts the same Hour and Minute there and in any Parallel, that is the Middle of
+the Eclipse there. Of all which you have examples in the Scheme. Only Note that
+the Center of the Penumbra at 21 after* 7 and at 3 after 12* which are the
+beginning and ending of the General Eclipse, extends beyond the* Copper Plate,
+and is to be supplied by the Ren at the intersection of the proper Lines there
+to directed.
+
+The Breadth of the entire Penumbra or paitial Eclipse upon this Perpendicular
+Plain, appears by the Construction to be no less than 1965 minutes or
+Geographical Mibes on each side of the Moons Path, or 3930 Miles in all; which.
+correspond to many more on the Spherical Surface of the Earth: Nor is it all
+confind, as you may see here, to that Surface, but reaches* off a greatway into
+the empty Space beyond it Northward. The Lines which distinguish that breadth
+on each side into 12 parts denote so many Digits of the Suns Eclipses besides
+for the Total shade) and the places both as to Long* 8* Lat: where the sun will
+at any Time be so much Eclipsed: And indeed I would willingly have procured a
+general Map here to have* showed over what Countries and Places the entire
+Shadow would pass, as Doctor Halley has given us a particular Map of England
+for the Passage of the Total Shadow over it. But the nature of the Construction
+does not admit of that Projection (Such a Thing cannot be truly represented any
+other way than by the Copernicus; where there is a real Globe of the Earth,
+capable of a Diurnal motion, during the time of the Eclipse) the imposibility
+of which in all Perspective Projections of the Sphere renders that designs
+otherwise impracticable: Nor can I determine by this Construction whether the*
+Eclipse will be Total at London or not, because the Circles of the Sun and Moon
+at the Southern Limit seem here exactly coincident. But if we go by a
+Construction according to our Calculation the Digits Eclipsed at London will be
+hardly more than 11 and the Shadow* will go full 30 Miles more Northward than
+in Dr. Halleys Map.
+
+So that ye Middle of the General Eclipse in common or apparent Time* will be
+50. 56. after Nine in the Morning* differing from Dr. Halley's Computation near
+9 min. But Note that the Construction is accommodated to the Drs. Calculation.
+
+Note also that hence the breadth of the Shadow of Total Darkness will be 98
+Geographical Miles; and that its length on the Oblique Horizon of London will
+be near 150 Miles, as Dr. Halley's Description asserts.
+
+But it must be here Observed that if in this Calculation the that and 6th New
+Equations of the Moon, taken from S. Isaac Newton's Theory, were neglected,
+this Calculation would be much nearer to Dr. Halley's, as it is now nearer to
+Mr. Flamsteed's. This Eclipse, if the Air prove clear for exact Observations,
+will go agreat ^ay to determine how far those Equations are just; and how far
+they are necessary in the Calculation of the New and Full Moons, and of
+Eclipses, that happen only at those Times. St. Isaac Newton's third Equation,
+which is no more than 13 to be Substr^ted, is here omitted, as very
+inconsiderable.
+
+Moon's mean Motion Motion of the Apogee Motion of ye Nodr Retr. s s s Anno
+Dom.1701 10 15 19 50 11 8 18 20 4 27 24 20 Years -- 14 1 20 54 34 6 29 37 50 9
+0 45 35 April* days -- 21 22 34 47 12 21 59 5 52 41 hours -- 21 11 31 46 5 51 2
+47 minuted -- 36 1^ 46 10 5 (Mean Time) 9 6 41 8 Moon's mean Motion 1 10 40 43
+6 20 24 10 7 20 43 12 Suns mean Anomaly 10 2 40 9 An: Eq: Add. 16 8 An Eq:
+subst. 7* 41 Physical parts Subtracted 9 50 6 20 40 18 7 20 35 31 (...) 6th
+Equation Substra^ 3 45 Mean Place Corrected Mean Place Corrected Sum 13 35 1 12
+14 41 1 12 14 41 Moon's mean Place correcte^ 1 10 27 8 Suns True Place Suns
+True Place True Place of the Apogee ^ulot 6 27 5^ 5 6 21 34 23 5 21 39 10
+Moon's mean Anomaly 6 12 31 3 Annual Argument ^ Distance from the Node Equation
+Added 1 42 35 7 15 47 Equat: Subst. 25 19 Moon's Equat Place in its Orb 1 12 9
+43 Equation Added 7 20 10 12 Sun's True Place 1 12 14 41 6 27 56 5 True Place
+of the Node Moon's Distance from ye. sun 11 29 55 2 True Place of the Apogee 5
+16 56 Variation subtracted 2 Eccentricity 63 68 Inclination of ye Limit Moon's
+True Place in it^ Orbit. 1 12 9 41 horary Mot. 38 0 Semidiam.. 15 58 Node's
+True Place substract 7 20 10 12 ^. 2 25 Semidiam.. 16 47 Argument of Latitude 5
+21 59 29 from 35 35 Semid. Penum. 32 45 Reduction Added 2 0 356 60115: 8 22
+Semid. Disk 61 30 Moon's True Place in the Eclip^ 1 12 11 41 Eq. Time Add. 3 25
+Ang^ of ye way with ye Ecliptic 5 35 Moon's True North Latitude 44 10 Reduct
+Add. 3 9 Diff^ of that and s Diam 98or 98 Miles. Sum of 3 Add. 14 56
+
+Engraved and Sold by John Senex at ye Globe in Salisbury Court near Fleet
+street. And Will: Tailor at the Ship in Paternoster Row. Where are sold Mr
+Whiston's Astronomical Lectures, his Taquet's Euclid, and ye Scheme of ye Solar
+System. Also ye newest Globes and Maps.
+
+The Copernicus, or Universal Astronomical Instrument, being now finished, is
+sold by ye Author Mr. Whiston, at his House in Cross street Hatton Garden
+
+THE CALCULATION OF Solar Eclipses WITHOUT PARALLAXES. WITH A SPECIMEN of the
+same in the Total Eclipse of the Sun, May 11. 1724. Now first made Public. To
+which is added, A PROPOSAL how, with the Latitude given, the Geographical
+Longitude of all the Parts of the Earth may be settled by the bare Knowledge of
+the Duration of Solar Eclipses, and especially of Total Darkness. WITH An
+ACCOUNT of some late Observations made with Dipping Needles, in order to
+discover the LONGITUDE and LATITUDE at Sea. By WILL. WHISTON, M. A. Sometime
+Professor of the Mathematics in the University of Cambridge.
+
+LONDON: Printed for J. SENEX in Fleetstreet; and W. TAILOR in
+Paternoster Row. 1724.
+
+LEMMATA: OR, Preparatory Propositions.
+I.
+HE most useful and most remarkable Cycle or Period for the Revolution of
+Eclipses, both Solar and Lunar, mentioned by Pliny, (Not. Hist. II.) and by him
+only of all the Ancients, is the Interval of 223 Synodical Months = 6585 Days:
+or = 18 Julian Years: with 10 Days, when the Cycle ^or Period contains 5
+Leap-Years: and with 11 Days, when with 7 Hours 43. In which Time the direct
+mean Motion of the Moon and her Apogee in the Ecliptic, is nearly so much
+more; and the Retrograde mean Motion of the Nodes nearly so much less than
+entire Revolutions, as the mean Motion of the Moon from the Sun, upon which all
+mean Conjunctions, Oppositions, and Eclipses properly depend, exceeds the like
+entire Revolutions Which Coincidences do therefore nearly restore the mean
+State of the Moon it self, its Apogee* Nodes, and Lunations: And produce an
+eminent Revolution of correspondent New Moons, ^ull Moons, and Eclipses, after
+that Interval perpe^^^lly.
+
+This appears by the following Calculation of all these mean Motions from the
+Astronomical Tables.
+
+Mean Motion of the Sun or Earth.
+s Years 18 11 29 28 32 Days 11 0 10 50 32 Hours 7 0 0 17 15 43 0 0 1 46 15 0 0
+0 1 Sum 0 10 48 6
+
+Mean Motion of the Moon in the Ecliptic.
+s Years 18 7 11 37 22 Days 11 4 24 56 25 Hours 7 0 03 50 35 43 0 00 23 36 15
+00 00 00 08 Sum 00 10 48 06
+
+Mean Motion of the Apogee.
+s Years 18 0 12 23 53 Days 11 0 1 13 32 Hours 7 0 0 1 57 43 0 0 0 12 Sum 0 13
+39 34
+
+Mean Motion of the Node backward.
+s Years 18 11 18 7 39 Days 11 0 0 34 57 Hours 7 0 0 0 56 43 0 0 0 6 Sum 11 18
+43 38
+
+Mean Motion of the Moon from the Sun.
+s Years 18 7 11 58 50 Days 11 4 14 5 53 Hours 7 0 3 33 20 43 0 0 21 50 15 0 0
+0 7 Sum 0 0 0 0
+
+From the mean Motion of the Apogee 13 39 34 Substract that of the Moon in the
+Eclipt. 10 48 6 Remains -- (29) 2 51 28 To the mean Motion of the Moon 0 10 48
+6 Add that of the Node 11 18 43 38 Sum 11 29 31 44 Difference from 12 Signs
+(047) 0 0 28 16
+
+Whence it appears that the Difference of the mean Motions of the Apogee and of
+the Nodes from that of the Moon her self in the Ecliptic, in such a Period, is
+but small: Not more in the former Case than 2 5128 = 29, nor in the latter than
+28 16 = 047. Whence also it appears that the Lunar Apogee does in every such
+Cycle differ but 1/^2 of the entire Difference 29) 180 (62. That the Lunar Node
+only differs in that Cycle 1/^^^ of the entire Difference 047) 180 (383. And
+that the Anomaly of the Sun it self differs only 1/1^^^ of the entite Anomaly:
+10 8) 180 (166. Which Quantities being generally small, cannot occasion any
+great Inequality in the Times and Circumstances of New and Full Moons, or of
+Eclipses* nor by consequence greatly disturb the regular Succession of the same
+in any single Period; nor indeed very greatly in several successive Periods.
+For since the mean Motion of the Moon from the Sun is within a very small
+Matter ever certain and invariable, that Revolution is always just; and always
+determines the mean Time of all Conjunctions, Oppositions, and Eclipses
+rightly; and since the other Anomalies are but small, and always come right
+again in Length of Time, they cannot ever produce any very great Anomalies in
+our Calculations from them. As will farther appear under the following Scholia.
+
+N. B. This Period for Eclipses, has of late been called, both by Mr.
+Flamsteed, and Dr. Halley, the Saros, or the Chaldean Saros: As if it were
+known and used by the old Chaldeans, and thence called by that Name. For which
+I know no sufficient Foundation. There is indeed a gross Mistake of Pliny's
+Number in Suidas, (who thus applies this term) 222 for 223 Months, as almost
+all the Editions of Pliny still have it; and He calls that Period by this
+Chaldean Name Saros. Yet the Chaldeans never, that we find, applied it to any
+other Period than that of 3600 Years or Days; by which Period alone all the
+Antediluvian Reigns are determined both in Abydenus and Berosus themselves,
+from the anc^entest Records of that Kingdom. See my New Theory, the later
+Editions, Hypoth. X. Lem. to the third Argument; and Appendix to the Essay
+toward restoring the true Text of the Old Testament, p. 203, -- 213.
+
+SCHOLIA.
+(1.) We may here Observe, that since the Limit for Eclipses of the Moon is
+about 11 40 = 700 on each Side of the Node; as is the Limit for Eclipses of the
+Sun, about 16 40 = 1000. If we divide 700, the Limit of the Moon's Eclipses, by
+28 16 = 283, which is the Difference between the Revolution of the Moon to the
+Sun and of the Node above given, we shall have nearly Twenty Five for the
+Number of Cycles,, after a Central Lunar Eclipse in one of the Nodes, before
+the Moon goes off the Shadow of the Earth entirely at the same Node, and 450
+Years (25 * 18 = 450,) or double that Number 900 Years for the Time that the
+Moon begins to enter the Ecliptic Limit on one Side, till it goes out of it on
+the other. During which long Interval there will still be Eclipses of the Moon
+each Period. And if we divide 1000 the Limit of the Sun's Eclipses, by the same
+Number 283, we shall have nearly 35 for the Number of Periods after a Solar
+Central Eclipse at the Middle of the Earth, in one of the Nodes, before the
+Penumbra goes off the North or South Parts of the Disk of the Earth entirely at
+the same Time; i. e. 630 Years. (35 * 18 = 630,) or double that Number 1260
+Years, from the Time that the Moon in any such Period begins to enter the
+Ecliptic Limit on one Side, till it goes out of on the other: During which
+longer Interval there will still be somewhere Eclipses of the Sun each Period.
+After which respective long Intervals of Time there will be no such Eclipses
+for much longer Intervals.
+
+(2.) Since the utmost Latitude of the Moon that can permit any Lunar Eclipse,
+is about 62, and the same utmost Latitude that can permit a Solar Eclipse is
+about 92: If we divide the first Number by 25, or the last by 35, the Numbers
+of Revolutions for the Ecliptic Limits, we shall have about 26 = 2:36 for the
+mean Alteration of the Moon's Latitude in each single Period all along; and
+this both for Solar and Lunar Eclipses. Which Latitude will be South during the
+one half of the long Period of the Ecliptic Limits beforementioned; and North
+during the other half: Gradually increasing, and as gradually decreasing
+perpetually: As in the following Table.
+
+A Table of the mean Latitudes of the Moon each single Cycle, either North or
+South; beginning at an Eclipse in one of the Nodes, without any Latitude at all.
+
+Latitudes for 25 Cycles in Lunar, and 35 in Solar Eclipses.
+Cycles 1 2 26 2 4 52 3 7 19 4 9 46 5 12 14 6 14 43 7 17 12 8 19 42 9 22 12 10
+24 43 11 27 14 12 29 46 13 32 19 14 34 52 15 37 26 16 40 1 17 42 36 18 45 12 19
+47 48 20 50 25 21 53 3 22 55 41 23 59 20 24 60 59 25 63 39 26 66 0 27 68 41 28
+71 23 29 74 6 30 76 49 31 79 33 32 82 17 33 85 2 34 87 48 35 90 34
+
+(3.) Since the principal Alteration in the Quantity and Duration of total
+Eclipses of the Sun, arises from the Difference there is at any Time between
+the real Distances, and apparent Diameters of the Sun and Moon, at the Time of
+such Eclipses, that Quantity and Duration must depend on the Difference of
+their mean Anomalies, which gives us that Difference of Distances and
+Diameters; and must therefore answer in each Cycle one with another, to the
+Differences of those mean Anomalies during that Interval; which in the Sun
+comes to 108/180 or 1/166 of its entire Anomaly. And in the Moon to 2/^* 9/^ or
+1/^^ of its entire Anomaly. And since the whole mean Excentricity of the Moon
+is somewhat above three Times as great as that of the Sun, or as ^^/1000 to
+17/100. The Differences of the Sun's Distances and Diameters will be but a
+little greater in each Period one with another, than those of the Moon.
+
+(4.) When therefore the Anomalies of the Sun and Moon are of the same Species;
+I mean both ascending, or both descending; their Distances and Diameters will,
+one with another, increase or decrease nearly in the same Proportion; and the
+Quantity and Duration of total Darkness will alter but little in such a Period.
+But when those Anomalies are of the contrary Species; that is, the one
+ascending while the other descends; they will alter considerably. So that if
+the Sun be descending, and its apparent Diameter Increasing; while the Moon is
+ascending, and its apparent Diameter Decreasing, the Eclipse of the Sun will,
+each succeeding Cycle, afford a smaller total Shadow; till at last it afford no
+total Shadow at all; but the Eclipses become Annular. And if the Sun be
+Ascending while the Moon is Descending, the contrary will happen; and the total
+Shadow grow greater perpetually. From which Circumstances of the Sun and Moon
+in each Revolution of the Cycle duly considered, we may nearly determine
+whether any succeeding correspondent Eclipse will afford us a greater or less
+total Shadow, or whether the Eclipses will be only Annular.
+
+(5.) From the like Circumstances we may also nearly determine whether such
+Eclipses will come somewhat sooner or later, than that of the mean Revolution
+of the Period before us. For if the Earth be much nearer its Aphelion, than the
+Moon its Apogaeon, at the end of any Cycle; and by consequence if the Earth
+then revolve comparatively slower, and the Moon swifter than ordinary; the
+meeting of the Luminaries will be accelerated. And if the Earth be much remoter
+from its Aphelion than the Moon from its Apogaeon, the contrary will happen;
+and the Moon will be later than ordinary ever it overtake the Sun. So that in
+the former Case the Eclipse will come a little before, and in the latter a
+little after the proper Conclusion of that Period.
+
+(6.) Since the Motion of the Node backward in one of these Periods does not
+quite reach to the Conjunction or Opposition, that Node must every Cycle go
+forward, with respect to the Lunations and Eclipses; and at the ascending Node
+the Moon will pass more Southward, and at the descending Node more Northward
+successively. Thus at the Solar Eclipse May 1. 1706. the Moon, near its
+ascending Node, had greater Northern Latitude than it will have at the next
+corresponding Solar Eclipse, May 11. 1724. And thus at the total Solar Eclipse,
+April 22. 1715. the Moon near its descending Node, had less Northern Latitude
+than it will have at its corresponding great Eclipse, May 2. 1733.
+
+(7.) Since the Motion of the Moon's Apogee forward is greater in one of these
+Periods than that of the Lunations, that Apogee must also go forward every
+Cycle: And if at any one Solar Eclipse that Apogee be in quadrature with the
+Sun, after it had been in Conjunction, the Moon will the next Period descend by
+going backward in its Eclipses, toward the Perigee. And if at any one such
+Apogee it be in the quadrature, after it had been in Opposition, it will the
+next Cycle ascend: The Reverse of all which is true in Lunar Eclipses.
+
+(8.) The Place and Motion of the Sun in its Ellipsis is so easily known, and
+that for many Ages, by bare Memory and Reflection, that a few Words will
+suffice. The Sun is now farthest from the Earth Eight Days after the longest
+Day; and nearest to it Eight Days after the shortest: And its Motion about 1
+Degree in 72 Years. Whence it is evident, that it has, for all the past Ages of
+Astronomy, been about the Summer Solstice in our Apogee, and about the Winter
+Solstice in our Perigee; if I may use the T^rms of the Ptolemaick System. Nor
+is it therefore any Wonder that the greatest total Eclipses of the Sun have
+happened still in the Summer, and the g^eatest Annular ones in the Winter half
+Year: Since the farther the Sun is off in the Winter, the less must be its
+apparent Diameter, and by consequence the greater the Excess of the Moon's
+Diameter above it. On which Excess alone the Greatness of such Eclipses
+depends. And the Reverse is equally evident in the Case of Annular Eclipses in
+Winter: Nor indeed is it very strange, that Annular Eclipses are in these Parts
+of the World so rarely observed; since they most usually happen in Winter Days;
+which being short, must afford us a proportionably small Number of them. To the
+Inhabitants of the other Side of the Equator the Reverse must happen. But those
+Eclipses very rarely come to our Notice.
+
+(9.) Since this Period reaches only from the middle of one general Eclipse to
+another, without regard to the Position of any particular Place on the Earth's
+Surface, arising from the diurnal Motion, we must remember that if an Eclipse
+of the Sun happens at any particular Place considerably before Noon, it will
+come sooner, and after Noon later than the proper Conclusion of this Period.
+Though it must be noted, that Eclipses of the Moon being absolute in their own
+Nature, are here wholly unconcerned; and no way subject to any Acceleration,
+Retardation, or Alteration on account of the diurnal Motion of the Earth.
+
+(10.) The principal Alteration of the Time of the Day in all Eclipses depends
+on the Excess of this Period above an even Number of Days; which is 7 Hours and
+43. So that the Cycle does naturally put every correspondent Eclipse later than
+the foregoing, almost 8 Hours, or one third part of a Day; which thing, by
+reason of the intervening diurnal Motion, greatly alters all Eclipses,
+especially Solar, not only as to the bare Time of the Day when, but also as to
+the Places on the Earth where such correspondent Eclipse will be visible.
+
+(11.) If therefore we join three of these Cycles together, those odd Hours and
+Minutes will amount nearly to a whole Day; and will therefore nearly bring the
+middle Point of the correspondent Eclipses to the same Time, in the same Place,
+and, in part, with the same Circumstances as before: Which a single Cycle
+cannot possibly do. Only with the Anticipation of 50 in Time. Which three
+single Cycles therefore of 19,756 Days, or of 54 Years; with 32 or 33 Days; I
+call the Grand Cycle. And this will be, I think, of the greatest and readiest
+use in remote Eclipses of any other Period whatsoever.
+
+Thus, for Example, there was a total Eclipse of the Sun on Black Monday; as it
+has thence been called ever since, March 29. 1652. about Ten a Clock in the
+Morning. Total, I say it was in the North of Ireland, and the Northwest of
+Scotland, though not so at London, ot the remoter Parts of England and Scotland.
+To this if we add one Cycle, the Time of the next correspondent Eclipse will
+thus be discovered: y d h To A. D. 1652. March, 00 28 22 00 00 Add 18 10 7 43
+15 Sum 1670 April 00 8 5 43 15 So that the correspondent total Eclipse ought to
+have been A. D. 1670. April the 8th 43 past 5 a-Clock in the Evening. And
+because the Earth was then a small Matter nearer its Aphelion, than the Moon
+its Apogaeon, the Time would be a little anticipated on that Account. But then,
+because this Eclipse was toward Evening, it would be much more retarded on
+that Account, than anticipated on the other; and the main Part of the Eclipse
+would happen after Sunset, and be here invisible.
+
+To this Time if we add another Cycle, the next correspondent Eclipse will in
+like Manner be discovered: y d h To A. D. 1670. April 00 08 5 43 15 Add 18 11 7
+43 15 Sum 1688. April 00 19 13 26 30 So that the next correspondent total
+Eclipse ought to have been April 20th, 26 after one in the Morning; and was
+therefore, to be sure, utterly invisible to us here. To this Time if we add
+another Cycle, we have the next correspondent total Eclipse thus: y d h To A.
+D. 1688 April 00 19 13 26 30 Add 18 10 07 43 15 Sum 1706 May 00 00 21 09 45 So
+that the next correspondent total Eclipse was to have been A. D. 1706. 9 past
+Nine a-Clock in the Morning; which is not much before the Time when it was
+observed here; and was no other than that famous Eclipse which was total at
+Cadiz, Barcelona, Marseilles, Geneva, Bern, and Zurich; and became very
+remarkable for the raising of the Siege of Barcelona during that total
+Darkness: Though I have been informed by several there present, that it came to
+both Armies wholly unexpected, till the great Darkness of the Sky forced them
+to attend to it. Now this affords us also a remarkable Instance of the near
+Approximation of our Grand Cycle, both as to Time and Place. For if instead of
+tracing this correspondent Eclipse through the distinct Cycles we had at once
+taken our Grand Cycle of 54 Years, and 33 Days; we had come immediately to this
+Eclipse: And by allowing the Anticipation of 50 had been within about 20 of the
+Calculation at London.
+
+To this Time if we add another single Cycle, we shall have the next
+correspondent Eclipse thus: y d h To A. D. 1706. May 00 00 21 09 45 Add 18 10
+07 43 15 Sum 1724 May 00 11 04 53 00 So that we ought hence to expect the total
+Eclipse next May 11, 53 past 4 in the Afternoon. And because both the Position
+of the Sun and Moon in their Ellipses, and the more considerable Alteration
+from the Time of the Day, which is here much farther in the Evening than the
+last was in the Morning; oblige us to suppose about 1h Retardation, we hence
+justly expect that this Eclipse will be the nearest Total at London about 40
+past Six in the Evening; as the exactest Calculations do determine.
+
+(12.) If we would now trace a few Lunar Eclipses by this Cycle, we may do it
+according to the following Examples:
+
+A. D. 1681/2, Feb. 11. about 59 past 10 a-Clock at Night, Mr. Flamsteed
+observed the Middle of a great and total Eclipse of the Moon at Greenwich.
+Proceed therefore as is already directed to find the next correspondent Eclipse
+of the Moon thus: y d h To A. D. 1681/2 February. 00 11 10 59 00 Add 18 11 07
+43 15 Sum 1699/1700 Febr. 00 22 18 42 15 So that this first correspondent total
+Eclipse of the Moon ought to have been Feb. 23. 1699/1700, 42 past Six a-Clock
+in the Morning; or in the daytime, and so must needs have been in great Part
+to us invisible.
+
+y d h To A. D. 1699/1700, Feb. 00 22 18 42 15 Add 18 10 07 43 15 Sum 1717/18
+March 00 05 02 25 30 So that the next correspondent total Eclipse of the Moon
+ought to have been March 5, 1717/1^. 25 after Two a-Clock in the Afternoon;
+which was in the daytime also; and so must equally with the former have been
+here invisible.
+
+y d h To A. D. 1717/18, March 00 05 02 25 30 Add 18 10 07 43 15 Sum 1736 March
+00 15 10 08 45 So that the next total correspondent Eclipse of the Moon is
+hence to be expected A. D. 1736. March 15. 8h past 10 a-Clock at Night: which
+is about an Hour and half sooner than the Calculation. Which difference we
+shall presently find to be near the greatest Difference that can happen.
+
+This may also be equally obtained by one entire Grand Cycle of 54 Years, and
+33 Days; with the forementioned Anticipation of 50 which from Feb. 11. 1681/2
+10h 59, brings us directly to March 15, 1736, 9 past 10 a-Clock at Night; or to
+somewhat above an Hour and half before the Calculation.
+
+N. B. As to the proper Quantity of the several Alterations arising in each
+Period, which ought to be allowed for, they are nearly these: The Moon and Sun
+being about 31 in Diameter, and the Digits of their Observation being 12. while
+the Difference of the Moon's Latitude, as we have seen, is about 2 36 or the
+Twelfth Part of those Diameters, it is plain that the mean natural Alteration
+of every Period in the same Circumstances is about one Digit; though less in
+the lesser, and greater in greater Latitudes: which in the Moon, whose Eclipse
+is to all Spectators the same, holds constantly: And though the diurnal Motion
+of the Earth removes all particular Places, so much each Period as to render
+this Rule less observable in Solar Eclipses, yet after each grand Period, which
+nearly restores their former Position, it will hold in a good Degree there
+also, I mean so as to alter about 3 Digits therein: But besides that of the
+Digits eclipsed, we ought also to see what Alteration in Time may happen to
+each Period. Now as to the Inequality of the Sun's Motion, it is as we have
+seen 108, and its greatest Velocity is at the Earth's Perihelion, and its least
+at its Aphelion: Its greatest Alteration therefore must be in Aphelio and
+Perihelio, and is the Difference of the Equation belonging every where to the
+Addition of 108, and is here 48, which Space the Earth goes in about 20 of
+Time. So that the Difference of Time on this Account, must each Period be some
+Quantity less than 20. And as to the Inequality of the Moon's Motion, it is
+also greatest at the Perigee and Apogee, and its greatest Alteration at the
+extreme Eccentricities of its Orbit is the Difference of the Equations at 2 51
+in Perigee and Apogee, according to those extreme Eccentricities: = 9 which the
+Moon usually goes in somewhat less than 20. So that the Difference of Time, on
+this Account, must each Cycle be some Quantity less than 20 Minutes also.
+
+And now we come to the principal Alteration in Time that can happen in
+Eclipses; though it belongs only to those of the Sun: And that is the Time of
+the Day when they happen in any particular Place. Now because the Center of the
+Moon usually goes over an entire Diameter of the Disk of the Earth, in about
+three Hours and an half, Part of which is almost always before, and Part after
+Noon: while the odd Hours of a small Cycle 7h 43, may reach equally from a
+Forenoon to an Afternoon's successive Eclipse; it is possible, such an Eclipse
+may appear an Hour and three Quarters later than the Period it self would
+determine it. Though usually this Alteration will not be near so great;
+especially when the Latitude of the Moon is very considerable. But then it is
+so easy to allow very nearly for this Inequality, upon a little Consideration,
+that it ought not to be objected against the Accuracy of this Period. If for
+Six Hours from Noon we allow about an Hour and half; and for two Hours, three
+Quarters of an Hour; we shall not err very much from the true Time.
+
+Corollary. If we would know what is the greatest Inequality in Digits and Time
+in a grand Period, made up of Three common ones, or of 54 Years, 32 or 33 Days,
+besides the constant Anticipation of 50, we must say it may possibly, though it
+will very rarely, be almost thrice the Quantities already stated for a single
+Cycle: excepting the last and principal Difference, peculiar to Solar Eclipses:
+which is never much greater than that already mentioned.
+
+N. B. If any are not contented to know these Matters by such Approximations,
+but desire the utmost Accuracy; they must either make use of Dr. Halley's
+Equations, fitted to this Cycle, when published; or rather make use of Mr.
+Flamsteed's or Dr. Halley's most accurate Astronomical Tables, when published;
+with that Trigonometrical Calculation afterward, which I publish and exemplify
+in this Paper. In the former Part of which Work, this Cycle, with its proper
+Equations, will, at least, save us the one half of our Calculation, if it will
+not bring us it self to that utmost Accuracy: which indeed is hardly to be
+expected from it.
+
+So that, upon the whole, If we duly consider the particular Circumstances of
+the Sun and Moon, with those of the Aphelion, Apogee and Node, and with the
+Times of the Day or Night when the Cycle ends, and rightly apply them to this
+single Cycle and to this grand Cycle, we shall be able nearly to determine the
+correspondent Eclipses with very small Trouble or Calculation.
+
+II.
+The Plane in which the Center of the Moon moves in Eclipses, is not that of
+the Ecliptic, but of the Orbit of the Moon, considered with the Annual Motion:
+Or it is a Plane inclined to the Plane of the Ecliptic in an Angle of about 5
+36. Which in the Calculation of Eclipses is usually styled, The Angle of the
+Moon's visible Way. This principal Plane I call, The Lunar Plane.
+
+III.
+This Lunar Plane cuts the Sphere of the Earth, considered without its diurnal
+Motion, in a Circle whose Pole or Vertex is distant from the Pole of the
+Ecliptic in the same Angle. This Circle I call The Lunar Circle.
+
+IV.
+In Eclipses which happen at the Solstices, and in the Nodes of the Moon's
+Orbit, the Distance of these Poles is exactly Eastward or Westward. In those
+which happen at the Equinoxes and Nodes, the Distance is exactly North and
+South. But in all other Cases it is Oblique.
+
+V.
+The Angle of that Obliquity is always composed of the Distance of the Sun and
+Moon from the Solstitial Colure; with the Distance of the same from the Nodes:
+And is sometimes the Sum, and sometimes the Difference of those Quantities.
+
+VI.
+The Distance between this Vertex and the Pole of the Earth, when Eclipses
+happen at the Solstices, is the Sum or Difference of the two forementioned
+Angles of Inclination; the one, of the Pole of the Equator and of the Pole of
+the Ecliptic = 23 29; the other of the Pole of the Ecliptic, and of the
+Vertex of the Lunar Circle = 5 36 nearly. But in all other Cases a Spherical
+Triangle must be solved, in order to find that Distance: Of which hereafter.
+
+VII.
+Since the Solstitial Colure is a great Circle, that is also a Meridian, or
+passes through the Poles of the Earth and Ecliptic: And since besides the
+Distance between the Vertex of the Lunar Circle and the Pole of the Earth, we
+shall want the Angle included between the Colure and that Line; this also must
+be obtained by the like Solution of a Spherical Triangle: Of which hereafter.
+
+VIII.
+Since the great Circle that passes through the Poles of the Earth* and of the
+Lunar Circle, and that alone cuts both those Circles, and their Parallels at
+Right Angles, That Meridian, and that alone wherein that Distance lies, is
+perpendicular to the Path of the Moon's Center along the other; and will
+determine the Point in that Path wherein (...) Center of the Shadow cuts that
+Meridian at R ght*Angles and approaches nearest of all to the Pole of the
+Earth: And indeed lays the Found^ o^ of our future Calculations. This Meri^^^^
+I call The Primary Meridian.
+
+IX.
+The angular Distance about the Pole of the Earth, of the Meridian that is
+directed to the Sun at the middle Point of the whole Eclipse from the primary
+Meridian, is composed of the Sum or Difference of the Angle made by the
+Solstitial Colure and the primary Meridian; and of the Complement of the Sun's
+Right Ascension at the middle of the general Solar Eclipse. Which Angle is of
+the greatest Consequence in our future Calculations. This Angle I call the
+Primary Angle.
+
+X.
+Since the Motion of the Center of the Shadow of the Moon, in Solar Eclipses,
+is nearly even, and nearly recti-linear; since it is also in the Plane of the
+Lunar Circle; and is all one as if it were along a Line that touched that
+Circle at the Middle of the general Eclipse, the Point of Contact; we must
+divide each Quadrant of 90 Degrees into 90 or 180 unequal Parts: but so that
+the Difference of the Sines of those unequal Angles may be equal, and 1/9^ or
+1/^80 of the entire Radius: That so the first Sine ^/^0 may be 1111/100000; the
+second 2222/100000; the third ^^^^/100000, etc. and this from the Table of
+natural Sines, with their corresponding Arcs or Angles at the Vertex, as
+follows: Arcs. D ff. Sines Equal. Arcs. Diff. Sine^ Equal. Diff. Diff. 191 194
+0 18 7 1 11 191 194 0 38 1 7 20 191 195 0 57 7 40 12 191 195 1 16 2 7 59 191
+195 1 35 8 18 13 191 195 1 54 3 8 37 191 196 2 13 8 57 14 192 196 2 33 4 9 16
+192 196 2 52 9 36 15 192 196 3 11 5 9 55 192 197 3 30 10 14 16 192 197 3 49 6
+10 33 192 197 4 8 10 53 17 192 197 4 28 7 11 12 193 197 4 47 11 32 18 193 197 5
+6 8 11 51 193 197 5 25 12 11 19 193 198 5 44 9 12 30 193 198 6 3 12 50 20 194
+198 6 23 10 13 10 194 198 6 42 13 30 21 198 205 13 49 20 50 32 199 205 14 9 22
+21 10 20 205 14 28 21 30 33 20 206 14 48 23 21 50 20 206 15 8 22 11 34 20 207
+15 28 24 22 32 20 207 15 48 22 53 201 208 35 16 7 25 23 13 201 209 16 ^7 23 34
+36 201 21 16 47 26 23 55 202 21 17 7 24 17 37 202 211 17 27 27 24 38 202 211 17
+47 24 59 38 202 212 18 8 28 25 20 203 212 18 28 25 41 39 203 212 18 48 29 26 2
+203 213 19 8 26 23 40 203 213 19 28 30 26 44 204 214 19 48 27 6 41 204 214 20 9
+31 27 27 204 216 20 29 27 49 42 217 242 28 11 36 4 53 218 243 28 32 43 36 27
+219 244 28 54 36 52 54 220 246 29 16 44 37 16 221 247 29 38 37 40 55 222 248 30
+0 45 38 4 223 249 30 22 38 29 56 224 251 30 44 46 38 54 226 252 31 6 ^ 39 18 57
+228 254 31 51 47 39 43 23^1 255 31 29 40 7 58 232 257 32 14 48 40 32 234 258 32
+36 40 57 59 235 259 32 59 49 41 22 236 261 33 22 41 48 60 236 263 33 45 50 42
+14 23^7 264 34 9 42 40 61 23^8 265 34 31 51 43 6 23^9 26^7 34 54 43 32 62 239
+269 35 18 52 43 58 241 273 35 41 44 25 63 276 34 44 52 55 19 74 278 344 45 19
+64 55 52 282 348 45 46 56 26 75 284 350 46 14 65 57 1 285 354 46 42 57 37 76
+286 358 47 10 66 58 13 287 363 47 38 58 49 77 288 37 48 6 67 59 16 289 378 48
+36 60 4 78 29 386 49 4 68 60 42 30 398 49 33 61 22 79 30 409 50 3 69 62 2 302
+418 50 33 62 44 80 304 425 51 3 70 63 26 306 43 51 33 64 9 81 31 445 52 4 71 64
+54 315 46 52 35 65 40 82 32 48 53 7 72 66 26 325 50 53 39 67 15 83 33 52 54 12
+73 68 5 335 53 54 45 68 58 84 54 (86) 69 52 77 54 88 56 (97) 70 49 85 79 31 59
+(116) 71 48 81 27 89 63 (69) 72 51 86 82 36 67 (81) 73 58 83 57 72 (105) 75 10
+87 85 42 78 (258) 76 28 90 00 90 Where the Angle made by the Lunar Circle, and
+the Paral^el of the Latitude is considerable, instead of the first Number 191
+you must take for 1/1^0 the Numbers following; being in a reciprocal Proportion
+to the Secants of those Angles.
+
+Angl. 0 191 5 191 10 188 15 184 20 179 25 173 30 165
+
+N. B. Where the Parallel is different from that at the very Middle of the
+Eclipse; as it usually is; you must increase or decrease the same Numbers 191,
+etc. in the Proportion of the Cosines of the Latitude thus: 00 000 10 174 20
+342 30 500 40 643 50 766 60 867 70 940 80 985 90 1000
+
+E. G. If the Co-latitude at the Middle of the Eclipse be 60, and come to be
+40; say, As 867 to 643, So is 191 to 142, which is there to be taken in its
+stead.
+
+N. B. The Hint that I had several Years ago, that in the Determination of
+Solar Eclipses the Equality of the Difference of Sines was made us^ of by Dr.
+Halley, was the Occasion of the Discoveries in these Papers.
+
+XI.
+The perpendicular Distance of every Point of the Penumbra; and the like
+Distance of every Point of the total Shadow from the Path of the Moon's Center,
+may be discovered by Tables made from the natural Sines; where those Sines
+themselves, as before, differ equally, or in arithmetical Progression;
+according to the Duration of the whole Eclipse, or of total Darkness: and their
+Co-sines correspond to the Distances from that Path. Both which Tables here
+follow: For entire Eclipses: Which are here supposed 108 long in the Middle,
+and the Semidiameter of the Penumbra 2000 Miles.
+Duration in Minut. Distance in Miles. Digts 1 2000 2 1999 3 1999 4 1999 5 1998
+6 1997 7 1996 8 1995 9 1993 10 1991 11 1990 12 1988 13 1986 14 1984 15 1981 16
+1979 17 1976 18 1973 19 1970 20 1966 21 1963 22 1959 23 1955 24 1951 25 1946 26
+1942 27 1937 28 1932 29 1927 30 1922 31 1917 32 1911 33 1905 34 1899 35 1893 36
+1886 37 1879 38 1872 39 1866 40 1859 41 1852 42 1844 1838 1 43 1835 44 1828 55
+1820 56 1812 47 1803 48 1795 49 1786 50 1776 1771 51 1766 1761 52 1756 2/1 1751
+53 1746 1741 54 1736 1731 55 1725 ^ 1720 56 1714 ^ 1708 57 1703 1697 58 1691
+1685 59 1679 1676 2 1672 60 1667 1662 61 1655 1648 62 1642 1635 63 1628 1621 64
+1614 1609 65 1603 1596 66 1589 1582 67 1575 1568 68 1561 1554 69 1546 1538 70
+1534 1528 71 1521 1514 1513 3 72 1506 1498 73 1490 1482 74 1474 1456 75 1448 ^
+1439 76 1430 ^ 1424 77 1412 ^ 1403 78 1394 1384 79 1374 1364 80 1354 1350 4
+1344 81 1333 1322 82 1312 1302 83 1291 1280 84 1269 1258 85 1246 1234 86 1222
+1110 87 1098 1188 5 1186 88 1173 1160 ^9 1147 1134 90 1121 1107 91 1093 1079 92
+1065 1050 93 1034 1025 6 1017 94 1000 983 95 971 955 96 937 919 97 902 884 98
+864 863 7 844 99 824 804 100 784 773 762 751 101 739 728 716 704 700 8 102 691
+679 666 653 103 639 625 611 597 104 582 566 550 537 9 534 105 517 499 482 463
+106 443 421 399 376 375 10 107 352 320 288 258 108 226 212 11 180 119 50 12 0^^
+For Total Darkness of 166.
+Duration in Secds. Distance in Miles. 1 500 2 500 3 500 4 500 5 500 6 500 7
+500 8 509 9 509 10 509 11 499 12 498 13 498 14 498 15 497 16 497 17 497 18 496
+19 496 20 496 21 496 22 495 23 495 24 495 25 494 26 494 27 494 28 493 29 493 30
+493 31 492 32 492 33 492 34 491 35 491 36 491 37 490 38 490 39 490 40 489 41
+489 42 488 43 487 44 486 45 485 46 484 47 482 48 481 49 479 50 477 51 476 52
+475 53 474 54 473 55 472 56 471 57 470 58 469 59 468 60 466 61 465 62 464 63
+463 64 462 65 460 66 459 67 458 68 456 69 455 70 453 71 452 72 451 73 450 74
+448 75 446 76 445 77 443 78 441 79 440 80 438 81 437 82 435 83 433 84 432 85
+430 86 429 87 427 88 425 89 423 90 421 91 419 92 417 93 415 94 413 95 411 96
+409 97 407 98 405 99 403 100 400 101 398 102 396 103 394 104 391 105 388 106
+386 107 384 108 381 109 379 110 376 111 374 112 371 113 368 114 365 115 362 116
+359 117 356 118 353 119 350 120 347 121 344 122 34^ 123 338 124 334 125 330 126
+327 127 324 128 321 129 317 130 313 131 309 132 305 133 301 134 297 135 293 136
+289 137 285 138 280 139 275 140 271 141 266 142 261 143 256 144 251 145 246 146
+240 147 235 148 230 149 224 150 218 151 211 152 205 153 198 154 191 155 183 156
+176 157 167 158 159 159 149 160 140 161 129 162 117 163 104 164 89 165 70 166
+44 166 00
+
+Semidiameter of the Umbra or Total Darkness = 50 Miles.
+
+XII.
+The Angles at the Vertex of the Lunar Circle, on each Side of the Point of
+Contact, by Reason of the perpendicular Situation of that Axis to its own
+Circle; are always right Angles: Only diminished in the Proportion of the
+Minutes described by the Annual Motion during the Continuance of the Eclipse.
+Thus in our present Eclipse, which retains the Center of the Shadow near three
+Hours upon the Earth's Disk, in which Time the annual Motion amounts to about
+8; each of those right Angles in Strictness are to be esteemed only 89 56, and
+both together 179 52. Only because the Refraction of the Rays of the Sun
+through our Atmosphere, requires a somewhat greater Increase of this Angle,
+than the annual Motion requires its Diminution, I shall wholly omit it, in all
+my Calculations hereafter.
+
+XIII.
+The Angles made at the Poles of the Earth, which show the Difference of the
+two extreme Meridians, and limit the Extent of the entire central Eclipse, by
+reason of the Obliquity of the Earth's Axis to that Lunar Circle, are usually
+unequal to one another; and more or fewer than twice 90, as the Eclipse happens
+at different Latitudes of the Moon, and Times of the Year.
+
+XIV.
+The Meridian that passes through the Middle or Central Point of general Solar
+Eclipses, is the same with that which passes through the Center of the Sun at
+the same Time, when the Moon has no Latitude, and the Eclipses are Central in
+the Plane of the Ecliptic; as also when they happen in either Solstices.
+Otherwise the Moon's Latitude being taken perpendicular to the Plane of the
+Ecliptic; and the nearest Distance of the Moon's Motion being taken
+perpendicular to the Lunar Circle, while the Meridians always pass through the
+Poles of the Earth; these Two Meridians will, generally speaking, be different,
+and their included Angle no otherwise to be known than by Trigonometry, as will
+appear hereafter.
+
+XV.
+The Dimensions of the Penumbra, or entire Eclipse, and the Extent of the total
+Shadow on the Earth, are continually different, according to the different
+Elevations of the Sun and Moon above any particular Horizon. For as the Moon is
+about the same Distance from every Place, when it is in its Horizon, as it is
+from the Earth's Center it self; with regard to which Center alone our first
+Calculations are always made: So when it is in the Zenith of any Place, it is
+one Semidiameter of the Earth nearer it; which Semidiameter being usually 1/60,
+and at our next Eclipse 1/555 of its entire Distance, as will appear hereafter,
+will deserve an Allowance. Nor will any lesser Elevation of the Moon be wholly
+inconsiderable in Eclipses, but in all accurate Determinations thereof must be
+particularly computed, in order to the distinct Knowledge of the Extent of such
+Eclipses; especially of the Breadth of the Total Shadow therein. Accordingly we
+are to observe that this Breadth of the Total Shadow will certainly be at this
+Eclipse considerably greater over North America; where the Luminaries are
+greater elevated above the Horizon; than over Europe, where they are much
+nearer it; as this Calculation requires: Of which hereafter.
+
+XVI.
+The Figure of the entire Penumbra, or general Eclipse; and of the Umbra, or
+Total Darkness; as they appear upon every Country, is different, on account of
+the different Obliquity of every Horizon; and will make Ovals or Ellipses of
+different Species perpetually. This in the vast Penumbra is best understood by
+such an Instrument as my Copernicus; or by the Perusal of a very scarce Book
+written by P. Coursier, (Philos. Transact. No. 343. p. 259.) and cited by Dr.
+Halley: Which distinctly treats of the Intersection of a Conical and Spherical
+Surface. But in the smaller Umbra, or Total Darkness, which is confined to a
+much narrower Compass, it very nearly approaches to the Intersection of a
+conick Surface with a Plane, which is a true Ellipsis.
+
+XVII.
+The Species of that Ellipsis depends on the Sun's Altitude above the Horizon
+at the Time of Total Darkness; as does the Position of its longer Axis on the
+Azimuth of the Sun at the same Time. Nor is it at all necessary that the
+Direction of this or any other Ellipsis should be along either of the Axes, but
+may as well be along any other Diameter whatsoever.
+
+XVIII.
+The Direction of the Center of the Shadow is according to the Direction of the
+Moon's Motion, along the Plane of the Lunar Circle, as compounded with the
+diurnal Motion, or with the Direction and Velocity of those Parts of the Earth
+over which it passes; and will be hereafter brought to Calculation. And indeed
+this Angle may be had, either by finding the several Points of the Path of the
+Moon's Way upon the Earth, in as many Meridians as we please, and drawing a
+curve Line through those Points; or by solving a Spherical Triangle, whose
+Sides are the Complements of the Latitudes of two neighboring Places equally
+distant, East and West, from the Place you work for; and whose included Angle
+is the Angle at the Pole suited to the Difference of their Meridians; and
+taking half the the two Angles at the Base, the one internal and the other
+external, for the Angle desired* Of which hereafter.
+
+XIX.
+Every Ellipsis, made by the oblique Section of a Cone, has the Intersection of
+the (Fig. 1.) Axis of the Cone C at some Distance from the Center of the
+Ellipsis D. And the Proportion of those unequal Divisions B C and C A are the
+same with that of the Sides of the Cone V B and V A: As appears by the (Elem.
+III. 6.) Elements of Euclid. Whence it is evident, that the proper Center of
+the total Shadow in Eclipses of the Sun, or that made by the Axis of the Cone,
+is not the same with the Center of the Elliptick Shadow; and that the
+Proportion of its Distance from that Center may be easily determined by the
+Proposition here referred to: Of which more hereafter.
+
+Scholium. This Ellipsis, when the Sun is of a considerable Altitude, is almost
+an exact one; but when the Sun is near the Horizon, it will be very long, and
+so less exact; because the Spherical Surface of the Earth is at that Distance
+more remote from a Plane.
+
+XX.
+The perpendicular Breadth of the Shadow is neither that of the longer, nor
+that of the shorter Axis: But that of the two longest Perpendiculars (Fig. 2.)
+A B and C D drawn from the Tangents parallel to the Diameter D B, along which
+the Direction of the Motion is: The length of which Perpendiculars will be
+hereafter determined.
+
+XXI.
+The Velocity of the Motion of the Center of the Shadow is unequal; not only on
+account of the Difference of the Moon's own Motion, at the beginning and ending
+of the entire Eclipse; which indeed is very inconsiderable; but chiefly by
+reason of the Difference of the Obliquity of the Horizon all the Way of its
+Passage. However, since the several Points may, in all Meridians be distinctly
+found by Trigonometry, as we shall show presently, this Inequality need create
+us no new Difficulty in the Determination of Eclipses.
+
+XXII.
+The Number of Digits eclipsed, which are twelfth Parts of the Sun's Diameter,
+with sexagesimal Parts of the same Digits, are always to be estimated as
+distinct from the total Shadow; and may be discovered by the help of the
+foregoing Table, p. 29, 30, 31. Where the Digits are already noted at every
+proper Distance from the Path of the Moons Center; and where the intermediate
+Fraction 1/1^26 is more exact than 1/6^; but which, by dividing that Number
+1/16^6 by 27 will give those Sexagesimals, without any farther Trouble. The
+Application of that Table will be taught hereafter.
+
+XXIII.
+The Distance of the Vertex of the conical Shadow of the Moon, which sometimes
+just reaches the Surface of the Earth, as in total Eclipses sine mora,
+Sometimes does not reach it; as in Annular Eclipses; and sometimes would
+overreach it, if it were not intercepted, as in total Eclipses cum mora; may be
+easily discovered at any time by the Analogy following: As P C the (Fig. 3.)
+Semidiameter of the Moon: = 941 geographical Miles is to CV the Distance of the
+Moon from that Vertex = 215000 So is R s = 45 the smallest Semidiameter of the
+total Shadow, which is the same as of the circular Shadow it self, to s V, the
+Distance of that Vertex therefrom = 10316, which is thus: 941: 215000 45: 10316.
+
+XXIV.
+The Determination of the Circumstances of Solar Eclipses, for any given
+Distance from the Path of the Moon's Center, either way, has no new Difficulty
+in it; but is to be made just as is that for the Center of the Penumbra. Only
+the Quantity of the Distance of the Vertex of the Lunar Plane from that Circle
+will be different; as the Path of the Moon's Center it self might be at another
+Eclipse, of otherwise the same Circumstances.
+
+XXV.
+If Two Bodies A and B set out together, the one from A, the other from B: and
+move evenly forward in a known Proportion as to Velocity; the Point C will be
+determined where the swifter will overtake the slower, and they will be
+coincident. Thus if the Velocity of A, (Fig. 4.) be to that of B, as 5 to 1,
+the Proportion of the Lines A B to B C will be as 4 to 1, and if we add 1 to 4
+= 5 we have the place C where the swifter will overtake the slower. Thus if
+their Velocities be to each other as 548 to 1, the Lines of their Motion A B
+and B C, will be as 448 to 1. So that if we take in the former Case of A B and
+in the other 1/44^ of A B, and add it to A B, we gain AC the Distance of the
+Point C from A.
+
+Corollary. If therefore A represent the Center of the Shadow of a Solar
+Eclipse, as it is placed at the Middle of the general Eclipse; and B Greenwich
+at the same Moment of absolute Time; and at a known Distance from the middle
+Point; and if the Velocity of the Center of the Shadow along the Circle be to
+the Velocity of Greenwich in its diurnal Motion as 5^ 48 to 1, if we ad 448 of
+their Distance at their setting out to that known Distance, we obtain the Point
+or Place where the Center of the Eclipse will overtake Greenwich, or the Time
+when the Eclipse will be at the Meridian of Greenwich. And this whether the
+Center and Greenwich move along the same Line as A B C, or two different Lines,
+as A B C and a b c.
+
+XXVI.
+The Duration of Solar Eclipses is different, according as their Middle happe^s
+about Six in the Morning or Evening; or a^out Noon; or about any intermediate
+Time. If that happens about Six a-Clock, Morning or Evening, the diurnal Motion
+then neither much conspires with, nor opposes the proper Motion of the Center
+of the Shadow; and the Duration is almost the same as it would be if the Earth
+had no diurnal Motion at all. If that happens about Noon, the diurnal Motion
+most of all conspires with that proper Motion of the Center, and makes the
+Duration of the Eclipse the longest possible. If it happens in the intermediate
+Times, the diurnal Motion, in a less Degree, conspires with the other Motion,
+and makes the Duration of a me^n Quantity, between that of the other Cases. But
+if it happens considerably before Six a-Clock in the Morning, or after Six
+a-Clock in the Evening, the diurnal Motion is backward, and short^ns that
+Duration proportionably. Of the Quantity of which Duration we shall enquire
+more hereafter.
+
+PROBLEMS.
+I.
+To find the nearest Distance of the Path of the Moon s Center, to the Center
+of the Disk of the Earth, as seen at the Distance of the Mo^n in the total
+Eclipse of the Sun A. D. 1724. May 11. P. M.
+
+This is equal to the Moon's true Latitude at the Time of the Conjunction in
+her own Orbit; and is set down in the Calculation 32 19.
+
+II.
+To find the Sun's Declination at the Middle of the Eclipse.
+
+As the Radius of the Circle: is to the Sine of the Sun's Longitude at that
+Time=61 39 So is the Sine of the Sun's greatest Declination, = 23 29: to the
+Sine of the Sun's Declination then.
+
+Rad. 10. 000000 S. 61 39 9. 944514 S. 23 29 9. 600409 S. ^8. 544923 = 20 32 =
+Declination.
+
+III.
+To find the Sun's Right Ascension for the same Time.
+
+As the Radius: to the Cosine of the Sun's greatest Declination So is the
+Tangent of the Sun's Latitude: to the Tangent of the Sun's right Ascension.
+
+Rad. 10. Sin. 66 31 9. 962453 Tang. 61 39 10. 267952 Tang. Right Ascen. 10.
+230405 = 59 31 Compl. 30 29
+
+IV.
+To find the Distance between the Vertex of the Lunar Circle and the Pole of
+the Earth.
+
+Let (Fig. 5.) E P represent the Distance between the two Poles of the Earth,
+and of the Ecliptic: = 23 29. EV the Distance between the Pole of the
+Ecliptic, and the Vertex of the Lunar Circle: = 5 36. P EV the Angle made by
+the Solstitial Colure P E: (in which the two Poles of the Earth, and of the
+Ecliptic always are) and that Arc EV. And because the Sun is here 28 21
+distant from that Colure, which is the Complement of its Longitude from Aries;
+and the Ascending Node, or Argument of Latitude is then 5 49 distant from the
+Sun backward; The Sum of these Numbers gives 34 10, whose Complement is the
+Angle V E R = 55 50. In order then to gain V P proceed thus: R. 10. CS VER. 55
+50. 9. 749429 T. VE. 5 36 8. 991451 T. RE ^8. 740880 = 3. 10. + 23. 29. = 26.
+39. Then say, CS. R E 3 9 9. 992343 CS. V E 5 36 9. 997922 CS. P R 26 39 9.
+951222 19. 949144 CS. P V = 9. 949801 = 27. 0
+
+V.
+In the same Triangle V P E, to find the Angle V P E, included between the
+Colure E P, and the Prime Meridian P V.
+
+S. P V 27 0. 9. 657047 S. V E R 55 50. 9. 917719 S. V E 5 36. 8. 989374 18.
+907098 S V P E = ^9. 249961 = 10 15
+
+Corollary. The Primary Angle, composed of the Complement of the Right
+Ascension, and of this Angle V P E, is = 40 44.
+
+Compl.Rad. 30 29 + 10 15 = 40 44
+
+VI.
+To find the Distance of the Pole or Vertex of the Lunar Circle from the Circle
+it self.
+
+As the Semidiameter of the Earth's Disk = 61 28: To the Latitude of the Moon,
+or nearest Distance to the Path of the Moon's Center from the Center of the
+Disk; 32 19 So is the Radius: to the Sine of the Complement of that Distance.
+In Decimals thus: 6163: 3232 10000: 5244 = S. 31 38, whose Complement is 58 22:
+equal to the Distance of the Lunar Circle from its Vertex.
+
+VII.
+To find the Angle included between the Meridian that passes through the Center
+of the general Eclipse, and that passing through the Center of the Sun at the
+same Time.
+
+In the Triangle (Fig. 6.) M S P where the Side S P is already given, =
+Complement of the Sun's Declination; find the Angle M S P thus: R. 10. S. of
+the Sun's Distance from the Solstitial Colure: = 28 21 9.676562 S. of the Sun's
+greatest Declination= 23 29 9. 600409
+S. of an Angle ^9. 276971 = 10. 54. To which add the Angle of the Moon's Way:
++ 5 36 The Sum is the Angle M S P = 16. 30 Then, in the same Triangle P M S, we
+have two Sides: M S equal to the Latitude of the Moon, or the length of the
+Perpendicular to the Moon's way = 31 38. and P S = 69 28. and the included
+Angle M S P = 16 30. to find M P S thus: R. 10. CS.M S P. 16. 30. 9. 981774 T.
+S M. 31. 38. 9. 789585 T. R M. = ^9. 771359 = 30 34 M R + 31 38 M S = 62 12 R S
+Then say, S.S P. 69. 28. 9. 971493 S.S R. 62. 12. 9. 946738 T.M S P. 16. 30. 9.
+471605 ^9. 418343 T. M P S = 9. 446850 = 15 38 + 40 44 = 56 22 = Angle with the
+Primary Meridian.
+
+VIII.
+To find the Longitude and Latitude of the Center of the Shadow at the Middle
+of the general Eclipse; or to solve the primary Triangle.
+
+Under Problem IV. we have sound the Distance of the Vertex of the Lunar Circle
+from the Pole of the Earth = 27. 0. Under Problem VI. we have found the
+Distance of that Vertex from its Circle = 58. 22; and under the last Problem we
+have found the Angle at the Pole of the Earth, between the Primary Meridian,
+and that Meridian which passes through the Center of the Eclipse, = 56 22. From
+which data the Primary Triangle (Fig. 7.) is thus to be solved: R. 10. CS. C P
+Q. 56. 22. 9. 743412 T. V P. 27. 0. 9. 707166 T. P R. = 15. 46. ^9. 450578 Then
+say, CS.V P 27. 0. 9. 949880 CS.P R 15. 46. 9. 983345 CS.V C. 58. 22. 9. 719730
+19. 703075 CS.P C. 9. 753195 = 55. 30 Deduct PR = 15. 46 Remt. = P C. = 39. 44
+Ergo Lat. = 50. 16
+
+To find the Angle at the Vertex CV P, proceed in this Manner: S. CV. 58. 22.
+9. 930145 S. C P Q. 56. 22. 9. 920436 S. PC. 39. 44. 9. 805647 19. 726083
+S.CVP.= 9. 795938 = 38 41
+
+The following Analogy will give V C P the Complement of the Angle which the
+Direction of the Center of the Eclipse makes with the Meridian, that Direction
+being perpendicular to V C. S. CV. 58. 22. 9. 930145 S. CP Q. 56. 22. 9. 920436
+S. V P. 27. 0. 9. 657047 19. 577483 S.V C P.= 9. 647338 = 26. 21 Compl. = 63. 39
+
+Corollary. Hence we also learn the most Northern Latitude, where the Center of
+the Shadow will cross the Meridian at Noon, and at right Angles: And this
+without any particular distinct Calculation. For V Q = 58 22 ^ V P 27 0 = P Q =
+31 22. whose Complement = 58 38. is that very Northern Latitude.
+
+IX.
+To find the Longitude and Latitude of the Center of the Shadow, when it
+crosses the Meridian that passes through the Center of the Sun at the Middle of
+the Eclipse; or to solve the second principal Triangle.
+
+If in the foregoing Triangle we suppose the Angle at the Pole to be equal to
+the Primary Angle, or 40 44. we may thus solve this Triangle: R. 10. CS. CP Q.
+40. 44. 9. 879529 T. V P. 27. 0. 9. 707166 T.P R. = ^9. 586695 = 21 7 Then say,
+CS.V P. 27. 0. 9. 949880 CS.P R. 21. 7. 9. 969811 CS.V C. 58. 22. 9. 719730 19.
+689541 CS. CR. = 9. 739661 = 56 42 Deduct 21 7 Remt. C P. 35 35 Ergo, Lat. = 54
+25
+
+To find the Angle at the Center of the Eclipse V C P, proceed thus: S. V C.
+58. 22. 9. 930145 S. C P Q. 40. 44. 9. 814607 S. V P. 27. 0. 9. 657047 19.
+471654 S.CV P. = 9. 541509 = 20 22
+
+X.
+To find the Longitude and Latitude of the Center of the Shadow at its Entrance
+on the Disk of the Earth: Or to solve the third Principal Triangle.
+
+Add the vertical Angle already found = 38 41 to a right Angle at the Vertex; =
+90 + 38. 41 = 128. 41 this is equal to the Angle at the Vertex CV P. Substract
+this Angle from two right Angles. 180 -- 128. 141 = 51. 19, in order to gain
+the Supplement, whose Sines, etc. are the same with the others. (Fig. 8.) Then
+say, R. 10. CS. CV P. 51. 19. 9. 795891 T. V P. 27. 0. 9. 707166 T.V R. = 19.
+503057 = 17 40=V R + 58 22=V C = 76 02=C R Then say, CS. V R. 17. 40. 9. 979019
+CS. V P. 27. 00. 9. 949880 CS. C R. 76. 02. 9. 382661 19. 332541 CS. C P. = 9.
+353522 = 76: 57 Ergo, Lat. 13. 03
+
+In order to find the Angle at the Pole V P C, whose Supplement is the
+Longitude of that Point where the Center of the Shadow enters the Disk of the
+Earth from the Primary Meridian, proceed thus: S. C P. 76. 57. 9. 988636 S. CV
+P. 51. 19. 9. 892435 S. C V. 58. 22. 9. 930145 19. 822580 ^80 S.V P C. = 9.
+833944 = 43 01 Suppl. 136: 59
+
+To find the Angle VC P, proceed thus: S. C P. 76. 57. 9. 988636 S. CV P. 51.
+19. 9. 892435 S. V P. 27. 00. 9. 657047 19. 549482 S.VC P. = 9. 560846 = 21. 20
+
+XI.
+To find the Longitude and Latitude of the Center of the Shadow at its Exit
+from the Disk of the Earth; or to solve the fourth Principal Triangle.
+
+Substract the Angle already found 38 41 from a right Angle 90 - 38 41 = 51 19
+= Angle at the Vertex P V C (Fig. 9.) Then say, R. 10. CS. P V C. 51. 19. 9.
+795891 T. P V. 27. 00. 9. 707166 T.V R. ^9. 503057 = 17 40 from 58 22 Remnt 40
+42 = R C. Then say, CS. V R. 17. 40. 9. 979019 CS. P V. 27. 00. 9. 949880 CS. R
+C. 40. 42. 9. 879746 19. 829626 CS. P C = 9. 850607 = 44. 51. Ergo, Lat. 45. 9.
+
+In order to find the Angle Q P C, or the Longitude of that Point where the
+Center of the Shadow departs out of the Disk of the Earth, from the Primary
+Meridian, proceed thus: S. CP. 44. 51. 9. 848345 S. PVC. 51. 19. 9. 892435 S.
+VC. 58. 22. 9. 930145 19. 822580 S.QPC = 9. 974235 = 70. 27 + 136 59 = 207 26
+And for the Angle VCP thus; S. CP. 44. 51. 9. 848345 S. PVC. 51. 19. 9. 892435
+S. UP. 27. 00. 9. 657047 19. 549482 S. VCP. = 9. 701137 = 30. 10.
+
+Corollary. Hence the Angular Motion of the Center of the Eclipse about the
+Pole of the Earth, if there were no diurnal Motion, is 207. 26.
+
+XII.
+To find the Time in which the Center of the Shadow will go over the Diameter
+of the Lunar Circle.
+
+Say, first, 353: 60 12326: 2096; i. e. As the Number of Minutes of a Degree
+passed over in an Hour: to an Hour So is the entire Diameter of the Disk from
+the Calculation: to the Number of Minutes for that Passage.
+
+Then say, 10000: 8514 2096: 1784 i. e. As the Radius: to the Sine of 58: 22 =
+the Distance of the Lunar Circle from its Pole or Vertex So are the Minutes of
+the Passage over the entire Diameter: to the Minutes of the Passage over this
+Chord = 178 24.
+
+XIII.
+To find the Proportion of the Velocities of the Center of the Shadow and of
+the diurnal Motion of the corresponding Point of the Earth at the Time of the
+Eclipse:
+
+Say thus; As 1784 to 8296 = 207 26, or as 1 to 464, so is the Time of the
+Center of the Eclipse's Motion over the Diameter of the Lunar Circle: to the
+Timeof the diurnal Motion's going from the entranceto the Exit of the Center.
+
+Corollary. Hence the real Angular Motion of the Center of the Eclipse about
+the Pole of the Earth, is no more than 162 40. For 464: 364 207 26: 162 40.
+
+XIV.
+To find the Latitude of any Place, over or near which the Center of any Shadow
+passes, to any known Longitude or Time given. And, vice versa, To find the
+Longitude or Time of the nearest Approach to any such Place to any known
+Latitude. This is no more than proceeding in the Calculations as hitherto; by
+taking any known Meridian or Time; or else any known Latitude for our Examples.
+
+I shall therefore give three several Examples in both Cases; because of the
+great Dignity and Usefulness of the Problem: viz. For Greenwich the Meridian of
+the Tables; for Dublin more Westward; and for Paris more Eastward.
+
+Now I here suppose, from the Calculation and Construction of Eclipses, that
+the Middle of this general Eclipse will happen May 11. 1724. 17 past 5 a-Clock
+in the Afternoon; and that its Center will cross the Meridian of Greenwich 41
+past 6. Upon which Hypothesis I thus compute: From the Angle 100 15 = 6h 41
+Deduct the Primary Angle 40 44 There remains the Angle of the Pole Q P C = 59
+31 Then proceed thus: R. 10. CS. Q P C. 59 31 9. 705254 T. P V. 27 00 9. 707166
+T.P R. = ^9. 412420 = 14 29 Say then, CS. P V. 27 00 9. 949880 CS. P R. 14 29
+9. 985974 CS. V C. 58 22 9. 719730 19. 705704 CS. R C. = 9. 755824 = 55 15
+Deduct R P = 14 29 Remains P C = 40 46 Ergo, Lat. 49 14
+
+N. B. If we take Dr. Halley's Time 6h 36, and substract 40* 44 out of 99 there
+remains 58* 16; and the Calculation will stand thus: R. 10. CS. QP C. 58. 16.
+9. 720958 T. P V. 27. 0. 9. 707166 T.P R. = ^9. 428124 = 15 0 Then say, CS.P V.
+27. 0. 9. 949880 CS.P R. 15. 0. 9. 984944 CS.V C. 58. 22. 9. 719730 19. 704674
+CS.R C. = 9. 754794 = 55 21 Deduct R P. 15 0 Remt. P C. 40 21 Ergo, Lat. = 49
+39 Diff. 00 25
+
+N. B. My Calculation differs from Dr. Halley's Scheme no less than a full
+Degree of a great Circle, in the Meridian; if our Difference of Time, which is
+about 5, be allowed. And though we take the Doctor's own Time, yet do we differ
+in Latitude 25 Minutes or Miles; by which Quantity the Doctor's Scheme brings
+the Center of the Eclipse nearer to London and Greenwich than this Calculation.
+The reason of which Difference I by no means understand. Time will discover
+which Determination is most accurate.
+
+Dublin is about 6 22 Westward in Longitude from Greenwich. Let us find the
+Latitude of the Center of the Shadow, when it crosses the Meridian of Dublin.
+We must proceed thus: As 364 to 464 so is 6. 22 to 8. 7 Deduct then from the
+Angle at the Pole used for Greenwich this Difference of these Angles 59 31 - 8.
+7 = 51 24. which is our Angle at the Pole for Dublin. So that if we use the
+former Figure with that Angle, we compute as before; R. 10. CS. Q P C. 51. 24.
+9. 795101 T. P V. 27. 0. 9. 707166 T. R P. ^9. 502267 = 17. 38 Then say, CS. P
+V. 27. 0. 9. 949880 CS. V C. 58. 22. 9. 719730 19. 698829 CS. R C. = 9. 748949
+= 55 53 Deduct R P. 17 38 Remnt P C. 38 15 Ergo, Lat. 51 45
+
+Paris is 2 19 more Easterly than Greenwich, Say therefore 364: 464 2. 19: 2.
+57 Now 59. 31 + 2. 57 = 62. 28 Then, R. 10. CS. Q P C. 62. 28. 9. 664891 T. P
+V. 27. 0. 9. 707166 T. R P. = ^9. 372057 = 13 15 Say then, CS. P V 27. 0. 9.
+949880 CS. R P 13. 15. 9. 988282 CS. V C. 58. 22. 9. 719730 19. 708012 CS. R C.
+9 758132 = 55. 03 Deduct R P = 13. 15 Remt. = P C. 41. 48 Ergo, Lat. = 48. 12
+
+N. B. By such Calculations we may determine the Latitude of the Center of the
+Shadow's Way, from its entry upon, till its exit out of the Disk of the Earth,
+to every known Meridian. A Specimen of which I intend to give presently for the
+several East and West Longitudes from London in the Eclipse before us: And
+another Specimen in the Eclipse, Sept. 4. 1727.
+
+If the Latitudes be given, as for the Meridian of Greenwich 49. 14; For Dublin
+51. 45; For Paris 48. 12: The Case will be that of a Spherical Triangle, when
+all the Sides are given; and the Longitude or Time is an Angle sought. Thus in
+the foregoing Figure for Greenwich, V C = 58. 22 is the Side against the Angle
+sought. V P = 27. 0, and P C = 40. 46. From which data we thus discover the
+Angle Q C P.
+
+V C = 58 22 R. 10. V P = 27 00 S. 9. 657047 P C = 40 46 S. 9. 814900 Sum of 3
+= 126 08 Sum 19. 471947 Sum 63 4 S. 9. 950138 Diff. of V C 4 42 S. 8. 913488
+Double Radius 20. The Sum 38. 863626 The Remainder 19. 391679 Remainder 9.
+695839 = CS. 60 14 double 120. 28 from 180. 00 as before remains 59. 32 Add the
+Primary Angle 40. 44 Sum 100. 16 Equal in Time to 6h. 41.
+
+The Time past Noon of the Center's Transit over the Meridian of Greenwich.
+
+For Dublin thus: V C = 58 22 R. 10. UP 27 00 S. 9. 657047 PC 38 15 S. 9.
+791756 Sum of 3. 123 37 Sum 19. 44880^ Half Sum 61 48 9. 945159 Diff. of V C 3
+26 8. 778383 Double Radius 20. The Sum 38. 723542 The Remainder 19. 274739 Half
+the Remainder 9. 637369 C S. = 64 18 double 128. 36 from 180. 00 remains as
+before 51. 24. To 51. 24. Add 40. 44. Sum 92. 08 = 6h 8 Which deducted from 6h.
+41, leaves 32 for the Difference of the Angle at the Pole in Time. Say then
+464: 364 325: 254 which is the Difference in time of the Meridians of Greenwich
+and Dublin.
+
+For Paris thus: VC = 58 22 R. 10. V P = 27 00 S. 9. 657047 P C = 41 48 S. 9.
+823821 Sum of 3 127 10 19. 480868 Half Sum 63 35 9. 952105 Diff. of VC 5 13 8.
+958670 Double Radius 20. Sum 38. 910775 Remainder 19* 429907 Half Remainder 9.
+714953 = C S. 58. 45 double 117 30 As before, Remainder 62 30 Add, Primary
+Angle 40 44 Sum 103 11 In Time 6h 52 From which deduct 6. 41. the Remainder 11
+is the Difference of the Angle at the Pole in Time. Say then, 464: 364 11 ^/2:
+9. which is the Difference in Time, of the Meridians of Greenwich and Paris.
+
+Corol. (1.) The latter Branch of the Problem determines the Hour and Minute
+when the Center of the Eclipse crosses the Meridian at any assigned Latitude;
+and by a very small Allowance when the very middle of the Eclipse, or of Total
+Darkness happens in any Place very near the same.
+
+Corollary (2.) The same Branch determines the true Difference of Meridians in
+all Places over or near which the Center of the Eclipse passes, and so the
+Distance East and West from any known Meridian whatsoever. Thus because the
+Meridians of Paris, Greenwich, and Dublin do hence appear to be different as to
+the Angles of the Pole from the Primary Meridian, in the foregoing Angles, 62.
+28. 59. 31. and 51. 24. respectively; It is plain, that the respective
+Longitude of Paris and Greenwich, when reduced from Angles of the Pole to the
+Difference of Meridians, is 2 19. and that of Greenwich and Dublin 6. 22. and
+by Consequence of Paris and Dublin 8. 41. Which is no other than the Foundation
+of my grand Problem of Discovering the Geographical Longitude of Places by
+Solar Eclipses, from the Latitude given: Of which more hereafter.
+
+XV.
+To find the Duration of a Solar Eclipse, along or near the Path of the Moon's
+Center, in any Place whatsoever.
+
+From the Motion of the Moon from the Sun gain the Duration of the entire
+Eclipse; or the Time of that Center's Passage over the Diameter of the
+Penumbra, if there were no diurnal Motion during that Time, thus:
+
+As the horary Motion of the Moon from the Sun, which is in angular Measure 35.
+18. and is given in the Calculation; to an Hour or 60 in Time So let the
+Diameter of the Penumbra there given, also in angular Measure = 65. 10. be to a
+fourth Number: which will be the Number of Minutes required. In Decimals thus:
+353:606517:1108=1h:50. But then, because the diurnal Motion of the Earth must
+be compounded with this rectilinear Motion of the Moon; and that as we have
+already stated it, this Eclipse will cross the Meridian of Greenwich 41 past 6
+a-Clock in the Evening; the one Part of the Duration of the Eclipse being
+before, and the other Part after that Time, both Intervals must be unequally
+affected by the diurnal Motion, and we must then take the former half-Duration
+55. 24 distinctly. And since the diurnal Motion of Greenwich is in a larger
+Parallel than that of the Center of the general Eclipse; while its Obliquity to
+the Path of the Shadow's Center increases; their respective Motions will nearly
+keep the same Proportion all along; and so we may safely omit the Consideration
+of them both. We have also already discovered, that the Velocity of this
+Center's Motion is here, to that of the Velocity of the diurnal Motion, As 8296
+to 1784. or as 464 to 1. And because the Eclipse begins about 14 before 6, 14
+after 6 balances the same; and these 28 Minutes are almost all one, as if there
+were no diurnal Motion at all. So that we have only 27 24 capable of
+Retardation in the first half: The middle Time of which will be about 30 after
+6. We must therefore look into the Table, p. 22, -- 26 for the Arc 97, o^ its
+Supplement 82 1/^, corresponding to 89 of the Sines. Where the Difference of
+half a Degree is instead of 191, as about Noon, no less than 160, which
+multiplied by 464 comes to 7424. So that the Motion is here retarded a 39th
+Part. Say then, As 39 to 38, so is 274 to 267 which 267 or 26 42 is to be added
+to the 28 before excepted, for the Duration of the former Part of the Eclipse =
+54 42. The Middle of the second Part will be about 73 = 18 backward beyond 90.
+that is, 71 of the Arc, which corresponds to 85 of the Sines, where the
+Difference of half a Degree is 61 1/^. This multiplied by 464 gives 285. So
+that the Retardation is as 191 to 285, or 1 to 149. Say then, As 149 to 139: so
+is 554 to 517 = 51 42, which is the Duration of the latter Part of the Eclipse,
+and added to the former Part of the Duration, gives us the whole Duration = 106
+24 = 1h46 24, without the Consideration of the Elevation of the Luminaries
+above the Horizon, which a small Matter enlarges that Duration: Of which
+hereafter.
+
+N. B. If we would be still more precisely nice, we may distinctly allow for
+the Difference of the Parallels, and the different Obliquity of the Direction;
+of which p 26, 27. before: Which yet are here omitted, as very inconsiderable.
+
+XVI.
+To find the Duration of the Total Darkness along the Path of the Moon's
+Center; if the Luminaries were in the Horizon.
+
+Say, As the Moon's Motion from the Sun in an Hour, or 60; in the Calculation =
+35 18 is to those 60: So is the Difference of the Diameters of the Sun and Moon
+in the same Calculation, = 1 38 to a fourth Number: Which will be the entire
+Duration of the Total Darkness if the Luminaries were not at all elevated above
+the Horizon. In Decimals thus: 353:60162:273=246.
+
+XVII.
+To find the Altitude of the Sun above the Horizon, when the Center of the
+Shadow crosses the Meridian at Greenwich.
+
+In the Triangle (Fig. 10.) Z P S, Z P is = Distance between the Zenith and
+Pole of the Earth: 38 30. P S is = Distance between the Pole of the Earth and
+Center of the Sun: = Complement of the Sun's Declination, or to 69 28. And the
+Angle Z P S = interval of Time, from the Meridian = 6h 41 = 100 15, whose
+Supplement is 79 45.
+
+Say then, R. 10. CS.Z P S 79 45 9. 250280 T.Z P 38 30 9. 900605 T. P R = ^ 9.
+150885 = 8 3 = P R + 69 28 = P S = 77 31 = R S And, CS. P R 8 3 9. 995699 CS. Z
+P 38 30 9. 893544 CS R S 77 31 9. 334766 19. 228310 CS. Z S = 9. 232611 = 80 10
+= Z S Ergo, Altitude = 9 50
+
+XVIII.
+To find the Azimuth of the Sun at the same Time and Place.
+
+In the former Triangle the Complement of the Altitude being now found = Z S =
+80 10. Proceed thus: S. P S 80 10 9. 993572 S. Z PS 79 45 9. 993013 S. P S 69
+28 9. 971493 19. 964506 S. PZS= Suppl. = 9. 970934 = 69 16 = P Z From the West
+20 44
+
+XIX.
+To find the Number of Minutes that any Solar Eclipse extends to, in a plain
+Perpendicular to the Axis of the Penumbra.
+
+When the Parallax of the Moon is 57 17, which is near its mean Quantity; the
+Moon's Distance is 60 Semidiameters of the Earth: And one Second on the Disk of
+the Earth as viewed at the Distance of the Moon; or on the Disk of the Moon
+viewed at the Distance of the Earth, is exactly one geographical Mile. And 60
+or one Minute, is one Degree upon the Disk of the Earth or Moon. But when the
+Moon's Parallax, as in the Calculation of this Eclipse, is 61. 48 whose Sine is
+17976/1000000 or 1/555 of the Radius nearly: One Second is less than a Mile;
+and that in the Proportion of 555 to 60. So that about 65 geographical Miles
+correspond to 60, or one Minute: And accordingly, 1781 such Miles will
+correspond to 32 35, which in that Calculation, is the Semidiameter of the
+Penumbra, or the utmost perpendicular Extent of the Eclipse.
+
+N. B. We may always make use of the foregoing Tables, page 29, -- 34 for the
+perpendicular Distances from the Path of the Moon's Center, at all Durations of
+the Eclipses, and of Total Darkness, by still calling the Radius of every
+Penumbra 2000 equal Parts or Miles, and the Radius of every Umbra or Total
+Shadow, 50 such Parts or Miles; and using them accordingly. And this without
+any other Inconvenience than the Supposition of other than geographical Miles:
+Which Inconvenience, by the Reduction of them to geographical Miles afterward,
+will always, as here, come to nothing.
+
+XX.
+To find the Alteration there is in the Extent and Duration of Eclipses, and of
+total Darkness, on Account of the Elevation of the Luminaries at that Time
+above the Horizon.
+
+This is ever, as the Radius: to the Sine of the Sun's Altitude: As compared
+with the particular Distance of the Moon at that Time. Thus at the Middle of
+this Eclipse at Greenwich, the Altitude of the Sun has been found to be 9. 50,
+whose Sine is 1708/10000, which divided by 555 is equal to of the whole: And in
+the Semidiameter of the Penumbra, as well as Umbra, amounts to about 6 Miles
+every Way. Thus also at the Middle of the Eclipse in North America, where it is
+Central at Noon, the Sun will be about 52* above the Horizon: whose Sine is
+788/1000, which divided by 555 is 1/^0 nearly; which in the same Semidiameters,
+amounts to about 29 Miles every way. And for the Duration at Greenwich add to
+the common Duration already found, or to 1h 46 24 the 1/324 Part of the same,
+or about of a Minute both ways: which is about 2/^ in the whole; which will
+bring the entire Duration from 1h 46 24to full 1h 47 and for Total Darkness
+will add about 6/50 of the whole total Darkness = 20, and increase the Duration
+from 2 46 to 3 6 ^/3. But for the Alteration in North America, which is about
+1/7^ both ways, or 1/35 in the whole; this will there increase the entire
+Duration 4 12, and from 1h 46 24 bring it to 1h 50 36, and for the total
+Darkness will add about 29/50 of the whole, or bring the 2 46 to 4 47.
+
+XXI.
+To find the Species and Dimensions of the Ellipsis made by the Total Shadow at
+the same Places and Altitudes.
+
+The shorter Axis of the Ellipsis, (which is the same with the Diameter of the
+Conick Shadow it self, in a Plane Perpendicular to the Axis;) is to the Longer,
+as the Sines before*mentioned. Or at Greenwich, as 1708 to 10000; and at North
+America, as 788 to 1000: And since that ^horter Axis is in the Calculation 98
+Minutes or Miles, of 65 to a Degree; they must be equal to 90 Geographical
+Miles; which by the last Problem must be increased to 96 and to 119
+respectively. The golden Rule will therefore soon show the Length of the longer
+Axis of the Shadow in both Places.
+
+sine rad. miles miles For Greenwich 1708: 10000 96: 562. For North America
+788: 1000 119: 151.
+
+XXII.
+To determine the central Point in the Elliptick Shadow for Greenwich, at the
+Middle of the same Eclipse.
+
+B^ Lemma XIX. and in its Figure; As V B: to V A So is the Sine of B A V = 9 34
+= 166: to the Sine of A B V = 10 6 = 175, and so is B C: to A C. And
+componend^, As 166 + 175 = 341 to 175 So is B C + C A = 562 to C A, which
+therefore is equal to 289. Also As 166 + 175 = 341 to 166 So is B C + C A = 562
+to B C; which therefore is equal to 274.
+
+For 341: 175 562: 289.
+
+And 341: 166 562: 274.
+
+Whence the Parts of the longer Axis being found, the larger C A = 289 Miles:
+the lesser B C = 274 Miles. The half of which, D C is the Distance between the
+central Point of the Shadow D, and the Center of the Ellipsis C, = 7 Miles.
+
+XXIII.
+To determine the Angle of Direction of the Total Shadow over the Meridian of
+Greenwich.
+
+This to be done either by Construction, upon drawing the Curve Line of this
+Motion, through the several Points where, by Calculation, the Center of the
+Shadow crosses the Meridians of Paris, Greenwich* and Dublin; and measuring the
+Angle it makes with the several Meridians; or more exactly for Greenwich by
+solving the Triangle (Fig. 11.) P V O, where the Arc V O is equally distant
+West, as Paris is East from Greenwich, is to be found by the Method already
+made use of; thus:
+
+Paris Angle at the Pole = 62 28. Angle for O V at the Pole is less by twice
+the Difference of the Angles at the Pole for Paris and Greenwich = 5 54, And 62
+28 - 5 54 = 56: 34. First then find the Arc V O = Compl. Latitude for O, as in
+Probl. XIV. by this Analogy.
+
+R. 10. CS. Q P C. 56. 34. 9. 741125 T. P V. 27. 00. 9. 707166 T. P R. ^9.
+448291 = 15 41 Then say, CS. P V. 27. 00. 9. 949880 CS. P R. 15. 41. 9. 983523
+CS. V C. 58. 22. 9. 719730 19. 703253 CS. P C 9. 753373 = 45. 29. Deduct 15.
+14. Remt. V O. 39. 48. V G. 40. 46. V P. 41. 48.
+
+Then in the Triangle V O P whose included Angle is 4 38, and whose two Sides
+are 39 48 and 41 48. Find the Arc P R as usual thus: R. 10. CS. O V. R. 04. 38.
+9. 998577 T. V O. 39. 48. 9. 920733 T. V R. ^9. 919310 = 39 48 from 41 42 Remnt
+2 6 = PR. Then for the Angle UPON, say: S. P R. 02. 06. 8. 563999 S. V R. 39.
+42. 9. 805343 T. O V R. 04. 38. 8. 908719 18. 714062 T. V P O. = 10. 150063 =
+54. 42. And for V O R; S. V O. 39. 42. 9. 805343 S. V P O. 54. 42. 9. 911763 S.
+UP. 41. 48. 9. 823821 19. 735584 S. V O P = 9. 930241 = 58. 23 + 113 05 Half 56
+32 Compl. 33 27
+
+So that the Acute Angle V G O, which the Course of the Center of the Shadow
+makes with the Meridian of Greenwich, is 56 32.; And by consequence the Angle
+it makes with the Parallel of Latitude there is 33 27. 5 or 6 Degrees mo^e than
+in Dr. Halley's Scheme.
+
+Corollary. The longer Axis of the total Shadow at the Meridian of Greenwich,
+makes an Angle of 12 43 with the Direction of the Shadow.
+
+for if from the Angle that the Directi^n of the Center of the Shadow makes
+with the Parallel of Greenwich, 33 27 We deduct the Angle that the longer Axis
+makes with the same Parallel, which is the Azimuth formerly discovered, 20 44
+There remains this Angle 12 43
+
+XXIV.
+To D termine the perpendicular Breadth of the Total Shadow, when that Shadow
+is nearest to London; or when the central Point is about the Meridian of
+Padsto^ in Cornwall.
+
+This Problem is, In an Ellipsis of 96 Miles broad, and 562 Miles long; whose
+longer* Axis makes an Angle with the Direction of the Shadow of 12 43; To
+determine the Length of the greatest Perpendicular that falls on that Diameter,
+along which the Direction of the Motion is. For twice that Perpendicular is the
+Breadth required. Now I have actually drawn this Ellipsis, or total Shadow, for
+my Map of this Eclipse. And I find by that Construction, that the Breadth of
+the total Shadow over England is about 155 Miles; or 30 Miles broader than in
+Dr. Halley's Scheme. Time will probably discover which is nearest the Truth.
+
+N. B. This total Shadow increases so greatly in Length as it goes Eastward,
+that it will reach from Paris to the utmost Boundary of the Sunsetting at once.
+And though the Center of the Shadow, by my Calculation, will end 8 East of the
+Meridian of London, in the Latitude of 45 9, or in the Alps, not far from Milan
+and Turi^; Yet by reason of the Extension and Breadth of the total Shadow, and
+the Refraction of the Rays of Light near the Horizon, it seems probable to me,
+that all Switzerland and Lombardy, as far as Trent, Mantua. Cremona, and Parma;
+nay, perhaps, as far as Venice, Padua, Bononia, Ferrara, Ravenna and Florence;
+may at the same Time be invelop'd in the Total Shadow; and that the Sun may set
+eclipsed at all or most of those Places at once.
+
+XXV.
+To determine the Digits eclipsed, and the Duration of the Eclipse, or of total
+Darkness, at any given Distance from the Path of the Moon's Center; and vice
+versa. These Digits and Durations, if we do not consider the diurnal Motion,
+are immediately found to any given Distance in the Tables, P. 29, -- 34. Thus,
+if the Digits be 4, or Duration 80 24, the first Table gives us the Distance of
+1350 Miles. And, vice versa if the Distance be known to be 1350 Miles; the same
+Table gives us 4 Digits and 80 24 Duration. And the like is true of the total
+Shadow, and the Distance or Duration in the second Table. Thus also we learn
+from the Map of this Eclipse, that the nearest Approach of the total Shadow to
+London will be about 40 geographical Miles: Which 40 Miles, in this Obliquity
+of the Motion, is about 31 perpendicular Miles. So that 32/16^^ = 12/6^ of a
+Digit, is the Quantity of the Rim of Light that will be seen at London, when
+the Eclipse is greatest: And by consequence the Digits there eclipsed will be
+11 48/60. Nor does it appear to me, that the total Darkness will come nearer to
+London, than 40 Miles; although Dr. Halley's Scheme brings it within 7 or 8
+Miles. As for the Duration of the entire Eclipse here, it will be much the same
+as if it were Central: And has been already determined to 1h 47. And for the
+total Darkness along the Path of the Center between Exeter and Plymouth, its
+Duration will be, as before stated, 3 6.
+
+N. B. As to the Alterations which will arise in more considerable Distances
+from the Path of the Moon's Center, proceed thus: First, find the Minutes of
+Duration corresponding to any given Distance in Miles, e. g. 1350, thus; 2000:
+1350 3263: 2202. Or, As 2000 Miles, the Radius: to 1350 the Sine So are the
+Number of Minutes for the Semidiameter of the Penumbra: to the Number of
+Minutes for that Sine. Now 32 19 the present Length of the greatest Distance -
+22 01 = 10 18. Then compute every Thing as if the Center of the Shadow were 10
+18, Latitude or nearest Distance; and as if the Chord of that Arc over the
+Earth's Disk were the Path of the Moon's Center: and the Chord of the Distance
+from the Center of the Penumbra were the Diameter of the Penumbra: And all will
+be discovered by the Rules before going; without any new Directions whatsoever.
+Only if this Distance be the contrary way to the present Example, we must here
+make use of Addition instead of Substraction.
+
+N. B. Upon confulting the French Ephemerides of Des Places, recommended, in
+some Degree, by Cassini himself, I find that he determines the Eclipse at Paris
+thus.
+
+h Beginning, May 22. (N. S.) 06 03 00 Middle 06 58 38 End 07 54 00 Whence the
+Duration there is 01 51 00 Digits eclipss'd 10 17/60 Latitude of the Moon at
+the Middle 39 Difference from me in Digits 01 31/^^ In Latitude 07 10
+
+If these Digits and this Latitude be right, Dr. Halley, and I, and those
+English Astronomers that have computed and constructed this E^lipse, who all, I
+think, do agree, that it will be to^^^ at Paris, and that for two or three
+Miuutes also, are prodigiously mistaken. For if Des Places be in the right,
+Copenhagen and Stockholm will stand much fairer for the Pretense to a total
+Eclipse, than either Dublin, London, or Paris. Time will certainly determine
+who are in the right.
+
+N. B. If we add the Duration of the Eclipse, considered without Regard to the
+diurnal Motion, to the Time of the Center of the Shadows passing over the
+entire Disk, we gain the entire Duration of the Eclipse in general, thus: h To
+1 50 48 Add 2 58 24 Sum 4 49 12 Therefore the general Eclipse by the Meridian
+of London, h Begins II. 52 24 Middle V. 17 00 End VII. 41 36 Duration 4h 49 12
+Eclipse at London, Begins V. 45 00 Middle VI. 41 00 End VII. 32 00 Duration 1h
+47 00 Digits eclipsed 11 48/60 Duration of Total Darknes^ between Exeter and
+Plymouth, 03 6
+
+N. B. Dr. Halley's Times are still about 5 sooner than mine, and his general
+Duration about 7, and his Duration at London about 1 longer.
+
+N. B. I cannot tell the Reason why my Original Calculation of this general
+Eclipse, which has been carefully made according to Sir Isaac Newton's famous
+Theory of the Moon, does here so much differ from Dr. Halley's Determination,
+as 5 in Time; especially since both those Methods did very well agree, in the
+last celebrated total Eclipse, Apr. 22. 1715. It Is Time alone that can
+determine between these two Methods of Calculation.
+
+N. B. I have lately been showed an exact Scheme of this next Eclipse,
+according to Mr. Flamsteed's own Tables and Determination, and made in his
+Lifetime; wherein the Digits eclipsed are 11 18/60 exactly according to my
+Determination in this Paper.
+
+A PROPOSAL For the Discovery of the LONGITUDE of the several Places of the
+Earth, by Total Eclipses of the Sun.
+IT is humbly proposed, That Observations be made in all Places where Solar
+Eclipses are seen, of the exact Duration of the same; by either viewing the
+Beginning and Ending thereof through a Telescope, with a Glass smoaked in the
+Flame of a Candle, for saving the Eye of the Observer; or else by casting the
+Sun's Image through such a Telescope upon white Paper, and viewing the first
+and last Impression of the Moon's Shadow upon it. And that the Hour, Minute,
+and Second of some Pendulum Clock be carefully noted at the same Time: And that
+when the same Observations are transmitted for the Uses of Geography, the
+Latitudes of the Places be also set down and transmitted at the same Time: That
+the like Observations be also made in all Places where such Eclipses are total
+and visible, of the exact Beginning and Ending, with the Duration of Total
+Darkness; by the like Comparison of a Pendulum Clock, or other pendulous Body
+that vibrates Seconds, or half Seconds; and, with the Latitude be transmitted
+in the same Manner, and for the same Uses. How by the Help of these
+
+(...) A Table of the Latitude of the Center of the total Shadow at the
+Eclipse, May 11. 1724. to every 10 Degrees of the Angle about the Pole, and
+every 7845. Longitude from London.
+Angles at the Pole. Longitude from London. Latitde. East. 70 19 8577 45 9 69
+23 7845 45 34 West. 59 23 0000 49 17 49 23 7845 52 19 39 23 15690 54 42 29 23
+23535 56 29 19 23 31380 57 43 09 23 39225 58 13 00 00 46600 58 38 00 37 47070
+58 38 10 37 54915 58 21 20 37 62760 57 36 30 37 70605 56 18 40 37 78450 54 27
+50 37 86295 51 59 56 22 Middle. 90021 50 16 60 37 94140 48 51 70 37 101985 45 5
+80 37 109830 40 40 90 37 117675 35 56 100 37 125520 30 31 110 37 133365 25 15
+120 37 141210 20 11 130 37 149055 15 37 136 59 154052 13 3
+
+N. B. Here, as well as in the next Table, The Angles at the Pole differ by Ten
+Degrees; and the Longitude from London is found by the Proportion of 464 to
+364. to be 7845 of Longitude from London for every such Ten Degrees. But if, as
+is generally most convenient, we would have the Differences of Longitude from
+London be even 10 Degrees; We must find the correspondent Angles at the Pole
+before we begin our Calculations by the inverse Proportion of 364: 464 10: 12
+the perpetual Addition of which Number will give us a Series for such a
+Calculation.
+
+A Table of the Latitude of the Center of the total Shadow at the Eclipse,
+Sept. 4. 1717. to every 10 Degrees of the Angle at the Pole; and every 7167
+Longitude from London.
+Angles at the Pole. Longitude from London. Latitde. West. North 11 33 12248 30
+18 4 28 7167 30 20 East. 00 00 3963 30 14 5 32 0000 29 28 15 32 7167 27 56 25
+32 14334 25 40 35 32 21501 22 38 45 32 28668 18 27 55 32 35835 14 24 65 32
+43002 9 21 75 32 50169 5 4 77 58 Middle. 51903 Middle. 3 57 85 32 57336 0 16
+South. 95 32 64503 4 32 105 32 71670 9 55 115 32 78837 14 54 125 32 86004 19 16
+135 32 193171 23 00 145 32 100338 25 57 155 32 107505 28 8 165 32 114672 29 34
+168 39 116909 30 14
+
+353: 253 10: 7167.
+
+253: 353 10: 13952.
+
+A Calculation of the Total Eclipse of the Sun, A. D. 1724. May 11. Post
+Meridiem.
+M.'s mean Mo. Motin of Apogee. Motn of Node r tr. s s s Anno Dom. 1701 0 15 20
+00 11 8 20 00 4 27 24 20 Years 20 4 13 34 05 3 3 50 15 26 50 15 and 3 28 9 10 4
+1 59 32 1 27 59 9 Leap-Y. May, Days 11 9 29 17 03 14 42 21 6 59 ^4 Hours 5 2 44
+42 1 24 40 Minutes 15 8 14 4 2 (Mean Time.) 3 1 49 30 Moon's mean Motion 1 29
+13 14 6 28 53 36 1 25 34 50 Sun's mean Anomal. 10 22 19 57 An. Eq. add 12 2 An.
+Eq. subst. 5 43 Physic. Parts substract 7 7 9 38 6 29 5 38 ^ 25 29 7 2d Equat.
+substract 2 31 Mean Pla. correct Mean Pla. correct 3d Equat. add 10 2 16 2 1 38
+45 2 1 38 45 6th Equat. add 2 6 Sun's true Place Sun's true Place Diff. substr.
+7 22 7 2 33 7 6 9 38 Moon's mean Pl correct 1 29 5* 5^ Annual A^g^ment S's
+did. from Node Tru^ Pl. of Apog. substr. 7 9 14 38 10 9 0 Equat. add 18 56
+Moon's mean Anomal. 6 19 51 14 Equat. add 1 25 48 3 Equat. add 2 31. 7 7 9 14
+38 True Pl. of Node Moon's true Pl. in Orbit 2 1 36 59 True Pl. of Apogee 5 17
+9 Sun*^ true Pla. substract 2 1 38 45 Eccentricity 6000 Inclinat. Limit. Moon's
+did. from Sun 11 29 58 14 M's h mo^. 37 42 Sun's 2 24 M's fro. Sun 35 18 35
+18: 60 1 46: 3 2 * Eq. time add 3 53 Reduct. subst. 2 33 Diff. add 4 22 Ergo,
+Ecl pse is 11d 5h 19 22 Temp. appar. deduct the Error of the Tables about* 2 22
+true Tim. 5h 17 0 S mid. Sun 15 53 Sem Moon 16 42 Sem. Penbra ^32 35 Semi.
+Difc. 61 38 Angle of the M's Way with the Ecliptic 5 36 Diff. Diamet r of the
+Sun and Moon, or Br^adth of total Shad. 0 98 Nodes true Pl. substract 1 25 48 3
+Argument of Latitude 5 48 56 Reduction substract 1 30 Moon's tr. Pl. in Eclip.
+2 1 35 29 Mo n's true North Lat. 32 14 At the Eclipse 32 19
+
+A Calculation of the Sun's Place for the same Time.
+Sun's mean Motion. Motion of Perihelion. s s A. D. 1701 9 20 43 40 3 7 44 30
+Years 20 9 4 21 0 And 3 11 29 17 0 3 9 Leap-Y. May, Days 11 4 10 6 19 23 Hours
+5 12 19 Minutes 15 37 3 8 9 2 Place of Perihelion. 2 90 28 59 Moon's mean
+Motion. 10 22 19 57 Sun's mean An^m. (mean Time) Sun's mean Motion 2 0 28 59
+^quation add 1 9 46 Sun's true Place 2 1 38 45
+
+A Calculation of the Total Eclipse of the Sun, A. D. 1727. Sept. 4. Mane.
+M's mean Mot. Motion Apogee. Motn of Node retr. s ^ s ^ s ^ Anno Dom. 1701 10
+15 20 0 11 8 20 0 4 27 24 20 Years 20 4 13 34 5 3 3 50 15 26 50 15 And 6 2 9 28
+55 8 4 5 44 3 26 1 29 Sept. Days 3 1 23 35 27 24 23 13 1 37 Hours 20 10 58 49 5
+34 2 39 Minutes 35 19 13 10 5 (Mean Time.) 5 5 56 5 Moon's mean Motion 5 21 4
+37 11 13 46 6 11 21 28 15 Sun's mean An ma^y 2 15 32 16 An. Eq. sub. 18 59 An.
+Eq. add 9 7 Physical Parts add 11 23 11 13 27 7 11 21 37 22 2d Equat. substract
+0 38 Mean Pl. Apo. cor. Mean Pl. of No. 01 6th Equat. add 1 57 5 21 52 53 5 21
+52 53 Difference add 12 42 Sun's true Place Sun's true Place M^on's mean Pl.
+correct 5 21 17 19 6 8 25 4^ 6 0 15 31 True Pl. of Apog. subst. 11 16 23 44
+Annual Argum. S.'s did. ^ro. Nod. Moon's mean Anomaly 6 4 53 35 Eq^. Ad 2 56
+37 Eq. Ad. 0 48 Equation add 42 26 11 16 23 44 11 21 38 10 M.'s Correct. Pl. in
+Orb. 5 21 59 45 True Pl. of Apo. True Pl. of Node Sun's true Pla. substract 5
+21 52 53 Eccentr. 663 37 5 17 20 Moon's Did. from Sun 6 52 Inc^in. Limit.
+Variation add 9 S'.s hor. mot. 2 26 Moon's 38 29 M. fr. S. 36 2 3604: 60 69: 11
+30. Ergo, Eclipse will be 20h 23 34 Mean Time. Eq. tim. 2d. 4 38 Reduct.
+substr. 9 Diff. add 4 29 20h 28 03 Appar. Time. Semid. S. 16 1 Semid. M. 16 50
+Diff. = 00 49 Sum = 32 52 Parallax M. Horizon 62 7 Sun 10 Semid. D^^k 61 57
+Angle of the M.'s visible Way with the Ecliptic 5 36 20 M.'s true Pl. in Orbit
+5 21 59 54 Nodes tr. Pl. substract 11 21 38 10 Argum^nt of Latitude 6 0 21 44
+Reduction substract 6 Moon's true Pl. in Eclip. 5 21 51 48 Moon's true South
+Latit. 1 54 At the Eclipse 1 23
+
+A Calculation of the Sun's Place for the same Time. Sun's mean Motion. Motion
+of Perihel. s ^ s A. D. 1701 9 20 43 40 3 7 44 30 Years 20 9 4 21 0 And 6 11 21
+33 8 6 18 Sept. Days 3 8 2 28 9 40 Hours 20 49 17 3 8 12 28 Place of Perihel. 5
+23 44 44 Sun's mean Motion 2 15 32 16 Sun's mean Anomaly. Minutes 35 1 26 (Mean
+Time.) Sun's mean Motion 5 23 44 44 Equat. substract 1 51 51 Sun's true Place 5
+21 52 53
+
+Some Account of Observations lately made with Dipping-Needles, in Order to
+discover the LONGITUDE and LATITUDE at Sea.
+UPON the Receipt of the liberal Assistance of His most Excellent Majesty, King
+GEORGE; their Royal Highnesses the Prince and Princess of Wales, and many other
+of the Nobility and Gentry, my kind Friends, I sent last Year Four several
+Dipping-Needles to Sea; with Frames hung near the Center of Motion in Gimbols,
+to avoid the Shaking of the Ship; and with proper Instructions to the Masters
+of the Vessels: And this, in order to discover the State of Magnetism in the
+several Parts of the Globe; and to find whether accurate Observations could be
+made at Sea, and to determine whether the fundamental Theory I laid down from
+former Observations would hold or not; viz. "That Magnetic Variation and Dip
+are all derived from one Spherical Magnet in the Center of our Earth; with an
+irregular Alteration of the Variation, according to the different Degrees of
+Strength of the several Parts of the Loadstone, as compounded with a very slow
+Revolution from East to West: And with a regular Alteration of the Dip, nearly
+according to the Line of Sines, from the Magnetic Pole to the Magnetic
+Equator; the Axis of that Equator being sufficiently Oblique to its Plane: All
+which is the Case of Spherical Loadstones here." Now having already received
+Four Journals from Four several Masters employed, I take this Occasion of
+returning my Benefactors hearty Thanks for their Assistance, and of giving them
+and the Public some Account of the Success of these Observations; and what
+Consequences are naturally to be drawn from them; with the Difficulty hitherto
+met with in the Practice at Sea, and the proper Remedy for the same in future
+Trials.
+
+Captain James Jolly set out in July, 1722. for Archangel, with one of my
+Dipping-Needles on Board. He, for some time, met with such Difficulties in the
+Practice, as confined to the Frame I had given him, that he was not at first
+able to make any good Observations at all. But after some Time, he took the
+Needle into his own Cabin; and without any Approach to the Center of Motion, or
+any Contrivance. for avoiding the Shaking of the Ship at all, having a clear
+and full Gale all along, but without any stormy Weather, He made me 28 very
+good Horizontal Observations, from the Latitude of 65 quite to Archangel: I
+say, Horizontal Observations only, as I desired him; the Needle, by an Accident
+before he went, being rendered incapable of making any other with sufficient
+Accuracy. In this Space the Needle altered its Velocity very greatly, as I
+expected it would: And 5 Vibrations which at first were performed in about 280;
+beyond the North-Cape came to 250; till toward Archangel it gradually returned
+to about 177.
+
+Captain Othniel Beal set out about the same Time for Boston in New England,
+with the same Instrument, and made Four Observations of the Dip, both by the
+Vertical and Horizontal Vibrations, and by the Dip it self; Three upon the open
+Sea, and One in the Haven of Boston: Which in some small Manner differed one
+from another, but in the main agreed, and kept the due Analogy I expected. He
+greatly complained of the Shaking of the Ship; till in Boston Haven he made a
+nice Observation both Ways, which did not greatly differ: Though the greatest
+Part of of his Observations by the Dip it self were somewhat more agreeable to
+Analogy than the other. The Reason was, I take it, that, as he assured me, he
+always took great Care to avoid the Shaking of my Frame; which Frame though it
+very much avoided the slower and greater Oscillation of the Ship, yet made a
+quicker but lesser Oscillation it self: Which Fault I was sufficiently sensible
+of just before the Ships were going away, but was not able then to obviate; as
+I am prepared to do hereafter. After Captain Beal had made and sent me these
+Observations, he pursued his Voyage to Barbados, and thence to Charles Town in
+South Carolina; at both which Places he made Observations; but the best at
+Barbados. For before he came to Carolina, he observed the Axis of the Needle to
+shake; which made him take the Dip there otherwise than he ought to have done;
+which is the natural Occasion that the Dip there did not so well agree to
+Analogy as the rest. However, upon my Receipt of his first Journal, with the
+Four first Observations, especially the exact one at Boston, I formed a more
+exact Theory of the Proportion of the Alteration of the Dip in the Spherical
+Magnet of the Earth; and found it at this Distance of the Earth's Surface, not
+far from that in my Spherical Loadstone, at the Distance of about 9/10 of an
+Inch from its Surface; viz. Not exactly as the Line of Sines, where at the
+Middle of the Line the Angles are 60 and 30; but rather as 66 to 24. Which Rule
+therefore is what I now propose as much nearer than the other. By which
+Proportion I determined long beforehand the Dip at Barbados of 43 or 44, as
+many of my Friends can witness: And when Captain Beal delivered me the Paper of
+this Observation at Barbados, before I opened it, or in the least knew what Dip
+it contained, I foretold to him from that Theory the very same Dip, which both
+himself and his Paper immediately assured me to be true; and whose Truth, as he
+informed me afterward, was confirmed by another Observation, made a little
+before in the open Sea, of about 45.
+
+Captain Tempest also, about the same Time, set out for Antegoa and St.
+Christopher's, with the same Instrument and Frame. In his Letter, da^ed last
+January, he greatly complains of the Shaking of my Frame; and proposes an Hint
+how it might be avoided: Which Method of its Avoidance I had long before
+thought of, and provided for accordingly; and which has been a full Year ready
+for Practice. Those Observations of his, that I have yet received; for I have
+not heard from him since January, but hope soon to here farther; were but
+Three, and all at open Sea; and but one of them made both the Ways that I
+desired: And, indeed, seem the least agreeable to Analogy of any of the rest.
+Only since that single Observation, which was also made by the horizontal
+Vibrations and vertical Oscillations, agrees very well to that Analogy; since
+they all three are about the same Quantity of 8 or 9 Degrees exceed that
+Analogy; and since very near the same Place, where the third Observation was
+made, I have a double Observation of Captain Beal's to correct the same; I
+rather conclude, that Captain Tempest made a Mistake, and placed the wrong Edge
+of the Needle upward in all the Three Observations: Which would naturally
+occasion such a Difference. When I receive the rest of his Observations, or his
+Needle again, I shall be able to judge better of that Matter. However, even
+these Observations agree in gross with all the rest, to the gradual Decrease of
+the Dip as you go nearer to the Equator: Though as they stand at present, they do
+not determine the accurate Proportion of that Alteration so well as the others.
+
+Captain Michel also, long after the rest, set out for Hamburgh with the same
+Instrument; though now without the Frame, which he was not willing to incumber
+himself with: and I suspected that in its present Contrivance it did more hurt
+than help the Nicety of the Experiments. I also by him, sent a Letter to the
+Reverend Mr. Eberhard, who was the Occasion of my studying this Matter, and was
+then Pastor of Altena, close by Hamburgh; desiring that he would there make the
+Experiment very exactly, and give me a particular Account of it. But I have not
+yet received his Answer.
+
+Now the Observations here mentioned, as well as those many others I had by me
+before, do seem to me in general evidently to afford us the following
+Inferences:
+
+(1.) That there is one Spherical Loadstone, and but one in the Center of our
+Earth; and that this Loadstone, like other Spherical Loadstones, has but one
+Northern Pole: Contrary to Dr. Halley's Hypothesis.
+
+(2) That this Northern Pole is situated, contrary to the same Hypothesis also,
+a great Way to the East of our Meridian: And indeed, as I before had
+determined, about the Middle of the Distance between the North Cape and Nova
+Zembla. Captain Jolly's numerous Observations prove this most fully: While in
+Sailing toward that Point his horizontal Vibrations greatly increased in
+Number: And when he turned almost at right Angles, as he went down to
+Archangel, they soon diminished; and yet so little, after some time that it was
+evident he then sailed not far from a Parallel to that Northern Pole; and not
+very many Degrees from it neither; exactly according to my Expectations.
+
+(3.) That the absolute Power of the internal Magnet is considerably different
+in different Places; and that without any certain Rule; as it is upon the
+Surface of our Terrellae or Spherical Loadstones here. This the various Number
+of Seconds to a vertical Oscillations, and all the Accounts in the other
+Observations fully prove; and by consequence this must cause different
+Variations in different Places, as is the Case of our Terrellae.
+
+(4.) That there no where appears in open Seas any such Irregularity in the
+Dip, as we sometimes meet with near Shores, or at Land; and by consequence that
+Dr. Halley's grand Objection against the Discovery of the Longitude by the
+Dipping-Needle, taken from an Observation of his own, concerning such an
+Irregularity near the Shore at Cape Verd; and from his own Hypothesis of the
+four Magnetic Poles is utterly groundless. Nor indeed shall I ^e at Rest,
+till*I have sent a Dipping-Needle to Hudson's Bay, on purpose to determine this
+Dispute about the four Poles: For that Voyage being almost directly toward his
+second Northern Pole all the way, and about the same Distance all the way from
+mine; if this Voyage afford much the same Dip, it will demonstrate that there
+is but One Northern Pole; and that it is nearl^ where I place it: But if that
+Dip greatly increase, it will demonstrate a s^^ond Pole somewhere in those
+Parts of America, where Dr. Halley places it. And to this Decretory Experiment
+do I appeal for a final Determination of this Question. The Doctor seems to me
+to draw his Inferences from the Variation, which no Way proves any such double
+Poles; as being full as sensible on our Terrelle, which have no more than
+single ones; while he avoids all Observations from the Dip, which are still
+against him; and which are alone capable of discovering the exact Place of such
+Poles, either upon the Surface of the Earth, or of Terrellae. However, when one
+Set of Experiments with a Dipping-Needle, sent to Hudson's Bay, will certainly
+determine this Matter, it is a vain Thing to go on in the Way of Controversy
+about it.
+
+In short, The Observations hitherto made, show that the Foundations I go upon
+in this Discovery of the Longitude and the Latitude at Sea, are true and right:
+That the Terrestrial Magnetism is very regular and uniform, in the open Seas;
+that the Latitude in the Northern Parts may even, without any Avoidance of the
+Shaking of the Ship, in ordinary calm Weather, be in good Degree thereby
+discovered already; and that if I can sufficiently avoid the Shaking of the
+Ship, which I am now endeavoring, and have great Hopes of performing, both
+Latitude and Longitude may by this Method be discovered in the greatest Part of
+the sailing World. I say nothing here of another Method of Trial, which I am
+also pursuing, and which depends, like this, on the avoiding the main Part of
+the Ship's Agitation; and if effected will be more easy and universal than
+this. But as to giving any farther Account of that to the Public, unless it
+succeed, I have no Intention at all.
+
+N. B. The original Journals are all in the Hands of my great Friend and Patron
+Samuel Molyneux, Esquire Secretary to his Royal Highness, the Prince of Wales, and
+Fellow of the Royal Society: Which Journals, when I have completed the rest of
+the Observations I hope to procure, I intend to publish entire, for the more
+full Satisfaction of the curious, A Table of the Angle of Inclination below the
+Horizon, in Dipping-Needles, to every 1/9^ Part of their respective equal
+Distances from the Magnetic Poles and Equator.
+Did. from the Pole. Dip. Did. from the Equat Dip. 1 89 30 1 08 41 2 89 00 2
+12 23 3 88 27 3 15 14 4 87 59 4 17 41 5 87 29 5 19 51 6 86 59 6 21 50 7 86 38 7
+23 41 8 85 58 8 25 24 9 85 27 9 27 2 10 84 57 10 28 36 11 84 27 11 30 6 12 83
+56 12 31 32 13 83 26 13 32 55 Did. from the Pole. Dip. Did. from the Pole.
+Dip. 14 82 55 14 34 15 15 82 24 15 35 33 16 81 54 16 36 50 17 81 23 17 38 4 18
+80 52 18 39 16 19 80 21 19 40 28 20 79 49 20 41 37 21 79 18 21 42 45 22 78 47
+22 43 54 23 78 16 23 44 58 24 77 44 24 46 2 25 77 12 25 47 6 26 76 41 26 48 9
+27 76 8 27 49 10 28 75 36 28 50 12 29 75 4 29 51 12 30 74 32 30 52 12 31 73 59
+31 53 11 32 73 26 32 54 9 33 72 54 33 55 6 34 72 20 34 56 1 35 71 47 35 57 0 36
+71 14 36 57 56 37 70 39 37 58 52 38 70 5 38 59 47 39 69 31 39 60 41 40 68 57 40
+61 35 41 68 22 41 62 49 42 67 47 42 63 22 43 67 12 43 64 15 44 66 36 44 65 8 45
+66 00 45 66 0
+
+N. B. I take the Northern Pole of the Terrestrial Magnet to be about the
+Meridian of Archangel, in the Latitude of 75. Its Equator to be nearly a great
+Circle, intersecting the Earth's Equator about 2 Degrees Eastward of the
+Meridian of London; and in its opposite Point. And that its utmost Latitude
+Northward is in the Gulf of Bengall about 12 Degrees; and as much South in the
+opposite Point, in the great South Sea. And that the Souther^ Pole is nearly
+circular; its Radius 40 Degrees of a great Circle, and its Center in a Meridian
+Eastward from Ceilon about 4 Degrees, and about 68 Latitude.
+
+N. B. London is nearly 1^5/84 = 26/90 distance from the North Pole of the
+Magnet, whence its Dip will be at 74 ^/^, which is certainly so in Fact. Boston
+in New England is 51/^^^ = ^^/9^, whence its Dip will be about 68 22, which
+Captain Beal found to be so in Fact. Barbados is about 26^/1^^ = 22/905 distant
+from the Equator of the Magnet, whence its Dip ought to be about 44, as Captain
+Beal also found it to be in Fact. St. Helenais about 14/49 = ^^^/9^, whence its
+Dip ought to be about 47 50 as Dr. Halley found it to be in Fact. And so every
+where in the main Ocean, at considerable Distances from the Shores.
+
+N. B. If the Dip of any Needles be somewhat different at London, add or
+substract a proportionable Part of the Dip elsewhere. And you will have nearly
+the true Dip at any other Place with that Needle Thus if your Needle differ
+from the other 2 or 120, and show the Dip at London 72 45 instead of 74 45,
+which is its-proper Dip in this Table; and you require the true Dip by this
+Needle for Boston in New England, Southward; which in the Table is 68 22,
+proceed thus. Because the equal Distance of Boston from the Magnetic Equator
+is 49 Parts of 604, the like Distance of London from that Equator; deduct
+^9/604 120 = 97 = 1 37 out of the Tabular Dip 68 22. The Remainder is 66 45,
+for the true Dip at Boston with that Needle. Thus if you want the true Dip, by
+the same Needle, at Dronthem in Norway, Northward: Because the equal Distance
+of Dronthem from the Magnetic Pole is 152 Parts of 296 the Distance of London
+from that Pole; deduct 15/29 2/6 12 = 62 = 1 2 out of the Tabular Dip 82 30,
+and the Remainder, 81 28 is the true Dip at Dronthem, with that Needle: And so
+in all other Cases whatsoever.
+
+N. B. The Table before set down, supposes that the true Dip differs according
+to such a Line of Sines, whose middle Point gives 66 on one Side, and 24 on the
+other; and is made by adding or substracting 8 to the Complement of the Dip
+found by the natural Sines for every 1/^0 of equal Distances from the Equator
+or Pole.
+
+N. B. If any desire to calculate by Trigonometry the Distances of all Places
+from the magnetic Equator of Poles, and the Distances of that Equator and
+those Poles in every particular Case, both made use of in the foregoing
+Calculations, it is thus to be done:
+
+In the (Fig. 12.) Triangle B L A we have B L the Co-Latitude of London; B A
+the Co-Latitude of the magnetic North Pole; and the included Angle, A B L =
+the Distance of the Meridian of that Pole from the Meridian of London; to find
+the Angle Q A M and the Side A L. Then in the Triangle Q A M, we have the
+Angles Q A M and Q M A, and the Side A M, = the Distance of the Magnetic Pole
+from the Magnetic Equator, to find A Q. So we have the Proportion of A L to
+AQ, Q. E. I.
+
+But since the Data are not yet sufficiently exact for the Calculation,
+measuring is sufficient.
+
+FINIS.
+to fold out at the end of ye Book Fig. 1.
+Fig. 2.
+Fig. 3.
+Fig. 4.
+Fig. 5.
+Fig. 7.
+Fig. 6.
+Fig. 9.
+Fig. 8.
+Fig. 10.
+Fig. 11.
+Fig. 12.
+
+
+ERRATA.
+PAge 1. lines 12, 13. read, 5 Leap. Days; and with 11 Days when 4 Leap Days.
+P. 7. over against 21, etc. read, 53. 2. 55. 40. 58. 19. 60. 58. 63. 38. 66.
+19. 69. 0. 71. 42. 74. 24. 77. 7. 79. 50. 82. 34. 85. 19. 88. 4. 90. 50. P. 10.
+l. 32. read, Summer. P. 13. l. 7. r. 10d. l. 8. and 10, and 16. r. 18. P. 13.
+l. 24. r. Bern, Zurich, and Pillaw near Koningsberg in Prussia. Dele p. 16. l.
+32. to p. 17. l. 10. and instead of it read thus: Its greatest Alteration
+therefore must be at the mean Distance; and is the Difference of the Equation
+belonging there to the Addition of 108 = 17. which Space the Moon usually goes
+in about 36 of time. So that the Difference on this Account must, each Period,
+be usually less than 36. And as to the Moon's own Motion, it has also its
+greatest Alteration at its mean Distance; and is the Difference of the Equation
+at 2. 51. =17. which the Moon usually goes in about 36. of time. So that the
+Difference on this Account must, each Period, be usually less than 36*. also,
+and on both Accounts less than 1h. 12.
+
+

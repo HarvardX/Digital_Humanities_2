@@ -1,0 +1,642 @@
+AN ACCOUNT OF THE AUTOMATON, CONSTRUCTED BY ORFFYREUS, etc.
+
+ADVERTISEMENT.
+Shortly will be Published, AN ESSAY ON MOTION: BEING AN INTRODUCTION TO A NEW
+SYSTEM OF NATURAL PHILOSOPHY.
+
+WHEREIN The Elementary principles assumed by Sir Isaac Newton, are
+mechanically deduced from Elements still more general and simple.
+
+AN ACCOUNT OF THE AUTOMATON, CONSTRUCTED BY ORFFYREUS: IN TWO LETTERS;
+
+THE ONE, FROM PROFESSOR 'sGRAVESANDE, to Sir ISAAC NEWTON,
+
+THE OTHER FROM BARON FISCHER, TO Dr. DESAGULIERS.
+
+TO WHICH IS ANNEXED THE TESTIMONIAL OF THE PRINCE OF HESSE CASSEL, IN FAVOR
+OF ORFFYREUS'S MACHINE:
+
+LIKEWISE ANIMADVERSIONS, BY PROFESSOR ALLAMAN OF LEYDEN, ON THE NEGLECT OF
+THAT SINGULAR INVENTION;
+
+WITH ADDITIONAL REMARKS ON IT IS UTILITY, RECONSTRUCTION AND IMPROVEMENT.
+
+The invention all admired, and each how he
+To be the inventor missed; so easy it seemed
+Once found, which yet unfound most would have thought
+Impossible. --
+MILTON. LONDON.
+
+PRINTED IN THE YEAR M.DCC.LXX.
+
+AN ACCOUNT OF THE AUTOMATON, CONSTRUCTED BY ORFFYREUS, etc.
+ORFFYREUS, a native of Saxony, was one of those singular genuises, whose
+natural talents for particular arts are accompanied by a strange perversity of
+understanding. He had an amazing turn for practical mechanics, and applied
+himself to the discovery of a perpetual motion; a discovery as much exploded
+among the mathematicians as that of the philosopher's stone among chemists.
+Orffyreus, however, after laboring about twenty years and constructing near
+three hundred different machines, at length hit on the contrivance of that
+which is described in the following letters.
+
+PROFESSOR 'sGRAVESANDE, to Sir ISAAC NEWTON.
+LE Docteur Des Aguliers, vous aura sans doubt fait voir un lettre, que le
+Baron Fischer lui a ecrite, il y a quelque tems, touchant la Roue d'Orffyreus,
+que l'inventeur assure etre un mouvement perpetuel. Monseigneur le Landgrave a
+voulu que j'examinasse aussi la machine. Ce prince qui aim les sciences and
+les beaux arts, and qui, par le secours qu'il done a tous ceux qui s'y
+attachent avec quelque succes, ne neg^ige aucune occasion de render utiles au
+public les inventions qu'on lui ^resente, souhaiteroit de voir cette machine
+connue de tout le monde (...) enter les mains de gens plus habiles que
+l'inventeur, afin qu'on en ^etire l'utilite qu'on doit naturellement attendre
+d'une invention aussi par^iculiere. J'ai cru, Monsieur, que vous ne seriez pas
+fache d'avoir une relation un peu detaillee de ce qu'on observe dans une examen
+exterieur d'une machine sur laquelle les sentiments sont si partagez, and qui a
+presque tous les habiles mathematiciens contre elle. Un tres grand nombre
+soutient l'impossibilite du mouvement perpetuel, d'ou est venu le peu
+d'attention qu'on a fait a la machine d'Orffyreus. Je scai combien je suis
+inferieur a ceux qui ont done leurs demonstrations sur l'impossibilite de ce
+mouvement; cependant pour vous expliquer les sentiments avec lesquels j'ai
+examine cette machine, j'aurai l'honneur de vous dire, qu'il y a environ 7 ans
+que je crus decouvrir le paralogisme de ces demonstrations en ce qu'elles ne
+peuvent etre applicables a toutes les machines possibles, and depuis je suis
+toujours rest tres persuade, qu'on peut demontrer que le mouvement perpetuel
+n'est pas contradictoire; and il m'aparu que Mr. Leibnitz avoit tort de
+regarder comme un axiom l'impossibilite du mouvement perpetuel, ce qui sert
+neanmoins de fondement a une party de sa Philosophy. Malgre cette persuasion
+j'etois fort eloigne de croire qu'Orffyreus fut assez habile pour decouvrir le
+mouvement perpetuel; je regardois ce mouvement comme ne devant etre decouvert,
+qu'apres plusicurs autres inventions, au cas qu'il le fut jamais.
+
+Depuis que j'ai examine la machine, je suis dans un etonnement que je ne
+saurois exprimer. L'auteur a du genie pour les mechaniques, mais n'est rien
+moins que profond mathematicien; cependant cette machine a quelque chose de
+suprenant, quand meme de seroit une fourberie. Voici ce que regard la machine
+meme, don't l'auteur ne laisse voir que l'exterieur, de peur qu'on ne lui vole
+son secret. C'est un tambour d'environ 14 pouces d'epaisseur sur 12 pieds de
+diametre; il est tres ledger, etant fait de quelques planches assemblees par
+d'autres pieces de bois, de maniere qu'on verroit l'interieur de tous cotez,
+sans une toil ciree qui couvre tout le tambour. Ce tambour est traverse d'un
+axe d'environ 6 pouces de diametre, termine par les extremitez par des axes de
+fer de 3 quarts de pouces, sur lesquelles la machine turn. J'ai examine ces
+axes, and je suis tres persuade qu'il n'y a rien en dehors qui contribue au
+mouvement de la machine. J'ai turn le tambour tres lentement, and il est
+rest en repos, aussitot que j'ai retire la main; je lui ai fait fair un tour
+ou deux de cette maniere: Ensuite, je l'ai fait mouvoir tant soit peu plus
+vite, je lui ai fait fair de meme un tour ou deux mais alors j'etois oblige de
+le retenir continu^llement; car l'ayant lache, il a pris en moins de 2 tours sa
+plus grande celerite, de maniere qu'il a fait 25 a 26 tours dans une minute.
+C'est Ie mouvement qu'il a conserve ci-devant pendant 2 mois dans une chamber
+cachetee, dans laquelle il etoit impossible qu'il y eut aucune fraud. S. A.
+Ser. fit ouvrir la chamber, and arreter la machine apres ce tems la, car comme
+ce n'est qu'un essai, elle n'est pas assez forte pour que les materiaux ne
+s'usent pas par une longue agitation. Monseigneur le Landgrave a ete present a
+l'examen que j'ai fait de la machine. J'ai pris la liberte de demander a S. A.
+Ser. qui a vu l'interieur du tambour, si lorsque la machine a ete agitee
+pendant un certain tems, rien n'etoit change dans l'interieur; comme aussi s'il
+n'y avoit pas quelques pieces dans lesquelles on pouvoit soupconner de la
+fraud. S. A. Ser. m'assure que non, and que la machine est fort simple. Vous
+voyez, Monsieur, que je n'en ai pas assez vu par moi-meme, pour assurer que
+j'ai une demonstration, que dans cette machine le principe du mouvement, qui
+est certainement dans le tambour, soit tell qu'il le faut pour render le
+mouvement perpetuel; mais aussi je crois qu'on ne sauroit me nier d'avoir de
+presomtions fortes en faveur de l'inventeur. Monseigneur le Landgrave a done
+une recompense digne de sa generosite a Orffyreus, afin de voir le secret de la
+machine, avec promise de ne point se servir du secret ni de le decouvrir, avaunt
+que l'auteur en eut retire encore d'autres recompenses pour render son
+invention public. Je scai tres bien, Monsieur, qu'il n'y a qu'en Angleterre
+ou les sciences florissent assez, pour fair trouver a l'auteur une recompense
+digne de son invention. Il s'agit simplement de la lui assurer, au cas que sa
+machine soit un veritable mouvement perpetuel. L'auteur ne demand a toucher
+l'argent, qu'apres que la machine aura ete examinee en dedans; on ne sauroit
+raisonablement exiger cet examen avaunt la recompense promise. Comme il s'agit
+d'une chose utile au public, and l'avancement de sciences, de decouvrir
+l'invention ou la fraud, j'ai cru que cette relation ne vous seroit pas
+desagreable. Je suis, etc.
+
+
+THE letter from Baron Fischer, to Dr. Desaguliers, which is mentioned in the
+preceding epistle, serves not only to confirm the foregoing particulars; but
+contains several others omitted by Professor s'Gravesande. It is indeed
+written, as Mr. Allaman justly observes, in very bad French, but is
+sufficiently intelligible; and carries with it a proof of the author's being a
+competent judge of the subject on which he writes Baron Fischer was architect
+to the Emperor, and first introduced into Germany the steam engines, for
+raising water.
+.
+
+BARON FISCHER, TO Dr. DESAGULIERS.
+JE me done l'honneur de vous ecrire la present pour vous marquer l'estime
+que j'ai pour vous, and aussi pour vous donner des nouvelles de ce mouvement
+perpetuel de Cassel, que vous m'avez tant recommande pendant que je me trouvois
+encore a Londres. Quoi que je sois fort incredule sur les chooses que je ne
+scaurois comprendre, je dois pourtant vous assurer, que j'en suis tout a fait
+persuade, puisque jene trouve aucune chose qui pourroit empecher de donner a
+cette machine le nom de mouvement perpetuel, ou de soi-meme; mais j'ai bien des
+raisons de croire, que c'en est un, selon l'experience que j'en ai faites a ma
+volonte, and que son altesse serenissime m'a bien voulu permettre, qui est le
+seigneur le plus aimable and gratieux, que j'ai connu de ma vie, and qui a eu
+la patience de rester present aux epreuves, que je faisois pendant deux heures.
+C'est une roue, qui a 12 pieds en diametre, elle est couverte d'une toil
+ciree; a chaque tour de roue en entend environ 8 poids, qui tombent doucement
+du cote que la roue se turn; cette roue march avec une vitesse etonnante,
+faisant 26 tours par minute, quand la manivelle ou axe n'est point chargee de
+quelque autre effort. Aiant apres attache une cord a l'axe, pour fair tourner
+une vis d'Archimede, pour fair monter de l'eau; cette roue faisoit 20 tours
+par minute, ce que j'ai conte plusieurs fois avec une montre a secondes; and
+j'ai trouve toujours la meme regularite; j'ai arrete ensuite la roue avec bien
+de la peine par plusieurs reprises des mains sur la circonference de cette
+Roue, qui seroit capable d'elever un homme si on la vouloit arreter tout d'un
+coup. L'aiant arretee de sort qu'elle restoit immobile, and c'est ici monsieur
+la plus grande preuve d'un mouvement perpetuel, je lui ai done un mouvement
+fort lent pour voir si elle pouvoit regagner sa premiere vitesse d'elle meme,
+ce don't je doutois, aiant cru comme on le disoit a Londres, qu'elle ne faisoit
+que conserver long tems le mouvement qu'on lui avoit imprime: mais a mon grand
+ctonnement j'observai que cette Roue augmentoit sa vitesse peu-a-peu jusqu'a ce
+qu'elle eut fait environ 2 tours, apres quoi elle avoit regagne toute la
+vitesse, qu'elle avoit auparavant; ce que j'ai observe encore avec la montre a
+secondes, and j'ai trouve de meme 26 tours par minute quand la Roue n'etoit pas
+chargee, and 20 tours apres avoir attache la vis pour elever de l'eau* Cette
+epreuve M. d'avoir vu augmenter la vitesse de cette Roue par elle-meme, jusqu'a
+ce qu'elle fut egale a sa premiere ou ordinaire vitesse, apres une motion fort
+lent que je lui ai done, me persuade plus que si j'avois vu marcher la Roue
+pendant un an; ce qui ne m'auroit pas persuade d'un mouvement perpetuel, car il
+auroit pu diminuer en quelque chose du premier mouvement done and cesser
+tout-a-fait avec le tems, mais de gagner la vitesse au lieu d'en perdre, se
+mettre dans sa vitesse ordinaire jusqu' a ce qu'elle a acquis un certain degree
+pour se mettre egale avec la resistance de l'air and le frottement des axes, je
+ne scai si on peut encore douter de la verite du fait. Je l'ai turn apres en
+sens contraire, and la Roue faisoit le meme effet; j'examinai bien les axes de
+cette Roue pour voir, s'il n'y avoit point d'artifice cache, mais on ne sauroit
+voir la moindre chose que deux petits axes, ou la Roue est suspendue par son
+center. Son altesse, qui possede toutes les qualites qu'un grand prince doit
+avoir, faisoit toujours cette reflection gratieuse en faveur de l'auteur, de ne
+se vouloir point servir de cette machine ou l'emploier a quelque chose, de peur
+qu'on n'en decouvrit le secret avaunt que l'auteur en eut recu la recompense de
+pais etrangers. Son altesse qui possede parfaitement les mathematiques,
+m'assure que cette machine est si facile qu'un garcon de menuisier la sauroit
+comprendre, and la fair apres avoir vu le dedans de cette Roue, and qu'il
+n'auroit pas expose son nom en donnant des attestations, s'il n'avoit pas eu
+connaisance de la machine. J'ai dit a son altesse, que je ne doutois pas, qu'on
+ne put former une compagnie a Londres pour acheter le secret. Ce Prince en sera
+content, si une tell compagnie veut consigner 20 milles pieces pour l'auteur
+ou enter les mains de son altesse meme, ou en autre lieu de surete. Alors on
+fera voir and examiner la machine and le secret, que si on le trouve un
+mouvement perpetuel, les 20 mill pieces seront donnees a l'auteur; and, si
+non, l'argent sera restitue, ce qui sera stipule par des ecrits and avec les
+precautions necessaires. Je dis a son altesse serenissime, que person ne
+pouroit animer une tell compagnie ou souscription mieux que vous, qui
+travaillez toujours a l'instruction du public; considerez quelle obligation
+l'on vous aura, si vous procurez la connoisance d'un principe de mouvement
+perpetuel a la nation la plus eclairee de l'Europe, and que par la on pouroit
+decouvrir une infinite de belles chooses qui ne nous sont pas encore connues,
+comme les loix du mouvement, sans parler de l'utilite de la machine meme; comme
+je ne puis pas toujours rester ici je vous pry tenir correspondance avec Mr.
+Roman, surintendant des batimens de son altesse; qui montrera vos lettres a ce
+Prince, and se pouroit entendre avec vous touchant cette affair, qui merit
+bien qu'on y fasse des reflections pour ne pas laisser un tell tresor enterre,
+and sans utilite; vous communiquerez aussi a votre ami le Chevalier Newton,
+s'il vous plait, ce que je viens de vous avancer ici de ce mouvement. J'espere
+qu'il vous sera certify par notre ami Mr. 'sGravesande de Leide, qu'on espere
+de voir bientot dans ce pais pour fair une petit tour de promenade, and fair
+sa reverence a son altesse Monseigneur; son altesse lui aiant fait ecrire par
+Mr. Roman, qu'il voudroit bien le voir ici.
+
+Je suis, etc.
+
+
+THE TESTIMONIAL OF THE LANDGRAVE OF HESSE CASSEL, IN FAVOR OF ORFFYREUS'S
+MACHINE.
+TESTAMUR proinde and verbo nostro principali, ut debemus verissime
+consirmamus, quod saepe nominatum Perpetuum Mobile Orffyreanum ita constitutum
+invenerimus, ut illud neque ab externa aliqua vi aut open, minus autem ab
+internis quibusdam machinis, seu horologiariae eae dicantur seu rotariae aliquo
+modo dependeat; reperimus potius, quod artefactum hoc juxta innumerorum
+eruditorum sensum (qua nimirum ratione reperiendum olim Mobile Perpetuum
+constitutum esse debeat^) ea ipsa dudum quaesita and desiderata machina, aut
+ita dictum Perpetuum Mobile pure artificiale quoad durantem materiam, etc. imo
+rota talis omnino sit, quae ab interna sua propria artificiosaque vi motrice
+tamdiu motum suum continuare potest, quamdiu in dicta interiore structura and
+essentia nihil deficit, frangitur, laceratur aut deperditur, imo quae, si
+possibile foret, nec materia ipsa defectui, mutationi, corruptioni and
+similibus obnoxia foret, dubio procul motum suum sine cessatione esset
+continuatura.
+
+Ad majorem etiam veritatis confirmationem machina haec, etsi majoris operis
+modulus tantum sit, ad nostram tamen non exiguam approbationem diu desideratum
+mensis integri experimentum, idque duplicato temporis spatio, nobis exhibuit;
+cum enim nos rotam hanc (postquam trium mensium spatio multis peregrinis et
+nostratibus, summis and imis quam saepissime and frequentissime cursus sui and
+motus specimen praebuisset) tandem die 12 Novembris anni proxime elapsi 1717
+obserari, obseratam appresso sigillo muniri and dimidii mensis spatio
+constanter moveri jussissimus; die 26 Novembris rursus eo nos contulimus, non
+paucis ministris nos comitantibus, illaesa sigilla nostra cognovimus, recognita
+effregimus, omnia and singula quam curatissime observavimus, and machinam motu
+aeque rapido agitatam comperimus. Jam propriis nos ipsi manibus cursum machinae
+stitimus, nec multo post absque notabili impulsu and inventoris auctorisque
+ulla open motum machinae reddidimus, and, quo omnis aditus vel ipsi suspicioni
+praecluderetur, fenestras omnes caeteraque omnia quam solicit obturari,
+januas omnes, nobis, nostrisque omnibus coram inspectantibus, obserari,
+cunctaque quam optime custodiri and appressis sigillis muniri jussimus.
+
+His ita peractis and elapsis fere sex septimanis (cum nemo hoc tempore ad
+dictam machinam posset accedere) nos die 4 Januarii anni hujus, propitio numine
+inchoati 1718. Arcem nostram Weissensteiniam petivimus, impressa ubique sigilla
+non tantum ipsi lustravimus and omnino intacta reperimus, sed apertis etiam
+januis fenestrisque Mobile perpetuum Orssyreanum non interrupto motu agitatum,
+ut nuper, ita hoc etiam tempore invenimus, lustratoque quam curatissime toto
+conclavi ne tenuissimum actionis ullius, imo suspicionis, vestigium nobis
+licuit reperire. Cumque inventor longiorem machinae suae motum offeret,
+specimen magis diuturnum (praecipue cum a part adversa desideratae quatuor
+septimanae duplicato temporis spatio essent adimpletae) ad purgandum omni
+suspicione machinam and absolvendum a calumniis inventorem haudquaquam esse
+necessarium judicavimus.
+
+ANIMADVERSIONS, BY PROFESSOR ALLAMAN, ON THE NEGLECT OF ORFFYREUS'S INVENTION.
+ON voit, que le temoignage de M.'sGravesande etoit aussi avantageux a
+Orffyreus qu'il etoit possible; n'aiant pas vu l'interieur il ne pouvoit pas
+juger autrement de sa machine: cependant nous allons voir que cette homme
+bizarre n'en fut point content, puis qu' a cause de cet examen il mit cette
+machine en pieces. Par la relation de M.'sGravesande, par celle du Baron
+Fischers, and par la temoignage meme du Landgrave, il paroit demontre, que
+cette Roue n'etoit point mue par aucun agent exterieur. C'est cependant ce
+qu'on pretendit; on accusa Orffyreus d'etre un imposteur, qui en avoit impose a
+la bonne foi du Prince, qui avoit trompe M.'sGravesande, and tout ceux qui
+avoit examine sa machine. Sa propre servante deposa contre lui, and dit que
+c'etoit elle qui faisoit tourner cette Roue, and insensiblement il tomba si
+fort dans le mepris, que tout ceux que lui avoient protege, en avoient honte.
+M. de Crousaz, qui etoit dans ce tems-la a la Cour de Cassel, ecrivit en date
+du 3 Fevrier 1729 une Lettre a M.'sGravesande, ou il s'enoncoit en ces terms:
+1. Orffyreus est un fou. 2. Il est incroiable qu'un fou ait decouvrit ce qu'un
+infinite des habiles gens ont cherche sans aucun succes. 3. Je ne crois pas
+l'incroiable. 4. On concoit aisement d'ou vient que des persons gardent pour
+eux des secrets, don't ils tirent du fruit. Celui-cy ne pouvoit esperer du sien
+que de la reputation, and il la laisse ternir par une accusation
+circonstanciee, don't il etoit en son pouvoir de demontrer le faux, si elle
+avoit ete fausse. 5. La servante se tire de chez lui de peur d'etre egorgee,
+and en effet la vie d'un tell temoin est a charge. Elle a en main par ecrit le
+serment terrible qu'Orffyreus lui a fait jurer. 6. Il n'avoit qu'a demander
+qu'on mit cette fille en surete, and exiger un tems pour retablir sa machine.
+7. On publia que cette machine alloit s'executer Je trouve dans une lettre de
+Mr. Roman a Mr.'sGravesande, datee de Cassel, le 18 May 1727 que dans une mois
+cette machine alloit etre retablie tell qu'elle etoit en 1721 and meme
+Mr.'sGravesande y est invite par order de Landgrave, a se render a Caffel pour
+assister a l'examen, qu'on en devoit fair.
+; and tout d'un coup les plus avises furent ceux qui prirent le parti de s'en
+taire le plus exactement. 8. Il est vrai, qu'il a chez lui une machine, a
+laquelle il a done aussi le nom de mouvement perpetuel; mais il ne la
+transporte pas. Elle est beaucoup plus petite and differente de la premiere,
+sur-tout en ce qu'elle ne turn que d'un cote, etc.
+
+Voila de quoi render suspect Orffyreus and sa machine. M.'sGravesande se
+seroit il trompe au point que d'en avoir ete la dupe? Lisons ce qu'il a dit
+lui-meme dans sa reponse a M. de Crousaz, and don't je trouve le brouillon parmi
+ses papiers, mais sans date: J'ai differe de vous repondre, jusques a ce que
+j'eusse recouvre un ecrit que je dressai le lendemain de l'examen de la
+machine; car quoique je me souvienne tres exactement de tout ce qui s'est
+pass, je crois qu'un ecrit dress le lendemain de l'examen, and communique a
+Monseigneur, en presence de qui l'examen avoit ete fait, devoit etre de plus de
+poids. C'est pourquoi j'ai voulu fcavoir comment je m'etois exprime.
+
+Voici ce que j'ai appris. On dit qu'une servante assure sous serment qu'elle,
+ou une autre servante, faisoit tourner la machine d'Orffyreus, etant placee
+dans une chamber voisine.
+
+Je sai bien qu' Orffyreus est un fou, j'ignore s'il est imposteur, je n'ai
+jamais decide si sa machine etoit une fourberie ou non; mais ce que je sai
+aussi surement qu'aucune chose au monde, c'est que si la servante dit ce que je
+viens de marquer elle dit un mensonge insigne.
+
+Mons. le Landgrave, en presence du Baron Fischer, architecte de l'empereur,
+and d'autres persons, a fait demonter a ma priere les soutiens de la machine;
+nous en avons vu les axes a decouvert, j'ai examine les platines dans laquells
+les axes reposoient, and dans tout cette examen il n'a pas paru la moindre
+trace de communication avec une chamber voisine. Je me souviens tres
+distinctement de toutes les circonstances de cet examen, qui mit Orffyreus dans
+une si grande colere contre moi, qu'il mit la machine en pieces, le jour meme,
+and ecrivit sur la muraille, que c'etoit l'impertinente curiosite du Professeur
+'sGravesande qui en etoit la cause. C'est ce que j'ai lu moi-meme l'annee
+d'apres, and le resultat de l'examen est exprime clairement dans l'ecrit don't
+je viens de parler.
+
+On m'a dit plusieurs circonstances du temoignage de la servante, mais je n'y
+vois pas grand difficulte: en fait de machines, je ne comte gueres sur ce que
+peut dire une servante, qui peut-etre, en tournant le tourne-broche de son
+maitre, aura cru fait aller le mouvement perpetuel. Si vous scavez quelque
+chose de particulier touchant cette affair, vous me ferez un sensible plaisir
+de me le marquer.
+
+Il est difficile de determiner ce qu'il faut croire de cette machine. Il me
+paroit cependant que si l'on examine murement tout ce qui est pour and contre
+Orffyreus, on peut se fixer a ceci: 1. Orffyreus est effectivement un fou,
+comme Mr.'sGravesande en convient avec Mr. de Crousaz; ses machines brisees a
+deux differentes reprises, pour de fort mauvais raisons, and sans aucune
+necessite, en sont de bonnes preuves. Mais c'etoit une de ces fols, tells qu'on
+a voit souvent, don't la solie se borne a certains objets, and meriteroit plutot
+le nomme de bizarrerie. Une tell folly est quelques fois accompagnee de
+beaucoup de genie, and quand des gens de ce caractere s'appliquent a une seul
+chose, comme il paroit que celui-ci a fait, il n'est pas surprenant de leur
+voir fair des decouvertes qui ont echape a la sagacite de plus habiles gens.
+Ainss je ne voudrois point conclure avec Mr. de Crousaz, qu'il est incroiable
+qu' une fou, de l'espece de ceux parmi lefquels on doit ranger Orffyreus, ait
+trouve une chose que tant de savans ont cherchee inutilement. Ajoute qu'il se
+trompe quand il dit qu' Orffyreus ne pouvoit esperer de son secret que de la
+reputation: il en attendoit un profit confiderable; puis qu'il en demandoit
+200,000 florins. 2. Rien d'exterieur ne conservoit le mouvement de sa machine:
+si c'etoit un servante qui la faisoit mouvoir, est-il apparent que cela n'eut
+point ete remarque par des yeux auffi clairvoians que l'etoient ceux qui en ont
+fait l'examen, ou par le Landgrave qui avoit vu l'interieur de la machine?
+Dailleurs, comment peut on concevoir qu'une Roue, d'un si gros volume, eut pu
+etre agitee par un cause, qui devoit agir uniquement sur l'axe en traversant
+ses soutiens, and qui etoit si petite qu'elle avoit echape a l'examen le plus
+rigoureux? 3. Si la servante n'a point ete gagnee pour deposer contre
+Orffyreus, tout ce que son temoignage prouve, c'est que son maitre lui avoit
+fait accroire, que c'etoit elle qui mettoit en mouvement la machine, en faisant
+tourner un petit Rouet, and cela soit pour donner le change a ceux qui auroient
+cherche a penetrer son secret, soit par une suite de son caractere singulier,
+tres capable d'une imagination aussi bizarre, comme j'ai entendue dire souvent
+a Mr.'sGravesande; and ce meme caractere peut fort bien encore l'avoir empeche
+de refaire une nouvelle machine. 4. Il faut avouer que cette Roue etoit un
+phenomene de mechanique tres remarquable: and c'est a quoi il fait s'en tenir
+si l'on n'en scait que ce qu'on vient de lire; il y auroit autant de t^merite a
+dire que cette invention etoit le mouvement perpetuel, qu' a ne la regarder que
+comme une fourberie don't quelqu' agent exterieur etoit la cause.
+
+REMARKS ON THE UTILITY, RECONSTRUCTION AND IMPROVEMENT OF THE BEFOREMENTIONED
+MACHINE.
+THE author of the preceding animadversions, though tolerably impartial in
+stating the fact, seems to lean, in his conclusion, more safely than logically,
+to the side of popular opinion. There is no weapon, indeed, so keen as
+ridicule, no shield so impenetrable as prepossession. To withstand the
+annoyance of the one, therefore, while the assailant is defended by the other,
+is to sustain a conflict, in which few have the fortitude to engage and fewer
+the good fortune to conquer. Yet such is the situation of him, who combats the
+prejudices generally conceived against a mechanical principle of self-motion;
+prejudices which have taken such deep root under the sanction of supposed
+science, that all attempts to remove them have been long contemptuously
+neglected as the impotent efforts of ignorance or ineptitude.
+
+It was for this reason the author of these remarks conceived it necessary to
+shelter himself under the preceding authorities, in order to obtain a more
+patient hearing than his subject otherwise promised. Indeed he is not satisfied
+they will have weight enough to secure him an impartial and unprejudiced
+audience: it being very justly observed by a certain writer, Qu'il y a
+certaines matieres si disgraciees que les plus habiles gens memes ne sauroient
+les traiter avec succes.
+
+Similar has been the fatality attending most of those discoveries, which have
+proved of remarkable utility to mankind; as if the happiness of being eminently
+useful to society were to be purchased only by a proportionable degree of
+mortification. Hence numerous are the projects that have for ages been made the
+jest of wits and derision of fools, whose solid advantages have nevertheless
+been sufficiently conspicuous to the wisdom of posterity. Columbus wasted half
+his life in fruitless attempts to gain credit enough to embark for the new
+world; which, thanks to the ingratitude of the old, he sought at his own peril
+and found to their emolument.
+
+Orffyreus was not less ridiculed, though less rewarded, for his attempts to
+explore a new world of mechanics in the discovery of a perpetual motion: a
+discovery still held to be equally chimerical with that of the West Indies in
+the time of Columbus. Not that the success of the Mechanic appears to have been
+less than that of the Mariner: but it seems our mathematicians had not, fifty
+years ago, been taught to set an egg on its little end, and Orffyreus, less
+patient and more peevish than Columbus, would not let them into the Secret.
+
+Mathematicians indeed have demonstrated the fallacy of the schemes generally
+pursued by pretenders to this discovery; most of whom have been mistaken in the
+fundamental principles of Statics. But the demonstrations of the
+Mathematicians, however strictly just, have not been so strictly applicable to
+the problem. Thus De la Hire and others affect to treat it as a reductio ad
+absurdum; pretending "it is an attempt to find a body heavier or lighter than
+itself." In this, however, he charges that absurdity on the problem, which
+should only be imputed to an absurd mode of attempting its solution. But not to
+dwell on theoretical points; it must sufficiently appear, to those who have
+attentively perused the preceding pages, that Orffyreus's machine, whether it
+was, what Mathematicians would call, a perpetual motion or not, was likely to
+answer most of the useful purposes of that long-sought discovery. The neglect
+of it therefore, though not unaccountable, was surprising; especially as the
+inventor demanded only a conditional recompense. This Dr.'sGravesande himself
+particularly observes in a printed tract preserved by Professor Musschenbroek.
+
+LA question de la possibilite ou impossibilite du Mouvement perpetuel, me
+paroit de fort peu de consequence, mais il seroit a souhaiter que la forte
+persuasion dans laquelle sont le Mathematiciens, touchant cette impossibilite,
+ne les empechat pas de fair une attention serieuse a une machine aussi
+etonnante qu'est celle de Cassel. Une roue, don't le principe du mouvement est
+interieur; qui se met en mouvement par le moindre effort; qu'on peut fair
+tourner du cote qu'on juge a propos, sans que ce qui la fait tourner d'une cote
+soit arrete par ce qui l'auroit fait tourner de l'autre, si elle y avoit ete
+poussee; enfin, une roue, qui, apres avoir fait quelque millions de tours, avec
+une rapidite surprenante, continue son mouvement de meme, and n'est arretee
+qu'a force de bras; une tell machine merit, a ce qu'il me paroit, quelque
+cloge, quand meme elle ne satisferoit pas a tout ce que l'Inventeur en promet.
+Si c'est le mouvement perpetuel l'auteur merit bien la recompense qu'il
+demand: si ce ne l'est point, le public peut decouvrir une belle invention,
+sans que ceux qui auroient promis la recompense sussent engagez a rien;
+l'Inventeur n'ayant jamais exige qu' une promise conditionelle.
+
+Again in the same tract, he says
+
+Il y a environ huit mois que j'examinai a Cassel, par order de S. A. S.
+Monseigneur le Landgrave de Hesse, les effets d'une machine que l'Inventeur
+assure etre un mouvement perpetuel. Il en cache avec soin l'interieur, jusques
+a ce, dit-il, qu'on lui ait assure une recompense, qu'il ne demand de toucher,
+que lorsque son invention aura ete examinee, and reconnue par les
+mathematiciens pour etre ce qu'on appelle en mechanique le mouvement perpetuel.
+Je sus frappe des effets de la machine; and ce que j'en vis, joint a ce que
+j'en appris, d'une maniere a ne pouvoir etre revoque en doubt, me fit regarder
+cette machine comme une de plus belles inventions en Mechanique don't j'aie
+connaissance, a ne considerer que les effets averez.
+
+Le desir de fair connoitre cette machine, fond sur la persuasion de
+l'utilite qu'on pouroit en retirer, meme en supposant fausse la pretension de
+l'Auteur, me fit ecrire a Monsieur Newton.
+
+NOTWITHSTANDING, however, these clear and very positive declarations, of one
+of the first Mathematicians of the age, corroborated by every collateral
+evidence necessary to establish the credit of even the most doubtful fact; the
+general prepossession of the impossibility of a perpetual motion, still
+prevailed. So that Mr.'sGravesande found himself under the whimsical necessity,
+of drawing up a formal demonstration of the possibility of what he had actually
+seen put in practice. Of this demonstration the following is a sufficient
+extract.
+
+PREUVE de la possibilite du mouvement perpetuel, en supposant que la force du
+corpse en mouvement est proportionelle a la mass multipliee par la vitesse This
+principle is here proposed hypothetically; mathematicians being at that time
+divided in opinion concerning the measure of mechanical forces. At present it
+is universally admitted; being confirmed by innumerable experiments and the
+most convincing arguments.
+.
+
+Ceux qui admettent ce principe conviennent de cette proposition; que la force
+d'un corpse qui tomb librement, s'augmente en raison du tems que le corpse dans
+sa chute rest expose a l'action de la pesanteur: ce qui est un suite du
+principe; puisqu'il est constant par l'experience, que la vitesse d'un corpse
+qui tomb, s'augmente en raison du tems de la chute.
+
+Par la meme raison, un corpse qui monte verticalement, perd de sa force en
+raison du tems qu'il monte: par consequent, si de deux corpse egaux l'un monte
+verticalement, pendant que l'autre tomb librement, le premier perdra autant de
+force que le second en gagne, quoiqu'ils parcourent des espaces inegaux.
+
+La force qu'il faut pour fair monter un corpse a une certain hauteur, est
+celle qu'il faut pour surmonter l'action de la pesanteur pendant que le corpse
+monte; and cette force est proportionelle au tems que le corpse emploie a monter.
+
+Si donc un corpse, en tombant librement d'une certain hauteur peut rester
+expose plus long tems a l'action de la pesanteur, qu'il ne l'est en remontant a
+la meme hauteur, la force qu'il acquiert en tombant surpass celle qui peut le
+fair remonter. Comme il est tres possible qu'un corpse remonte plus vite qu'il
+n'est descendu, c'est sur quoi je fond ma preuve de la possibilite du
+mouvement perpetuel.
+
+Concevons un corpse qui en tombant de la hauteur d'un pied perde tout son
+mouvement par le choc; posons qu'il tomb quatre fois de suite de la meme
+maniere: il sera descendu de la hauteur de quatre pieds, and les quatre chocs
+seront egaux a la force, que la gravite communique au corpse pendant les quatre
+momens de sa chute. Mais il est connu que le corpse peut remonter en deux de ces
+momens a la hauteur de quatre pieds, and par consequent la force de deux de
+quatre chocs suffit par pour le fair remonter and les deux autres chocs
+pourront etre emploiez a fair mouvoir une machine, don't le mouvement sera
+continue a perpetuite par des chutes reiterees du meme corpse, qui a chaque
+revolution, gagne la force de deux chocs. Le gain de la force sera plus grande
+a chaque revolution, si on augmente le nombre de chocs dans la descente. Il ne
+s'agit pas ici de la maniere d'appliquer l'effort de deux chocs qu'il faut pour
+fair remonter le corpse: je ne dis pas que j'ai trouve le mouvement perpetuel;
+il suffit de demontrer, comme je viens de le fair, qu'il y a dans la nature un
+principe d'augmentation de force, pour soutenir que la mouvement perpetuel
+n'est pas contradictoire, and meme qu'il est possible.
+
+Cette possibilite paroitra plus clairement si on fait attention a cette
+propriete des ressorts, qu'ils se debandent avec la meme force qu'ils ont ete
+bandez, sur quelque corpse qu'ils agissent. Soient deux corpse que je nomme A.
+and B. Je suppose que A pese quatre livres, and B une livre. B en descendant de
+la hauteur de quatre pieds peut fair monter A a la hauteur d'un pied, par le
+moien d'un levier ou de quelque autre machine; ce qui n'est pas contest. Je
+nomme un la vitesse qu'un corpse acquiert en tombant de la hauteur d'un pied a
+laquelle il vient d'etre eleve: il aura quatre degrez de force. Supposons
+encore que A par son choc band un ressort, and qu'il y employe toute la force
+de son choc. Si ce ressort en se debandant agit sur B, il communiquera a B
+quatre degrez de force: c'est a dire, puisque la mass de B est un, quatre
+degrez de vitesse, qui feront remonter le corpse B a une hauteur de seize pieds,
+quadruple de la hauteur don't il etoit descendu d'abord.
+
+THE celebrated John Bernouilli, speaking of the above demonstration, in a
+letter to the author, remarks that it is very just; the principle assumed
+necessarily involving an augmentation The great mathematician maintains the
+possibility of a perpetual motion, also in his other writings. See J.
+Bernouilli opera, Tom. I. page 42.
+of force, viz. A perpetual motion. But this, continues he, is no more than
+Leibnitz had long before demonstrated in his dispute with Papin and others.
+
+The author of these remarks had indeed, long before he saw the above letters
+and arguments, conceived a notion of the possibility of saving the force, which
+descending bodies acquire by gravity; and of applying it to a circular motion.
+But, immersed in business, or engaged in different studies, he should perhaps
+have acquiesced till now in the general opinion of its impracticability; had
+not an accidental conversation, many years ago, on the spot where Orffyreus
+exhibited his machine, awakened his curiosity and directed his attention to an
+object which he has ever since occasionally pursued. The experiments he has
+made, even so long since as the year 1761, convinced him so far of the reality
+of Orffyreus's discovery, that he applied for letters patent to secure an
+exclusive right to the construction of a similar machine; which he had
+contrived and denominated A ROTATOR. Before his patent, however, was expedited,
+he reflected that, although the model he had constructed might serve to remove
+the prejudices of the public, it was not so well calculated as it might be, to
+answer the practical purposes of so important a discovery. To the improvement
+of the Rotator, therefore, has he long since dedicated all the time and
+attention he could possibly spare from his other, more immediately necessary,
+pursuits.
+
+Not that he believes he has contrived quite so many different machines as
+Orffyreus did, though he has been almost as many years engaged in the like
+undertaking; he has nevertheless both contrived and constructed a considerable
+number; many of them useless as costly, except indeed as they served to assist
+him in completing his invention.
+
+The point in question now is, in what manner he should publish his discovery
+to the greatest advantage of the public and himself.
+
+It were an easy matter, if the solution of a theoretical problem only were in
+view, to convince even the most incredulous and obstinate mathematician, by a
+mechanical and ocular demonstration. But, as a discovery of this nature would
+be of the utmost consequence and advantage to the commercial world, the
+inventor would be imprudently wanting to himself and family did he not
+previously enter into some pecuniary stipulation adequate to its importance
+with the public, and his own study, application and expense in bringing it to
+perfection.
+
+Such a previous stipulation is the more requisite, as the extreme simplicity
+of the invention, when discovered, may not tend to heighten the public opinion
+of its difficulty, though now it be so generally thought impossible.
+
+By Letters Patent, it is true, the inventor might secure to himself
+an-exclusive right, among his countrymen, to the construction of his present
+machine, for a term of years. But in that case, its utility, which might
+otherwise soon become universal, would be confined to the small circle of his
+particular attention. Add to this that, as he proposes to furnish a general
+first mover for all such machines, as are usually worked by fire, water, wind,
+or cattle, it is impossible he should have provided all the particular
+apparatus adapted to the vast variety of mills and other engines, to which it
+may be differently applied. It is to be observed also, that in the mean time,
+Foreigners would reap an advantage, from which he could deduce none; and the
+manufactories abroad enjoy a benefit, denied to those at home.
+
+With all deference and submission, therefore, to the public he proposes to
+adopt the method prescribed by the prince of Hesse Cassel, in favor of
+Orffyreus.
+
+That the inventor shall dispose of his discovery, on certain terms, to as many
+voluntary subscribers as choose to become proprietors; each in proportion to
+their quota of the sum to be subscribed. -- The said company of subscribers to
+become possessed of the inventor's right and pretensions to any exclusive
+privilege or emolument he might, or may obtain, by letters patent, or public
+premium, either at home or abroad.
+
+The inventor flatters himself that, if the contents of the foregoing pages are
+seriously attended to, and it be farther considered that not a penny of the
+proposed premium is required, till the subscribers are fully satisfied of the
+reality and utility of the invention, his proposal will not be treated with so
+mortifying a neglect as was that of Orffyreus.
+
+As to the quantum of the required premium, the inventor proposes to consult
+the first twenty subscribers to the undertaking; with whom he would settle the
+terms and mode of ascertaining the merit of the discovery.
+
+With respect, indeed, to the criterion, by which the payment of the premium is
+to be determined; the inventor does not mean to have it depend on the
+acceptance of equivocal terms. He does not insist that the Rotator is what
+every mathematician would call a perpetual motion; being perfectly of
+'sGravesand's opinion that it is of little consequence in mechanics, whether
+the perpetual motion, strictly so called, be possible or not: but if his
+machine be found to answer all the practical purposes to be expected from that
+discovery; so as to save the expense, and obviate the inconveniences, attending
+the present methods of working mills, pumps and other mechanical engines, he
+will expect his reward. On the contrary, if it does not supply the place of a
+first mover, at the expense only of the construction and repair of a simple
+wheel, subject to very little friction; and that in all such engines and
+machines even from the slightest piece of clock-work to the water works of
+Marli or London Bridge, he expects nothing for his discovery, but to stand
+exposed to the contempt, that will be justly thrown on him for having so
+miserably misspent his time, and frivolously engaged the attention of the public.
+
+It may be expected, the inventor should make a public exhibition, in imitation
+of Orffyreus, of a similar Machine. He might indeed construct an useless model
+in that form: but as the utility of his design has ever been the great object
+in view, he has been little sollicitous about such a mode of construction:
+being the less inclined to such an exhibition from the mortifying example of
+it is little use, or rather it is great prejudice to Orffyreus. Another reason is
+that to persons, capable of judging of mechanical inventions, such a machine
+would carry no conviction with it of the certainty of the author's pretensions.
+And with regard to others it would only serve to excite, without gratifying, an
+idle and fruitless curiosity.
+
+Such bodies corporate, private companies or individuals, as are interested in
+the construction or use of considerable mechanical engines, or are disposed to
+encourage the present discovery, may receive any farther information they
+require, on applying to the inventor,
+
+WILLIAM KENRICK,
+Charles-Street, St. James's Square, March 1. 1770.
+

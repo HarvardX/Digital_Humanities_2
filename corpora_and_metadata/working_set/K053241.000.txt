@@ -1,0 +1,639 @@
+AN ENGLISH ACCIDENCE; OR, ABSTRACT OF GRAMMAR; For the USE of those who,
+Without making GRAMMAR a Study, Wish to Speak and Write correctly. With Rules
+for reading Prose and Verse.
+
+By the Rev. Dr. JOHN TRUSLER.
+
+LONDON: Printed for the AUTHOR, and sold by R. BALDWIN, in Paternoster Row,
+
+[PRICE ONE SHILLING.]
+
+Dr. TRUSLER begs leave to recommend the following useful books, being
+calculated for young people, and may be had of his bookseller, R. Baldwin,
+Paternoster Row.
+
+1. A COMPENDIUM of USEFUL KNOWLEDGE, price 3s. a practical book in proper
+exercises, for the use of schools; containing a clear and concise explanation
+of every thing a young person ought to know.
+
+Such as are acquainted with the contents of this book, will be able to
+converse on all the general topics in life.
+
+2. PRINCIPLES of POLITENESS, Parts I. and II. 15th edition, price 3s. half
+bound, addressed to both sexes; calculated to form polite manners, teaching a
+knowledge of the world, and rendering youth fit to be received into the best
+company.
+
+This work has been translated into every European language, and is adopted as
+a school-book into the first Academies.
+
+3. The DISTINCTION between WORDS esteemed SYNONIMOUS in the English language;
+a new edition, with great additions, price 3s. 6d. Useful to all who would
+either write or speak with propriety and elegance.
+
+4. POETIC ENDINGS, or a Dictionary of Rhymes, single and double; comprising
+nearly all the words in the English language; price 2s. 6d. Very necessary for
+those who are learning to make verses.
+
+5. The FIRST FOUR RULES of ARITHMETIC, p^^^ 1s. adapted to the capacity of
+girls, and so clearly a^^ fully explained, as to need no master. Which, (...)
+
+6. FAMILY-TABLES, composed for all purposes life, (price 3s.) render more than
+those four rul^^ unnecessary.
+
+7. TRUSLER'S CHRONOLOGY, price 1s. 6d. eleven edition, small enough to lie in
+a pocketbook; containing every event in ancient and modern history,
+alp^^betically recorded, with the dates affixed. Also,
+
+8. The SAME WORK, more at large; in two volumes, 1210. price 7s. bound.
+Calculated for the library and the use of schools.
+
+PREFACE.
+ALL Authors of Grammar lay claim to clearness and conciseness, whereas nothing
+is more evident than that they have missed of the end proposed; the various
+English grammars hitherto published being so complex, and the whole matter made
+such a study, that the desideratum sought for is not to be acquired without the
+assistance of a master, and the application of years. The design of this
+Abstract is to teach a person acquainted with English how to speak and write
+correctly, without entering into all the minutiae of Grammar, which serve only
+to perplex and confound. The Author aims not at teaching his pupil what words
+are particles, what prepositions, and so on; but merely to avoid false concords
+and incorrect language; and he flatters himself the few following pages will
+answer all the purposes better than more complete or regular systems. He has
+also added some few rules for reading, which, if attended to, must lead to
+reading well.
+
+ABSTRACT OF ENGLISH GRAMMAR.
+Of the denomination of Words.
+THE only words necessary to be known grammatically, are Nouns, Pronouns,
+Adjectives, Verbs, Adverbs, and Participles.
+
+A Noun is the name of a thing, as Horse, Boat, Knife, etc.
+
+A Pronoun is a substitute for a Noun, as I, he, she, etc.
+
+An Adjective expresses the quality of a Noun, as a sound Horse; an open Boat;
+a sharp Knife; here sound, open, and sharp, are Verbs.
+
+A Verb implies the action of the Noun, and an Adverb the action of the Verb,
+as the horse gallops, the boat sails, the knife cuts: Here galloping is the
+action of the horse; sailing the action of the boat; and cutting the action of
+the knife; of course, gallops, sails, and cuts are Verbs.
+
+An Adverb expresses the action of the Verb. Thus the horse gallops quick; the
+boat sails briskly; the knife cuts badly. Here quick expresses the action of
+galloping; briskly that of sailing, and badly that of cutting; of course quick,
+briskly, and badly are Adverbs, that is, addition to Verbs.
+
+A Participle partakes of the qualities of both Noun and Verb, and implies,
+acting or being acted on.
+
+These are the different parts of speech, I would wish my pupil to be
+acquainted with. I will treat of them in their order.
+
+Of NOUNS.
+Nouns Substantives are the general names o^ things, except proper names, which
+are particular ones. A horse, for example, is a general name, it may be my
+horse or yours, so is a boat, a knife, etc. but proper names are particular
+ones, as Thomas, the name of a man: Jolly, the name of a horse, etc. Horse,
+boat, knife, etc. then are Nouns.
+
+Nouns have two numbers, the singular and the plural.
+
+The singular number expresses an individual, as a horse, a boat, a knife; the
+plural expresses many, as horses, boats, knives, etc.
+
+In other languages Nouns have a variety of cases, that is, vary in their
+terminations, but in English there are but two: these correspond with the
+genitive and accusative. Thus, instead of the head of a horse, we say, a
+horse's head, (not horses, which is the plural number of horse, but horse's,
+which we call the genitive case singular); so boat's, knife's, as the boat's
+side, the knife's edge.
+
+Plurals ending in s have no genitive cases, we write women's, not women's;
+men's, not men's; and so on.
+
+No Nouns have accusative cases, but Pronouns; these vary their terminations
+when they follow or are acted upon by verbs.
+
+I preceding a verb, is changed to me when following one.
+
+We to us. Thou to thee or you. Ye to you. He to him. She to her. They to them.
+Who to whom.
+Thus we say, " I love you." I here precedes the verb love; but I could not
+follow the same verb with propriety, it would be rendered me. We should not say
+"You love I," but "you love me." So again, " Thou love me;" "I love thee."
+Thou before the verb, thee after it. " We love God;" "God loves us;" and so on.
+
+The words who and whom require a little further explanation. We say, "Kings
+are personages whom we revere." Here, though, in the present mode of speech,
+whom precedes the verb revere, it is nevertheless used in the accusative case,
+being the word which the verb revere governs and acts upon, answering to them,
+when we say "we revere them." So in the following example: "William was the
+person who came to me." Here the pronoun who precedes the verb came, and
+governs it. "William was the person to whom I spoke." Here whom, though it
+precedes, or is placed, before the verb spoke, (to render it more agreeable to
+the ear) is governed or acted on by it.
+
+English Nouns are then thus declined, none having accusative cases but the
+Pronouns.
+
+Sing. Horse Genesis Horse's Plur. Horses. Sing. Boat Genesis Boat's Plur. Boats.
+
+Note, The genitive case implies of or belonging to
+
+The word whose is sometimes used as the genitive of which, and chiefly in
+poetry.
+
+" -- The fruit
+"Of that forbidden tree, whose mortal taste
+"Brought death into the world."
+MILTON But of which is now most common. "The matters of which I spoke." Though
+whose may be used with propriety, when it refers to persons; as "This is the
+young woman whose worth I know."
+
+The genitive of the other Pronouns are as follow:
+
+I Genesis mine or my Thou Genesis thine or thy He Genesis his She Genesis hers we Genesis
+ours or our ye Genesis yours or your they Genesis theirs or their It Genesis its
+
+Mine, thine, ours, yours or theirs, may be used without a noun annexed, but
+my, thy, our, your, their, never. Thus, "Whose book is this?" The answer may be
+mine, or thine, or ours, or yours, or theirs, alone; but if we use my, thy,
+our, your, or their, we must add the noun book to it, a say, my book, thy book,
+our book, your book, or their book.
+
+When the word own is added to the pronouns my, thy, his, hers, our, your, or
+their, it is to render the expression more emphatical; as, "I live in my own
+house;" "I did it with my own hand." etc.
+
+The plural number is formed, by adding s at the end of the singular number, as
+in the following:
+
+Sing. Plur. Sing. Plur. House Houses Table Tables Walk Walks Sister Sisters
+Stool Stools Outrage Outrages, etc. Lance Lances
+
+But there are some exceptions to this general rule, as the following irregular
+plurals will show.
+
+Sing. Plur. Sing. Plur. Loaf Loaves Foot Feet Calf Calves Church Churches
+Shelf Shelves Fish Fishes Half Halves Box Boxes Self Selves Ox Oxen Sheaf
+Sheaves Man Men Thief Thieves Sow Swine Wife Wives Child Children Wolf Wolves
+Brother Brethren Knife Knives Woman Women Louse Lice Penny Pence Mouse Mice
+Body Bodies Die Dice Mercy Mercies Goose Geese Enemy Enemies Tooth Teeth
+Witness Witnesses, etc. and This These That Those
+
+The singular and plural of some few words are the same, as sheep, deer, fern,
+hose, in which case the singular number is pointed out by a going before them,
+as a sheep, a deer.
+
+Some words also have no singular number, as annals, arms, ashes, bellows,
+breeches, cresses, entrails, ides, lungs, means, nones, scissars, sheers,
+snuffers, thanks, tongs, wages, dregs, news, etc.
+
+Proper names of men, cities, rivers, countries, etc. have no plurals. This
+rule, however, is not without some exceptions. We say, "There were ten Williams
+in company." And when speaking of families, we say, the Marlboroughs, the
+Cavendishes, the Howards, etc.
+
+I can, at no better time, mention the proper use of the pronouns who, which,
+and what, as interrogatives or not.
+
+Who is used only when speaking of persons, as, " Who is that man, or that
+woman?" Which, when we speak of things, as, " Which is your cane? What, when we
+are speaking of the kind, quality, or order of persons or things, as, " What
+lady is that?" " What house is this?" " What (or which) place do you choose?"
+
+When who and which are not interrogatives, that is, do not ask a question,
+they are used with the same distinction, that is, who for persons, and which
+for things. We say, "William was the person who came to me." "This is the horse
+which I bought."
+
+Now we are upon the subject of nouns, it is proper to say something of gender.
+
+There are three genders the male, female, and neuter.
+
+The male and female distinguish the two sexes; whereas the neuter is applied
+to things without life, as not properly belonging to either of the other, as
+table, st^ne, rock, etc.
+
+When we speak of the male gender, we use the pronoun he; when of the female
+gender, she; when of the neuter, it. Thus, The bridegroom, he came from the
+barn;
+The bride, she came in from the field;
+The table, it fell on the floor.
+
+
+We indeed deem most things that contain any thing within them to be of the
+female gender, as the earth, a ship, a house, etc. and in poetry, where writers
+will frequently give slight to their fancy, and personify inanimate substances,
+they are deemed o the male or female gender, according to the idea of the Poet.
+Thus Death, Time, the Sun, etc. are generally of the male gender; Faith, Hope,
+Charity, etc. of the female, as being of the softer virtues.
+
+But our language, in many instances, save us the necessity of adding pronouns
+to express genders, for we often distinguish the different sexes by distinct
+words; as for example,
+
+Male. Female. Male. Female. Father Mother Sloven Slut Husband Wife Man Woman
+Brother Sister Rake Jilt Uncle Aunt Boar Sow Widower Widow Buck Do Master
+Mistress Cock Hen Nephew Niece Dog Bitch Wizzard Witch Drake Duck Bachelor Maid
+or Virgin Gander Goose Horse Mare Bridegroom Bride Ram Ewe Whoremonger Whore or
+Strumpet. Steer Heifer Boy Girl Bull Cow King Queen Lad Lass Lord Lady Duke
+Duchess Milter Spawner etc.
+
+There are also some few words, which distinguish the female sex from the male,
+by the ending; Male Female. Male. Female. Abbot Abbess Shepherd Shepherdess
+Actor Actress Executor Executrix Baron Baroness Administrator Aministratrix
+Heir Heiress Prior Prioress etc. Lion Lioness
+
+Where there are no words to distinguish the sexes, we frequently add one to
+answer the purpose. Thus we say, a male-child, a female-child, a he-goat, a
+she-goat, a man servant, a maidservant, a cock-sparrow, a hen-sparrow, or the
+like.
+
+Of ADJECTIVES.
+Adjectives are words which cannot stand alone, but are added to nouns to
+express their quality, as black, white, wise, foolish, round, square, etc. Thus
+we say, a black dog, a wise man, a round table.
+
+There are three degrees of Adjectives, called degrees of Comparison, the
+positive, comparative, and superlative.
+
+1. The positive degree is the quality itself, simply, as black, white, wise,
+etc. 2. The comparative expresses more of any one thing than another, and is
+formed by adding er to the positive, as blacker, whiter, wiser: sometimes,
+instead of saying blacker, we say more black; for white, more white; for wiser,
+more wise, etc. 3. The superlative degree implies the highest, and is formed ^y
+the termination es^, or the (...) most before the positive. Thus blackest,
+(...) black; whitest, or most white; wisest or mo^^ (...)
+Some superlatives are formed, by adding (...) most as a termination; thus
+nether (...) outer, outermost; under, undermost; upper, uppermost; in, inner,
+innermost, etc.
+
+Many Adjectives do not admit of comparison by terminations, but are only
+compared by more and most, as benevolent, more benevolent, most benevolent.
+Some authors have used shadiest, virtuousest, famousest, mortalest,
+naturallest, powerfullest, inventivest, triflingest, etc. but these are
+liberties which every one cannot take, and are inelegant after all.
+
+Some again are irregularly compared, as,
+
+Positive. Compar. Superl. Good Better Best Bad Worse Worst Little Less Least
+Near Nearer Nearest Much More Most Late Later Last
+
+Indeed, the comparison of Adjectives is very uncertain, and being much
+regulated by the ear or agreeableness of sounds, cannot well be reduced to
+rules.
+
+When a noun is substituted for an adjective, and added to another noun by
+hyphen (-), such two words are called compound words, as Turkey-Leather,
+Mountain-wine, manservant, seafish, etc.
+
+Of VERBS.
+Verbs, as I observed, express the action of Nouns.
+
+A Verb is said to have several moods and tenses. We shall have occasion only
+to name the Infinitive mood, which is known by the word to preceding it, as to
+love, to hate, etc. and two of the Tenses, the present, and the past: these two
+are expressed by terminations, the other tenses are expressed (...) the
+auxiliary verbs shall, will, and have, precedin^ them, of course it is not
+necessary to mention ther^ as we have nothing to do but with the right use
+words themselves.
+
+The present time or tense is expressed by the ve^^ itself, as burn, love,
+hate; the past time by the termination ed, as burned, loved, hated.
+
+A Verb has also three persons, 1st, 2d, and 3^^ and, like Nouns, two numbers,
+singular and plur^^.
+
+The three persons in the singular of verbs are thou, and he or she; in the
+plural, We, ye, a^^ they. Thus, Persons. Present tense, singular. 1. I love 2.
+Thou love 3. He or she loves or love^ Plural. 1. We love 2. Ye love 3. They
+love. Past time, singular. 1. I loved 2. Thou lovedst 3. He or she loved.
+Plural. 1. We loved 2. Ye loved 3. They loved. Infinitive mood. To love.
+Participle present. Loving. -- past. Loved.
+
+There are two sorts of verbs, active and passive. (...) love is a verb active;
+to be loved, a verb passive; (...) still, according to my first definition of a
+verb, (...) love, or be loved, implies the action of the person ^^ving.
+
+The passive verb is formed by the addition of the ^^xiliary or assisting verb,
+to be. Thus, in the pre^^nt tense or time, Sing. I am, thou art, he or she is.
+Plur. We are or be, ye are or be, they are or be. Past tense or time. Sing. I
+was, thou wast or was, he or she was. Plur. We were, ye were, they were.
+Participle present. Being. -- past. Having been. Infinitive mood. To be.
+
+Now, by adding the word love to each, it will (...) thus: I am loved,
+Thou wast loved,
+He was loved, etc.
+And so through the whole.
+
+
+The other auxiliary verbs are have, shall, will, (...), may, can. Have being
+the principal, we will (...) through the tenses of this.
+
+Present tense or time. Sing. I have, thou have, he or she has or has. Plur.
+We have, ye have, they have. Past tense. Sing. I had, thou had, he or she
+had. Plur. We had, ye had, they had. Participle present. Having. -- past. Had.
+Infinitive mood. To have.
+
+There is still another form of English ver^^ in, which the sign of the
+Infinitive mood to added to the verb do, which it is necessary to learn.
+
+Present tense. Sing. I do, thou do, he or she does. Plur. We do, ye do, they
+do. Past tense. Sing. I did, thou did, he or she did. Plur. We did, ye did,
+they did.
+
+In the subsequent tenses, did is changed to do I have done, I had done, etc.
+
+Infinitive mood. To do; or to have done. Participle present. Doing. -- past.
+Done.
+
+By rapid utterance, or poetical contraction, love is often used for loved;
+snatched for snatch^^ dwelt for dwelled; smelt for smelled; and so on.
+
+But not to multiply rules, and burden the learner's memory with terms, the
+following list of regular Verbs in their present and past tenses w^^^ be
+sufficient to instruct. These he should well ^^member.
+
+Present time. Past. Participle. Awake awoke awoke Abide abode abode Be been
+being, been Bend bent bent Bear bore, bare borne Begin began begun Present
+time. Past. Participle. Bereave bereft bereft Beseech besought besought Beat
+beat beaten, beat Bind bound bound Bite bit bitten Bleed bled, blooded bled
+Blow blew blown Break broke broken Breed bred bred Bring brought brought Buy
+bought bought Catch caught, catched caught Chide chid chidden Choose chose
+chosen Cleave clave, clove cleft, cloven Come came come Creep crept, creeped
+crept Crow crew, crowed crown Dare dared, durst dared Die died dead Do did done
+Draw drew drawn Dream dreamed, dreamt dreamt Drank drank drunk Drive drove
+driven Dwell dwelled, dwelt dwelt Eat eat, ate eaten, eat Fall fell fallen Feed
+fed fed Feel felt felt Fight fought fought Find found found Flee fled fled
+Fling flung flung Present time. Past. Participle. Fly flew, fled flown Forsake
+forsook forsaken Freight freighted fraught Geld gelded, gelt gelt, gelded Get
+got gotten, got Give gave given Gild gilded, gilt gilded, gilt Gird girded,
+girt girded, girt Grind ground ground Go went gone Grow grew grown Hang hung,
+hanged hung Have had had, having Hear heard heard Help helped, helped helped Hew
+hewed hewn Hid hid hidden, hid Hold held holden Keep kept kept Know knew known
+Lay laid laid Lead led led Leave left left Leap leaped, leapt leapt Lie lay
+lain Lose lost lost Make made made Mean meant meant Mow mowed mown Meet met met
+Rend rent rent Ride rode, rid ridden Ring rang rung Rise rose risen Present
+time. Past. Participle. Run ran run Say said said See saw seen Seek sought
+sought Seethe sod sodden Sell sold sold Send sent sent Shake shook shaken Shear
+sheared, shore shorn Show showed shown Shine shined shone Shoot shot shot
+Shrunk shrank shrunk Sing sang sung Sink sank, sunk sunk Sit sat sat Slay slew
+slain Slide slid slidden Sleep slept slept Sling slang slung Smell smelt smelt
+Smite smote smitten Speak spoke spoken Spell spelled, spelt spelt Spill
+spilled, spilt spilt Spend spent spent Spin span spun Spit spat spun Spring
+sprang sprung Stand stood stood Stick stuck stuck Sting stung stung Steal stole
+stolen Stink stank stunk Present time. Past. Participle. Strike struck stricken
+Strive strove striven Swear swore sworn Sweep sweeped, swept swept Swell
+swelled swollen Swing swang, swung swung Swim swam, swum swum Take took took,
+taken Tear tore torn Teach taught taught Tell told told Think thought thought
+Thrive throve thriven Throw threw thrown Tread trod trodden Weep wept wept Win
+won won Wind wound wound Wear wore worn Weave wove woven Write wrote, writ
+written, writ Work worked, wrought wrought Wring wrung wrung
+
+These rules premised, the great art in writing and speaking correctly, is to
+avoid false concords; that is, the singular number must never be coupled with
+the plural, etc. Also, 1. The noun or pronoun, and the verb following it, must
+be of the same number and person. We must not say, I were, I being the first
+person, were the second, but I am, both in the first person; neither should we
+say, thou were, thou being singular, and were plural, but thou were, both
+singular. 2. We must take care to use the proper word to express the right
+time, whether it be present or past. In the irregular verbs, the foregoing list
+will point out the word, in the regular ones, the termination ed will always
+express the past time. Thus, for example, we must not say, "he breaked the
+bowl," but broke it; not "he come home," but came. 3. In the use of the words
+this and that, which in the plural number are these and those, we must take
+care that they agree with the number of he word they refer to. We must not say
+this men or that men, the one being singular, the other plural, but this or
+that man, these or those men. But where a noun has no singular number, we may
+add this or that to the plural of such words: thus we may say with propriety,
+"by this or that means." So nouns wanting a singular number are sometimes
+joined to a verb singular, but inelegantly, as, "the news is sta^e;" "your
+wages is small." 4. Two or more names or things in the singular number, require
+the verb to be in the plural. Thus "William and John are (not is) good lads,"
+"The sun and wind overcame (not overcome) me." 5. Names of a multitude may have
+either a singular or a plural verb. Thus we may say, "The Parliament is or are
+sitting." 6. When two or more nouns, of different numbers, follow each other
+with the word or or nor between them, and are equally related to a common verb;
+the verb should agree with the noun next it. For example, "Either the husband,
+the wife, or their children, are in the house", "Neither the husband, the
+children, nor the wife, is in the house.". 7. Two negatives make an
+affirmative. "I was not good for nothing," implies, "It was good so something."
+"I cannot eat no more," means, "can eat more." 8. The participle present is
+frequently substituted for the In^initive mood of a verb, and with elegance.
+Thus, instead of "I like to work," we may say "I like working." "For he
+delights to walk, we may say, "He delights in walking." 9. After the auxiliary
+verb have, it would be improper to put the past time; the participle should
+always follow. Thus, it would be ingrammatica^ to say, "I have saw, or "I have
+wrote;" it should be, "I have seen," or "I have written." 10. When the leading
+adverbs are whether o^ either, or must follow in the same sentence; where the
+leading adverb is neither, nor must follow Thus, "Whether you or I shall go, is
+not yet determined." "Either your or I must ride." "Neither you nor I must
+speak." 11. All repetitions of the same word, nay of words which express the
+same thing, are carefully to ^voided, except when the sense would be otherwise
+obscure, or when it is to excite the attention. For example, a repetition of
+the word from in the following sentence is allowable: the passage would not be
+clear without it. "It proceeds not from stupidity, or a slothful neglect, but
+from a generous liberality of soul. When it is to excite attention, a
+repetition is beautiful. "Every action, nay every attention, every design of
+man, is known to the Almighty." 12. With respect to Adjectives, none should be
+used but such as are necessary to explain the subject more fully. To say
+burning or shining fire, is inelegant, because the first idea of fire is, that
+it burns and shines; but if necessary, we may employ adjectives to express its
+other qualities, as consuming, sparkling, brisk, etc.
+
+
+In short, the words of a sentence ought generally to be as different from one
+another, both in sense and sound, as the nature of the subject and the harmony
+of the period will admit. On this the beauty of a sentence depends, the sound
+being, as it were, an echo to the sense, and, independent of this, on the
+smoothness of the words, the choice of adjectives, and the easy flow of its
+diction. And in general, the shorter the period, the more nervous and
+emphatical it is.
+
+An OBSERVATION or two on WRITING and READING.
+In writing, never use capital letters to begin a word, unless it be a proper
+name, or at the beginning of a sentence. Note, A full stop, or note of
+admiration (!) or interrogation (?), always ends a sentence.
+
+If you quote an Author in his own words, always begin the quotation with a
+capital letter.
+
+The word I or Oh should be always written with a capital. Every word you wish
+to mark as emphatic, should begin with a capital, and have a line drawn under
+it; thus, Mark.
+
+In order to read well, 1. Every one should read in an easy familiar tone, as
+if he were speaking, (expect it be a prayer, in which case, a degree of
+solemnity is required) and should adapt his voice to the subject matter he is
+reading. 2. When reading, cast your eye forwards to the words following, that
+you may have seen them before you are to pronounce them. This will prevent
+stammering, or a disagreeable pause. 3. Attend to the stops, and pause at a
+comma, (,) whilst you can count one; at a semicolon, (;) two; at a colon, (:)
+three; and at a full stop, (.) four, Notes of interrogation (?) and admiration,
+(!) are full stops. A line (thus, --) intimates a longer pause than that of
+full stop, and at every fresh paragraph we are to pause longer still. 4. Never
+fetch or draw the breath, where there is no stop; nor pass a stop without a
+pause. Pause proportionably at every stop, utter each word distinctly, sound
+the last letter of every word, read slow, and you will read very intelligibly.
+5. In reading a sentence, the voice should be gently raised, until you get to
+the middle, (and the middle of a sentence is generally marked with a colon) and
+then should gradually fall to the end of it: but take care, that at the end of
+a sentence, you drop not the voice too low, so as not to be well heard to the
+last word. 6. In questions and passages of admiration, the voice should not
+fall, as at a full stop, but be kept up higher and higher to the end. 7. To
+give spirit and energy to a sentence, the leading or principal word, should be
+pronounced emphatically. To find out which is the emphatical word, consider the
+chief design of the writer, and that word which shows such design most, is the
+word to be uttered emphatically.
+
+
+When a noun is the emphatical word, and attended with an adjective, the stroke
+of the voice should be on the noun, and the adjective be only swelled; unless
+it appears that the stress is to be laid on the adjective. The emphatic words
+in the following passage are printed in Italics.
+
+Hail, Source of Beings! universal Soul
+Of Heaven and Earth, essential Presence, hail!
+But where two words are set in opposition to each other, and one is pronounced
+emphatically, the other should be so too; as in the sentence. "If they attack,
+we will attack; for our cause is as good as theirs."
+
+The emphasis is of such importance in reading and speaking, that wrong placing
+it may alter the sense materially. The following line is an old example upon
+this subject.
+
+Will you ride to town today?
+
+By laying the emphasis on will, the answer may be yes or no.
+
+By laying it on you, the answer may be, " No, but my son will."
+
+By laying it on ride, the answer may be, "I intend to walk."
+
+By placing it on the word town, the answer may be, "No, I shall ride to my
+farm."
+
+And laying it on today, the answer may be, "Not until tomorrow."
+
+Last of all, lay no emphasis on words where there should none be laid; for
+this is as great a mark of ignorance, as not laying it where it should be laid.
+
+Rules for reading English verse.
+
+The general rule is to pronounce it, as if it were prose, but with more
+deliberation; to observe the stops with great exactness, placing the accent
+whe^^ it ought to be placed, (as will be shown hereafter and the emphasis upon
+the proper words on each line. Though there should be no stop at the end of the
+line, the reader should pause whilst he can count one, merely to give notice to
+the hearer that the line is ended; and if the last word will bear two sounds,
+(as words ending in y will) give it tha^ which chymes best with its sister
+line. I mean that line with which it is designed to rhyme.
+
+For example,
+
+Were I but once from bondage free,
+I Would never sell my liberty.
+Here ty in liberty, is sounded as tee; but in the following line it should be
+sounded as ti.
+
+My soul ascends above the sky,
+And triumphs in her liberty.
+However, whether pronounced as tee or ti, the last syllable should be so
+feebly uttered, as not to fix any stop or accent upon it.
+
+If verse be read with the above attention, and still sound harsh upon the ear;
+the fault is not in the reader, but the poet, for those verses are not well
+penned, that cannot be read gracefully by the common rules of pronunciation.
+
+In verses of three syllables, the accent is to be placed on the 1st and 3d.
+Thus, Here we may
+Think and pray,
+Ere that Death
+Stops our breath.
+
+
+In verses of four syllables, the accent is to be placed on the 2d and 4th.
+Thus, With ravished ears,
+The Monarch hears.
+DRYDEN.
+
+In verses of six syllables, on every other syllable. Thus, Though in the
+utmost peak
+Awhile we do remain,
+Amongst the mountains bleak,
+Exposed to sleet or rain,
+No sport nor hours shall break,
+To exercise our vein.
+DRAYTON.
+
+In verses of seven syllables, in the 1st, 3d, 5th, and 7th. Thus, Fairest
+piece of well-form'd earth
+Urge not thus your haughty birth.
+
+
+In those of eight, which is the usual measure of short poems, on the 2d, 4th,
+6th, and 8th. Thus, And may at last my weary age
+Find out the peaceful Hermitage.
+MILTON.
+
+In those of ten, which is heroic or tragic poetry on the 2d, 4th, 6th, 8th,
+and 10th. Thus, Confused and chiding, like the hollow roar
+Of tides, receding from the insulted shore.
+DRYDEN.
+
+In those of twelve syllables, on every other syllable, beginning with the 2d.
+
+Of all the Cambrian shires their heads that bea so high,
+And farthst survey their soils with an ambitiou^ eye,
+Mervinia for her hills, as for their matchles^ crowds,
+The nearest that are said to kiss the wandering clouds,
+Especial audience craves, offended with the throng,
+That she, of all the rest, neglected was so long
+DRAYTON In those of fourteen, as in those of twelve Thus,
+And as the mind of such a man that has a long way gone,
+And either knows not his way, or else would let alone
+His purposed journey, is distract.
+CHAPMAN The verse of fourteen syllables is now broken inalternate lines of
+eight and six. Thus, When all shall praise, and every lay
+Devote a wreath to thee
+That day; for come it will, that day
+Shall I lament to see.
+
+
+The Alexandrine verse of twelve syllables is now (...) used to diversify
+heroic lines of ten. Thus, Waller was smooth, but Dryden taught to join
+The varying verse, the full-resounding line,
+The long majestic march -- and energy divine.
+
+
+In pronouncing this line of twelve syllables, the ^^ce must pause at the end
+of the sixth.
+
+In verses of quick measure, the words are ac^^^ted as below.
+
+May I govern my passions with absolute sway,
+And grow wiser and better, as lise wears away.
+So again, Diogenes surly and proud.
+I think not of Iris, nor Iris of me.
+
+
+So in verses with double rhymes,
+They neither added nor confounded;
+They neither wanted nor abounded.
+'Twas when the seas were roaring
+With hollow blasts of wind,
+A damsel lay deploring
+All on a rock reclined.
+When terrible tempests assail us,
+And mountainous billows affright,
+Nor power nor wealth can avail us,
+But skilful Industry steers right.
+For resistance I could fear none,
+But with twenty ships had done
+What thou, brave and happy Vernon,
+Have atcchiev'd with six alone.
+FINIS.
+

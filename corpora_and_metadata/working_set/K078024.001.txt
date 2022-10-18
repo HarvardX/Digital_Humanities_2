@@ -1,0 +1,1493 @@
+THE NATURAL HISTORY OF BRITISH INSECTS; EXPLAINING THEM IN THEIR SEVERAL
+STATES, WITH THE PERIODS OF THEIR TRANSFORMATIONS, THEIR FOOD, ECONOMY, etc.
+
+TOGETHER WITH THE HISTORY OF SUCH MINUTE INSECTS AS REQUIRE INVESTIGATION BY
+THE MICROSCOPE.
+
+THE WHOLE ILLUSTRATED BY COLORED FIGURES, DESIGNED AND EXECUTED FROM LIVING
+SPECIMENS.
+
+BY E. DONOVAN, F. L. S.
+
+IN TEN VOLUMES. VOL. I.
+
+LONDON: PRINTED BY BYE AND LAW, ST. JOHN'S SQUARE, CLERKENWELL, FOR THE
+AUTHOR, And for F. and C. RIVINGTON, No 62, ST. PAUL'S CHURCH YARD.
+
+MDCCCII.
+
+TO T. MARSHAM AND A. M'LEAY, ESQRS. TREASURER, AND SECRETARY, OF THE LINNAEAN
+SOCIETY.
+MY DEAR SIRS,
+IF I were not anxious to acknowledge you amongst the number of those, whose
+useful information has in various instances tended to improve this Work,
+motives of esteem would alone induce me to inscribe it to you. The reflection,
+that for ten years past, it has been sanctioned with no inconsiderable share of
+public approbation, will not allow me to believe it unworthy of your attention,
+and its conclusion affords me the best opportunity to testify the favor, as
+well as the respect, with which
+
+I remain, Most sincerely yours, E. DONOVAN.
+
+ADVERTISEMENT.
+AT the conclusion of a Work which has been published in a progressive manner,
+and either in the form of Monthly Numbers or Annual Volumes has already passed
+the ordeal of public criticism, the Author can have little to advance in favor
+of the design, or the manner in which it has been executed. His chief object
+was to illustrate the science of Entomology on a more extensive scale than had
+been previously attempted in this Country, and he trusts, upon the whole, his
+endeavors in this respect have not been fruitless.
+
+As a general History of the Insect Productions of Great Britain, it is
+presumed this Work will be found sufficiently copious and instructive; for
+though the Author has purposely avoided entering too deeply amongst the
+minutiae of the Insect race, he has been careful to include whatever is
+interesting. The selection of Papiliones or Butterflies is extremely ample, as
+well as that of the Sphinges or Hawk Moths: none of the larger kinds of
+Phalaeuae or Moth tribes have been over-looked, and the number of those of an
+inferior size that are extremely rare, or particularly beautiful, are
+altogether considerable. Those are chiefly alluded to, because general
+observers are more immediately interested with the uncommon elegance of the
+Lepidopterous tribes than any others. In general, however, the reader will meet
+with some information in every department, as nothing material in any cabinet
+to which he has access has been omitted.
+
+The arrangement of the subjects is for the most part conformable to the system
+of Linnaeus, with occasional reference to the writings of Fabricius. This is
+designed to assist the labors of the practical Entomologist, and by combining
+novelty with beauty, and scientific information, may induce many other
+attentive observers of nature to pursue this pleasing and interesting study.
+
+The Author cannot but feel some degree of satisfaction in having at least
+fulfilled the chief object of his first design, and after the labor of ten
+years completed a Work, perhaps the most extensive that may ever appear in this
+form on the subject of British Entomology; but this consideration will not
+permit him to entirely abandon his favorite pursuit: his attention will be
+still directed to a science in which the past indulgence of a liberal public,
+have induced him to believe he may still be useful, and though he cannot,
+consistently with the conditions of this undertaking, extend it further at this
+time, should a sufficient number of new and valuable species occur, he will
+certainly be tempted to transgress, and make some addition to the present
+selection.
+
+ALPHABETICAL TABLE OF CONTENTS.
+ABSINTHII, Phalaena Plate. 304 Aceris, Phalaena Plate. 330 acervorum, Apis
+Plate. 108 Fig. 2. acuminatus, Cimex Plate. 118 Fig. 2. aedilis, Cerambyx
+Plate. 72 aenea, Cantharis Plate. 96 Fig. 2. aequatus, Curculio Plate. 121 Fig.
+1. 2. Aesculi, Phalaena Plate. 152 Aglaja, Papilio Plate. 302 albicillata,
+Phalaena Plate. 202 Fig. 2. albinus, Curculio Plate. 348 Fig. 3. alni, Curculio
+Plate. 249 Fig. 2. Alni, Phalaena Plate. 327 Fig. 2. alniaria, Phalaena Plate.
+275 Alsus, Papilio Plate. 322 Fig. 1. 1. amatoria, Phalaena Plate. 33 Fig. 2.
+anastomosis, Phalaena (reclusa? Linn.) Plate. 124 -- Plate. 129 annulata,
+Coccinella Plate. 243 Fig. 2. 2. Antiopa, Papilio Plate. 89 antiqua, Phalaena
+Plate. 16 apiarius, Attelabus Plate. 231 Fig. 1. apicella, Phalaena Plate. 57
+Fig. 3. apiformis, Sphinx Plate. 25 aprilina, Phalaena Plate. 347 Fig. 1.
+aquatica, Leptura Plate. 86 Fig. 3. aquaticus, Oniscus Plate. 159 Arbuti,
+Phalaena Plate. 343 argus, Papilio Plate. 143 arcuata, Leptura Plate. 86 Fig.
+1. argentatus, Curculio Plate. 107 Fig. 1. 2. arietis, Leptura Plate. 27 Arion,
+Papilio Plate. 184 asparagi, Chrysomela Plate. 28 Atalanta, Papilio Plate. 260
+atomaria, Phalaena Plate. 248 Fig. 1. 2. atralis, Phalaena Plate. 266 Fig. 4.
+atriplicis, Phalaena Plate. 262 Fig. 1. 1. Atropos, Sphinx Plate. 289 -- larva
+Plate. 290 avellanae, Curculio Plate. 205 Fig. 3. avicularia, Hippobosca Plate.
+261 Fig. 2. aurana, Phalaena Plate. 57 Fig. 2. aurantiago, Phalaena Plate. 150
+Fig. 2. aurata, Musca Plate. 142 Fig. 1. Bachus, Curculio Plate. 34 Fig. 1.
+Bankii, Chrysomela Plate. 138 Fig. 4. Batis, Phalaena Plate. 33 Fig. 1.
+Bentleiana, Phalaena Plate. 357 Bergmanniana, Phalaena Plate. 157 Fig. 1. 6.
+Betulae, Curculio Plate. 74 Betulae, Papilio Plate. 250 betularia, Phalaena
+Plate. 237 bicincta, Musca Plate. 346 Fig. 2. bicolor, Cimex Plate. 297
+bidentata, Chrysis Plate. 19 bisasciana, Phalaena Plate. 357 bisasciatum,
+Rhagium Plate. 94 Fig. 1. biguttulus, Gryllus Plate. 79 Fig. 1. bilineata,
+Phalaena Plate. 287 Fig. 3. biliturata, Chrysomela Plate. 99 bimaculatum,
+Phalangium Plate. 156 Fig. 4. boleti, Chrysomela Plate. 78 Fig. 1. 2. bomba,
+Trichoda Plate. 47 Fig. 2. bombylans, Musca Plate. 151 Fig. 4. brassicaria,
+Musca Plate. 151 Fig. 1. Bucephala, Phalaena Plate. 3 caecutiens, Tabanus
+Plate. 131 caeruleocephala, Phalaena Plate. 100 Caja, Phalaena Plate. 15
+c-album, Papilio Plate. 199 calmariensis? Chrysomela Plate. 185 camelina,
+Phalaena Plate. 183 Camilla, Papilio Plate. 244 campestris, Cicindela Plate. 12
+cancroides, Phalangium Plate. 215 capreae, Curculio Plate. 121 Fig. 5. 6.
+cardammes, Papilio Plate. 169 cardui, Papilio Plate. 199 carnella, Phalaena
+Plate. 153 Fig. 5. cassidoides, Coccinella Plate. 243 Fig. 3. Celerio, Sphinx
+Plate. 190 -- larva and pupa Plate. 191 centuncularis, Apis Plate. 120
+cerealis, Chrysomela Plate. 115 Cervus, Lucanus Plate. 13 ceruina, Chrysomela
+Plate. 78 Fig. 3. 4. chamaeleon, Musca Plate. 31 -- larva Plate. 35
+chaerophyllata, Phalaena Plate. 233 Fig. 4. Christiernana, Phalaena Plate. 20
+chrysitis, Phalaena Plate. 137 chrysops, Hemorobius Plate. 188 chrysoglossa,
+Phalaena Plate. 350 Fig. 2. chrysorrhoea, Phalaena Plate. 10 chrysorrhoea,
+Sphinx Plate. 116 cinerea, Nepa Plate. 18 cinerea, Aranea Plate. 156 Fig. 3.
+cinxia, Papilio Plate. 242 Fig. 1. circumflexus, Ichneumon Plate. 93 Fig. 2.
+citrina, Phalaena Plate. 340 Fig. 2. clavis, Phalaena Plate. 340 Fig. 3.
+clathrata, Phalaena Plate. 248 Fig. 3. coccinea, Pyrochroa Plate. 56 Fig. 1.
+coccinea, Chrysomela Plate. 111 Fig. 5. 6. coleoptratorum, Acarus Plate. 11
+colonella, Phalaena Plate. 263 Fig. 2. Columbae, Pediculi Plate. 191 cometa,
+Trichoda Plate. 26 comma, Papilio (Pleb. Urb.) Plate. 295 communis, Panorpa
+Plate. 201 complanatus, Julus Plate. 344 compressa, Phalaena Plate. 239 Fig. 2.
+conchaceus, Monoculus Plate. 5 conflagratus, Scarabaeus Plate. 70 Fig. 2.
+consortaria, Phalaena Plate. 333 Fig. 2. convolvuli, Sphinx Plate. 228 -- larva
+Plate. 229 cornuta, Cicada Plate. 83 Fig. 1. 2. 3. Corydon, Papilio Plate. 236
+Fig. 1. 1. Coryli, Phalaena Plate. 309 coryli, Chrysomela Plate. 321 Fig. 1. 1.
+cossus, Phalaena Plate. 114 craboniformis, Asilus Plate. 180 Crataegi, Phalaena
+Plate. 117 cristatalana, Phalaena Plate. 77 Fig. 1. 2. crocata, Tipula Plate.
+48 Fig. 1. cruentata, Cassida Plate. 63 Fig. 2. 3. cuculla, Phalaena Plate. 338
+Fig. 1. curculionoides, Attelabus Plate. 149 Curtisella, Phalaena Plate. 65
+Fig. 4. cyanea, Chrysis Plate. 235 cyanocephalus, Carabus Plate. 86 Fig. 1. 2.
+3. cynosbana, Phalaena Plate. 355 Fig. 3. Daplidice, Papilio Plate. 200
+Delphinii, Phalaena Plate. 331 decussata, Phalaena Plate 266 Fig. 3.
+Degeerella, Phalaena Plate 267 Fig. 1. 2. depressa, Libellula Plate 24
+depressa, Libellula Plate 81 derasa, Phalaena Plate 223 Fig. 1. Diadema, Aranea
+Plate 49 Diadema, Aranea Plate 50 didactylus, Phalaena Plate 318 diffluens,
+Proteus Plate 47 dilatata, Cicada Plate. 138 Fig. 5. dipsacea, Phalaena Plate
+327 Fig. 3. dispar, (Phalaena) Plate 163 ditaria, Phalaena Plate 202 Fig. 1.
+Dives, Phalaena Plate 352 dolabraria, Phalaena Plate 349 Fig. 1. Dominula,
+Phalaena Plate 141 Dromedarius, Phalaena Plate 350 dubitata, Phalaena Plate 246
+Fig. 2. duplicata, Phalaena Plate 233 Fig. 2. Edusa, Papilio, female Plate 238
+Fig. 2. -- male Plate 43 elongata, Leptura Plate 86 Fig. 1. Elpenor, Sphinx
+Plate 122 emargana, Phalaena Plate 106 Fig. 1. evonymela, Phalaena Plate 335
+Fig. 4. equina, Hippobosca Plate 261 Fig. 1. erythropterus, Staphilinus Plate
+308 Euphorbiae, Sphinx Plate 92 -- Caterpillar Plate 91 euphorbiata, Phalaena
+Plate 153 Fig. 1. Euphrosyne, Papilio Plate 312 Europaea, Fulgora Plate 203
+Europea, Mutilla Plate 212 exoleta, Phalaena Plate 187 extensa, Aranea Plate
+156 Fig. 1. fagana, Phalaena Plate 281 Fagi, Phalaena Plate 328 falcatella,
+Phalaena Plate 355 Fig. 5. fasciatus, Scarabaeus Plate 140 fastuosa, Chrysomela
+Plate 194 ferrugineus, Elater Plate 356 Fig. 1. ferrugineus, Dytiscus Plate 68
+Fig. 3. 4. festivus, Cimex Plate 101 Fig. 4. Festucae, Phalaena Plate 46
+Filipendulae, Sphinx Plate 6 fimbria, Phalaena Plate 208 flavo-cincta, Phalaena
+Plate 334 flavo-marginatus, Cimex Plate 245 flavo-striata, Cicada Plate 288
+Fig. 2. flavago, Phalaena Plate 338 forficata, Scolopendra Plate 198
+formicarius, Attelabus Plate 231 Fig. 2. Francillana, Phalaena Plate 355 Fig.
+1. Fraxini, Phalaena Plate 171 -- Larva and pupa Plate 172 fuciformis, Sphinx
+Plate 87 Fuliginosa, Phalaena Plate 80 Fullo, Scarabaeus Plate 112 funalis,
+Phalaena Plate 76 Furcula, Phalaena Plate 272 Galathea, Papilio Plate 258
+gamma, Phalaena Plate 265 Fig. 2. gemina, Phalaena Plate 347 gemmatus, Carabus
+Plate 222 Fig. 2, Germanica, Blatta Plate 341 Germanus, Curculio Plate 34 Fig.
+2. gigas, Sirex Plate 197 glauca, notonecta Plate 75 globosa, Aranea Plate 156
+Fig. 2. Goettingensis, Chrysomela Plate 286 Fig. 2. gonymelas, Cimex Plate 218
+Fig. 2. gonostigma, Phalaena Plate 316 grandis, Libellula Plate 166 -- variety
+with yellow wings Plate 237 Fig. 2. grandis, Phalaena Plate 345 granulatus,
+Carabus Plate 222 Fig. 3. grossa, Musca Plate 346 grossulariata, Phalaena Plate
+4 gryllotalpa, Gryllus Plate 147 guttata (14) Coccinella Plate ^43 Fig. 1. ^1.
+hastata, Phalaena Plate 129 Fig. 1, 2. 3, Haemoroidalis, Cimex Plate 218 Fig.
+2. Hecta, Phalaena Plate 274 Fig. 3. Hero, Papilio Plate 186 hexadactyla,
+Phalaena Plate 136 hexapterata, Phalaena Plate 192 Hippothoe?, Papilio Plate
+217 hirtus, Hemerobius Plate 113 hirundinis, Hippobosca Plate 268 Fig. 2.
+hispidus, Cerambyx Plate 64 Fig. 2, 3. hortulanus, Curculio Plate 205 Fig. 2.
+humeralis, Necydalis Plate 358 Fig. 1. humuli, Phalaena Plate 274 Fig. 1. 2.
+Hyale, Papilio Plate 238 Fig. 1. Hyperanthus, Papilio Plate 271 hypoleon, Musca
+Plate 146 Fig. 2. 3. Jacobaea, Phalaena Plate 45 Janira, Papilio Plate 320
+Janthina, Papilio Plate 347 Idas Papilio Plate 323 Fig. 2. 2. ignita, Chrysis
+Plate 7 interrogatiana, Phalaena Plate 65 Fig. 1. Io, Papilio Plate 206 Iota,
+Phalaena Plate 265 Fig. 1. Iris, Papilio Plate 37 lacertinaria, Phalaena Plate
+251 Fig. 2. lacustris, Cimex Plate 118 Fig. 1. lambdella, Phalaena Plate 57
+Fig. 1. lanestris, Phalaena Plate 210 lapathi, Curculio Plate 205 Fig. 1.
+lapidaria, Apis Plate 108 Fig. 2. -- Plate 88 Fig. 2. Lappaae, Phalaena Plate
+340 Lapponica, Blatta Plate 352 lateralis, Musca Plate 31 Fig. 3. Lathonia,
+Papilio Plate 73 Leeana, Phalaena Plate 347 Fig. 4. lemnata, Phalaena Plate 266
+Fig. 1. 2. leporina, Phalaena Plate. 327 Fig. 1. Libatrix, Phalaena Plate 216
+Lichenaria, Phalaena Plate. 342 Fig. 1. Lichenes, Phalaena Plate. 223 Fig. 3.
+Ligustri, Sphinx Plate. 284 Linea, Papilio Plate. 236 Fig. 2. 2. linearis, Nepa
+Plate. 105 Fig. 1. 2. linearis, Sphinx Plate. 204 Fig. 1. lineato-collis,
+Cerambyx Plate. 209 lineola, Phalaena Plate. 360 Fig. 2. litterana, Phalaena
+Plate. 353 Loeflingiana, Phalaena Plate. 90 longicanda, Trichoda Plate. 26
+Loti, Sphinx Plate. 319 lucidata, Phalaena Plate. 97 Lucina Papilio Plate. 242
+Fig. 2. lucipara, Phalaena Plate. 230 Fig. 2. ludio, Himantopus Plate. 20
+lunaria, Phalaena Plate. 132 lunaris, Scarabaeus Plate. ^54 Fig. 4. lunaris,
+Vorticella Plate. 8 luridus, Cimex Plate. 98 Fig. 1. 2. luridus, Scarabaeus
+Plate. 323 lusoria, Phalaena Plate. 354 Fig. 2. lutea, Tenthredo Plate. 234
+lynceata, Phalaena Plate. 349 Fig. 3. lynceus, Trichoda Plate. 41 Fig. 3.
+Maegera, Papilio Plate. 279 Machaon, Papilio Plate. 211 maculata, Phalaena
+Plate. 251 Fig. 3. maculata, Cassida Plate. 285 major, Bombylius Plate. 66
+marginalis, Dytiscus Plate. 161 marginata, Phalaena (Geometra) Plate. 293 Fig.
+2. marginella, Phalaena Plate. 58 Fig. 1. 2. marginella, Chrysomela Plate. 335
+marginata, Phalaena (Noctua) Plate. 150 Mappa, Phalaena Plate. 360 Marshami,
+Chrysomela Plate. 286 Fig. 1. Maura, Phalaena Plate. 230 Fig. 1. maxillosus,
+Staphilinus Plate. 96 Fig. 3. medius, Bombylius Plate. 146 Melolontha,
+Scarabaeus Plate. 264 Fig. 2. melonella, Phalaena Plate. 283 melitea, Trichoda
+Plate. 29 menthrastri, Phalaena Plate. 189 meticulosa, Phalaena Plate. 139
+migratorius, Gryllus Plate. 270 meleagris, Colpoda Plate. 32 minuta, Buprestis
+Plate. 256 minutus, Dytiscus Plate. 68 Fig. 1. 2. monacha, Phalaena Plate. 227
+monoceros, Meloe Plate. 182 moschatus, Cerambyx Plate. 94 Fig. 2. Myrtilli,
+Phalaena Plate. 221 mystica, Leptura Plate. 86 Fig. 2. Napi, Papilio Plate. 280
+Fig. 1. nasuta, Vorticella Plate. 29 neustria, Phalaena Plate. 95
+nigro-lineata, Leptura Plate. 353 Fig. 1. nitens, Carabus Plate. 313 nitidula,
+Chrysomela Plate. 273 nitidula, Cicada Plate. 288 Fig. 1. nobilis, Cassida
+Plate. 138 Fig. 1. 2. 3. nobilis, Scarabaeus Plate. 154 Fig. 1. 2. 3.
+noctiluca, Musca Plate. 346 nuchicornis, Scarabaeus Plate. 255 Fig. 2. nupta,
+Phalaena Plate. 224 nutans, Scarabaeus Plate. 255 Fig. 1. obscura, Silpha
+Plate. 63 Fig. 4. ocellata, Sphinx Plate. 269 oculatus, Saperda Plate. 305
+olor, vibrio Plate. 32 onopordinis, Musca Plate. 62 oo, Phalaena Plate. 179
+ophiopsis, Raphidia Plate. 315 orbona, Phalaena Plate. 345 Fig. 2. ovina,
+Hippobosoca Plate. 268 Fig. 2. oxyacanthae, Phalaena Plate. 165 padella,
+(Linn.) Phalaena Plate. 9 pallescens, Cimex Plate. 101 Fig. 5. 6. -- Larva
+Plate. 102 paniscus, Papilia Plate. 254 Fig. 1. 1. Panzerella, Phalaena Plate.
+106 Fig. 4. papilionaria, Phalaena Plate. 287 Fig. 1. paphia, Papilio Plate.
+247 paraple^ticus, Curculio Plate. 348 Fig. 2. paralelepipedus, Lucanus Plate.
+264 Fig. 1. Par, Phalaena Plate. 338 Fig. 3. parthenias, Phalaena Plate. 246
+Fig. 1. patella, Kerona Plate. 41 Fig. 4. Pavonana, Phalaena Plate. 58 Fig. 3.
+-- magnified Plate. 59 Pavonia Phalaena, male Plate. 1 -- female Plate. 253
+pectinicornis, Elater Plate. 356 Fig. 2. pectinicornis, Ptinus Plate. 326
+pendula, Musca Plate. 31 Fig. 2. pennaria, Phalaena Plate. 287 Fig. 2.
+pentadactyla, Phalaena Plate. 110 pellio, Dermestes Plate. 231 Fig. 3. perla,
+Hemorobius Plate. 277 Fig. 2. Persicariae, Phalaena Plate. 317 Pinastri
+Phalaena Plate. 347 Fig. 2. Pinastri, Sphinx Plate. 296 pinetella, Phalaena
+Plate. 263 Fig. 1. Pini, Phalaena Plate. 178 -- Larva Plate. 177 piniaria,
+Phalaena Plate. 336 pisi, Phalaena Plate. 51 plantaginis, Phalaena Plate. 134
+plumosa, Tipula Plate. 22 pluvialis, Tabanus Plate. 151 Fig. 3. pocillum,
+Trichoda Plate. 14 Podaella, Phalaena Plate. 267 Fig. 3. Podalirius, Papilio
+Plate. 109 Polychloros, Papilio Plate. 278 polygoni, Chrysomela Plate. 96 Fig.
+1. polymorpha Vorticella Plate. 41 Fig. 1. polypoda, Lepisma Plate. 162
+pomonae, Tipula Plate. 300 Populi, Sphinx Plate. 241 populi, Cimex Plate. 252
+Fig. 2. 2. populi, Phalaena Plate. 307 porcellus, Sphynx Plate. 341 porcellata,
+Phalaena Plate. 202 Fig. 3. potatoria, Phalaena Plate. 148 Praecox, Phalaena
+Plate. 213 prasinana, Phalaena Plate. 40 Fig. 2. prasinus, Cimex Plate. 123
+prodomaria, Phalaena Plate. 219 pronuba, Phalena Plate. 311 proscarabaeus,
+Meloc Plate. 43 Fig. 2. prunaria, Phalaena, male Plate. 21 -- female Plate. 293
+Fig. 3. prunata, Phalaena Plate. 233 Fig. 1. pruniella, Phalaena Plate. 58 Fig.
+1. 1. Psi, Phalaena Plate. 133 puella, Libellula Plate. 36 punctata (4)
+Chrysomela Plate. 111 Fig. 1. 2. punctata (14) Coccinella Plate. 39 Fig. 2.
+punctata (22) Coccinella Plate. 39 Fig. 1. 4. punctata (17) Coccinella Plate.
+39 Fig. 5. punctatus (4) Cimex Plate. 101 Fig. 1. 3. 3. punctatus (2) Dytiscus
+Plate. 303 pudibunda, Phalaena Plate. 160 purpuralis, Phalaena Plate. 339 Fig.
+2. pustulata, (6) Coccinella Plate. 39 Fig. 3. pygmea Buprestis Plate. 282
+pygmea Dytiscus Plate. 202 pyramidea, Phalaena Plate. 193 pyri, Curculio Plate.
+121 Fig. 3. 4. quadricornis, Monoculus Plate. 2 quadra, Phalaena Plate. 306
+quadrimaculatus, Mycetophagus Plate. 185 Fig. 2. quadrimaculatus, Scarabaeus
+Plate. 70 Fig. 3. quadripunctata, Silpha Plate. 56 Fig. 2. quercana, Phalaena
+Plate. 106 Fig. 3. quercifolia, Phalaena Plate. 232 Quercus, Phalaena, larva
+Plate. 103 -- winged state Plate. 104 radiatella, Phalaena Plate. 77 Fig. 3. 4.
+ramidulus, Ichneumon Plate. 42 Fig. 1. raptorius, Ichneumon Plate. 42 Fig. 2.
+repandaria, Phalaena Plate. 333 Fig. 1. Rhamni, Papilio Plate. 145 rhombica,
+Phryganea Plate. 220 riparia, Cicindela Plate. 301 riparius, Staphylinus Plate.
+167 rivosa, Tipula Plate. 48 Fig. 2. roboris, Phalaena Plate. 299 rosae,
+Tenthredo Plate. 164 rosea, Phalaena Plate. 40 Fig. 1. rotatoria, Vorticella
+Plate. 41 Fig. 2. rubago, Phalaena Plate. 338 Fig. 2. rubi, Phalaena Plate. 69
+rufus, Curculio Plate. 249 Fig. 1. rumicis, Phalaena Plate. 126 runica,
+Phalaena Plate. 354 Fig. 1. russula, Phalaena Plate. 214 sabulosa, Sphex Plate.
+93 Fig. 1. salicis, Buprestis Plate. 127 salicis, Phalaena Plate. 30
+sambucaria, Phalaena Plate. 170 sanguinolenta, Cicada Plate. 54 Fig. 1.
+sanguinolenta, Chrysomela Plate. 111 Fig. 3. 4. satellitia, Phalaena Plate. 168
+scarabaeoides, Dermestes Plate. 23 Fig. 1. 4. Schaefferella, Phalaena Plate.
+175 scrophulariae, Curculio Plate. 60 sericea, Chrysomela Plate. 321 Fig. 2. 2.
+scybalaria, Musca Plate. 346 Fig. 5. Semele, Papilio Plate. 259
+semi-argentella, Phalaena Plate. 65 Fig. 2. 3. semi-argentata, Musca Plate. 142
+Fig. 2. 3. seminationis, Musca Plate. 125 sex-maculata, Leptura Plate. 353 Fig.
+2. simplex, Necydalis Plate. 358 Fig. 2. Sinapis, Papilio Plate. 280 Fig. 2.
+solstitialis, Musca Plate. 294 spartiata, Phalaena Plate. 342 spectrum, Sirex
+Plate. 225 spicicornis, Cimex Plate. 135 spinula, Phalaena Plate. 345 sponsa,
+Phalaena Plate. 324 spumaria, Cicada Plate. 54 Fig. 2. sputator, Elater Plate.
+96 Fig. 4. squamana, Phalaena Plate. 157 Fig. 7. stagnorum, Cimex Plate. 38
+statices, Sphinx Plate. 204 Fig. 2. stellatarum, Sphinx Plate. 155
+stercorarius, Scarabaeus Plate. 264 Fig. 3. straminea, Phalaena Plate. 61
+striata, Notonecta Plate. 176 suberaria, Phalaena Plate. 251 Fig. 1. sulcatus,
+Dytiscus Plate. 68 Fig. 5. sulphuralis, Phalaena Plate. 339 Fig. 1. Sylvanus,
+Papilio Plate. 254 Fig. 2. syringaria, Phalaena Plate. 181 tecta, Meloc Plate.
+240 tenax, Proteus Plate. 32 Fig. 3. 4. tenebricosa, Chrysomela Plate. 276
+tenuirostris, Curculio Plate. 249 Fig. 3. terrestris, Apis Plate. 88 Fig. 1.
+terrestris, Julus Plate. 207 testudinarius, Scarabaeus Plate. 70 Fig. 1.
+thoracica, Silpha Plate. 63 Fig. 1. Tiliae, Sphinx Plate. 325 Tipuliformis,
+Sphinx Plate. 52 -- magnified, Plate. 53 tragopoginis, Phalaena Plate. 223 Fig.
+2. trepida? Phalaena Plate. 239 Fig. 1. trilineata, Musca Plate. 151 Fig. 5.
+trimacula, Phalaena Plate. 352 triplacia, Phalaena Plate. 298 Tritophus,
+Phalaena Plate. 359 trochiformis nigra, Vorticella Plate. 26 tumulorum, Apis,
+Plate. 151 Fig. 2. varia, Phryanea Plate. 277 Fig. 1. varia, Gryllus, Plate. 79
+Fig. 2. variegatus, Meloe Plate. 67 Verbasci, Phalaena Plate. 257 vermicularis,
+Trichoda Plate. 17 Vernaria, Phalaena Plate. 310 versicolora, Phalaena Plate.
+158 vespertaria, Phalaena Plate. 233 Fig. 3. Vespilio, Silpha Plate. 23
+vibrans, Musca Plate. 346 vidua, Phalaena Plate. 246 Fig. 1. villica, Phalaena
+Plate. 71 vinula, Phalaena Plate. 85 violaceus, Carabus Plate. 222 Fig. 1.
+violaceus, Cerambyx Plate. 64 Fig. 1. virgaureae, Papilio Plate. 173 virgo,
+Libellula Plate. 36 viridana, Phalaena Plate. 144 viridis, Cicada Plate. 54
+Fig. 3. viridis, vorticella Plate. 29 viridis, Buprestis Plate. 174
+viridissimus, Gryllus Plate. 130 vitellinae, Tenthredo Plate. 88 Fig. 3.
+vitellinae, Cicada Plate. 54 Fig. 3. vittatus, Cimex Plate. 252 Fig. 1. 1.
+vulgaris, Vespa Plate. 226 vulgata, Ephemera Plate. 128 vulgata, Libellula
+Plate. 237 Fig. 1. Uddmanniana, Phalaena Plate. 154 Fig. 2, 3, 4. ulmata,
+Phalaena Plate. 293 Umbratica, Phalaena Plate. 262 Fig. 2. undulata, Phalaena
+Plate. 342 urceolaris vorticella, (Branchionus) Plate. 117 Urticae, Papilio
+Plate. 55 urticata, Phalaena Plate. 349 Fig. 2. ustularia, Phalaena Plate. 82
+uvula, Trichoda Plate. 8 Wavaria, Phalaena Plate. 196 Zic-zac, Phalaena Plate.
+119 zoegana, Phalaena Plate. 106 Fig. 2. zonata, Sphinx. Plate. 195
+A SLIGHT SKETCH OF THE ANIMAL SYSTEM.
+LINNAEUS divided the Animal System into six classes.
+
+Class I. MAMMALIA. Suckle their young. II. AVES. (Birds) covered with
+feathers. III. AMPHIBIA. Lungs arbitrary. IV. PISCES. (Fishes) breath by gills
+not arbitrarily. V. INSECTA. (Insects) two antennae, or feelers Those feelers
+are the two horns that are affixed to the head.
+. VI. VERMES. No head.
+Insects therefore compose the fifth Class in the System, and are divided into
+seven Orders.
+
+Order I. COLEOPTERA. Wings two, covered by two shells divided by a
+longitudinal future. II. HEMIPTERA. Shells or covers of the wings, somewhat
+soft, and incumbent on each other. III. LEPIDOPTERA. Wings four, imbricated
+with minute scales. IV. NEUROPTERA. Wings four, naked, transparent,
+reticulated, with veins or nerves. Tail without sting. V. HYMENOPTERA. Wings
+four. Membraneous. Tail of the female armed with a sting. VI. DIPTERA. Wings
+two. VII. APTERA. No wings.
+TRANSFORMATIONS OF INSECTS.
+Many of our readers are no doubt acquainted with the singular transformations
+Insects undergo, but we trust those will pardon a digression which may be
+useful to those who have not that knowledge; and without premising farther we
+proceed to inform them, that Insects in general undergo a material change in
+their form at stated periods of their lives; there are some, though few, which
+burst forth from the egg perfectly formed, as Spiders, etc. but the greater
+part exist in four several states: the first that of the egg, whence the Larva,
+or Caterpillar is produced; it is at first very minute, but in this state it
+feeds, some kinds on one or two plants only, others promiscuously on many, they
+therefore continue to increase in size, moulting several times the outer skin,
+until the destined period of their dormant state approaches; they then spin a
+web more or less strong according to the species, and are converted into the
+aurelia, or chrysalis; and lastly they burst forth in due season perfectly
+formed. It is under this form they propagate a future race, and themselves
+perish, as they rarely survive the inclemencies of the winter.
+
+The ancient naturalists held suppositions very imperfect and erroneous
+relative to those transformations, but Malpighi and Swammerdam proved by many
+accurate examinations clearly, that those changes were not suddenly effected,
+but gradual; and that under the form of the Caterpillar they could distinguish
+the future changes the Insect would undergo.
+
+
+PLATE I. PHALAENA PAVONIA, EMPEROR MOTH. LEPIDOPTERA.
+Insects of the LEPIDOPTERA ORDER are divided into three Genera, PAPILIO,
+SPHINX, and PHALAENA, Butterflies, Hawk Moths, and Moths. The characters of the
+two former hereafter: those of the Phalaena are
+
+GENERIC CHARACTER. The antennae setaceous, decreasing in size from the base to
+the apex. The wings, when at rest, are generally contracted. They fly in the
+night.
+
+SPECIFIC CHARACTER. Antennae feathered. No trunk. Wings expanded, horizontal,
+rounded, entire, with a large eye in the center of each; the first red-brown
+waved; the second orange. The antennae of the male are broader, and the wings
+of the female larger, waved with black and white and bordered with yellow.
+Caterpillar green or yellow, spinous, on thorns and brambles. Length of the
+moth one inch. -- Berken. Out.
+
+The conformity and likeness which prevails between the male and female
+throughout the greater part of the animal system, cannot however in Insects be
+implicitly depended on; the difference in many is such as even to mislead some
+very accurate Entomologists, the illustrious Linnaeus not excepted. In this
+species it is not so great as in many, but such as entitles the female to a
+figure in a future plate: Our figure is of the male.
+
+Albin, ( Plate 25, Subject 37,) has given a figure of the male and female on
+the same plate, and describes a male to have changed to the aurelia state as in
+our plate represented July 16, and March 18 following to have produced the Fly.
+But the time of their appearance depends on the proportion of heat or cold; as
+the author's subject was preserved from the severity of winter, in a warm room.
+The usual time to find them in the caterpillar state is August, and in April
+the Fly.
+
+The singular provision which nature makes for the protection of this Fly
+deserves particular notice; when the time of its continuation in the
+caterpillar state is expired, by much labor it forms a kind of bag or purse,
+of a very tough substance; this it fixes against the trunks of trees, etc. by a
+number of hairs or filaments, which remain on the external surface. It lines
+the outer case by one of a finer texture, the top of which is closed by several
+bristles that unite in the center, exactly representing a cap, and excludes
+almost the possibility of its receiving an injury during this defenseless
+state. In this bag it passes to the aurelia, and remains until the birth of the
+perfect insect. -- Our figure represents the chrysalis or aurelia in the bag;
+part appears torn away to exhibit its situation therein.
+
+Were we to unite the several accounts of authors respecting its food, it would
+appear to be a general feeder; it will live on the rose, the elm, and the
+willow; and on thorns and brambles particularly.
+
+
+PLATE II.
+FIG. I. MONOCULUS QUARICORNIS. APTERA.
+Apterous insects are distinguished chiefly by having no wings in either male
+or female.
+
+GENERIC CHARACTER. The feet are formed for swimming. The body is covered with
+a crustaceous case or shell. The eyes fixed in the shell very near each other.
+
+SPECIFIC CHARACTER. Gray brown. One eye. Antennae four. Body diminishes
+toward the tail, which is long and bifid, with three or four strong hairs on
+each side. A bag of eggs on each side of the tail. Length half a line. -- Berk.
+Out.
+
+Although this insect may have been noticed by many, swimming, or rather
+darting swiftly in various directions in water; its minuteness is such, that
+the most attentive could never have comprehended precisely its component parts;
+but the microscope discovers it to be an animal of such singular formation as
+highly to deserve the attention of the naturalist. It is covered by a firm
+crustaceous substance, divided into annulations, and armed in several parts
+with spines and bristles; notwithstanding which, this shell is so transparent
+that the whole motion of the intestines is very visible by a good magnifier.
+
+It must be granted that, but for the microscope, the wonders of the minute
+creation, would be to us entirely unknown; our ideas could never suppose the
+existence of those animated forms which occupy the immeasurable space between
+an apparent atom and nothing. The myriads of animals, thousands of times
+smaller than a mite, must evade our cognizance, and be an actual conviction of
+their nonexistence.
+
+But with all the utility that the microscope can boast, no instrument is so
+likely to mislead the most accurate observer, particularly if not in the habit
+of using it; the variations of light, the difference of the magnifying powers,
+or the damage the glasses may meet with by accident, such as requires every one
+to examine with the greatest care; one degree of light may bring an object to
+view, whilst another may entirely blend it with the fluid it exists in; or one
+glass may discover spines on an object, another glass might have represented
+perfectly smooth; it is therefore necessary to begin with a small power, in
+proportion to the size of the object, and to proceed to deeper magnifiers after.
+
+There is some difference in our figure, and those either of Barbut, or of
+Baker, which appears chiefly from our using a single lens nearly of the deepest
+power convenient to use. Our glasses were the 20th and 30th of an inch focus.
+
+We very attentively examined the eyes, and found, not one, but two, placed
+near each other, on a scale or plate of a black color; hence arises the
+appearance of a single eye by a small magnifying power.
+
+The tail presents a forked appearance by a deep power, and the eggs are
+contained in two bags, one on each side the tail. The color varies probably in
+proportion to the nature of its food, to pale green, more or less of a red, or
+of a gray brown color.
+
+FIG. II.
+This minute animalcula is frequent in stagnant water, or in infusions of
+vegetables, and is one species of those whose existence can only be discovered
+by a good microscope. It is very difficult, considering the power those
+creatures have to distort their true form at pleasure, to fix their
+distinguishing character: therefore where the definition appears dubious, we
+prefer being silent rather than hazard an error.
+
+FIG. 2. Represents them (magnified) as they sometimes seem to follow the
+leader in herds; but perhaps it is only the scent of the prey that induces each
+to follow the foremost, as they frequently swim or whirl in the water
+separately, with great swiftness, devouring the smaller kinds of animalculae.
+
+FIG. 3. Two, magnified by a deep power, when they appear to have feet or sins.
+
+FIG. 4. Shows the strange form it assumes whilst depositing its eggs.
+
+FIG. 5. The eggs deeper magnified.
+
+
+PLATE III. PHALAENA BUCEPHALA, BUFF-TIP MOTH. LEPIDOPTERA.
+GENERIC CHARACTER. Antennae taper from the base to the apex, and are
+setaceous. Wings in general deflected when at rest. Fly by night. No Trunk.
+Wings reversed, i. e. first Wings horizontal and second erect.
+
+SPECIFIC CHARACTER. Antennae feathered. First Wings gray, with two double
+transverse brown waves, and a large yellowish brown spot at the extreme angle.
+Second Wings plain, light yellow, length scarce one inch. Caterpillar hairy,
+yellow with black spots. On Oaks, Ash, etc. -- Berkenhout.
+
+The delicate assemblage of beautiful down which cloth the upper wings of the
+Buff-tip Moth is its chief recommendation; the history affords but little for
+observation, it is hatched from the egg in August, and in June following the
+Fly is perfect.
+
+Its beauty preserves it not from the race of birds who pursue it from
+necessity, or from an innate desire of cruelty and devastation, and whilst
+happy in its apparent security, ranging the plain to experience the pleasures
+of liberty, or to banquet in the nectareous profusion of the vegetable kingdom,
+he becomes a dupe to his happiness, his pleasures at once sully, and he falls
+an unresisting victim into the devouring jaws of death.
+
+
+PLATE IV. PHALAENA GROSSULARIATA. MAGPYE, or CURRANT-MOTH.
+GENERIC CHARACTER. The antennae setaceous, decreasing in size from the base to
+the point. The Wings, when at rest, generally deflected. Fly by night.
+
+Antennae taper, like bristles.
+
+SPECIFIC CHARACTER. Antennae and Legs black. Body yellow, with black spots.
+Wings white, with many black patches, and a transverse yellow wave on the first
+pair. Caterpillar white, with black spots on the Back; Belly yellow. Berk. Out.
+
+The Magpye-Moth is one of the geometrae; and feeds on Goose-berry and
+Currant-bushes, as the name indicates. The Caterpillar is found in May; and in
+July, the Fly.
+
+The Caterpillar, previous to its change to the Chrysalis state, spins a web of
+a very slight and delicate texture, by which it is suspended horizontally
+against the branches of trees, etc. as in our Plate represented.
+
+
+PLATE V.
+FIG. I. MONOCULUS CONCHACEUS. APTERA.
+Without wings.
+
+GENERIC CHARACTER. Body covered with a crust or shell. Feet made for swimming.
+
+SPECIFIC CHARACTER. Enclosed in a bivalve, ash-colored shell, from the
+aperture of which it puts forth a number of capillary antennae, which it
+retracts when taken out of the water.
+
+To acquire a proper knowledge of the formation of this minute insect, it is
+necessary to use a microscope with a glass stage for objects, or rather such as
+admit of nicely adjusting a talc as occasion may require: the insect to be
+taken from the water with a camel-hair pencil, and carefully placed on the
+talc; after which it may be examined by a magnifier of 1/10 of an inch focus;
+but in proceeding to a deeper power, let the talc be turned the upper surface
+with the insect in the drop of the fluid from the lens, and thereby the lens
+may approach the object to its proper focus; without this caution the lens
+would be frequently immerged in the water, and entirely obstruct the sight.
+
+In the adult state, the opacity of the bivalve shell, its external covering,
+so entirely obscures the internal motion, that nothing, except the filaments it
+throws from the aperture or opening, is visible by the microscope.
+
+It breaks from the egg perfectly formed, but very minute and transparent; this
+is therefore the best time to discover its structure, and from one in this
+state we have taken our figure
+
+By the antennae it directs its course, as does the Monoculus Quadricornis; and
+like it also it has two eyes fixed in the shell, but it can completely envelop
+its head in its bivalve covering; its mouth is beneath, but the numerous
+filaments it darts forth, causes such a violent motion in the water, that the
+minuter insects are unresistingly drawn between them, and forced to the mouth.
+
+The motion of its lungs is very visible, as are also the vesse ram^lsfying
+thence. Its food is carried to, and digested in the deep-coloured tube, or
+intestine, and the refuse is discharged by a sudden jerk from the extremity of
+the tube, or anus.
+
+Thus it exists, a life of rapine and destruction, enjoyed at the expense of
+the lives of thousands; and as the objects of its ravenous disposition are
+defenseless, so are they the sport of their conqueror: the few moments of
+intermission its craving appetite grants them, is occupied equally in the
+spoil, first pressing them to death, and then tossing them undevoured into the
+fluid.
+
+But should a more powerful insect oppose him, he immediately contracts his
+parts, and nothing more than the external covering is open to his antagonist's
+violence, and he will sooner die ignobly than offer the least opposition.
+
+FIG. II.
+This animalcule is very minute, and appears like a fine membrane without
+intestines before the microscope; from the appearance of its winged sides, it
+is supposed to resemble a bird. It is called Bursaria Hirundinella.
+
+FIG. III.
+The back and side view of an animalcule found in ditch-water on duck-weed,
+very pellucid, and singularly marked in the intestines; tail moveable, and
+thereby it directs its course.
+
+
+PLATE VI. SPHINX FILIPENDULAE. BURNET MOTH. LEPIDOPTERA.
+GENERIC CHARACTER. Sphinx, Antennae thickest in the middle. Wings, when at
+rest deflexed. Fly slow, morning and evening only.
+
+SPECIFIC CHARACTER. Antennae, Legs, and Body black. Second Wings red, with a
+greenish border. First Wings bluish green, with six red spots, in pairs, length
+eight lines. Caterpillar yellow, with black spots.
+
+Linn. Syst. Not. 2. 805. 34. Fn. Sv. 1097.
+
+Papilio Phalaena Aries. Degeer Ins. 7. 591. 1 Tab. 44. Fig. 1.
+
+We have two kinds of Burnet-Sphinx, distinguished by the appellations of
+Five-spot, and Six-spot, Burnets; though often considered only as varieties, or
+difference of sex, they appear to be two distinct species; not only that they
+are commonly found in parts of the country very remote from each other, but the
+number and situation of the small red spots which adorn the Superior Wings,
+constitute a material distinction. The Six-spot is taken near the environs of
+London, where the other is rarely if ever found, and in some parts of
+Bedfordshire the Five-spot is very common.
+
+As all Lepidopterous Insects undergo some trifling alterations from attendant
+circumstances, so specimens of the female Sp. Filipendulae has been taken with
+the two spots near the base of the Wing closely united; and hence arose some
+doubt as to the existence of any other Five-spot Burnet; the two kinds must
+not, however, be compared to entertain this supposition, as the Five-spot is
+not only smaller, the margin of the Inferior Wings deeper, but wants that spot
+of red nearest the Apex of the Superior Wings, and which must immediately
+appear on the slightest inspection.
+
+The Caterpillars of most Insects of this genus are armed with a spine, or
+horn, above the anus, in which particular the Caterpillars of our species, does
+not agree. It feeds on the Genista Anglica, needle furze; on the Ulex
+Europaeus, common furze; and on the Filipendula; those plants flourish in a
+sandy soil, where the Caterpillars are to be sought, in May, and June: the
+Sphinx appears in July.
+
+
+PLATE VII. CHYSIS IGNITA. HYMENOPTERA.
+Wings four, generally membraneous. Tail of the females armed with a sting.
+
+GENERIC CHARACTER. The abdomen has three annulations exclusive of the anus,
+the antennae has twelve articulations, exclusive of the first joint which is
+longer than the rest. The body shines like polished metal. A kind of collar is
+very distinct in this genus. The anus is dentated, having one, two, or more
+teeth.
+
+SPECIFIC CHARACTER. The antennae are black, the thorax a fine mazarine blue,
+having in some positions a greenish cast, the abdomen a fine gold color with
+shades of crimson and yellow green; the anus has four teeth or denticulations.
+-- Syst. Ent. 358. 6. Linn. Syst. Not. 2. 947. 1. Fn. Sv. 1665.
+
+Exotic Insects, or at least those of the East, and West Indies, for the
+effulgence, and beauty, of their coloring in general, claim a superiority over
+the natives of this climate; but the appearance of this Chrysis before the
+speculum of an opake microscope, may vie with many of the most favorite
+foreigners hitherto discovered: the richness of changeable colors blending
+into each other, according to the variations of the light reflected on the
+surface, is such that we freely confess our inability, or even the inability of
+art, to equal; though we trust our figure will give some idea of the delightful
+appearance of the original.
+
+The Fly of the natural size is given on the fore ground, the magnified figure
+above.
+
+It commonly constructs its habitation in the chinks of old walls, or decayed
+trees, but prefers a situation near the entrance of woods where it may reside
+in silent security. If attacked by any Insect of equal size, it is generally
+victorious, for such is the amazing strength of its almost impenetrable coat,
+that it will encounter the spider without much apprehension of danger; and as
+its strength protects it from many injuries which Insects with tender bodies
+are exposed to; the species multiplies, and is not uncommon in several parts of
+the country. It rarely appears from its retreat until the middle of the day,
+and is then only invited by the piercing rays of the sun.
+
+
+PLATE VIII. VORTICELLA LUNARIS.
+GENERIC CHARACTER. A worm capable of contracting or extending itself, naked,
+with rotatory cilia.
+
+SPECIFIC CHARACTER. Simple, hemispherical, with a twisted pedicle.
+
+The small head of this animalculum is crater-form, the margin of the orifice
+protuberant, ciliated on both sides, the hairs undulating, the pedicle eight or
+ten times the length of the body. As often as the mouth is opened, the pedicle
+extends itself; when it is shut, this is twisted up spirally, and their motions
+are often reiterated in a short space.
+
+FIG. 1. the head, expanded. -- FIG. 2. when shut. -- FIG. 3. the undulated
+edge.
+
+Muller. Any. Inf. -- Adams's Essays on the Microscope.
+
+FIG. 4. found in infusions of hay, and is called Trichoda Uvuia.
+
+
+PLATE IX. PHALAENA EVONYMELLA. SMALL ERMINE MOTH. LEPIDOPTERA.
+GENERIC CHARACTER. Antennae taper like bristles.
+
+SPECIFIC CHARACTER. First Wings silver-white, with fifty black spots in three
+or four rows. Second wings lead-colour.
+
+Syst. Ent. 656. 4. Linn. Syst. Not. 2. 885. 350. Fn. Sv. 1363*
+
+Phalaena Evonymella feeds on the white-thorn, black-thorn, and on fruit trees.
+In May the caterpillars are hatched, and as they live in societies of hundreds,
+or even thousands, by their united industry they spin a web spacious enough to
+contain the family, and therein they assume their several forms; early in June
+they become chrysalides, and in about fourteen days the Flies are perfect.
+
+The caterpillars of the Pha. Padella and Evonymella are ever found in the same
+society, and many circumstances may be advanced to prove them either varieties
+of each other, or difference of sex only, although Linnaeus considered them as
+distinct species. They differ in color, the Caterpillars of one being light
+yellow brown, the other black, and the upper wings of the Evonymella are less
+of a lead color than those of the Padella.
+
+To gain information on this subject, we, this season, put the eggs of several
+females into different glasses; the eggs of each female produced both kinds of
+Caterpillars, they became Chrysalides, and a number of each sort of the Flies
+came forth.
+
+
+PLATE X. PHALAENA CHRYSORRHOEA. YELLOW TAIL MOTH. LEPIDOPTERA.
+GENERIC CHARACTER. No trunk. Wings depressed, deflexed. Back smooth.
+
+SPECIFIC CHARACTER. Antennae feathered. Entirely white, except the extremity
+of the abdomen, which is yellow. Caterpillar black and red, hairy. -- Syst.
+Entom. 577. 74. Linn. Syst. Not. 2. 822. 45. Fn. Sv. 1128.
+
+Linnaeus in the Systema Naturae, has confounded the Yellow Tail, with the
+Brown Tail Moth, nor was it generally considered as an error till some time
+after; but the immense increase of the Caterpillars of the Brown Tail Moth in
+the year 1780, afforded an opportunity of determining them to be distinct
+species.
+
+Though foreign to our purpose, and properly under the history of the Brown
+Tail Moth, we cannot pass over such remarkable circumstances as attended the
+uncommon increase of this species in the above winter. The fears of the public
+must have been great indeed, when prayers were offered to avert the famine
+supposed to be threatened by the appearance of those insects in the state of
+the Caterpillar.
+
+In July the Caterpillar is found feeding on the white-thorn, fallow,
+apple trees, and on fruit trees in general, about the latter end of the same
+month, it spins a web of a tough texture against the branches of trees, etc.
+becomes an aurelia, and in August the Fly comes forth.
+
+
+PLATE XI. ACARUS COLEOPTRATORUM. BEETLE-TICK. APTERA.
+No wings.
+
+GENERIC CHARACTER. Legs eight. Eyes two, lateral. Tentaculae two, jointed.
+
+SPECIFIC CHARACTER. Tawny. Anus whitish.
+
+Syst. Ent. 814. 24. Linn. Syst. Not. 2. 1026. 27. Fn. Sv. 1973.
+
+This Tick is one of those detestable race of animals whose miuteness secures
+it from danger, while it draws nutriment from the blood, and frequently from
+the vitals of larger insects. Every animal is tormented by those cruel and
+blood-thirsty beings, varying in size, in shape, and in color, but whether
+they be distinguished by the name of lice, bugs, fleas, or mites, they fall
+under one point of view, when considered as a pest to the societies of other
+animals.
+
+Beetles are in general infested and severely injured by those vermin. I found
+about a month since one of the Scarabaeus Stercorarius, Common Dor, or Clock,
+almost devoured alive by them, little except his shell remaining; yet, in this
+state it lived several days. There were a number of small brown bags affixed by
+pedicles to its breast, thighs, and even feet; the microscope discovered those
+to contain each an embryo, and the pedicle, no doubt, answered the part of an
+umbilical chord, to extract nourishment from the living creature. I perceived
+on further inspection their base penetrated the shell, or entered the apertures.
+
+FIG. 1. Natural size of the Ticket and Embryo.
+
+FIG. 2. The upper side, and Fig. 3. under side, magnified.
+
+GRADUAL, from these what numerous kinds descend,
+Evading even the microscopic eye!
+All Nature swarms with life; one wondrous mass
+Of Animals or Atoms organized,
+Waiting the vital breath, when PARENT HEAVEN
+Shall bid his Spirit blow. --
+--
+-- These, concealed
+By the kind art of forming HEAVEN, escape
+The grosser eye of man: for, if the worlds
+In worlds enclosed, should on his senses burst,
+From cates ambrosial, and the nectar'd bowl
+He would abhorrent turn: and in dead night
+When silence sleeps over all, be stunned with noise.
+THOMSON'S SEASONS.
+PLATE XII. CICINDELA CAMPESTRIS. SPARKLER. COLEOPTERA.
+Wings two, covered by two shells, divided by a longitudinal future.
+
+GENERIC CHARACTER. Antennae taper. Jaws prominent, denticulated. Eyes
+prominent, Thorax margined. Five joints in each foot.
+
+SPECIFIC CHARACTER. Above green-gold. Beneath copper tinged. Eyes large.
+Thorax angular and narrower than the head. Six spots on each shell. An oval
+substance at the base of each thigh. Legs long and slender.
+
+Syst. Ent. 224. 1. Linn. Syst. Not. 2. 657. 1. Fn. Sv. 746. Scop. carn. 181.
+
+Those beautiful Insects vary something in size and color, the spots on the
+elytra are generally white, but are often found with spots of yellow; they fly
+or run quick, are carnivorous, and live in dry sandy places. In the spring its
+larva is found, which resembles a long, soft, whitish worm, with six legs and a
+brown scaly head; it perforates the sand perpendicularly, and rests near the
+surface to ensnare smaller insects.
+
+It very difficult, if at all possible, to breed those insects and observe
+their metamorphoses; we have tried various methods, but have not yet been so
+fortunate as to succeed.
+
+
+PLATE XIII. LUCANUS CERVUS. STAG BEETLE. COLEOPTERA.
+GENERIC CHARACTER. Antennae clavated, compressed, pectinato-fissile. Maxillae
+extended so as to resemble horns. Five joints in each foot.
+
+SPECIFIC CHARACTER. Head and Thorax black. Shells dark brown. Horns resembling
+those of a Stag, forked at the end, a small branch near the middle on the
+inside, moveable. Shells plain.
+
+The Stag-Beetle is the largest coleopterous insect we possess, but its size is
+insignificant, when compared with those of the same kind that inhabit hot
+countries or woodlands, as instanced in the Scarabaeus Hercules, etc.
+
+It is sufficiently distinguished in this country by the moveable maxillae, or
+jaws, that project from the head; they are of a dark red color, and though
+brighter in some specimens, are rarely of the beautiful coral appearance Barbut
+and other authors have described.
+
+Coleopterous insects in general are endowed with amazing strength, and their
+arms are equally serviceable for the assault or defense. The antlers of this
+Beetle are carefully to be avoided by such as attempt to deprive it of liberty;
+with them it strips off the bark of oak trees, and attaches itself firmly to
+the trunk, thence extracting the liquor that oozes with its tongue.
+
+They are plentiful in June and July, in Kent and Essex, and in many other
+parts of Britain.
+
+The females are known by their maxillae being much shorter than those of the
+males; they deposit their eggs under the bark of old trees, either oak or ash,
+and the food of the larvae, or grubs, is the internal substance of the trunk,
+first reduced to a fine powder; they undergo transformation in this cell, and
+force a passage through the bark when perfect beetles.
+
+
+PLATE XIV. TRICHODA POCILLUM. TRICHODA.
+An invisible, pellucid, hairy worm.
+
+SPECIFIC CHARACTER. Oblong trichoda, the forepart truncated and hairy, the
+tail articulated, and divided into two bristles.
+
+This invisible animalculum is common in marshy places, particularly in the
+swamps near the banks of the river Thames.
+
+When magnified, the body is pellucid, and appears as two separate bodies, one
+enclosing the other; the interior part is filled with molecules, and the
+exterior is membranaceous: they are capable of extension or dilation, and of
+folding in various directions. At the extremity of the interior part is a
+muscular orbicular membrane, which is opened or shut at pleasure, and forms the
+mouth.
+
+FIG. 1. The interior part protruded with the mouth open.
+
+FIG. 2. The jaws shut.
+
+
+PLATE XV. PHALAENA CAJA. GREAT TIGER MOTH. LEPIDOPTERA.
+GENERIC CHARACTER. Antennae taper from the base. No trunk. Wings depressed,
+deflexed. Back smooth.
+
+SPECIFIC CHARACTER. Antennae feathered. First wings whitish, with large
+irregular dark brown spots. Abdomen and second wings orange, with black spots.
+
+The superior wings in some of this species have smaller brown (...), and more
+of the cream color; in others the spots are larger, and ^^^quently two are
+united to form one. The inferior wings also admit of equal variety; the spots
+near the thorax are often united, and the small black stripes on the back are
+fewer in the present specimen than are common to the Moth.
+
+The caterpillars feed on lettuces, or nettles. When he is apprehensive of
+danger, he rolls himself up like a hedgehog. He becomes a chrysalis in May;
+and the latter end of June, or early in July, it produces the Moth.
+
+
+PLATE XVI. PHALAENA ANTIQUA. WHITE SPOT TUSSOCK MOTH, OR VAPOURER. LEPIDOPTERA.
+GENERIC CHARACTER. Antennae taper from the base. No trunk. Wings depressed.
+Back hairy.
+
+SPECIFIC CHARACTER. Antennae feathered. First wings cloudy, orange, waved and
+spotted with brown, and a white spot on the posterior angle. Female without
+wings.
+
+The female Vapourer Moth at first sight perfectly resembles an apterous
+insect; but on inspection, very small wings are seen at the extremity of the
+Thorax, and the antennae determine it to be a phalaena. It creeps in a sluggish
+manner, and lays an abundance of eggs.
+
+FIG. 1. the Female. FIG. 2. the Male.
+
+The Caterpillars feed on white thorn, and on trees in general. It has been
+known to live on the deadly nightshade, and other poisonous plants. The
+Caterpillars are found in July, and the Moth in September.
+
+
+PLATE XVII.
+VORTICELLA URCEOLARIS.
+GENERIC CHARACTER. A small animal, with a vascular cup; the mouth is at one
+end cili^^ed, and capable of being contracted; the stem fixed.
+
+SPECIFIC CHARACTER. Single, with a short tail, and toothed mouth.
+
+This Animalcum is but perceptible to the naked eye, appearing as a small white
+speck; the microscope discovers the external covering to be so transparent,
+that all the motions of the animal within are perfectly distinct. It has a
+double rotatory instrument, which, however, it can conceal or show at pleasure;
+and it has power to protrude the head and tail as at FIG. 1. or to contract
+them within the external coat or covering, as at FIG. 2. -- When the animal
+intends to display its rotatory instrument, it forces its tail through the hole
+at the extremity of the outer coat, and affixes it to whatever substance is
+near; but when it swims, it moves its tail backwards and forwards to assist it.
+
+They are found in river, or stagnant, water.
+
+FIG. III. TRICHODA VERMICULARIS.
+GENERIC CHARACTER. An invisible, pellucid, hairy worm.
+
+SPECIFIC CHARACTER. Long cylindrical trichoda, with a short neck, the apex
+hairy.
+
+Is found in river water, and can assume various forms, as in our figure shown.
+
+
+PLATE XVIII. NEPA CINEREA. WATER SCORPION. HEMIPTERA.
+GENERIC CHARACTER. Antennae, or fore legs, cheliform, wings crossed and
+complicated; fore part coriaceous.
+
+SPECIFIC CHARACTER. Black brown. Head small. Antennae cheliform. Thorax almost
+square. Target large, brown. Shells large. One joint in each foot. Length near
+an inch. In the female the abdomen terminates in two long appendices. Four legs
+only.
+
+There are three species only of this genus common to our waters, though the
+waters of hot countries abound with various kinds, some considerably exceeding
+in size even our Sphinx Atropos.
+
+The Insect sinks its eggs into the cavity of a rush, or other aquatic plant,
+whence the larvae are hatched. The perfect insect is found in June, and thence
+to September or later; they are voracious, and feed on other aquatic animals,
+grasping their prey between their fore feet, and tearing them to pieces with
+their sharp rostrum. -- They fly in the evening, and thus remove in herds from
+one pool to another when danger approaches.
+
+It is supposed by some authors, that the fore feet of the nepa are the
+antennae, and if this be admitted, the Insect has only four feet; but if
+considered destitute of its antennae, it has six.
+
+
+PLATE XIX. CHRYSIS BIDENTATA. HYMENOPTERA.
+GENERIC CHARACTER. Thorax joined to the abdomen by a short pedicle. Abdomen
+divided into three segments. Sting simple. Wings not folded. Antennae filiform
+of one long and eleven short joints each.
+
+SPECIFIC CHARACTER. Head and last segment of the body, sky blue, changeable.
+Thorax, and two first annulations of the abdomen, crimson with gold spots.
+Thorax with two teeth.
+
+The Chrysis Bidentata is scarcely so large, and by no means so common as the
+Chrysis Ignita, (not exceeding one-third of an inch in length) but is equal, if
+not superior in beauty and richness of color. The head, but more particularly
+the last segment of the body, appears in one direction of light, blue, in
+another green, in another purple, etc. and the thorax, and two first segments
+of the abdomen are far more enriched with a golden appearance; the ground
+color is deep crimson, but the metallic appearance on the lighter parts, and
+the number of small gold spots which besprinkle it, greatly diminish the
+strength of color, and renders it, even before it is magnified, a superb
+little insect.
+
+It is found in May or June in some parts of Kent and Essex.
+
+
+PLATE XX.
+FIG. I. PHALAENA CHRISTIERNANA. LEPIDOPTERA.
+GENERIC CHARACTER. Pyralis.
+
+SPECIFIC CHARACTER. First wings yellow, with rose-coloured marks. Under wings
+flossy, brownish gray.
+
+The natural history of this Phalaena is so little known, that we freely
+confess our inability to show its transformations; and although a deviation
+from our first intention, we trust the scarcity of the Fly will plead our
+excuse. We shall occasionally introduce figures of some rare and non-descript
+subjects, which we hope will be highly satisfactory to many of our subscribers.
+
+Our specimen was taken at Feversham; they are sometimes met with about
+Darnwood in June or July.
+
+FIG. II. HIMANTOPUS LUDIO.
+GENERIC CHARACTER. A pellucid, invisible, cirrated worm.
+
+SPECIFIC CHARACTER. Curled Himantopus; the upper part hairy, the tail extended
+upwards.
+
+
+PLATE XXI. PHALAENA PRUNARIA. ORANGE MOTH. LEPIDOPTERA.
+GENERIC CHARACTER. Geometrae. Antennae feathered.
+
+SPECIFIC CHARACTER. Wings orange, sprinkled with brown, and a semi-lunar spot
+on the first pair. Female paler than the male. Caterpillar yellow brown, with
+two spines before and two behind.
+
+The caterpillars of this Moth feed on fruit trees, or on thorns, in the month
+of May; the Chrysalis is commonly found, rolled up in a decayed leaf, inwardly
+protected by the web, in June; and in July the Moth.
+
+The present figure is of the male.
+
+
+PLATE XXII. TIPULA PLUMOSA. SEA TIPULA. DIPTERA.
+GENERIC CHARACTER. Head long. Palpi four, curved. Trunk very short.
+
+SPECIFIC CHARACTER. Brown. Thorax greenish. Eyes black. Fore legs longest.
+Wings shorter than the abdomen.
+
+Is found in the month of April near marshes, and has been frequently mistaken
+for the common Gnat.
+
+
+PLATE XXIII. SILPHA VESPILLO. COLEOPTERA.
+GENERIC CHARACTER. Antennae clavated, foliated. Head prominent. Thorax
+margined.
+
+SPECIFIC CHARACTER. Margin of the thorax broad. Shells abbreviated, black,
+with two orange belts. Thigh of the hind legs large, with a spine near their
+origin; length one inch.
+
+This species, like most of the Coleopterous Insects, delights in filth and
+putrescence, and are rarely found except in the dung, or dead bodies of larger
+animals, whose entrails they devour; they prey on the larvae of smaller insects
+beneath the surface of the earth, or they will destroy each other. Their Grubs
+are secreted in perforations made in the earth by the female, and therein they
+change to their last or perfect state in June or July: those Grubs are to be
+found by following the track of a plough.
+
+They fly well with the transparent wings, which are concealed beneath the
+Elytra or upper Shells. The male is rather smaller than the female, and the
+orange belts are of a deeper hue: though both male and female vary in the
+strength of color when alive, and yet more when preserved in cabinets, as they
+sometimes become almost brown. All insects are subject to this change, whatever
+may be the care of the collector.
+
+
+PLATE XXIV. LIBELLULA DEPRESSA. DRAGON FLY. NEUROPTERA.
+Wings four, naked, transparent, reticulated with veins or nerves. Tail without
+a sting.
+
+GENERIC CHARACTER. Mouth with two long lateral jaws. Antennae very short. Tail
+of the male forked. Wings extended.
+
+SPECIFIC CHARACTER. Eyes brown. Thorax greenish, with two yellow transverse
+bands. A large black spot at the base of each Wing, and a small dark mark on
+their exterior margin. Body depressed, lance-shaped.
+
+All the species of Libellula, but particularly the larger kinds, are
+considered by many rather as objects of terror, than subjects worthy
+inspection; and the vulgar denomination of Horse-stinger, contributes to this
+abhorrence: although it has no power over animals of such magnitude, it is
+perfectly a Vulture among lepidopterous, or other defenseless Insects,
+destroying more for its sport than for its voracious appetite.
+
+The Fly is on the wing in May, and June, in almost every marshy situation; the
+female lays her eggs near the roots of Osiers on the banks of ditches, or sinks
+them into the stalks of Rushes in the water; they hatch, and an ugly apterous
+insect, of a brown color, comes forth; it has a long body like the Fly, six
+Legs, and a forked Head, a sharp spine at the extremity of the abdomen, and a
+row of spines on each side, one at every joint; it plunges into the water, and
+immediately devours such of the inhabitants, or their eggs, as comes within its
+reach, and it continues this life of depredation until its next change. They
+are to be taken with a small hand-net.
+
+All transparent objects, in a certain direction before a microscope, reflect
+the colors of the prism. The Tipula Plumosa exhibits, in this situation, an
+effulgence of coloring, which its natural size conveys but small vestiges of;
+and the colors on the wing of this Libellula appears far more vivid when
+magnified.
+
+The body of the male is bluish gray; the present specimen is the female.
+
+
+PLATE XXV. SPHINX API-FORMIS. BE HORNET SPHINX.
+GENERIC CHARACTER. Antennae thickest in the middle. Wings, when at rest,
+deflexed.
+
+SPECIFIC CHARACTER. Wings transparent, with brown veins. Abdomen yellow, the
+first and fourth division from the thorax dark, purplish. Thorax brown, with
+two yellow patches in front. Head yellow. Antennae dark brown. Linn. Syst. Not.
+
+The Caterpillar of the Sphinx Api-formis is an internal feeder, and found only
+by making an incision into the innermost substance of the Poplar, the only tree
+the female commonly deposits her Eggs on; it i^ to us unknown, as is also the
+time of continuing within the trunk of the tree; but in June, early in the
+morning, or in the evening, the Chrysalis is seen issuing through the bark,
+from a perforation in the trunk, which the Caterpillar had formed previous to
+its change, generally to the depth of six or eight inches, or more. Nature has
+furnished every segment of the Chrysalis with a double row of sharp teeth, or
+spines, therewith it firmly attaches itself to the sides of the cavity, and, by
+repeated exertions to break from its prison, gradually (...) forth; thus, when
+it has extricated itself from the tree, and the Chrysalis is supported as in
+our Plate represented, the upper parts burst asunder with violence, and the
+insect rushes forth to enjoy "the temperature of the summer season." It is
+rarely found except in Essex.
+
+There is another Sphinx, which differs in so few particulars, that it has
+been mistaken for the present subject; notwithstanding, it may be easily
+distinguished by a crescent of yellow in the fore part of the thorax, and
+thence entitled the Lunar Hornet Sphinx; a Drawing of which Insect, with the
+larva, has been presented to the Linnaean Society. This larva is nearly the
+size of the Buff-tip Caterpillar, and of an obscure brown color; probably the
+larva of the Sp. Api-formis may much resemble it.
+
+It is arranged in many cabinets under the title of Sphinx Vespiformis; but the
+Sp. Vespiformis, in the Linnaean Collection, now in the possession of Dr.
+Smith, scarcely exceeds half the size of this subject, and is probably unique.
+The Lunar Hornet-Sphinx had no place in that cabinet.
+
+
+PLATE XXVI.
+FIG. I. TRICHODA COMETA.
+GENERIC CHARACTER. An invisible, pellucid, hairy Worm.
+
+SPECIFIC CHARACTER. Spherical, the fore part hairy, with an appendant globule.
+
+FIG. II. TRICHODA LONGICAUDA.
+SPECIFIC CHARACTER. Cylindrical, the first part truncated, and set with hairs.
+The tail long, with two joints, and terminated by two bristles.
+
+FIG. III. VORTICELLA TROCHIFORMIS NIGRA.
+GENERIC CHARACTER. A Worm, capable of contracting or extending itself, naked,
+with rotatory cilia.
+
+SPECIFIC CHARACTER. Top-shaped black vorticella.
+
+This species of Vorticella appears, without the assistance of a microscope, as
+small black specks, swimming on the water, particularly in meadows which are
+inundated. They are constantly in motion; and two small white hooks are
+perceptible by glasses at 1 -- 1; by the help of those it is supposed to swim,
+or they may enclose some rotatory organ. The insect is opaque.
+
+
+PLATE XXVII. LEPTURA ARIETIS. COMMON WASP BEETLE. COLEOPTERA.
+GENERIC CHARACTER. Antennae tapering to the end. Shells narrower at the apex.
+Thorax somewhat cylindrical.
+
+SPECIFIC CHARACTER. Black. Anterior and posterior margin of the Corslet
+yellow. Four yellow lines on each elytra or Shell. Lin. Syst. Not.
+
+They fly well, and are sometimes found on aquatic plants. They are exceedingly
+numerous in Kent, in the pease and bean-fields, in May, or on the
+currant-bushes, and not unfrequently are taken on the fern.
+
+
+PLATE XXVIII. CHRYSOMELA ASPARAGI. COLEOPTERA.
+GENERIC CHARACTER. Antennae knotted, enlarging toward the ends. Corslet
+margined, and body oblong. Thorax narrow.
+
+SPECIFIC CHARACTER. Head, Antennae, and under side of the Body black. Thorax
+red, with two black spots. Shells dark green, with six yellow spots. Length one
+line. Lin. Syst. Not.
+
+This pretty Cloeopterous Insect is found in June on the Asparagus, when in
+seed. Linnaeus calls it Asparagi, from the larvae feeding on the leaves of that
+plant. It is a common insect, but forms a beautiful opaque object for the
+microscope. The natural size is given at Fig. I. and the magnified appearance
+above.
+
+
+PLATE XXIX.
+FIG. I. TRICHODA MELITEA.
+GENERIC CHARACTER. An invisible, pellucid, hairy Worm.
+
+SPECIFIC CHARACTER. Oblong ciliated trichoda, with a dilatable neck, the apex
+globular, and surrounded with hairs. Muller's Animalcula Infusoria, etc.
+
+Invisible to the naked eye, and rarely found except in salt-waters, although
+we have met with one specimen in the water of the Thames.
+
+FIG. II. VORTICELLA NASUTA.
+GENERIC CHARACTER. A Worm, capable of contracting or extending itself, naked,
+with rotatory cilia.
+
+SPECIFIC CHARACTER. Cylindrical, with a prominent point in the middle of the
+cup. Muller's Anim. Infus.
+
+Is invisible to the naked eye, and appears of an unequal size before the
+microscope is pellucid, with the fore part truncated and ciliated, and moves in
+the water with great alertness, by the assistance of the circle of hairs which
+encompass the body.
+
+FIG. III. VORTICELLA VIRIDIS.
+GENERIC CHARACTER. A worm capable of contracting or extending itself, naked,
+with rotatory cilia.
+
+SPECIFIC CHARACTER. Cylindrical uniform, green, and opake. Muller's Anim.
+Infus.
+
+The naked eye discovers this species as a mere point: when magnified it is of
+a dark green color, almost opake, nearly cylindrical, obtuse at the
+extremities, and destitute of limbs. It moves circularly, or in a strait
+direction, and causes such an agitation of the water, that notwithstanding its
+appearance, some rotatory instrument must be concealed within the body, which
+the insect can put forth at pleasure.
+
+
+PLATE XXX. PHALAENA SALICIS. WHITE SATIN MOTH.
+GENERIC CHARACTER. ** No trunk, wings depressed, deflexed, back smooth.
+
+SPECIFIC CHARACTER. Antennae feathered. Body and wings white.
+
+Caterpillar black, with red and white spots.
+
+Are very numerous in the adjacent parts of London, and are found in the state
+of Caterpillar, Chrysalis and Moth, at the same time, though commonly the
+Caterpillar changes to Chrysalis in June, and to a Fly in July.
+
+It feeds on the Willow, the Ozier, the Poplar, etc.
+
+
+PLATE XXXI.
+FIG. I. MUSCA CHAMAELEON. DIPTERA.
+Two Wings.
+
+GENERIC CHARACTER. Musca, a soft flexible Trunk with lateral Lips at the end.
+No palpi.
+
+SPECIFIC CHARACTER. Dark brown or black. Antennae taper, broken. Eyes large.
+Abdomen nearly circular, with three triangular yellow spots on each Side, and
+one at the extremity.
+
+Linnaeus, in a former edition of the Fauna Suecica gave this insect the name
+of Oestrus Aquae, but he afterward discovered it to be a Musca, and called it
+Musca Chamaeleon. It is one of the most common Dipterous, or two-winged Insects
+we have; yet though so well known in its perfect state, few have attended so
+minutely to its changes as to discover that; they form the most singular part
+of its history. -- The female deposits her eggs in the hollow stalks of aquatic
+plants, or broken reeds, or so provides for them that they cannot, but by some
+unforeseen accident, be carried away. The egg, in due time ripening, produces a
+Larva, no way resembling the Parent, but rather a Worm of a most singular
+structure. This happens about the latter end of May, or beginning of June, if
+the weather proves favorable; they will then be found in shallow standing
+waters, crawling on the grass or plants which grow there, or they may be taken
+floating on the surface of the water. The Body consists of twelve annular
+divisions, whereof the Head and Tail are two; the Tail has a verge of hairs,
+which, when entirely expanded, support the creature on the surface, with its
+head downwards. If it wishes to descend, it contracts the hairs in the form of
+a wine glass, or entirely closes them at the end; and when again it is rising
+to the surface, it forces a bubble from a small aperture in the center, which
+immediately makes a passage for its ascension. -- It changes to the Pupa state,
+and about the middle of July to the Fly. It subsists at this time on the nectar
+and other juices it extracts from the bottom of the corolla in flowers.
+
+FIG. II. MUSCA PENDULA. DIPTERA. MUSCA.
+SPECIFIC CHARACTER. Head black. Thorax yellow, with three longitudinal black
+lines. Abdomen yellow, with transverse black marks.
+
+Its habits nearly correspond with those of the Musca Chamaeleon. Like that
+Insect it once wore the appearance of an Aquatic, and like it also in its last
+or perfect state, exists by extracting with its Trunk the nectar from flowers.
+It is to be taken in June.
+
+FIG. III. MUSCA LATERALIS. DIPTERA. MUSCA.
+SPECIFIC CHARACTER. * Thorax black. Abdomen bright red or brown, with a line
+of black from the Thorax; the last segment black, with hairs or spines.
+
+Visits flower gardens in the month of June.
+
+
+PLATE XXXII.
+FIG. I. VIBRIO OLOR.
+GENERIC CHARACTER. An invisible Worm, very simple, round, and rather long.
+
+SPECIFIC CHARACTER. Elliptical, with a very long Neck, and a knob on the Apex.
+-- Muller's Any. Inf.
+
+The Neck of this Creature is in continual motion, and the whole Body is
+dilatable. It is found in water, replete with decayed vegetables.
+
+FIG. II. KOLPODA MILEAGRIS.
+GENERIC CHARACTER. An invisible, very simple, pellucid, flat, crooked Worm.
+
+SPECIFIC CHARACTER. Changeable, with the fore part like a hook, the hind part
+folded up. -- Muller' Any. Inf.
+
+FIG. III. and FIG. IV. PROTEUS TENAX.
+GENERIC CHARACTER. An invisible, very simple, pellucid Worm, of a variable
+form.
+
+SPECIFIC CHARACTER. Running out into a fine point. -- Muller.
+
+A gelatinous pellucid body, stored with black molecules; it changes its form
+in a regular order, first extending itself out in a strait line, the lower part
+terminating in an acute bright point, without any intestines, and the globules
+being all collected in the upper part, it next draws the pointed end up toward
+the middle of the body, swelling it into a round form. The contraction goes on
+for some time, after which the lower part is swelled as in Fig. IV. The point
+is afterward projected from this ventricose part. It passes through five
+different forms before it arrives at that represented at Fig. IV. It scarcely
+moves from one spot, only bending about sideways. It is to be found in river
+water, where the Nitida grows. -- Adams on the Microscope.
+
+
+PLATE XXXIII.
+FIG. I. PHALAENA BATIS. PEACH-BLOSSOM MOTH. LEPIDOPTERA. PHALAENA.
+GENERIC CHARACTER. Antennae taper from their apex. Wings in general contracted
+when at rest. Fly by night.
+
+* NOCTUA.
+
+SPECIFIC CHARACTER. First pair of Wings brown, with five peach-coloured spots
+on each. Second pair light brown.
+
+The Peach-blossom Moth at first sight so evidently distinguishes itself, that
+it can scarcely be mistaken. The upper or first pair of Wings have the ground
+of a brown color, which in some directions of light assume a golden
+appearance; and on each Wing are five elegantly disposed spots of white, having
+each a center of the most beautiful bloom, or blossom color, which blend into
+the white with the most exquisite softness. The under Wings are of a simple
+color, and have only a transverse shade of a darker hue across the middle of
+each Wing.
+
+Its truly elegant appearance would alone be sufficient to claim our attention;
+but when we add that it is one of the rarest and most valuable specimens of
+British entomology, it will be considered as a compensation for those more
+common subjects occasionally introduced; and which the nature of our plan
+cannot permit us to refuse.
+
+Our endeavors to procure the Caterpillar have hitherto been ineffectual,
+although it is very probably to be taken early in the season, feeding on the
+bramble. It is described to be a brown larva, naked, or without hairs, with a
+gibbosity or rising on the back, near the extremity.
+
+Our Fly was taken in Essex, July 14th.
+
+FIG. II. PHALAENA AMATORIO. BLOOD VEIN, or BUFF ARGOS MOTH. LEPIDOPTERA.
+PHALAENA.
+** Antennae feathered.
+
+SPECIFIC CHARACTER. Wings angulated, buff, sprinkled with brown, and a red
+transverse line across each. Margin of each Wing edged with red.
+
+The Caterpillars of this Phalaena feed on the oak leaves. They are green, with
+yellow rings. The Fly is found in Essex very commonly in the month of July.
+
+
+PLATE XXXIV.
+FIG. I. CURCULIO BACHUS. COLEOPTERA.
+Wings two, covered by two shells, divided by a longitudinal future.
+
+GENERIC CHARACTER. Antennae clavated, elbowed in the middle, and fixed in the
+Snout, which is prominent and horny. Joints four to each foot.
+
+SPECIFIC CHARACTER. Shells, and Thorax purple with gold shades; snout long,
+black. Linn. Syst. Not. 2. 611. 38. Sckaeff. Icon. Tab. 37. Fig. 13. Geoff.
+Ins. 1. 270. 4. Sul. Hist. Ins. Tab. 4. Fig. 4.
+
+Our figure represents the Curculio Bachus, as it appears before the Speculum
+of an Opake Microscope with a lens magnifying times.
+
+It is with this, as with many other species of insects, and particularly those
+of the Coleopterous Order, that unless they are in some measure magnified, much
+of their beauty will remain hidden, and much of their structure be enveloped in
+obscurity. It is not perfectly agreeable to our plan, and may admit of some
+blame from our subscribers; but when objects so diminutive in size, and so
+complex in color, offer to our attention, and it is not possible to represent
+them in their natural appearance, or in a manner satisfactory to ourselves, we
+must have recourse to the Microscope for assistance. We consider the confidence
+at present reposed in our accuracy, and attention, to the natural subjects,
+evident from the general patronage bestowed on our attempt; it is a spur to our
+exertions, and we will endeavor, as well by our future, as present
+correctness, to deserve a continuation of that esteem, and encouragement, so
+liberally showered on our once arduous undertaking.
+
+C. Bachus is near (...) in length, the Shells and Thorax appear of a deep
+glossy purple, with much inclination to gold; a green and golden hue is seen on
+every part of the body as it moves in various directions of light. The whole
+appears before the microscope besprinkled, and spotted with gold and purple;
+gold in those parts where the light is most powerful, and purple in the
+shadows. The Snout is black, or of a dark color, as are also the Eyes; and the
+singular structure of the jointed Antennae, which are thereon, deserve
+particular notice. This beautiful insect is as rare, as it is superb, and the
+larva is scarcely, if at all known. -- Our specimen was taken in the middle of
+June, in a field near Kent.
+
+FIG. II. CUCULIO GERMANUS. BLACK CURCULIO. COLEOPTERA. Curculio.
+SPECIFIC CHARACTER. Snout long, black Head, Thorax, Shells and Body black. Two
+small spots of yellowish white on the sides of the Thorax.
+
+Linn. Syst. Not. 2. 613. 58. Scopol. Ann. Hist. Not. 5. 91. 44. Frisch. Ins.
+13. 28. Tab. 26.
+
+An Insect found in abundance in Germany, and by no means uncommon in this and
+every other part of Europe. It is generally taken in June.
+
+
+PLATE XXXV.
+FIG. I.
+Shows the natural size of the larva, of the MUSCA CHAMAELEON, Described in
+Plate XXXI of this work.
+
+FIG. II.
+As it appears magnified. We have taken it since that plate was finished, or we
+would have introduced it with the Fly. Being unacquainted with any perfect
+representation of this aquatic larva, we are happy to give it before the
+completion of the first volume.
+
+
+PLATE XXXVI.
+FIG. I. LIBELLULA PUELLA. NEUROPTERA.
+Wings four, naked, transparent, reticulated. With Veins or Nerves. Tail
+without a sting.
+
+GENERIC CHARACTER. Mouth with two long lateral Jaws. Antennae very short, tail
+of the male forked. Wings extended.
+
+SPECIFIC CHARACTER. Body Saxon-greenish blue, Eyes distant, remote. Wings of
+equal length, with a cloud of brown in the middle, and without marginal spot.
+Length two inches.
+
+Linn. Syst. Not. 2. 904. 20. Fan. Sv. 1470.
+
+It is neither so large as to infuse terror by its appearance, or so beautiful
+as to claim the first place in a collection of British insects: notwithstanding
+there are many inferior to it both in elegance, and color. The whole of the
+body is a deep purplish blue, which reflects on one part, a most brilliant
+color with a greenish cast, and the clouds on the wings contribute much to its
+luster. The Thorax and Head are nearly the same, some few shades of green
+excepted.
+
+It is found in May and June, sporting on the waters, or among the bushes which
+overgrow the sides of pools, or gently flowing streams; at noon, or after a
+shower, when the sun breaks from its watery prison, and penetrates the
+thickets, and the groves with inviting warmth, they are seen issuing from the
+dark retreat, and overhanging shrubbery; to bask and wanton in its effulgent
+beams, and fan the gently rising breeze with their lucid Wings. In many parts
+on the banks of the Thames they heighten the scene by the glow and richness of
+their coloring; the green, the blue, and the red; the yellow, purple, and the
+brown, in their richest teints, according to the species; and as they fly in
+various directions, display themselves in all their native elegance and
+splendour.
+
+FIG. II. LIBELLULA PUELLA. NEUROPTERA. LIBELLULA.
+SPECIFIC CHARACTER. Body red with yellow and black lines at each segment;
+thorax green with yellow stripes. Wings clear, with marginal spots.
+
+The body is red, with a yellow band and black mark at every segment; the
+Thorax green, with longitudinal lines of yellow; the Wings are perfectly
+transparent, except a marginal spot on each. It is voracious, as are all the
+species of Libellula, whether in the larva or the winged state; it appears
+about the same time as the preceding, and is the produce of an aquatic larva.
+
+INDEX TO VOL. I.
+COLEOPTERA. FIRST ORDER.
+Cervus Lucanus. Stag Beetle Plate 13 Silpha Vespillio Plate 23 Chrysomela
+Asparagi Plate 30 Curculio Bachus Plate 34 Curculio Germanus ib. Leptura
+Arietis. Common Wasp Beetle Plate 27 Cicindela Campestris Plate 12
+HEMIPTERA. SECOND ORDER.
+Nepa Cinerea. Water Scorpion Plate 18
+LEPIDOPTERA. THIRD ORDER.
+Sphinx Apiformis. Hornet Sphinx Plate 25 Sphinx Filipendulae. Burnet Moth
+Plate 6 Phalaena Pavonia. Emperor Moth Plate 1 Phalaena Bucephala. Buff Tip
+Moth Plate 3 Phalaena Caja. Great Tiger Moth Plate 15 Phalaena Salicis. White
+Satin Moth Plate 28 Phalaena Chrysorrhoea. Yellow-Tail Moth Plate 10 Phalaena
+Antiqua. White Spot Tussock Moth Plate 16 Phalaena Amataria. Buff Argos Moth
+Plate 33 Phalaena Prunaria. Orange Moth Plate 21 Phalaena Grossulariata.
+Current Moth Plate 4 Phalaena Batis. Peach Blossom Plate 33 Phalaena
+Christiernana Plate 20 Phalaena Evonymella. Ermine Moth Plate 9
+NEUROPTERA. FOURTH ORDER.
+Libellula Depressa. Dragon Fly Plate 24 Libellula Virgo Plate 36 Libellula
+Puella Plate 36
+HYMENOPTERA. FIFTH ORDER.
+Chrysis Ignita Plate 7 Chrysis Bidentata Plate 19
+DIPTERA. SIXTH ORDER.
+Tipula Plumosa Plate 22 Musca Chamaeleon Plate 31 Musca Pendula ib. Musca
+Lateralis ib.
+APTERA. SEVENTH ORDER.
+Acarus Coleoptratorum. Beetle Tick Plate 11 Monculus Quadricornis Plate 2
+Monoculus Conchaceus Plate 5 Proteus Tenax Plate 32 Vibro Olor ib. Kolpoda
+Mileagris ib. Bursaria Hirundinella Plate 5 Trichoda Cometa Plate 26 Trichoda
+Longicauda ib. Trichoda Melitea Plate 29 Trichoda Pocillum Plate 14 Trichoda
+Uvula Plate 8 Trichoda Vermicularis Plate 17 Himantopus Ludio Plate 20
+Vorticella Lunaris Plate 8 Vorticella trochi formis Nigra Plate 26 Vorticella
+Nasuta Plate 29 Vorticella Urceolaris Plate 17 Vorticella Viridis Plate 29
+INDEX. SPECIFIC NAMES, ALPHABETICALLY ARRANGED, TO VOL. I.
+Amataria, Phalaena Plate 33 Antiqua, Phalaena Plate 16 Api-formis, Sphinx
+Plate 25 Arietis, Leptura Plate 27 Asparagi, Chrysomela Plate 30 Batis,
+Phalaena Plate 33 Bidentata, Chrysis Plate 19 Bucephala, Phalaena Plate 2 Caja,
+Phalaena Plate 15 Campestris, Cincindela Plate 12 Chamaeleon, Musca Plate 31
+Christiernana, Phalaena Plate 20 Chrysorrhoea, Phalaena Plate 10 Cinerea, Nepa
+Plate 18 Coleoptratorum, Acarus Plate 11 Cometa, Trichoda Plate 26 Conchaceus,
+Monoculus Plate 5 Evonymella, Phalaena Plate 9 Filipendulae, Sphinx Plate 6
+Grossulariata, Phalaena Plate 4 Ignita, Chrysis Plate 7 Lateralis, Musca Plate
+31 Longicauda, Trichoda Plate 26 Lucanus, Cervus Plate 13 Ludio, Himantopus
+Plate 20 Lunaris, Vorticella Plate 8 Melitea, Trichoda Plate 29 Mileagris,
+Kolpoda Plate 32 Nasuta, Vorticella Plate 29 Olor, Vibrio Plate 32 Pavonia,
+Phalaena Plate 1 Pendula, Musca Plate 31 Plumosa, Tipula Plate 22 Pocillum,
+Trichoda Plate 14 Prunaria Phalaena Plate 21 Quadricornis, Monoculus Plate 2
+Salicis, Phalaena Plate 28 Tenax, Proteus Plate 32 Trochiformis Nigra,
+Vorticella Plate 26 Vermicularis, Trichoda Plate 17 Vespillio, Silpha Plate 23
+Viridis, Vorticella Plate 29 Urceolaris, Vorticella Plate 17 Uvula, Trichoda
+Plate 8
+ERRATA TO VOL. I.
+PLATE XXXIV. for magnifying times, read magnifying four times for 6. Bachus is
+near in length, read C. Bachus is near four Lines in length FIG. II. for
+Cuculio, read Curculio
+
+
+

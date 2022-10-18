@@ -1,0 +1,1046 @@
+A SHORT TREATISE ON THE ENGLISH TONGUE.
+
+A SHORT TREATISE ON THE ENGLISH TONGUE.
+
+Being an Attempt to render the Reading and Pronunciation OF THE SAME More EASY
+to FOREIGNERS.
+
+LONDON: Printed for R. HORSFIELD in Ludgate Street, and I. ALLIX in Glanville
+Street, Rathbone Place.
+
+MDCCLXVII.
+
+INTRODUCTION.
+IT is generally allowed, that the most easy method of attaining any living
+language is to associate and converse with those who speak it. Nevertheless,
+when a foreigner has by this means so far acquired the English tongue, that he
+shall be able to speak it, and understand it when spoken, tolerably well, he
+will yet find himself greatly at a loss, when he attempts to read: because the
+manner of expressing sounds by letters in his own language is so very different
+from ours, that many English words, which he is well acquainted with by ear,
+will not appear to him to be the same when he sees them in writing. -- For not
+only various sounds are expressed in the English language by the same vowels;
+but also, in many particular words, a kind of arbitrary pronunciation is used,
+which cannot easily be reduced to rule, and is therefore most commonly taught
+merely by ear, or imitation.
+
+This latter difficulty, I am afraid, cannot be removed; but, I think, it may
+be relieved in some degree, by separating all such words from those which are
+capable of being taught by rule. This I have attempted, and have accordingly
+collected all, or the greatest part of such kind of words, under their proper
+heads, as exceptions to the several rules given in the following pages,
+together with a short explanation of their sound. -- By this means a learner
+may have his task before him, and may easily refer to any particular word, as
+he shall have occasion; which will greatly relieve his memory.
+
+I have not taken notice of all the derivatives and compounds which properly
+belong to the several exceptions, but for the most part of primitive words
+only, for the sake of brevity; which I hope will be thought sufficient, the
+others being naturally comprehended therein. Many words indeed are varied
+according to the different position of the accent, which not only shortens the
+articulation of the succeeding syllables, but in some words causes them to be
+so indistinctly pronounced, that it is sometimes difficult to determine what
+vowels are sounded therein: yet if the learner is but careful to give the
+accented syllable its proper pronunciation according to the following rules, he
+will naturally fall into the customary utterance of the other syllables, which,
+as they are pronounced quick, need not be studied so particularly.
+
+The rules treat only of the general power of the vowels and diphthongs,
+because in these consist the most material differences between the English
+pronunciation and that of foreigners; but I have added thereto, by way of
+appendix, a short treatise (drawn up and communicated by a friend) for the
+explanation of such particularities also of the other letters as are peculiar
+to the English tongue.
+
+All which together (I flatter myself) will be sufficient to enable a foreigner
+to read and pronounce any English words with ease and certainty, when the
+syllables of the same are properly divided according to the learned Dr. Lowth's
+excellent rule for spelling, given in the 7th page of his English grammar, viz.
+The best and only sure rule for dividing the syllables in spelling, is to
+divide them as they are naturally divided in a right pronunciation; without
+regard to the derivation of words, or the possible combination of consonants at
+the beginning of a syllable.
+
+Mr. John Gignoux likewise particularly recommends and explains this method, in
+the preface to his spelling-book, entitled, The Child's best Instructor in
+Spelling and Reading. A title which it seems well to deserve, on account of the
+division of the several syllables according to the manner abovementioned, by
+which it is rendered (in my opinion at least) the most useful book of the sort
+that has hitherto been published.
+
+I must however observe, that the author, in his Table of Words written very
+different from their Pronunciation, at page 82, has too much followed the
+common London pronunciation; which, though perhaps in general the best, yet has
+some very exceptionable particularities. Among which are, Potticary for
+Apothecary, Athist for Atheist, Awkurd for Awkward, Riccolas for Auricolas,
+Belcony for Balcony, Carrin for Carrion, Sirket for Circuit, Crowner for
+Coroner, Gorjus for Gorgeous, Hankerchur for Handkerchief, I'urn for Iron, Ilan
+for Island, Spanel for Spaniel, Stummuch for Stomach, Sound for Swoon, Thusty
+for Thirsty, Vawt for Vault, Venzun for Venison, Verdit for Verdict, etc.
+
+Also in page 57 he signifies that the terminations -tial, -cial, -cian,
+-tious, -cious, -tient, and cient, make each of them but one sound or syllable.
+But however common such pronunciation may be, it ought not by any means to be
+taught, or laid down as a rule; because the English language loses much of its
+elegance, when it is expressed in so careless a manner, that any of the
+abovementioned terminations shall seem but one syllable.
+
+The i in all these terminations has the sound of the English e; and though it
+is pronounced quick, yet it ought to be distinctly expressed, as in Parti-al,
+Soci-al, Greci-an, Capti-ous, Graci-ous, Quoti-ent, Anci-ent, etc. There fore I
+hope that the author, in his next edition of that useful book, will make some
+alteration in his explanation of these particulars.
+
+Others, besides Mr. Gignoux, have been misled by the indistinct manner in
+which some particular syllables are sometimes uttered even by good speakers.
+Mr. James Buchanan in particular has given himself much unnecessary trouble,
+and has carried his refinements a great deal too far concerning syllables of
+this kind, which, in quick pronunciation, have seemed to him to partake of an
+articulation different from the real spelling. This has, unfortunately, not
+only added great difficulty to his An Essay toward establishing a Standard for
+an elegant and uniform Pronunciation of the English Language, as practiced by
+the most learned and polite Speakers.
+performance, but rendered it almost incapable of answering the good purposes
+intended by it. For he has frequently substituted an imaginary articulation of
+one vowel for the inarticulation, or rather the short and indistinct sound, of
+another; not considering that the expressing of an accented syllable in many
+particular words does almost unavoidably cause the succeeding syllable or
+syllables to be so indistinctly pronounced, that it is sometimes difficult to
+determine what vowels are sounded therein, as I have before observed.
+
+But when words are so pronounced, that instead of the short or indistinct
+sound of one vowel, a manifest articulation of another different vowel may be
+distinguished; it then becomes a fault in speech, which (howsoever common it
+may be) ought by no means to be imitated, much less taught; because the
+generality of people are naturally too liable of themselves to acquire it,
+without being led thereto by written instructions.
+
+The following examples taken from Mr. Buchanan's book will illustrate what has
+been said; viz. He has substituted -l for the terminations -al, -ial, and -el,
+as Naivl, Neutrl, Komk^l, Joodeshl, Spshl, Quarl, etc. for Naval, Neutral,
+Comical, Judicial, Special, Quarrel, etc. Mr. Peyton's "New Vocabulary or
+Grammar of the true pronunciation of the English" is not less liable to
+censure, for the same words are there rendered Nai-vel, Ni^u^trel,
+djou-d-chiel, Spe-chiel, Couar-ril, etc.
+-in for -an, as Heumin, Orgn, etc. for Human, Organ, etc. -nss for -ance and
+-ence; and -nt for -ant and -ent, as Abundinss, Rvrinss, Contentmnt,
+Commandmint, etc. instead of Abundance, Reverence, Contentment, Commandment,
+etc. -fool for -full as Faithfool, etc. iss for ess, as Heedlss, Happnss, and a
+great abundance of such other syllables, equally distant from the true
+pronunciation.
+
+As I have no other motive for giving my opinion so freely concerning this
+gentleman's performance, than the desire of removing all unnecessary difficulty
+from the learning of English, I hope he will excuse me; even though my remarks
+should not have sufficient weight to convince him.
+
+He may likewise assure himself, that, though I think an uniformity of
+pronunciation throughout the British dominions is more to be wished than hoped
+for; yet I should have as much real satisfaction as himself in the completion
+of that "great moral end," which (as he supposes in his preface) would be
+promoted thereby, viz. the removal of national prejudice; an effect equally to
+be desired by all lovers of their country, whether South or North Britons!
+
+It would be much to the advantage of all those who learn the English tongue,
+if the syllables in all future editions of English dictionaries were divided
+according to the A very useful little dictionary on this plan was printed in
+1764, for J. Nourse and S. Hooper in the Strand, entitled, "the Complete
+English Spelling Dictionary upon an entire new Plan;" the author, Mr. J. Carter.
+method recommended by Dr. Lowth and Mr. Gignoux before mentioned: and likewise
+if the words, which are not properly English, were distinguished by an
+asterisk, or some other particular mark placed before them; that foreigners may
+not conceive our language to be unnecessarily copious and difficult.
+
+The coining of new words from other languages to express any thing, which
+might as concisely and elegantly be explained in proper English words, is a
+kind of pedantry, which all writers should endeavor to avoid: unless we be
+allowed to except those who treat of natural philosophy, medicine, surgery, or
+such other subjects as are supposed to be read by none but those who are
+acquainted with other languages, or at least have some knowledge of the Latin
+tongue. For it ought to be the study of every writer to make his meaning as
+plain and intelligible in the proper language in which he writes, as he
+possibly can. Yet so many of our most eminent writers have occasionally been
+guilty of the fault above mentioned, that the ingenious Mr. Johnson has thought
+himself obliged to insert a great abundance of such coined words into his
+excellent English dictionary; and the reverend Mr. Entick likewise into his
+very useful new pocket dictionary. But I cannot suppose that such kind of words
+were admitted by these gentlemen as proper English words; but merely that they
+might explain them to English readers; who without the knowledge of other
+languages cannot otherwise possibly understand them: which is a sufficient
+proof that they are not at all entitled to the name of English words.
+
+For how should an English reader (I mean a reader merely of English) be
+supposed to understand that Ablepsy signifies blindness? Acetosity sourness?
+Anhelation panting? Arcanum a secret? Obesity fatness? Papilio a butterfly?
+Neoterick, modern? Paranymph a bride-man? Rugose wrinkled? Squalor nastiness?
+Terreous earthy? Tenebricose dark; Tripudiation dancing? Tumefy to swell? Turm
+a troop? and a thousand other such words, which are found in both dictionaries?
+
+It is much to be wished that all such new coined words, which have only been
+used by a few authors, were distinguished by some mark from the common and
+proper English words (as I have hinted above) in all future editions of these
+useful dictionaries: lest so many uncouth and pedantick expressions should be
+adopted into the English tongue by dictionary authority. Because when a person
+sees them ranged with other words in an English dictionary, he may be induced
+to make use of them as proper English words in his writing and discourse, which
+would, at first, cause no small impediment to the understanding of his ordinary
+readers and hearers.
+
+The accents used in these dictionaries are particularly useful for keeping up
+an uniformity in pronunciation; and it would be well if the double accents were
+also added to some particular words, as in Mr. Gignoux's spelling book for the
+purpose mentioned in page 7 of his preface, viz. To denote, that the consonant
+that begins the next syllable must be also sounded at the end of the syllable
+where the double accent is; as a-tone-ment; man-gle; in-tan-gle; which words
+must be sounded as if written at-tone-ment; mang-gle; intang-gle; so in
+con-quer-or; con-cu-bine; etc. The same would also be particularly useful in
+words, wherein g and c are softened by the vowels e and i following them in the
+next syllable as in neg-lig-ent; vo-racity, etc.
+
+
+In my search for such words as are independent of the following rules, I made
+use of the Rev. Mr. Entick's new spelling dictionary; and though I examined the
+same so carefully, that I believe I have not made many omissions, yet the whole
+number of particular exceptions (exclusive of their compounds and derivatives)
+amount to no more than There are indeed 54 foreign words besides; (see page 15)
+which are not included in this number, because, as they still retain their
+original pronunciation (or nearly so) they cannot properly be accounted
+exceptions to English rules.
+340 -- which number bears a very small proportion to the number of words in
+that dictionary; which I compute to be upwards of 23,000. This, I think, ought
+to prove that the English pronunciation is not so very irregular as it is
+generally thought to be; which a careful examination of the following pages
+will more particularly show.
+
+A SHORT TREATISE ON THE ENGLISH TONGUE.
+THE English vowels, a, e, i, o and u, have each of them The vowels may indeed
+be said to have more sounds than 2, because a different pronunciation from the
+2 sounds here spoken of, is given to each of the vowels in a few particular
+cases, which are hereafter noted; but at present I am only speaking of their
+general power.
+2 sounds, commonly called long and short.
+
+The sounds of the three first vowels a, e, and i, when long, seem to be
+peculiar at present to this nation, wherefore they may properly be called the
+English sounds.
+
+And the short sounds of these three vowels may, for the sake of distinction,
+be called the foreign sounds; because they are uttered with scarcely any
+difference (except that a and i, are pronounced short) from the French
+articulation of the same vowels; which shall be more fully explained by See the
+examples to the 2d rule.
+examples hereafter.
+
+I think it necessary to observe in this place that the English sound of the
+following vowels, diphthongs and terminations cannot easily be expressed in
+foreign letters, and should therefore be learned by ear, viz.
+
+i long There are 2 ways of sounding the long i and y (though both long) the
+one a little different from the other, and requiring a little more extension of
+the mouth, as may be seen by comparing the following words, viz. I and Aye,
+High and High-ho; By It (or by it) and Bite; Sighed and Side; Strive and Strife,
+etc. but this difference being so nice, is not to be attained but by much
+practice, neither is it very material.
+, as in Bi-ble, Mi-tre, Nitre, Pirate, etc.
+
+o and u short, before a consonant in the same syllable as in Odd, Nod, Lord,
+etc. and in Mud, Strut, Stun, Urn, etc.
+
+oi and oy, which have both the same sound, as in Oil, Boil, Coil, Boy, Coy,
+Hoy, etc.
+
+ou and ow (not like the French ou, in the pronunciation of which the lips are
+almost closed, but) with an open articulation as in Pound, Our, Gown, Pow-er,
+etc.
+
+Also the following Terminations, viz. -ire -tion -cious -tious
+as in Dire, Fire, Salvation, Delicious, Fictitious, etc.
+
+The English (or long) sound is given to the vowels a, e, Rule I.
+and i (and the other vowels are also sounded long) when they are alone, or
+when there is not a consonant following them in the same syllable (also before
+silent e in the end of a word; see the 3d rule) Examples
+a like the French e in Beat, as in Ca-ble, Fa-ble, Sa-ble, etc. e like the
+French i in Mill, as in Be, He, E-vil, Be-ver, Le-gal, etc. i like the Greek
+At quoties litera i longa est plerumque effertur ut Graecorum (...). See
+Wallis's Grammatica Linguae Anglicanae.
+(...) or something like the French i long before n in Divin, Prince, Enfin,
+etc. as in Bi-ble; Di-al; Fi-nal; Gi-ant, etc. o like the French o or au, as in
+Go; So; Lo-cal; Mo-ment, etc. u like ew in Few, Pew, etc. as in Du-ty, Fu-ry,
+Hu-man, etc. y (when a vowel) like the English i; as in the monosyllables Buy
+and Guy, (wherein u is mute) Dry, Fry, My, Dye, etc. in the dissyllables, Ally,
+Com-ply, De-ny, De-scry, De-fy, Es-py, Im-ply, Re-ly, and Re-ply, which are
+accented on the ultimate syllable; and in all words compounded with the Latin
+word Fio; as De-ify, Magnify, Specify, Rarify, etc.
+
+
+(Particular Exceptions concerning a, at the End of a Syllable)
+Except, 1st,
+a in Wa-ter, wherein it is commonly pronounced like the French a, or English
+diphthong aw; in Fa-ther, and the last syllable of Pa-pa, Mam-ma, wherein it
+has a medium sound between aw and the English a; and in a-ny, and ma-ny,
+wherein it sounds like a short e.
+
+(Particular Exceptions concerning i)
+2dly,
+i in ac-qui-esce, Bi-er, Pi-er, and Tier, wherein it sounds like the English e.
+
+(General Exceptions concerning i)
+3dly,
+i is pronounced short before another vowel in the termination of all words of
+more than 2 syllables, when it is not radical; as in Am-able, De-mo-n-ack,
+Car-r-age, So-c-al, Wil-l-am, Styg -- an, Dal-l-ance, Val -- ant, Span -- ard,
+A-p-ary, So-c-ate, In-sid-iator, Al-le-v ation, Mar-r-ed, A-l-en, Con-sc-ence,
+Am-b-ent, Gla-z-er, Spe-c-es, Se-rag-l-o, Ax-i-om, Pos-te-r-or, War-r-our,
+Con-sc-ous, Id -- ot, Pre-m-um, etc. But in the proper names Ma-r-ia and
+So-ph-ia, when given to English women, it is pronounced according to rule.
+Also, in Affi-ance, and the derivatives from the dissyllables ending in y,
+which are mentioned in the example: as Al-li-ance, Com-pli-ance, De-ni-al,
+De-fi-ance, and Re-li-ance, wherein the i When i is substituted for y in the
+terminations of derivatives, it retains the sound of the y in the original
+word, whether long or short; therefore i in Ca^r-r-er, Ca^r-r-ed, and Ca^r-res,
+is short; and in Al-li^-ance, De-ni^-al, Dig-ni fi^-ed, Im-pli^es, etc. is
+pronounced long like the y in the primitive words before specified.
+retains the sound of the y in the original words, and is accented accordingly.
+
+Particular Exceptions concerning o.
+Except, 4thly,
+o in Do (and its compounds) To, and Who, which is commonly pronounced like oo;
+though the latter (Who) is pronounced according to the rule in the northern
+parts of England.
+
+5thly,
+u, in the first syllable of Cu-cumber, which is commonly pronounced like the
+English ou hereafter explained.
+
+General Exception concerning y.
+6thly,
+y, at the end of all words of two or more syllables (except those mentioned in
+the example) is pronounced like a short i, as in Carry, Envy, Commissary, etc.
+the accent being laid on one of the former syllables.
+
+Of vowels in syllables ending with a consonant.
+^ule II.
+The vowels are pronounced short in all syllables ending with a consonant
+(except in the particular cases hereafter noted) and the three first vowels
+have the foreign articulation, without any other material difference, except
+that of being pronounced short.
+
+EXAMPLES.
+a has a short articulation of the English aw, or rather of the Italian a, as
+in Add, Bad, Lad, Mad, etc. e has exactly the sound of the Italos ego, uti
+nostros etiam recte eam (literam e) proferre censeo in vocibus, ascendo,
+ventus, etc. (Dr. Middleton, fol. 446.)
+Italian or French e, as in Bed, Fed, Led, Red, etc. i has a short articulation
+of the I vocalis, quoties brevis est, sonatur plerumque (ut apud Gallos
+aliosque) exili sono, Wallis, fo. 47.
+French i, or English e, as in Bid, Did, Hid, Kid, etc. The short sound of the
+two other vowels (viz. o and u) must be acquired by ear, as I have before
+observed (see examples of these vowels in p. 3. of this treatse.)
+
+
+Particular Exceptions concerning a before a consonant.
+Except, 1st,
+a in An-gel, Bass, Cam-brick, Cam-bridge, Dan-ger, and Man-ger, is commonly
+sounded like the French diphthong ai; in han't (for have not) Mas-ter, and
+Plas-ter, it has a medium sound between aw and the English a; and in Hal-ser
+(wherein l is mute) False, and Palsy, it is commonly pronounced like aw.
+
+General Exceptions concerning a before a consonant.
+2dly,
+a has the sound of aw likewise before ld and lt, as in Bald, Cal-dron, Altar,
+etc.; in all primitive monosyllables ending in ll (except shall and Mall, which
+are pronounced according to rule) as in All, Gall, Fall, etc.; and before lk
+(wherein l is mute) as Balk, Stalk, Walk, Talk, etc.: but before lf, lm, lve,
+and before nd in words derived from the Latin word Mando, it is sounded like
+the Italian a, only somewhat longer, as in Half, Calm, Salve, Command, Demand,
+etc.
+
+Particular Exceptions concerning c before a consonant.
+Except, 3dly,
+e in England, Pretty, Yes, and Yet, wherein it is pronounced like a short, and
+in Yellow like a short a.
+
+General Exception concerning e before s.
+4thly,
+e is pronounced long before S final in these cases is always pronounced like z.
+s in the ultimate of plural nouns, and third persons singular of verbs when
+preceded by c, s, z, or g, as in Fa-ces, Hor-ses, As-si-zes, Ra-ges, etc.; but
+in all other terminations with silent e (except in Latin words) the es may be
+sounded in the same syllable, as Bride Brides, Ride Rides, Name Names, etc.
+
+Particular Exceptions concerning i before a consonant.
+5thly,
+i in Blithe, Endict, and Indict (wherein c is mute) Mild, Pint, and Wild,
+retains its English, or long sound; also in Child and Christ, but not in their
+Derivatives, Children, Christen, and Christian.
+
+General Exceptions concerning i before a consonant.
+6thly,
+i is likewise sounded long in all primitive words (and their compounds and
+derivatives) ending in nd; as Bind, Rind, Wind, etc.; though in Wind, the
+substantive, and its compounds, it is sometimes pronounced short.
+
+It is also sounded long before gh, as in High, Nigh, Light, etc. in which gh
+is mute, having no other use than that of lengthening the i.
+
+It is long also before gn at the end of a word (and the g is mute) as in
+Benign, Sign, and its compounds Consign, Design, etc. and their Derivatives in
+-er, -ed, -edly, and -meant, but no others; for in Re-sig-na-tion,
+Con-sig-na-tion, Sig-nif-i-ed, etc. the i is short according to rule, and the g
+is pronounced.
+
+General Exceptions concerning o before consonants.
+Except, 7thly,
+o in all words ending in ld and lt, as Behold, Bold, Cold, Bolt, Colt, etc. and
+all their compounds and derivatives, retains its long sound.
+
+Particular Exceptions of o before a consonant.
+8thly,
+o is also pronounced long in Boll, Bolster, Comb (wherein b is mute) Control,
+Droll, Folk (wherein l is mute) Force, Fort, Ghost, Gross, Holster, Host, Most,
+Only, Post, Poll, Pat-roll, Port, Roll, Scroll, Sloth, Sport, and Sword
+(wherein w is mute) Stroll, Toll, and Troll, and in their compounds, etc. But
+in Count and its compounds, Ac-compt, etc. it sounds like the English diphthong
+ou, as if spelt Count, Ac-count, etc.
+
+It has the sound of a short u In the dialects of Lancashire, and some other
+places, the o is pronounced according to rule, in many of these words.
+in Af-front, At-tor-ney, Bomb, Bor-age, Bor-ough, Broth-er, Col-our, Com-fits,
+Com-fort, Com-pany, Com-pass, Con-duit, Con-ey, Con-sta-ble, Coz-en,
+Cov-e-nant, Cov-er, Cov-et, Cov-ey, Dis-com-fit, Doz-en, Gov-ern, Hon-ey,
+Lon-don, Mon-day, Mon-ey, Monk, Mon-key, Mon-ger, Mon-grel, Month, Moth-er,
+On-ion, Oth-er, Ov-en, Pom-mel, Poth-er, Rom-age, Ront, Son, Shov-el, Slov-en,
+Smoth-er, Ton, Thor-ough-ly, Won, Won-der, Word, World, Work, Worm, Wor-sted,
+Worth, Wom-an (in the singular only, the plural being pronounced as if spelt
+Wimmen) Wor-ry, Wort, Wor-ship, and their compounds, etc. except Dis-cov-er and
+Re-cov-er, which are pronounced according to rule.
+
+It is most commonly sounded like oo in Tomb and Womb (wherein b is silent)
+Lo-ser, Gold, Whom, and Whose In the northern parts of England the words Gold,
+Who, Whom, and whose, are pronounced properly as they are spelt.
+: and is mute in Jeop-ar-dy, Leop-ard, and People, which are pronounced as if
+written Jep-par-dy, Lep-pard, and Pee-ple.
+
+Particular Exceptions of u before a consonant.
+Except, 9thly,
+u in Bu-sy, and its compounds, etc. which is commonly pronounced like a short
+i, and the s like z.
+
+Of Vowels in Syllables ending with silent e.
+Rule III.
+But when e or ue follow a consonant in the same syllable, the preceding vowel
+retains its original open or long sound.
+
+EXAMPLES. Ace, Face, Recede, Dice, Vote, Con-fute, Vague, Vogue, Col-legue,
+etc. Also, Ad-vice, De-vice, En-tice, Suf-fice, Sac-rif-ice, Alive, Con-nive,
+Con-trive, De-prive, Derive, Re-vive, and Sur-vive, which are accented on the
+last syllable.
+
+The vowel a is sounded long even before two consonants, when they are followed
+by e in the same syllable (except before -nce) as n Ache, Haste, Waste, Change,
+Grange, Range, etc. and their compounds and derivatives; but the other four
+vowels are sounded short in the like case, as in Fringe, Revenge, Solve, Serve,
+Tinge, Sludge, Grudge, etc.
+
+Note,
+That derivatives from words ending in e for the most part retain their original
+sound, even when the e is omitted, as Sparing, -ed, from Spare; Wast-er, -ing,
+ed, from Waste; Rang-er, -ing, ed, from Range, etc.
+
+General Exception.
+Except, 1st,
+Words having the accent on the penultima or antepenultima: in all which the
+last syllable, being short, is pronounced as if the e and ue final were absent,
+as in Cal-a-mine, Cath-er-ine, Cat-a-logue, Dec-a-logue, De-pos-ite, Des-tine,
+De-ter-mine, Dis-fran-chise, Doc-trine, En-gine, Ep-il-ogue, Ex-quis-ite,
+Gran-ite, Har-angue, Fi-nite, and its compounds, Mar-it-ime, Med-ic-ine,
+Min-ute (not the adjective for small) Mor-tise, Ped-a-gogue, Prac-tise (verb)
+Prol-ogue, Prom-ise, Sap-phire, Syn-a-gogue, Trea-tise, and U-rine.
+
+Particular Exceptions.
+2dly,
+The following monosyllables are likewise exceptions to this rule, viz. Dare
+(the verb) Give, Gone, Have, Live, and One One is pronounced as if spelt Won.
+; all which are pronounced as if e final was absent. Except, 3dly,
+
+
+There, Were, and Where, which are commonly pronounced as if spelt with the
+diphthong ai, Their, Wair, and Whair; but in all other words (except what are
+mentioned above) the vowels a, e, i, or y, when they come before When a
+consonant comes before re and le final, the e is never sounded last, but always
+before the last consonant of the word, as in A-cre, Mi-tre, humble, etc. which
+are sounded A-ker, Mi-ter, humbel, etc.
+-re final, are sounded long according to the third rule, as in Are, Care,
+Here, Mere, Desire, Fire, Lyre, etc. as if spelt Air, Cair, Here, Mere, Desire,
+etc.
+
+Particular Exceptions concerning i in syllables ending with silent e.
+Except, 4thly,
+i in Writhe and O-blige, wherein it is commonly sounded like ee (though in the
+northern parts of England the latter is sounded according to rule).
+
+General Exceptions concerning i in syllables ending with silent e.
+5thly,
+i in all adjectives of more than one syllable ending in -i will, and in all words
+(except those mentioned in the above example) ending in ice and ive, is
+pronounced short, as in Ser-vile, Ju-ven-ile, Cap-rice, Mal-ice, En-dive,
+Pos-it-ive, etc.
+
+Particular Exceptions concerning o in syllables ending with silent e.
+6thly,
+o in A-bove, Come, Come-ly, Done, Dove, Glove, Love, Pore-blind, Some, Shove,
+Sponge, Tongue, and Worse, wherein it is sounded like a short u; and in Lose,
+Move, Prove, and Rome, wherein it is commonly pronounced like oo.
+
+Of Proper Diphthongs.
+Proper Diphthongs have sounds of their own, different from the long and short
+sounds of the English vowels.
+
+Rule IV
+au aw
+are pronounced like the French a in Ame.
+
+Examples.
+Maul, Paul, Sprawl, Law, Saw etc.
+
+Particular Exceptions.
+Except,
+Auf (more commonly spelt Oaf) and Hautboy, wherein au is pronounced like a
+long o; Cauliflower, where it is pronounced like a short o; and Gauge, wherein
+it is commonly sounded like the English a long.
+
+Rule V.
+oi oy
+The proper articulation of these diphthongs is that which is given them in the
+English words Oil, Boil, Coy, Hoy, etc.
+
+( See List of Vowels, Diphthongs, etc. which cannot be expressed in foreign
+Letters, page 3.)
+
+Except,
+Tor-toise, wherein oi is commonly sounded like short u.
+
+Rule VI
+oo is pronounced like the French ou in Bout.
+
+Examp'
+Boot, Broom, Loop, Moor, Poor, etc.
+
+Except,
+Blood, Flood, Foot, Good, Hood, Stood, Soot, Wood, and Wool, wherein oo is not
+pronounced so full, but partakes a little of the sound of a short u. Except
+also Door and Floor are pronounced by the vulgar in the northern parts of
+England as they are spelt; for they give the oor, in these words, the same
+sound that it has in Boor, Moor, Poor, etc.
+Door and Floor, wherein oo has the sound of o long.
+
+Rule VII.
+ou ow
+The proper pronunciation of these diphthongs is that which is given them in
+the English words Bound, Found, Crown, Cow, Flow-er, Sow (noun), Coward, etc. A
+more particular account of this sound is given in page 3.
+
+Particular Exceptions concerning ou.
+Except, 1st,
+ou in Bouge, Boug-et (commonly written Budge and Budget) Bor-ough, Coun-try,
+Cou-ple, Cour-age, Cous-in, Dou-ble, Doub-let, Jour-nal, Jour-ney, Mounch,
+Nour-ish, Thor-ough-ly, Thor-ough-fare, Trou-ble, Touch, Ou in Scourge is
+sometimes like o long.
+Scourge, Shoud, Coud, and Would, wherein it is pronounced like a short u; also
+in Enough, Rough, Slough (when it signifies the part which separates from a
+sore) and Tough; in all which the gh final sounds like f; but in Cough, Lough
+(or Lake) and Trough, it is pronounced like a short o, as if spelt Coff, Loff,
+and Troff. Except also in Coul-ter, Course, (and its compounds Discourse, etc.)
+Court, Dough, Four, Fur-lough, Gourd, Mourn, Mould, Moult, Poult, Poul-try,
+Poul-terer, Poul-tice, Shoul-der, Soul, Though, wherein ou is sounded like o
+long; and like oo in Bouse, Ca-rouse, Gouge, Through, and Un-couth.
+
+General Exceptions concerning ou.
+^^cept, ^dly,
+ou before ght, which has a medium sound between aw and o long, as in Ought,
+Bought, Thought, etc. and in the termination of words of more than one
+syllable, in -our and -ous, wherein it sounds like a short u, as in Ho-nour,
+Sa-viour, Pi-ous, Righ-teous, etc.
+
+Particular Exceptions concerning ow.
+^^cept, ^dly,
+ow in Bow when it signifies a weapon, or segment of a circle; but in the word
+Bow it is pronounced according to rule; in Bowl (or Basin, not in Bowl the
+verb, nor its derivatives, etc.) Blow, Crow, Flow, Flown (from Fly) Glow, Grow,
+Know, Low, Mow, Owe, Own, Prow, Prowl, Row, Sow (the verb) Show, Slow, Snow,
+Strew, Stow, Tow (noun and verb) Trow, and Throw, and their derivatives, etc.
+wherein it sounds like o long.
+
+General Exception concerning ow.
+Except, 4thly,
+ow final in words of more than one syllable, which is sounded like a short o,
+the w being mute; as in Bar-row, Bellow, Fol-low, etc. Three words are
+independent of this exception, viz. Al-low, wherein ow is pronounced according
+to the rule, and Be-low and Bestow, wherein it sounds like o long.
+
+Note,
+Many of the words contained in the above exceptions are pronounced in the broad
+dialects of the northern parts of England as they are spelt; that is, ou and ow
+are pronounced according to the VIIth rule, as in Bound, Cow, etc. viz. Trough
+(making gh silent) Four, Mould, Moult, Poultry, Poultice, Shoulder, Bowl (or
+Basin) Glow, Grow, Mow, Owe, Own, Strew, Trow, Ought, Bought, etc.
+
+Of Improper Diphthongs.
+Improper Diphthongs take the sound of but one of their vowels, the other being
+mute.
+
+Rule VIII.
+ai ay ey
+are pronounced like the French ai, or English a long.
+
+Examples.
+Dainty, Bail, Gain, Day, May, Gray, Prey, Convey, Obey, Survey, Bey, Dey, etc.
+
+Particular Exceptions concerning ai.
+Except, 1st,
+ai in Vil-lain and Mur-rain, and sometimes in Said, is pronounced like a short
+e.
+
+General Exception concerning ai.
+Except, 2dly,
+ai when alone or at the end of a syllable, as in A-chai-a, and the Hebrew names
+Ben-ai-ah, Is-ai-ah, Mi-cai-ah, Cai-a-phas, etc: wherein it is pronounced like
+the Greek (...) or English i long.
+
+Particular Exceptions concerning ey.
+Except, 3dly,
+ey in Hey! and Hey-day! wherein it is sounded like the English i, and in
+Ceylon, Key, and Sey-mour, wherein it is pronounced like the English e or
+French i.
+
+General Exception concerning ey.
+Except, 4thly,
+ey at the end of words of more than one syllable (when the accent is placed on
+a former syllable, as in Al-ley, At-tor-ney, Bar-ley, Gal-ley, Hon-ey, etc.) is
+pronounced like a short i.
+
+Rule IX.
+ae ea ee ei ie oe
+are pronounced like the French i in Fille, or the English e long.
+
+Examples.
+Demon (or Demon) Beat, Dear, Lead, and Read (verbs) Meet, Feet, Re-ceipt,
+De-ceit, De-ceive, Ceil-ing, Seign-iory, Seize, Shield, Re-prieve, Grief,
+Foetus, Sub-poena, etc.
+
+Particular Exceptions concerning ea.
+Except, 1st,
+ea is pronounced like the French e in Bread, Breakfast, Breast, Breath (noun
+only) Cleanly, and Cleanse (not in Clean) Dead, Deaf, Death, Dread,
+En-deav-our, Feather, Head, Heav-en, Heav-y, Jeal-ous, Leav-en, Lead (metal)
+Leath-er, Measure, Mis-teach, Peas-ant, Pheas-ant, Pleasant, Pleas-ure,
+Peas-cod, Read-y, Realm, Read (only in preter tense and participle passive)
+Stead-y, In-stead, Spread, Sweat, Teat, Thread, Threat-en, Treach-ery, Tread,
+Treas-ure, Weath-er, Weap-on, Wreak, Zeal-ous, Zeal-ot (not in Zeal) Yeast, and
+their compounds and derivatives not already excepted. But in Bear In the
+northern parts of England, Break and Great are pronounced according to rule.
+, Break, Great, Swear, Tear (the verb) Wear, Wheal, and Weal (the mark of a
+stripe, but not in Weal for prosperity) it is commonly sounded like the French
+diphthong ai; and like a short a in Hear-ken, Hearth, and Heart.
+
+Except, 2dly,
+General Exceptions concerning ea.
+But in all other words before r, when another consonant follows in the same
+syllable, it is sounded like er or ir, as in Dearth, Earl, Earn, Earn-est,
+Earl-y, Earth, Hearse, Heard, Learn, etc.
+
+ea before three consonants in the same syllable is pronounced like the French
+e, as in Health, Breadth, Wealth, etc.
+
+Except, 3dly,
+Particular Exceptions concerning ee.
+ee in Breech (noun and verb) Breechings, and Breeches, which are pronounced
+like a short i.
+
+Except, 4thly,
+Particular Exceptions concerning ei.
+ei in Slight (Artifice) in which it is pronounced like the long English i;
+but it is like a short i in For-feit and Sur-feit; like a short e in For-eign,
+and Hei-fer; and like the diphthong ai in Hein-ous, Heir, Leisure (though
+sometimes like a short e in Leis-ure) Skein, Their, Veil, and Vein.
+
+Except, 5thly,
+General Exceptions concerning ei.
+ei is pronounced like the long English i when it is not followed by a
+consonant in the same syllable; as in Plei-a-des, Hei-delberg; Hei-den-heym,
+Rei-gate, etc. but in ei-ther and nei-ther it is sometimes pronounced like the
+English a long, and sometimes according to rule, like the English e long.
+
+It has the sound of the English a in all words wherein it precedes -gh, gn,
+and -nt in the same syllable, as Weigh, Freight, Deign, Feign, etc. (in all
+which g is mute) Feint, Teint, etc. except in three words mentioned above, viz.
+Slight, Seignory, and Foreign.
+
+Except, 6thly,
+Particular Exceptions concerning ie.
+ie in Friend, wherein it sounds like a short e; and Sieve, wherein it sounds
+like a short i.
+
+General Exceptions concerning ie and oe.
+7thly,
+ie oe
+at the end of a word are always pronounced like the first vowel in each
+diphthong, viz. ie like i long, and oe like o long, as in Die, Foe, etc. except
+in two words, Shoe and Can-oe, wherein oe is commonly pronounced like oo.
+
+Note,
+The same is to be observed of the diphthongs ue and ye, at the end of a word;
+the former being pronounced like a long u, and the latter like a long i; as in
+Due, Pie, etc. the same likewise when s is added to make the plural of nouns,
+or third person singular of verbs, as Dies, Foes, Dues, Pyes, etc. and the s so
+added is pronounced like z. Rule X.
+-eu -ew -jew
+are sounded like a single u long.
+
+Examples. Europe, Eu-nuch, Brew, Dew, View, etc.
+
+Except Eau in Beauty (and its derivatives) has likewise the same sound.
+,
+ew in Sew, which is commonly sounded like a long o.
+
+Rule XI
+oa is pronounced like o long.
+
+Examples. Boat, Coat, Groan, Moan, etc. in Broad, Except,
+A-broad, and Groat, wherein it partakes a little of the sound of aw; and in
+Goal (when it signifies a prison) it sounds like ai, and the G is pronounced
+soft, as if spelt Jail.
+
+Rule XII.
+ue ui
+before a consonant in the same syllable have the short sound of the last vowel
+in each diphthong; viz. ue like a short e as in Guess, Guest, etc.; and ui like
+a short i, as in Build, Guild, Conduit, etc. But in words ending with silent e,
+the diphthong ui is pronounced like the English i long, according to the third
+rule, as in Guide, Guile, Disguise, etc.
+
+Except, 1st,
+Particular Exceptions.
+The following words, wherein the u alone is pronounced, viz. Bruise, Cruise,
+Fruit, Juice, Nui-sance, Pur-suit, Recruit, Sluice, Suit, and Suit-or, which
+are sounded as if spelt Bruze, Cruze, Nuisance, etc.
+
+Note,
+When ua, ue, ui, and uo follow Q in the same syllable, the u has the power of
+w, which power cannot more easily be explained to foreigners, than by comparing
+it to the sound of u in the French word Quoi! or Quoy! as in Quar-rel, Quack,
+Question, Quick, Quite, Quit, Quote, etc.
+
+A TABLE of Words which are independent of the foregoing Rules and Exceptions,
+with the common Pronunciation of each expressed in Italicks.
+BUOY Boey, Victuals Vittles, Colonel Curnel, George Jorge, Lieutenant
+Leuftenant, Quay Kee, Two Too, Yacht Yot, Yeoman Yewman, Yelk or Yolk (of an
+egg) Yoke.
+
+A TABLE of Foreign Words which still retain their original Pronunciation (or
+nearly so) notwithstanding that they are in a manner adopted, by frequent Use,
+into the English Language.
+ACcoutre, Antique, Archives, Arriere, Banditti, Beau, Bureau, Caviare,
+Cartouch, Connoisseur, Courier, Croup, Cuirass, Environ, Escritoire, Fascine,
+Groupe, Intrigue, Lieu, Machine, Magazine, Marine, Palanquin, Pas, Piquant,
+Pique, Piquet, Police, Poltron, Ponton, Prame, Profile, Rendezvous, Roquelaure,
+Rouge, Scout, Sophi, Soup, Tete-a-tete, Tornado, Toupee, Tour, Transmarine,
+Vermicelli, Violoncello, Jonquil, Adieu.
+
+FINIS.
+A TABLE or INDEX of the Words, which (with their several Compounds and
+Derivatives) are Exceptions to the foregoing Rules; viz.
+A Vowels. Sounded like Rule. Exception. Page. A-Bove Au-dessus o u 3 6 17
+A-broad Dehors oa aw 11 1 28 Ac-qui-esce Acquiescer i e^ 1 3 5 Af-front Affront
+o u 2 8 12 An-gel Ange a A^ 2 1 8 A-ny Aucun a 2 1 5 At-tor-ney Procureur o u 2
+8 12 Auf Sol au o 4 1 18 B Bass Basse a a 2 1 8 Bear (noun and verb) Ours et
+Supporter ea ai 9 1 25 Be-low En-bas ow o 7 4 22 Be-stow Donner ow Bi-er Une
+Biere i e^ 1 2 5 Blithe Joyeux i i^ 2 5 10 Blood Sang oo u 6 1 19 Blow Coup,
+Souffler ow o 7 3 21 Boll Tige o o 2 8 12 Bol-ster Chevet o o 2 8 12 Bomb Bombe
+o u 2 8 12 Bor-age Bourache o u 2 8 12 Bor-ough Bourg o u 2 8 13 7 1 20 Bouge
+Senfler ou u 7 1 20 Boug-et Bougette ou u 7 1 20 Bouse Boire avec exces ou oo 7
+1 21 Bow (noun) Arc ow o 7 3 21 Bowl (or Basin) Bassin Bread Pain ea 9 1 24
+Break Rompre ea a 9 1 25 Breakfast Dejeune ea 9 1 24 Beast Poitrine ea Breath
+(noun) Haleine ea Breech, -es, -ings Fesses, Culotte ee 9 3 26 Broad Large oa
+aw 11 1 28 Broth-er Friar o u 2 8 13 Bruise Contusion ui u 12 1 29 Busy Occupe
+u 2 9 14 C Cam-brick Batiste a a 2 1 8 Cam-bridge Cambridge a a 2 1 8 Can-oe
+Canoe oe oo 9 7 27 Car-ouse Fair la debauche ou oo 7 1 21 Cau-lif-lower
+Choux-fleur au o 4 1 18 Cey-lon Ceylon ey e^ 8 3 23 Child but not their
+derivatives. Enfant i i^ 2 5 10 Christ but not their derivatives Christ
+Clean-ly not in clean Propre ea 9 1 24 Cleanse not in clean Nettoyer Col-our
+Couleur o u 2 8 13 Comb Peigne o o 2 8 12 Come Venir o u 3 6 17 Come-ly (De
+bonne grace) o u Comfits Confitures o u 2 8 13 Com-fort Consolation o u 2 8 13
+Com-pany Compagnie o u 2 8 13 Com-pass Contour o u 2 8 13 Count Compte o ou 2 8
+12 Con-duit Conduit o u 2 8 13 Con-ey Lapin o u 2 8 13 Con-sta-ble (Commissaire
+de quartier) o u 2 8 13 Con-trol Controller (last syl.) o o 2 8 12 Coud (Verb)
+ou u 7 1 20 Cov-en-ant Accord o u 2 8 13 Cov-er Couverture Cov-et Convoiter
+Cov-ey Volee d oiseaux Cough Toux ou o 7 1 20 Coul-ter (Soc de charrue) ou o 7
+1 20 Coun-try Pays ou u 7 1 20 Cou-ple Couple Cour-age Courage Course
+(Discourse, etc.) Course ou o 7 1 20 Court Cour Cous-in Cousin ou u 7 1 20
+Coz-en (verb) Duper o u 2 8 13 Crow Corneille ow o 7 3 21 Cruise Croiser ui u
+12 1 29 Cu-cum-ber Concombre (1st syll.) u ou 1 5 7 D Dan-ger Danger a a 2 1 8
+Dare Oser a a 3 2 16 Dead Mort ea 9 1 24 Deaf Sourd ea 9 1 24 Death La mort ea
+9 1 24 Discomfit Defaire o u 2 8 13 Do Fair o oo 1 4 6 Done Fait o u 3 6 17
+Door Port oo o 6 1 19 Dove Colombe o u 3 6 17 Dou-ble Doubler ou u 7 1 20
+Doub-let Doublet Dough Pate ou o 7 1 20 Doz-en Douzaine o u 2 8 13 Dread
+Crainte ea 9 1 24 Droll Comique o o 2 8 12 E En-deav-our Effort ea 9 1 25
+En-dict and Indict Stiler i i^ 2 5 10 Eng-land Angleterre e 2 3 9 En-ough Assez
+ou u 7 1 20 F False Faux a au 2 1 9 Fa-ther Pere a aw 1 1 5 Fea-ther Plume ea 9
+1 25 Flood Deluge oo u 6 1 19 Floor Plancher oo o 6 1 19 Flow Color ow o 7 3
+21 Flown (from Fly) Echape ow o 7 3 21 Folk Gens o o 2 8 12 Foot Pied oo u 6 1
+19 Force Force o o 2 8 12 Fort Fort o o 2 8 12 For-eign Etranger ei 9 4 26 9 5
+27 For-feit Amend ei i^ 9 4 26 Four Quatre ou o 7 1 20 Friend Ami ie 9 6 27
+Fruit Fruit ui u 12 1 29 Fur-lough Conge ou o 7 1 20 G Gauge Jauge au a 4 1 18
+Ghost Esprit o o 2 8 12 Give Donner i 3 2 16 Glove Gand o u 3 6 17 Glow (Etre
+allume) ow o 7 3 21 Goal Prison (G soft) oa a 11 1 28 Gold Or o oo 2 8 13 Gone
+All o o 3 2 16 Good Bon oo u 6 1 16 Gov-ern Gouverner o u 2 8 13 Gouge Gouge
+ou oo 7 1 21 Gourd Citrouille ou o 7 1 20 Great Grand ea a 9 1 25 Groat ( Piece
+de 4 sols) oa aw 11 1 28 Gross Gros o o 2 8 12 Grow Croitre ou o 7 3 21 H
+Hal-ser Hausiere (l mute) a aw 2 1 9 Hant ( for have not) (Verb) a aw 2 1 8
+Have Avoir a a 3 2 16 Haut-boy Hautbois (t mute) au o 4 1 18 Head Tete ea 9 1
+25 Hear-ken Ecouter ea a 9 1 25 Heart Coeur ea a 9 1 25 Hearth Foyer ea a 9 1
+25 Heav-en Le ciel ea 9 1 25 Heav-y Pesant ea 9 1 25 Heif-er Genisse ei 9 4 26
+Hein-ous Odieux ei a 9 4 26 Heir Heritier (h mute) ei a 9 4 26 Hey! Hey-day!
+Ouais! ey i^ 8 3 23 Hol-ster (Fourreau de pistolet o o 2 8 12 Hon-ey Miel o u 2
+8 13 Hood Coiffe oo u 6 1 19 Host Hot o o 2 8 12 I Jeal-ous Jaloux ea 9 1 25
+Jeop-ard-y Peril eo 2 8 13 In-stead Au lieu ea 9 1 25 Journal Journal ou u 7 1
+20 Jour-ney Voyage Juice Jus ui u 12 1 29 K Key Clef ey ee 8 3 23 Know Scavoir
+ow o 7 3 21 L Lead (noun) Plomb ea 9 1 25 Leath-er Cuir ea 9 1 25 Leav-en
+Levain ea 9 1 25 Leis-ure Loisir ei a and sometimes 9 4 26 Leo-pard Leopard eo
+2 8 13 Live Vivre i 3 2 16 Lon-don Londres o u 2 8 13 Lose,-er Perdant o oo 3 6
+17 2 8 13 Love Amor o u 3 6 17 Lough (or Lake) Lac o o 7 1 20 Low Bas ow o 7 3
+21 M Ma-ma Maman a aw 1 1 5 Man-ger Mangeoire a a 2 1 8 Ma-ny Plusieurs a 1 1 5
+Mas-ter Maitre a aw 2 1 8 Meas-ure Mesure ea 9 1 25 Mild Doux i i^ 2 5 10
+Mis-teach Enseigner mal ea 9 1 25 Mon-day Lundi o u 2 8 13 Mon-ey Largent o u 2
+8 13 -Mon-ger Vendeur o u 2 8 13 Mon-grel Metif o u 2 8 13 Monk Moine o u 2 8
+13 Mon-key Singe o u 2 8 13 Month Mois o u 2 8 13 Most Le plus, la plus, etc. o
+o 2 8 12 Moth-er Mere o u 2 8 13 Move Mouvoir o oo 3 6 17 Mould Moule ou o 7 1
+20 Moult Muer ou o 7 1 20 Mounch Manger ou u 7 1 20 Mourn Deplorer ou o 7 1 20
+Mow Faucher ow o 7 3 21 Mur-rain Mortalite parmi les betes ai 8 1 23 N Nou-rish
+Nourrir ou u 7 1 20 Nuis-ance Incommodite ui u 12 1 29 O O-blige Obliger
+(sometimes) i ee 3 4 16 One Un, une o o 3 2 16 On-ion Oignon (1st syll.) o u 2
+8 13 On-ly Seul (sometimes) o o 2 8 12 Oth-er Autre o u 2 8 13 Ov-en Four o u 2
+8 13 Owe, Own Devoir, confesser ow o 7 3 21 P Pal-sey Paralysie a aw 2 1 9
+Pa-pa Papa a aw 1 1 5 Pa-trol Patrouille o o 2 8 12 Peas-ant Paysan ea 9 1 25
+Peas-cod (Cosse de pois) Peo-ple Peuple eo e^ 2 8 13 Pheas-ant Faisand ea 9 1
+25 Pi-er Jettee i e^ 1 2 5 Pint Chopine i i^ 2 5 10 Plas-ter Emplatre a aw 2 1
+8 Pleas-ant Agreeable ea 9 1 25 Pleas-ure Plaisir Poll Tete o o 2 8 12 Port Port
+Post Post Pom-mel Pommeau o u 2 8 13 Poth-er Embarras o u 2 8 13 Pore-blind
+(qui a lavue court) o u 3 6 17 Poult Coup de main ou o 7 1 20 Poul-try,
+Poul-ter-er Volaille, Poulailler Poul-tice Cataplame ou o 7 1 20 Pret-ty Joli e
+2 3 9 Prove Prouver o oo 3 6 17 Prow Prove ow o 7 3 21 Prowl Roder ow o 7 3 21
+Pur-suit Poursuite ui u 12 1 29 R Read (perfect tense; participle passive) Lu
+ea 9 1 25 Read-y Pret ea 9 1 25 Realm Royaume ea 9 1 25 Re-cruit Recrue ui u 12
+1 29 Roll Un rouleau o o 2 8 12 Rom-age Perquisition o u 2 8 13 Rome Rome o oo
+3 6 17 Ront Animal nain o u 2 8 13 Rough Rude ou u 7 1 20 Row, noun and verb
+Rang, ramer ow o 7 3 21 S Said Dit ai 8 1 23 Scourge Fleau ou u and o 7 1 20
+Scroll Une band o o 2 8 12 Sew Coudre ew o 10 1 28 Sey-mour Sey-mour (nom) ey
+e^ 8 3 23 Shoe Un soulier oe oo 9 7 27 Shoud (Verb) ou u 7 1 20 Shove Pousser
+o u 3 6 17 Shov-el Une pele o u 2 8 13 Shoul-der Epaule ou o 7 1 20 Show
+Montrer ow o 7 3 21 Sieve Crible ie 9 6 27 Skein Echeveau ei al 9 4 26 Slight
+(Artifice) Artifice ei i^ 9 4 26 9 5 27 Sloth Paresse o o 2 8 12 Slough
+(Suppuration from a sore) Matiere qui sort dune play ou u 7 1 20 Slov-en
+Mal-propre o u 2 8 13 Slow Lent ow o 7 3 21 Sluice Ecluse ui u 12 1 29 Smoth-er
+Etouffer o u 2 8 13 Snow Neige ow o 7 3 21 Some Quelque o u 3 6 17 Son Fills o u
+2 8 13 Soot Suie oo u 6 1 19 Soul Ame ou o 7 1 20 Sow (verb) Semer ow o 7 1 20
+Sponge Eponge o u 3 6 17 Sport Jeu o o 2 8 12 Spread Etendre ea 9 1 25 Stead-y
+Ferme ea 9 1 25 Stood (Pret. de s arreter) oo u 6 1 19 Stow Arranger ow o 7 3
+21 Stroll Roder o o 2 8 12 Strew Parsemer ow o 7 3 21 Suit Process ui u 12 1 29
+Suit-or Plaideur ui u 12 1 29 Sur-feit Indigestion ei 9 4 26 Swear Jurer ea ai
+9 1 25 Sweat Suer ea 9 1 25 Sword Epee o o 2 8 12 T Tear (verb) Dechirer ea ai
+1 9 25 Teat Mammelle ea 1 9 25 Ti-er Rang i e^ 1 2 5 Their Leur ei ai 9 4 26
+There La e ai 3 3 16 Though Quoique ou o 7 1 20 Thor-ough-fare, Thorough-ly
+Passage, parfaitement o u 2 8 13 ou u 7 1 20 Thread Fill ea 9 1 25 Threat-en
+Menacer ea 9 1 25 Through a travers ou oo 7 1 21 Throw Jetter ow o 7 3 21 To a
+o u 1 4 6 Toll Peage o o 2 8 12 Tomb Tombeau o oo 2 8 13 Ton Tonneau o u 2 8 13
+Tongue Langue o u 3 6 17 Tor-toise Tortue oi u 5 1 19 Touch Toucher ou u 7 1 20
+Tough Dur ou u 7 1 20 Tow, noun and verb Etoupes, remorquer ow o 7 3 21
+Treach-er-y Perfidie ea 9 1 25 Tread Marcher ea 9 1 25 Treas-ure Tresor ea 9 1
+25 Troll Roder o o 2 8 12 Trou-ble Peine ou u 7 1 20 Trough Auge ou o 7 1 20
+Trow Croire ow o 7 3 21 V Veil Voile ei ai 9 4 26 Vein Vein ei ai 9 4 26
+Vil-lain Coquin ai 8 1 23 Un-couth Grossier ou o 7 1 W Wa-ter Leau a aw 1 1 5
+Weal (mark of a stripe Marque de coup ea ai 9 1 25 Weap-on Arm ea 9 1 25
+Weath-er Le tems ea 9 1 25 Wear User ea ai 9 1 25 Were (Etre) e ai 3 3 16 Wheal
+(a stripe) Marque de coup ea ai 9 1 25 Where Ou e ai 3 3 16 Who Qui, lequelle,
+laquelle o sometimes oo 1 4 6 Whom Lequelle, laquelle o Do 2 8 13 Whose Don't
+Wild Sauvage i i^ 2 5 10 Womb Matrice o oo 2 8 13 Woman, women Femme, -s o u 2
+8 13 Won Gagne o u 2 8 13 Won-der Surprise o u 2 8 13 Wood Bois oo u 6 1 19
+Wool Lain Word Mot o u 2 8 13 World Monde Work Ouvrage o u 2 8 13 Worm Ver
+Wors-ted Etame Wor-ry Dechirer o u 2 8 13 Wor-ship Adoration Wort Mout Worth
+Prix Worse Pire o u 2 8 13 Would (Verb) ou u 7 1 20 Wreak Assouvir sa vengece
+ea 9 1 25 Writhe Guirlande, tordre i ee 3 4 16 Y Yeast Levure ea 9 1 25 Yel-low
+Jaune e a 2 3 9 Yes Oui e 2 3 9 Yet Encore Z Zeal ous, Zealot Zele, zelateur ea
+9 1 25
+
+AN APPENDIX, CONTAINING A Brief ACCOUNT of the chief Peculiarities of the
+ENGLISH CONSONANTS.
+1. B is mute before t, or after m, in the same syllable, as Debt, Lamb, etc.
+
+2. C sounds soft, like s, when followed by e, i, or an apostrophe (denoting
+the absence of e) as Cedar, City, Dancd, etc.
+
+C sounds like sh, when followed by ea, ia, ie, or io, making different
+syllables, as Ocean, Ancient, Precious, Social, etc. except Society.
+
+CC when followed by e or i, sounds like x, as Accept, Accident, etc.
+
+C is mute in Indict, Victuals, Scene, Scent, Science, Sciatica, Scissors,
+Scission, Scymiter, Scythe, and the proper names Scyros, Scylla, and Scythia.
+
+In all other cases C sounds hard like k.
+
+3. Ch, when properly English, has the same sound with the Italian c, before e
+or i. Examp. Child, Chain, etc.
+
+It sounds also like sh, in words derived from the French, as Chaise,
+Champaigne, etc. and like k in words of Greek extraction, as Christ, School,
+Stomach, Archangel, etc. pronounced Ark-angel. But if Arch comes before a
+consonant, ch has then its proper English sound, as in Archbishop.
+
+Ch in Loch sounds like f.
+
+Ch is mute in Dram, Schedule, and Schism.
+
+4. D is mute before ge, as in Judge, Bridge, etc. also in Soldier.
+
+5. F in Of sounds like v.
+
+6. G sounds soft like j before e, i, or an apostrophe, and hard (like the
+Greek y) in all other cases.
+
+Examp. Angel, Rage, Ragd, Giant, Ginger, etc.
+
+Exceptions to Gs sounding soft.
+
+1. In the participles passive of words ending in g hard (and also wherever g
+is doubled) it continues hard, notwithstanding the vowels e or i, or an
+apostrophe, as in Draggd, Begging, Digging, etc.
+
+2. In the termination ger, wherever it makes a distinct syllable, g sounds
+hard, as in An-ger, Finger, Longer, Stronger, etc. in which kind of words it
+may be observed that the g sounds double, so as to belong to both syllables.
+
+3. Derivatives in er, ed, or ing from primitives in ng, retain the g hard, as
+Singing, Sing-er, from Sing; Hang-ing, Hang-er, from Hang; Winged or Wingd from
+Wing, etc. In which kind of words it may be observed, that g sounds single, and
+belongs to the first syllable only.
+
+4. In the following words G is hard, notwithstanding it comes before e or i;
+viz. Geese, Gewgaw, Geld, Gelt, Gertrude, Get (with its compounds) Gibberish,
+Gibbous, Giddy, Gift, Gig, Giggle, Gild, Girl, Give, Forgive, Gilt, Gimblet,
+Gimp, Gird, Girt, Girdle, Begin, Gizzard, Gideon, Gibbons, Gilbert, and Gilpin.
+
+G is mute before n in the same syllable, as Gnash, Sign, Sovereign, etc. also
+in Phlegm, Seraglio, and Bagnio.
+
+7. Gh sounds like G hard in Ghost, and like ff in Cough, Lough, Laugh,
+Laughter, Rough, Slough, Tough, Trough, and Enough. In other words it is mute.
+
+8. H is mute in Hour, Honor, Honest, Heir, Herb, Humor, Hostler, Thyme,
+John, Thomas, Thomasin, and Thames. Also in Greek words, when preceded by R, as
+Rheum, Rhyme, Rhetoric, Myrrh, etc. and lastly at the end of words, as ah, hah,
+Isaiah, Sarah, etc.
+
+9. K is mute before n in the same syllable, as Knave, Know, Knight, etc.
+
+10. L is mute in Balk, Talk, Walk, Stalk, Balm, Calm, Calf, Calves, Falcon,
+Half, Halves, Holme (an island) and Holmes (a surname) Psalm, Qualm, Salmon,
+Could, Should, and Would.
+
+11. N is mute after m in the same syllable, as Hymn, Autumn, Solemn, etc.
+
+12. P is mute before s, and between m and t, as Psalm, Tempt, etc.
+
+13. Ph is always sounded like f, except in Stephen, Nephew, and Phial, where
+it sounds like v.
+
+Ph is mute in Phthisic, and is pronounced Tizzic.
+
+14. Q is always followed by u, and, when it begins a syllable, sounds like cw,
+by which (as Mr. Johnson observes) our Saxon ancestors well expressed it. But
+in terminations from the Latin -quus, and also in words of French extraction,
+it sounds like k. Examp. Oblique, Antique, Quoif, Conquer, Risque, Traffic,
+etc. some of which words are now more commonly spelt with c or k, as Coif,
+Risk, Traffic, etc.
+
+15. S sounds like z.
+
+1st, In the third persons singular of all verbs, and the plural number of all
+nouns, as in Has, Was, Tries, Bees, Times, etc.
+
+2dly, In pronouns possessive, as His, Hers, Theirs, and also when preceded by
+the comma denoting possession, as Fathers, Mothers, Toms, Wills, etc. (also in
+the particle as.)
+
+Exception to the two last Sections.
+
+S has its proper sound when preceded by c, k, ck, f, p, q, or t, which admit
+not the sound of z so easily after them, as Speaks, Beats, Rocks, Jacks, Dicks,
+Gilberts, Cocks-spur, Cats-paw, etc.
+
+3dly, S sounds like z preceded by a liquid in the same syllable, as Dam-sel,
+Crimson, Thames, Jer-sey, Guern-sey, etc. And also,
+
+4thly, S between two vowels most commonly sounds like z, as Daisy, Reprisal,
+Peasant, Please, Rosin, etc.
+
+Except House, Mouse, Louse, Goose, Geese, Sausage, Purchase, Promise, Case,
+Mason, Basin, Basis, Phasis, and Thesis. Except also substantives in use,
+derived from Latin verbs, as Use, Abuse, Disuse, Refuse, Excuse, etc. and
+adjectives derived from the participles passive of some Latin verbs, as
+Recluse, Profuse, Abstruse, etc.
+
+Lastly, Except also the words contained in the next section but one, where s
+sounds like zh.
+
+S and ss sound like sh in Sure (with its compounds) Issue, Tissue, Fissure,
+Pressure, Russian, etc. also in the terminations -assion, -ession, -ission,
+-ussion, as in Passion, Impression, Mission, Concussion, etc.
+
+S, when preceded by a vowel and followed by ion or ian, sounds like zh, as
+Invasion, Ephesian, Vision, Delusion, etc. But if it be preceded by a
+consonant, it sounds like sh, as in Conversion, Persian, etc.
+
+S sounds also like zh before -ier, as Osier, Hosier, Glasier, Brasier, etc.
+and in the words Leisure, Measure, Pleasure, and Treasure.
+
+S is mute in Isle, Lisle, Carlisle, Island, Viscount, and Demesne.
+
+16. T before io or ia (making part of the same syllable with i) sounds like
+sh, as Na-tion, Cau-tious, Egyp-tian, Sa-ti-ate, etc. But if t belong to the
+former syllable, it retains its proper Sound, as Quest-ion, Fustian,
+Combust-ion, etc.
+
+T is mute in words ending with -stle, as Castle, Thistle, Bristle, etc.
+
+17. Th has two sounds, the one soft, as in Thy, the other hard (like the Greek
+(...)) as in Thigh.
+
+I. Th sounds soft,
+
+1st, In Thence, There (with their compounds) Then, That, The, Thee, These,
+This, Those, Thus, Thou, Thy, Thine, Their, Theirs, Them, Though, Although,
+Beneath, Bequeath, Betroth, Mouths, Tithe, Scythe, Wreath, Booth, and in the
+verbs Bathe, Mouth, Sees, Loathe, Soothe, and Breathe.
+
+2dly, Wherever it occurs between two vowels, as Father, Mother, etc. Except
+words of Greek extraction, and also derivatives from words ending with th hard,
+as Earthen from Earth, etc.
+
+3dly, Th sounds soft when placed between r and a vowel, as Burden, Murder,
+etc. though in such words d is often written and pronounced instead of th, as
+Murder, Burden. In other cases th sounds hard.
+
+Th is mute in Asthma, with its derivatives.
+
+8. W is mute before r in the same syllable, as Write, Wrath, etc. also in
+Sword, Swoon, and Answer, with their compounds and derivatives.
+
+The other consonants have the same powers as in other languages.
+
+FINIS.
+ERRATA.
+Preface, p. xiv. for 340, read 342. -- Note, for 54 r. 47. -- for page 15, r.
+page 30. Page 21, for word, r. verb.
+

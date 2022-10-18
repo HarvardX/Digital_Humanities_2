@@ -1,0 +1,2620 @@
+AN ESSAY Toward a New Theory OF VISION.
+
+By GEORGE BERKELEY, M. A. Fellow of Trinity College, Dublin.
+
+DUBLIN: Printed by AARON RHAMES, at the Back of Dick's Coffee-House, for
+JEREMY PEPYAT, Bookseller in Skinner-Row, MDCCIX.
+
+To the Right Honorable Sir John Percivale, Bart. ONE OF Her Majesty's Most
+Honorable PRIVY COUNCIL IN THE Kingdom of Ireland.
+SIR,
+I Could not, without doing Violence to my Self, forbear upon this Occasion, to
+give some public Testimony of the Great and Well-grounded Esteem I have
+conceived for You, ever since I had the Honor and Happiness of Your
+Acquaintance. The outward Advantages of Fortune, and the early Honors with
+which You are Adorned, together with the Reputation You are known to have,
+amongst the Best and most Considerable Men, may well imprint Veneration and
+Esteem, on the Minds of those who behold You from a Distance. But these are not
+the chief Motives, that Inspire me with the Respect I bear You. A nearer
+Approach has given me the View of something in Your Person, infinitely beyond
+the External Ornaments of Honor and Estate. I mean, an Intrinsic Stock of
+Virtue and good Sense, a True Concern for Religion, and disinterested Love of
+Your Country. Add to these an uncommon proficiency in the best, and most useful
+Parts of Knowledge; together with (what in my Mind is a Perfection of the first
+Rank) a surpassing Goodness of Nature. All which I have Collected, not from the
+uncertain Reports of Fame but, from my own Experience. Within these few Months,
+that I have the Honor to be known unto You, the many delightful Hours I have
+passed in Your Agreeable and Improving Conversation, have afforded me the
+opportunity of Discovering in You many Excellent Qualities, which at once fill
+me with Admiration and Esteem. That one at those Years, and in those
+Circumstances of Wealth and Greatness, should continue Proof against the Charms
+of Luxury, and those Criminal Pleasures, so fashionable and predominant in the
+Age we live in. That He should preserve a sweet and modest Behavior, free from
+that insolent and assuming Air, so familiar to those who are placed above the
+ordinary Rank of Men. That He should manage a great Fortune with that Prudence
+and Inspection, and at the same time, expend it with that Generosity and
+Nobleness of Mind, as to show Himself equally remote, from a sordid Parsimony,
+and a lavish, inconsiderate Profusion of the good Things He is entrusted with.
+This, surely, were Admirable and Praise worthy. But that He should moreover by
+an impartial Exercise of His Reason, and constant Perusal of the Sacred
+Scriptures, endeavor to attain a right Notion of the Principles of Natural and
+Revealed Religion. That He should with the Concern of a true Patriot have the
+Interest of the Public at Heart, and omit no means of Informing Himself what
+may be Prejudicial, or Advantageous to his Country, in order to prevent the
+one, and promote the other. In fine, that by a constant Application to the most
+severe and useful Studies, by a strict Observation of the Rules of Honor and
+Virtue, by frequent and serious Reflections on the mistaken Measures of the
+World, and the true End and Happiness of Mankind, He should in all respects
+qualify Himself, bravely to run the Race that is set before Him, to deserve the
+Character of Great and Good in this Life, and be ever Happy hereafter. This
+were amazing, and almost incredible. Yet all this, and more than this, SIR,
+might I justly say of you; did either your Modesty permit, or your Character
+stand in Need of it. I know it might deservedly be thought a Vanity in me, to
+imagine that any thing coming from so obscure a Hand as mine, could add a
+luster to your Reputation. But I am withal sensible, How far I advance the
+Interest of my own, by laying hold on this Opportunity to make it known, that I
+am admitted into some degree of Intimacy, with a Person of Your Exquisite
+Judgment. And with that View, I have ventured to make You an Address of this
+Nature, which, the Goodness I have ever experienced in You inclines me to hope,
+will meet with a favorable Reception at Your Hands. Though I must own, I have
+Your Pardon to ask, for touching on what may, possibly, be Offensive to a
+Virtue You are possessed of in a very distinguishing Degree. Excuse me, SIR, if
+it was out of my Power, to mention the Name of SIR JOHN PERCIVALE, without
+paying some Tribute to that Extraordinary and surprising Merit, whereof I have
+so lively and affecting an Idea, and which, I am sure, cannot be exposed in too
+full a light for the Imitation of Others. Of late, I have been agreeably
+employed in considering the most Noble, Pleasant, and Comprehensive of all the
+Senses. The fruit of that (Labor shall I call it or) Diversion is what I now
+Present You with, in Hopes it may give some Entertainment to one who, in the
+midst of Business and Vulgar Enjoyments, preserves a Relish for the more
+Refined Pleasures of Thought and Reflection. My Thoughts concerning Vision have
+led me into some Notions, so far out of the common Road, that it had been
+improper to Address them to one of a narrow and contracted Genius. But You,
+SIR, being Master of a large and free Understanding, raised above the Power of
+those Prejudices that enslave the far greater Part of Mankind, may deservedly
+be thought a proper Patron for an Attempt of this Kind. Add to this, that You
+are no less disposed to Forgive, than qualified to discern, whatever Faults may
+occur in it. Nor do I think You defective in any one Point necessary to form an
+Exact Judgment on the most abstract and difficult Things, so much as in a just
+Confidence of Your own Abilities. And in this one Instance, give me leave to
+say, You show a manifest weakness of Judgment. With Relation to the following
+Essay, I shall only add, that I beg Your Pardon for laying a Trifle of that
+Nature in your Way, at a time when you are engaged in the Important Affairs of
+the Nation, and desire you to think, that I am with all Sincerity and Respect
+
+SIR, Your most Faithful And most Humble Servant George Berkeley.
+
+THE CONTENTS.
+SECT. I. Design. II. Distance of it self Invisible. III. Remote Distance
+perceived rather by Experience, than by Sense. IV. Near Distance thought to be
+perceived by the Angle of the Optic Axes. V. Difference between this and the
+former manner of perceiving Distance. VI. Also by Diverging Rays. VII. This
+depends not on Experience. VIII. These the common Accounts, but not
+satisfactory. IX. Some Ideas perceived by the mediation of others. X. No Idea
+which is not it self perceived, can be the means of perceiving another. XI.
+Distance perceived by means of some other Idea. XII. Those Lines and Angles
+mentioned in Optics, are not themselves perceived. XIII. Hence the Mind does
+not perceive Distance by Lines and Angles. XIV. Also because they have no real
+Existence. XV. And because they are insufficient to explain the Phoenomena.
+Sect. XVI. The Ideas that suggest Distance are 1 st. the Sensation arising from
+the turn of the Eyes. XVII. Betwixt which and Distance there is no necessary
+Connection. XVIII. Scarce room for mistake in this matter. XIX. No regard had to
+the Angle of the Optic Axes. XX. Judgment of Distance made with both Eyes, the
+Result of Experience. XXI. 2dly, Confusedness of Appearance. XXII. This the
+occasion of those Judgments attributed to diverging Rays. XXIII. Objection
+Answered. XXIV. What deceives the Writers of Optics in this matter. XXV. The
+Cause, why one Idea may suggest another. XXVI. This applied to Confusion and
+Distance. XXVII. 3dly, The straining of the Eye. XXVIII. The Occasions which
+suggest Distance, have in their own Nature no Relation to it. XXIX. A difficult
+Case proposed by Dr. Barrow as repugnant to all the known Theories. XXX. This
+Case contradicts a received Principle in Catoptrics. XXXI. It is shown to agree
+with the Principles we have laid down. XXXII. This Phenomenon Illustrated.
+XXXIII. It confirms the Truth of the Principle whereby it is explained. XXXIV.
+Vision when Distinct, and when Confused. XXXV. The different Effects of
+Parallel, Diverging and Converging Rays. XXXVI. How Converging, and Diverging
+Rays come to suggest the same Distance. Sect. XXXVII. A Person extreme Purblind
+would judge aright in the forementioned Case. XXXVIII. Lines and Angles why
+useful in Optics. XXXIX. The not understanding this, a cause of Mistake. XL. A
+Query proposed by Mr. Molyneux in his Dioptrics, considered. XLI. One Born
+Blind would not at first have any Idea of Distance by Sight. XLII. This not
+agreeable to the common Principles. XLIII. The proper Objects of Sight, not
+without the Mind, nor the Images of any thing without the Mind. XLIV. This more
+fully explained. XLV. In what Sense we must be understood to see Distance and
+external Things. XLVI. Distance and Things placed at a Distance, not otherwise
+perceived by the Eye than by the Ear. XLVII. The Ideas of Sight more apt to be
+confounded with the Ideas of Touch than those of Hearing are. XLVIII. How this
+comes to pass. XLIX. Strictly speaking, we never see and feel the same thing.
+L. Objects of Sight twofold Mediate and Immediate. LI. These hard to separate
+in our Thoughts. LII. The received Accounts of our perceiving Magnitude by
+Sight, false. LIII. Magnitude perceived as immediately, as Distance. LIVE. Two
+kinds of sensible Extension, neither of which is infinitely Divisible. Sect.
+LV. The Tangible Magnitude of an Object Steady, the Visible not. LVI. By what
+means, Tangible Magnitude is perceived by Sight. LVII. This farther enlarged
+on. LVIII. No necessary Connection between Confusion or Faintness of Appearance,
+and small or great Magnitude. LIX. The Tangible Magnitude of an Object, more
+heeded than the Visible; and why. LX. An Instance of this. LXI. Men do not
+Measure by Visible Feet or Inches. LXII, No necessary Connection between Visible
+and Tangible Extension. LXIII. Greater Visible Magnitude might signify Lesser
+Tangible Magnitude. LXIV. The Judgments we make of Magnitude depend altogether
+on Experience. LXV. Distance and Magnitude seen as Shame or Anger. LXVI. But we
+are prone to think otherwise, and why. LXVII. The Moon seems greater in the
+Horizon, than in the Meridian. LXVIII. The cause of this Phoenomenon, assigned.
+LXIX. The Horizontal Moon, why greater at one time than another. LXX. The
+Account we have given, proved to be true. LXXI. And confirmed, by the Moon's
+appearing greater in a Mist. LXXII. Objection answered. LXXIII. The way wherein
+Faintness suggests greater Magnitude Illustrated. Sect. LXXIV. Appearance of
+the Horizontal Moon, why thought difficult to explain. LXXV. Attempts toward
+the Solution of it made by several, but in vain. LXXVI. The Opinion of Dr.
+Wallis. LXXVII. It is shown to be unsatisfactory. LXXVIII. How Lines and Angles
+may be of use in computing apparent Magnitudes. LXXIX. One born Blind, being
+made to See, what Judgment he would make of Magnitude. LXXX. The Minimum Visibile
+the same to all Creatures. LXXXI. Objection Answered. LXXXII. The Eye at all
+times, perceives the same number of visible Points. LXXXIII. Two Imperfections
+in the Visive Faculty. LXXXIV. Answering to which, we may conceive two
+Perfections. LXXXV. In neither of these two Ways do Microscopes improve the
+Sight. LXXXVI. The Case of Microscopical Eyes, considered. LXXXVII. The Sight,
+admirably adapted to the ends of Seeing. LXXXVIII. Difficulty concerning Erect
+Vision. LXXXIX. The common way of Explaining it XC. The same shown to be false.
+XCI. Not distinguishing between Ideas of Sight and Touch, Cause of Mistake, in
+this matter. XCII. The Case of one Born Blind, proper to be considered. Sect.
+XCIII. Such a one might by Touch, attain (...) have Ideas of Upper and Lower.
+XCIV. Which Modes of Situation he would attribute on^^ to things Tangible. XCV.
+He Would not at first Sight think any thing he saw High or Low, Erect or Inverted.
+XCVI. This Illustrated by an Example. XCVII. By what means he would come to
+denominate Visible Objects, high or low, etc. XCVIII. Why he should think those
+Objects highest, which are Painted on the lowest part of his Eye and vice
+versa. XCIX. How he would perceive by Sight, the Situation of External Objects.
+C. Our propension to think the contrary, no Argume^^ against what has been
+said. CI. Objection. CII. Answer CIII. An Object could not be known at first
+Sight (...) the Color. CIV. Nor by the Magnitude thereof. CV. Nor by the
+Figure. CVI. In the first act of Vision, no Tangible Thing would be suggested
+by Sight. CVII. Difficulty proposed concerning Number. CVIII. Number of things
+Visible, would not at first Sight suggest the like number of things Tangible.
+CIX. Number, the Creature of the Mind. CX. One Born Blind would not at fir^^
+Sight, number Visible Things as others do. CXI. The Situation of any Object,
+determined with respect only to Objects of the same Sense. CXII. No Distance,
+great or small, between a Visible and Tangible Thing. Sect. CXIII. The not
+observing this, cause of Difficulty in Erect Vision. CXIV. Which otherwise
+includes nothing unaccountable. CXV. What is meant by the Pictures being
+inverted. CXVI. Cause of Mistake in this Matter. CXVII. Images in the Eye, not
+Pictures of external Objects. CXVIII. In what Sense they are Pictures. CXIX. In
+this Affair we must carefully distinguish between Ideas of Sight and Touch.
+CXX. Difficult to explain by Words the true Theory of Vision. CXXI. The
+Question, whether there is any Idea common to Sight and Touch, stated. CXXII.
+Abstract Extension inquired into. CXXIII. It is Incomprehensible. CXXIV.
+Abstract Extension not the Object of Geometry. CXV. The general Idea of a
+Triangle, considered. CXXVI. Vacuum or pure Space, not common to Sight and
+Touch. CXXVII. There is no Idea or kind of Idea, common to both Senses.
+CXXVIII. First Argument in Proof hereof. CXXIX. Second Argument. CXXX. Visible
+Figure and Extension, not distinct Ideas from Color. CXXXI. Third Argument.
+CXXXII. Confirmation drawn from Mr. Molyneux's Problem of a Sphere and a Cube,
+published by Mr. Lock. Sect. CXXXIII. Which is falsely solved, if the common
+Supposition be true. CXXXIV. More might be said in proof of our Tenent, but
+this suffices CXXXV. Farther Reflection, on the foregoing Problem. CXXXVI. The
+same thing does not affect both sight and Touch. CXXXVII. The same Idea of
+Motion not common to Sight and Touch. CXXXVIII. The way wherein we apprehend
+Motion by Sight, easily collected from what has been said. CXXXIX. Qu. How
+Visible and Tangible Ideas came to have the same Name if not of the same Kind.
+CXL. This accounted for without supposing them of the same Kind. CXLI. Obj.
+That a Tangible Square is liker to a Vible Square than to a Visible Circle.
+CXLII. Answ. That a Visible Square is fitter than a Visible Circle, to
+represent a Tangible Square. CXLIII. But it does not hence follow, that a
+Visible Square is like a Tangible Square. CXLIV. Why we are more apt to
+confound Visible with Tangible Ideas, than other Signs with the Things
+signified. CXLV. Several other Reasons hereof, assigned. CXLVI. Reluctance in
+rejecting any Opinion, no Argument of its Truth, CXLVII. Proper Objects of
+Vision the Language of ing Nature CXLVIII. In it there is much admirable, and
+deservour Attention. CXLIX. Question proposed, concerning the Object of
+Geometry. Sect. CL. At first View, we are apt to think Visible Extension the
+Object of Geometry. CLI. Visible Extension shown not to be the Object of
+Geometry. CLII. Words may as well be thought the Object of Geometry, as Visible
+Extension. CLIII. It is proposed to enquire, what Progress an Intelligence that
+could see, but not feel, might make in Geometry. CLIV. He cannot understand
+those Parts which relate to Solids, and their Surfaces, and Lines generated by
+their Section. CLV. Nor even the Elements of plain Geometry. CLVI. The proper
+Objects of Sight incapable of being managed as Geometrical Figures. CLVII. The
+Opinion of those who hold plain Figures to be the Immediate Objects of Sight,
+considered. CLVIII. Plains no more the immediate Objects of Sight, than Solids.
+CLIX. Difficult to enter precisely into the Thoughts of the above mentioned
+Intelligence. CLX. The Object of Geometry, its not being sufficiently
+understood, cause of Difficulty and useless Labor in that Science.
+ERRATA.
+PAge 41. l. 18, dele this. p. 64. l. 20, r. and. p. 72. l. 12. r. emancipate.
+p. 94. l. 13. r. Objects. p. 100. l. 8. r. nothing. p. 102. l. 25. r.
+acquiesced. p. 153. l. 19. r. Homogeneous. p. 167. l. 2. r. Figures. p. 168 l.
+24. for this, r. their. p. 170. l. 2. r. it is.
+
+AN ESSAY TOWARD A New Theory of Vision.
+I. Design.
+MY Design is to show the manner, wherein we perceive by Sight the Distance,
+Magmtude, and Situation of Objects. Also to consider the Difference there is
+betwixt the Ideas of Sight and Touch, and whether there be any Idea common to
+both Senses. In treating of all which, it seems to me, the Writers of Optics
+have proceeded on wrong Principles.
+
+II. Distance of it self Invisible.
+It is, I think, agreed by all that Distance of it self, and immediately cannot
+be seen. For Distance being a Line directed end-wise to the Eye, it projects
+only one Point in the Fund of the Eye. Which Point remains invariably the same,
+whether the Distance be longer or shorter.
+
+III. Remote Distance perceived rather by Experience, than by Sense.
+I find it also acknowledged, that the Estimate we make of the Distance of
+Objects considerably remote, is rather an Act of Judgment grounded on
+Experience, than of Sense. For Example, When I perceive a great number of
+intermediate Objects, such as Houses, Fields, Rivers, and the like, which I
+have experienced to take up a considerable Space; I thence form a Judgment or
+Conclusion, that the Object I see beyond them is at a great Distance. Again,
+when an Object appears Faint and Small, which at a near Distance I have
+experienced to make a vigorous and large Appearance; I instantly conclude it to
+be far off. And this, it is evident, is the result of Experience; without which,
+from the Faintness and Littleness, I should not have inferred any thing
+concerning the Distance of Objects.
+
+IV. Near Distance thought to be perceived by the Angle of the Optic Axes.
+But when an Object is placed at so near a Distance, as that the Interval
+between the Eyes bears any sensible Proportion to it. It is the received
+Opinion that the two Optic Axes (the Fancy that we see only with one Eye at
+once being exploded) concurring at the Object do there make an Angle, by means
+of which, according as it is Greater or Lesser, the Object is perceived to be
+nearer or farther off.
+
+V. Difference between this and the former manner of perceiving Distance.
+Betwixt which, and the foregoing manner of Estimating Distance, there is this
+remarkable Difference. That whereas, there was no apparent, necessary Connection
+between small Distance and a large and strong Appearance, or between great
+Distance, and a little and faint Appearance. Yet there appears a very necessary
+Connection between an obtuse Angle and near Distance, and an acute Angle and
+farther Distance. It does not in the least depend upon Experience, but may be
+evidently known by any one before he had experienced it, that the nearer the
+Concurrence of the Optic Axes, the greater the Angle, and the remoter their
+Concurrence is, the lesser will be the Angle comprehended by them.
+
+VI. Also by Diverging Rays.
+There is another way, mentioned by the Optic Writers, whereby they will have
+us judge of those Distances, in respect of which, the breadth of the Pupil has
+any sensible bigness. And that is the greater or lesser Divergency of the Rays,
+which issuing from the visible Point, do fall on the Pupil: That Point being
+judged nearest, which is seen by most diverging Rays; and that remoter, which
+is seen by less diverging Rays. And so on, the apparent Distance still
+increasing, as the Divergency of the Rays decreases, till at length it becomes
+infinite, when the Rays that fall on the Pupil are to Sense Parallel. And after
+this manner it is said we perceive Distances when we look only with one Eye.
+
+VII. This depends not on Experience.
+In this Case also, it is plain we are not beholding to Experience: It being a
+certain, necessary Truth, that the nearer the direct Rays falling on the Eye
+approach to a Parallelism, the farther off is the Point of their Intersection,
+or the visible Point from whence they flow.
+
+VIII. These the common Accounts, but not satisfactory.
+I have here set down the common, current Accounts that are given of our
+perceiving near Distances by Sight, which, though they are unquestionably
+received for true by Mathematicians, and accordingly made use of by them in
+determining the apparent Places of Objects, do nevertheless seem to me very
+unsatisfactory: And that for these following Reasons.
+
+IX. Some Ideas perceived by the mediation of others.
+First, It is evident that when the Mind perceives any Idea, not immediately
+and of it self, it must be by the means of some other Idea. Thus, for Instance,
+the Passions which are in the Mind of another, are of themselves, to me
+invisible. I may nevertheless perceive them by Sight, though not immediately yet,
+by means of the Colors they produce in the Countenance. We do often see Shame
+or Fear in the Looks of a Man, by perceiving the Changes of his Countenance to
+Red or Pale.
+
+X. No Idea which is not it self perceived, can be the means of perceiving
+another.
+Moreover it is evident, that no Idea which is not it self perceived, can be to
+me the means of perceiving any other Idea. If I do not perceive the Redness or
+Paleness of a Man's Face themselves, it is impossible I should perceive by them
+the Passions which are in his Mind.
+
+XI. Distance perceived by means of some other Idea.
+Now from Sect. II. It Is plain that Distance is in it is own nature
+imperceivable, and yet it is perceived by Sight. It remains therefore, that it
+be brought into view by means of some other Idea, that is it self immediately
+perceived in the Act of Vision.
+
+XII. Those Lines and Angles mentioned in Optics, are not themselves perceived.
+But those Lines and Angles, by means whereof Mathematicians pretend to explain
+the Perception of Distance, are themselves not at all perceived, nor are they
+in Truth, ever thought of by those unskilful in Optics. I appeal to any ones
+Experience, whether upon Sight of an Object, he compute it is Distance by the
+bigness of the Angle, made by the meeting of the two Optic Axes? Or whether he
+ever think of the greater or lesser Divergency of the Rays, which arrive from
+any Point to his Pupil. Nay, whether it be not perfectly impossible for him to
+perceive by Sense, the various Angles wherewith the Rays according to their
+greater, or lesser Divergence do fall on his Eye. Every one is himself the best
+Judge of what he perceives, and what not. In vain shall all the Mathematicians
+in the World tell me, that I perceive certain Lines and Angles which introduce
+into my Mind the various Ideas of Distance; so long as I my self am conscious
+of no such thing.
+
+XIII, Hence the Mind does not perceive Distance by Lines and Angles
+Since therefore those Angles and Lines are not themselves perceived by Sight,
+it follows from Sect. X. that the Mind does not by them judge of the Distance
+of Objects.
+
+XIV. Also because they have no real Existence.
+Secondly, The Truth of this Assertion will be, yet, farther evident to any one
+that considers those Lines and Angles have no real Existence in Nature, being
+only an Hypothesis framed by Mathematicians, and by them introduced into
+Optics, that they might treat of that Science in a Geometrical way.
+
+XV. And because they are insufficient to explain the Phenomenon.
+The Third and Last Reason I shall give for my Rejecting that Doctrine, is,
+that though we should grant the real Existence of those Optic Angles, etc. and
+that it was possible for the Mind to perceive them; yet these Principles would
+not be found sufficient to explain the Phenomenon of Distance. As shall be
+shown hereafter.
+
+XVI. The Ideas that suggest Distance are 1 st. the Sensation arising from the
+turn of the Eyes.
+Now, It being already shown that Distance is suggested to the Mind, by the
+Mediation of some other Idea which is it self perceived in the Act of Seeing.
+It remains that we enquire what Idea, or Sensations there be that attend
+Vision, unto which we may suppose the Ideas of Distance are connected, and by
+which they are introduced into the Mind. And First, It is certain by
+Experience, that when we look at a near Object with both Eyes, according as it
+approaches, or recedes from us, we alter the Disposition of our Eyes, by
+lessening or widening the Interval between the Pupils. This Disposition or Turn
+of the Eyes is attended with a Sensation, which seems to me, to be that which
+in this Case brings the Idea of greater, or lesser Distance into the Mind.
+
+XVII. Betwixt which and Distance there is no necessary Connection.
+Not, that their is any natural or necessary Connection between the Sensation we
+perceive by the Turn of the Eyes, and greater or lesser Distance. But because
+the Mind has by constant Experience, found the different Sensations
+corresponding to the different Dispositions of the Eyes, to be attended each,
+with a Different Degree of Distance in the Object: There has grown an Habitual
+or Customary Connection, between those two sorts of Ideas. So that the Mind no
+sooner perceives the Sensation arising from the different Turn it gives the
+Eyes, in order to bring the Pupils nearer, or farther asunder; but it withal
+perceives the different Idea of Distance which was wont to be connected with
+that Sensation. Just as upon hearing a certain Sound, the Idea is immediately
+suggested to the Understanding, which Custom had united with it.
+
+XVIII. Scarce room for Mistake in this matter.
+Nor do I see, how I can easily be mistaken in this Matter. I know evidently
+that Distance is not perceived of it self. That by consequence, it must be
+perceived by means of some other Idea which is immediately perceived, and
+varies with the different Degrees of Distance. I know also that the Sensation
+arising from the Turn of the Eyes is of it self, immediately perceived, and
+various Degrees thereof are connected with different Distances; which never
+fail to accompany them into my Mind, when I view an Object distinctly with both
+Eyes, whose Distance is so small that in respect of it, the Interval between
+the Eyes has any considerable Magnitude.
+
+XIX. No regard had to the Angle of the Optic Axes.
+I know it is a received Opinion, that by altering the disposition of the Eyes,
+the Mind perceives whether the Angle of the Optic Axes is made greater or
+lesser. And that accordingly by a kind of Natural Geometry, it judges the Point
+of their Intersection to be nearer, or farther off. But that this is not true,
+I am convinced by my own Experience. Since I am not conscious, that I make any
+such use of the Perception I have by the Turn of my Eyes. And for me to make
+those Judgments, and draw those Conclusions from it, without knowing that I do
+so, seems altogether incomprehensible.
+
+XX. Judgment of Distance made with both Eyes, the Result of Experience.
+From all which it plainly follows, that the Judgment we make of the Distance
+of an Object, viewed with both Eyes, is entirely the Result of Experience. If
+we had not constantly found certain Sensations arising from the various
+Disposition of the Eyes, attended with certain degrees of Distance. We should
+never make those sudden Judgments from them, concerning the Distance of
+Objects; no more than we would pretend to judge of a Man's Thoughts, by his
+pronouncing Words we had never heard before.
+
+XXI. 2dly, Confusedness of Appearance.
+Secondly, An Object placed at a certain Distance from the Eye, to which the
+breadth of the Pupil bears a considerable Proportion, being made to approach,
+is seen more confusedly. And the nearer it is brought, the more confused
+Appearance it makes. And this being found constantly to be so, there arises in
+the Mind an Habitual Connection between the several Degrees of Confusion and
+Distance. The greater Confusion still implying the lesser Distance, and the
+lesser Confusion, the greater Distance of the Object.
+
+XXII. This the occasion of those Judgments attributed to diverging Rays.
+This confused Appearance of the Object, does therefore seem to me to be the
+Medium, whereby the Mind judges of Distance in those Cases, wherein the most
+approved Writers of Optics will have it judge, by the different Divergency,
+with which the Rays flowing from the Radiating Point fall on the Pupil. No Man,
+I believe, will pretend to see or feel those imaginary Angles, that the Rays
+are supposed to form according to their various Inclinations on his Eye. But he
+cannot choose seeing whether the Object appear more, or less confused. It is
+therefore a manifest Consequence from what has been Demonstrated, that instead
+of the greater, or lesser Divergency of the Rays, the Mind makes use of the
+greater or lesser Confusedness of the Appearance, thereby to determine the
+apparent Place of an Object.
+
+XXIII. Objection answered.
+Nor does it avail to say, there is not any necessary Connection between
+confused Vision, and Distance great, or small. For I ask any Man, What
+necessary Connection he Sees, between the Redness of a Blush and Shame? And yet
+no sooner shall he behold that Color to arise in the Face of another. But it
+brings into his Mind the Idea of that Passion which has been observed to
+accompany it.
+
+XXIV. What deceives the Writers of Optics in this matter.
+What seems to have misled the Writers of Optics in this Matter is, that they
+imagine Men judge of Distance, as they do of a Conclusion in Mathematics;
+betwixt which and the Premises, it is indeed absolutely requisite there be an
+apparent, necessary Connection. But it is far otherwise, in the sudden Judgments
+Men make of Distance. We are not to think, that Brutes and Children, or even
+grown reasonable Men, whenever they perceive an Object to approach, or depart
+from them, do it by virtue of Geometry and Demonstration.
+
+XXV. The Cause, why one Idea may suggest another.
+That one Idea may suggest another to the Mind, it will suffice that they have
+been observed to go together; without any demonstration of the necessity of
+their Coexistence, or without so much as knowing what it is that makes them so
+to Coexist. Of this there are innumerable Instances, of which no one can be
+Ignorant.
+
+XXVI. This applied to Confusion and Distance.
+Thus greater Confusion having been constantly attended with nearer Distance,
+no sooner is the former Idea perceived, but it suggests the latter to our
+Thoughts. And if it had been the ordinary Course of Nature, that the farther
+off an Object were placed, the more Confused it should appear. It is certain,
+the very same Perception that now makes us think an Object approaches, would
+then have made us to imagine it went farther off. That Perception, abstracting
+from Custom and Experience, being equally fitted to produce the Idea of great
+Distance, or small Distance, or no Distance at all.
+
+XXVII. 3 dly, The straining of the Eye.
+Thirdly, an Object being placed at the Distance above specified, and brought
+nearer to the Eye, we may nevertheless prevent, at least for some time, the
+Appearance's growing more confused, by straining the Eye. In which Case, that
+Sensation supplys the place of confused Vision, in aiding the Mind to judge of
+the Distance of the Object. It being esteemed so much the nearer, by how much
+the effort, or straining of the Eye in order to distinct Vision, is greater.
+
+XXVIII. The Occasions which suggest Distance, have in their own Nature no
+Relation to it.
+I have here set down those Sensations or Ideas, that seem to me to be the
+constant and general Occasions of introducing into the Mind, the different
+Ideas of near Distance. It Is true in most Cases, that diverse other
+Circumstances contribute to frame our Idea of Distance, viz. the particular
+Number, Size, Kind, etc. of the things seen. Concerning which as well as all
+other the forementioned Occasions which suggest Distance, I shall only observe,
+they have none of them, in their own Nature, any Relation or Connection with it.
+Nor is it possible, they should ever signify the various Degrees thereof,
+otherwise than as by Experience they have been found to be connected with them.
+
+XXIX. A difficult Case proposed by Dr. Barrow as repugnant to all the known
+Theories.
+I shall proceed upon these Principles to account for a Phenomenon, which has
+hitherto strangely puzzled the Writers of Optics, and is so far from being
+accounted for by any of their Theories of Vision, that it is, by their own
+Confession, plainly repugnant to them. And of Consequence, if nothing else
+could be objected, were alone sufficient to bring their Credit in Question. The
+whole Difficulty I shall lay before you in the Words of the Learned Doctor
+Barrow, with which he concludes his Optic Lectures.
+
+Haec sunt, quae circa partem Opticae praecipue Mathematicam dicenda mihi
+suggessit meditatio. Circa reliquas, (quae (...) sunt, adeoque saepiuscule pro
+certis principiis plausibiles conjecturas venditare necessum habent) nihil fere
+quicquam admodum verisimile succurrit, a pervulgatis (ab iis, inquam, quae
+Keplerus, Scheinerus, Cartesius, and post illos alii tradiderunt) alienum aut
+diversum. Atqui tacere malo, quam toties oblatam cramben reponere. Proinde
+receptui cano; nec ita tamen ut prorsus discedam, anteaquam improbam quandam
+difficultatem (pro sinceritate quam and vobis and veritati debeo minime
+dissimulandam) in medium protulero, quae doctrinae nostrae, hactenus
+inculcatae, se objicit adversam, ab ea saltem nullam admittit solutionem. Illa,
+breviter, talis est: Lenti vel Speculo cavo EBF exponatur punctum visibile A,
+ita Distans ut Radii ex A manantes ex inflectione versus axem A B cogantur.
+Sitque radiationis Limes (seu puncti A imago, qualem supra passim statuimus)
+punctum Z. Inter hoc autem and inflectentis verticem B uspiam positus
+concipiatur Oculus. Quaeri jam potest ubi loci debeat punctum A apparere?
+Retrorsum ad punctum Z videri non fert Natura (cum omnis impressio sensum
+afficiens proveniat a partibus A) ac experientia reclamat. Nostris autem e
+placitis consequi vide tur, ipsum ad parts anticas apparens, ab intervallo
+longissime dissito, (quod and maximum sensibile quodvis Intervallum quodammodo
+exsuperet) apparere. Cum enim quo Radiis minus divergentibus attingitur
+Objectum, eo (seclusis utique praenotionibus and praejudiciis) longius abesse
+sentiatur; et quod Parallelos ad Oculum Radios projicit, remotissime positum
+aestimetur. Exigere Ratio videtur, ut quod convergentibus radiis apprehenditur,
+adhuc magis, si fieri posset, quoad apparentiam elongetur. Quin and circa Casum
+hunc generatim inquiri possit, quidnam omnino sit, quod apparentem puncti A
+locum determinet, faciatque quod constanti ratione nunc propius, nunc remotius
+appareat? Cui itidem dubio, nihil quicquam ex hactenus dictorum Analogia,
+responderi posse videtur, nisi debere punctum A perpetuo longissime semotum
+videri. Verum experientia secus attestatur, illud pro diversa Oculi inter
+puncta B, Z, positione vary distans; nunquam fere (si unquam) longinquius ipso
+A libere spectato, subinde vero multo propinquius adparere; quinimo, quo oculum
+appellentes radii magis convergunt eo speciem Objecti propius accedere. Nempe,
+si puncto B admoveatur Oculus, suo (ad lentem) fere nativo in loco conspicitur
+punctum A (vel aeque distans, ad Speculum;) ad O reductus oculus ejusce speciem
+appropinquantem cernit; ad P adhuc vicinius ipsum existimat; ac ita sensun,
+donec alicubi tandem, velut ad Q, constituto oculo objectum sum propinquum
+apparens, in meram confusionem incipiat evanescere, Quae sane cuncta rationibus
+atque decretis nostris repugnare videntur, aut cum iis saltem parum amice
+conspirant. Neque nostram tantum suntentiam pulsat boc experimentum; at ex
+aequo caeteras quas xorim omnes; veterem imprimis ac vulgatam, nostrae prae
+reliquis affinem ita convellere videtur, ut ejus vi coactus doctissimus A.
+Tacquetus isti principio (cui pene soli totam inaedificaverat Catoptricam suam)
+ceu infido ac inconstanti renunciarit, adeoque suam ipse doctrinam
+labefactarit; id tamen, opinor, minime facturus, si rem totam inspexisset
+penitius, atque difficultatis fundum attigisset. Apud me vero non ita pollet
+haec, nec eousque praepollebit ulla difficultas, ut ab iis quae manifest
+rationi consentanea video, discedam; praesertim quum ut hic accidit, ejusmodi
+difficultas in singularis cujuspiam casus disparitate fundetur. Nimirum in
+praesente casu peculiare quiddam, naturae subtilitati involutum, delitescit,
+aegre fortassis, nisi perfectius explorato videndi modo, detegendum. Circa quod
+nil, fateor, hactenus excogitare potui, quod adblandiretur animo meo, nedum
+plane satisfaceret. Vobis itaque nodum hunc, utinam feliciore conatu,
+resolvendum committo. In English as follows.
+
+I have here delivered what my Thoughts have suggested to me, concerning that
+part of Optics which is more properly Mathematical. As for the other parts of
+that Science (which being rather Physical, do consequently abound with
+plausible Conjectures, instead of certain Principles) there has in them scarce
+any thing occurred to my Observation, different from what has been already said
+by Kepler, Scheinerus, Descartes, etc. And, methinks, I had better say nothing
+at all, than repeat that which has been so often said by others. I think it
+therefore high time to take my leave of this Subject. But before I quit it for
+good and all, the fair and ingenuous Dealing that I owe both to You and to
+Truth, obliges me to acquaint you with a certain untoward Difficulty, which
+seems directly opposite to the Doctrine I have been hitherto inculcating, at
+least, admits of no Solution from it. In short it is this. Before the double
+Unequal Glass or Concave Speculum EBF, let the Point A be placed, at such a
+Distance that the Rays proceeding from A, after Refraction or Reflection, be
+brought to Unite somewhere in the Ax AB. And suppose the Point of Union ( i. e.
+the Image of the Point A, as has been already set forth) to be Z; between
+which and B, the Vertex of the Glass or Speculum, conceive the Eye to be any
+where placed. The Question now is, Where the Point A ought to appear.
+Experience shows that it does not appear behind at the Point Z, and it were
+contrary to Nature that it should; since all the Impression which affects the
+Sense comes from toward A. But from our Tenants it should seem to follow, that
+it would appear before the Eye at a vast Distance off, so great as should in
+some Sort, surpass all sensible Distance. For since if we exclude all
+Anticipations and Prejudices, every Object appears by so much the farther off,
+by how much the Rays it sends to the Eye are less Diverging. And that Object is
+thought to be most remote, from which Parallel Rays proceed unto the Eye.
+Reason would make one think, that Object should appear, at yet a greater
+Distance, which is seen by converging Rays. Moreover it may in general be asked
+concerning this Case, what it is that determines the apparent Place of the
+Point A, and makes it to appear after a constant manner, sometimes nearer, at
+other times farther off? To which doubt, I see nothing that can be answered
+agreeable to the Principles we have laid down, except only that the Point A
+ought always to appear extremely remote. But on the contrary, we are assured by
+Experience that the Point A appears variously Distant, according to the
+different Situations of the Eye between the Points B and Z. And that it does
+almost never (if at all) seem farther off, than it would if it were beheld by
+the naked Eye, but on the contrary, it does sometimes appear much nearer. Nay,
+it is even certain, that by how much the Rays falling on the Eye do more
+converge, by so much the nearer does the Object seem to approach. For the Eye
+being placed close to the Point B, the Object A appears nearly in it is own
+natural Place, if the Point B is taken in the Glass, or at the same Distance,
+if in the Speculum. The Eye being brought back to O, the Object seems to draw
+near. And being come to P it beholds it still nearer. And so on by little and
+little, till at length the Eye being placed somewhere, suppose at Q, the Object
+appearing extremely near, begins to vanish into mere Confusion. All which does
+seem Repugnant to our Principles, at least, not rightly to agree with them. Nor
+is our Tenent alone struck at by this Experiment, but likewise all others that
+ever came to my Knowledge are, every whit as much, endangered by it. The
+ancient one especially (which is most commonly received, and comes nearest to
+mine) seems to be so effectually overthrown thereby, that the most learned
+Tacquet has been forced to reject that Principle, as false and uncertain, on
+which alone he had built almost his whole Catoptrics, and consequently by
+taking away the Foundation, has himself pulled down the Superstructure he had
+raised on it. Which nevertheless, I do not believe he would have done, had he
+but considered the whole matter more thoroughly, and examined the Difficulty to
+the bottom. But as for me, neither this, nor any other Difficulty shall have so
+great an Influence on me, as to make me renounce that which I know to be
+manifestly agreeable to Reason. Especially when, as it here falls out, the
+Difficulty is founded in the peculiar Nature of a certain odd and particular
+Case. For in the present Case something peculiar lies hid, which being involved
+in the Subtilty of Nature will, perhaps, hardly be discovered till such Time,
+as the manner of Vision is more perfectly made known. Concerning which, I must
+own, I have hitherto been able to find out nothing that has the least show of
+Probability, not to mention Certainty. I shall therefore, leave this Knot to be
+united by you, wishing you may have better Success in it than I have had.
+
+XXX. This Case contradicts a received Principle in Catoptrics.
+The ancient and received Principle which Dr. Barrow here mentions, as the main
+Foundation of Tacquet's Catoptrics, is that, every visible Point seen by
+Reflection from a Speculum, shall appear placed at the Intersection of the
+reflected Ray, and the Perpendicular of Incidence. Which Intersection in the
+present Case, happening to be behind the Eye, it greatly shakes the Authority
+of that Principle, whereon the aforementioned Author proceeds throughout his
+whole Catoptrics, in determining the apparent Place of Objects seen by
+Reflection from any kind of Speculum.
+
+XXXI. It is shown to agree with the Principles we have laid down.
+Let us now see how this Phenomenon agrees with our Tenants. The Eye the
+nearer it is placed to the Point B in the above Figures, the more distinct is
+the Appearance of the Object; but as it recedes to O, the Appearance grows more
+Confused; and at P it sees the Object yet more Confused; and so on till the Eye
+being brought back to Z sees the Object in the greatest Confusion of all.
+Wherefore by Sect. XXI. the Object should seem to approach the Eye gradually,
+as it recedes from the Point B, viz. at O it should (in consequence of the
+Principle I have laid down in the aforesaid Section) seem nearer than it did at
+B, and at P nearer than at O, and at Q nearer than at P; and so on, till it
+quite vanishes at Z. Which is the very matter of Fact, as any one that pleases
+may easily satisfy himself by Experiment.
+
+XXXII. This Phenomenon Illustrated.
+This Case is much the same, as if we should suppose an Englishman to meet a
+Foreigner, who used the same Words with the English, but in a direct contrary
+Signification. The Englishman would not fail to make a wrong Judgment, of the
+Ideas annexed to those Sounds, in the Mind of him that used them. Just so, in
+the present Case the Object speaks (if I may so say) with Words that the Eye is
+well acquainted with, viz. Confusions of Appearance; but whereas heretofore the
+greater Confusions were always wont to signify nearer Distances, they have in
+this Case a direct, contrary Signification, being connected with the greater
+Distances. Whence it follows, that the Eye must unavoidably be mistaken, since
+it will take the Confusions in the Sense it has been used to, which is directly
+opposed to the True.
+
+XXXIII. It confirms the Truth of the Principle whereby it is explained.
+This Phenomenon as it entirely subverts the Opinion of those, who will have
+us judge of Distance by Lines and Angles, on which Supposition it is altogether
+inexplicable, so it seems to me no small Confirmation, of the Truth of that
+Principle whereby it is explained. But in order to a more full Explication of
+this Point, and to show how far the Hypothesis of the Mind's judging, by the
+various Divergency of Rays, may be of use in determining the apparent Place of
+an Object, it will be necessary to premise some few Things, which are already
+well known to those who have any Skill in Dioptrics.
+
+XXXIV. Vision when Distinct, and when Confused.
+First, Any radiating Point is then distinctly seen, when the Rays proceeding
+from it are, by the refractive Power of the Crystalline, accurately reunited in
+the Retina, or Fund of the Eye. But if they are reunited, either before they
+arrive at the Retina, or after they have past it, then there is confused Vision.
+
+XXXV. The different Effects of Parallel, Diverging and Converging Rays.
+Secondly, Suppose in the adjacent Figures NP represent an Eye duly framed, and
+retaining its natural Figure. In Fig. 1. the Rays falling nearly Parallel on
+the Eye, are by the Crystalline AB refracted, so as their Focus, or Point of
+Union F falls exactly on the Retina. But if Fig. 1.
+
+Fig. 2.
+
+Fig. 3.
+
+the Rays fall sensibly diverging on the Eye, as in Fig. 2. then their Focus
+falls beyond the Retina: Or if the Rays are made to converge by the Lens QS,
+before they come at the Eye, as in Fig. 3. their Focus F will fall before the
+Retina. In which two last Cases, it is evident from the foregoing Section, that
+the Appearance of the Point Z is confused. And by how much the greater is the
+Convergency, or Divergency of the Rays falling on the Pupil, by so much the
+farther will the Point of their reunion be from the Retina, either before or
+behind it, and consequently the Point Z will appear, by so much, the more
+Confused. And this, by the Bye, may show us the difference between Confused,
+and Faint Vision. Confused Vision is, when the Rays proceedings from each
+distinct Point of the Object, are not accurately recollected in one
+corresponding Point on the Retina; but take up some Space thereon. So that Rays
+from different Points become mixed, and confused together. This is opposed to
+distinct Vision, and attends near Objects. Faint Vision is, when by reason of
+the Distance of the Object, or grossness of the interjacent Medium, few Rays
+arrive from the Object to the Eye. This is opposed to vigorous, or clear
+Vision, and attends remote Objects. But to return.
+
+XXXVI. How Converging, and Diverging Rays come to suggest the same Distance.
+The Eye, or (to speak truly) the Mind perceiving only the Confusion it self,
+without ever considering the Cause from which it proceeds, does constantly
+annex the same Degree of Distance, to the same Degree of Confusion. Whether
+that Confusion be occasioned by Converging, or by Diverging Rays, it matters
+not. Whence it follows, that the Eye viewing the Object Z through the Glass QS
+(which by Refraction causes the Rays ZQ, ZS, etc. to converge) should judge it
+to be at such a Nearness, at which if it were placed, it would radiate on the
+Eye with Rays diverging to that Degree, as would produce the same Confusion,
+which is now produced by Converging Rays, i. e. would cover a Portion of the
+Retina equal to DC. vid. Fig. 3. Sup. But then this must be understood (to use
+Dr. Barrow's Phrase) Seclusis praenotionibus and praejudiciis, In case, we
+abstract from all other Circumstances of Vision, such as the Figure, Size,
+Faintness, etc. of the visible Objects; all which do ordinarily concur to form
+our Idea of Distance; the Mind having, by frequent Experience, observed their
+several Sorts or Degrees, to be connected with various Distances.
+
+XXXVII. A Person extreme Purblind would judge aright in the forementioned Case.
+It plainly follows from what has been said, that a Person perfectly Purblind (
+i. e. that could not see an Object distinctly, but when placed close to his
+Eye) would not make the same wrong Judgment that others do, in the
+forementioned Case. For, to him, greater Confusions constantly suggesting
+greater Distances, he must, as he recedes from the Glass, and the Object grows
+more Confused, judge it to be at a farther Distance, contrary to what they do,
+who have had the Perception of the Object's growing more Confused, connected
+with the Idea of Approach.
+
+XXXVIII. Lines and Angles why useful in Optics.
+Hence also it does appear, there may be good use of computation by Lines and
+Angles in Optics; not, that the Mind judges of Distance immediately by them,
+but because it judges by somewhat which is connected with them, and to the
+determination whereof, they may be subservient. Thus the Mind judging of the
+Distance of an Object, by the Confusedness of it is Appearance; and this
+Confusedness being greater or lesser to the naked Eye, according as the Object
+is seen by Rays more, or less Diverging; it follows, that a Man may make use of
+the Divergency of the Rays, in computing the apparent Distance, though not for
+it is own sake, yet on account of the Confusion with which it is connected. But,
+so it is, the Confusion it self is entirely neglected by Mathematicians, as
+having no necessary relation with Distance, such as the greater or lesser
+Angles of Divergency are conceived to have. And these (especially for that they
+fall under Mathematical Computation) are alone regarded, in determining the
+apparent Places of Objects, as though they were the sole and immediate Cause of
+the Judgments the Mind makes of Distance. Whereas, in Truth, they should not at
+all be regarded in themselves, or any otherwise, than as they are supposed to
+be the Cause of Confused Vision.
+
+XXXIX. The not understanding this, a cause of Mistake.
+The not considering of this has been a fundamental and perplexing Oversight.
+For Proof whereof, we need go no farther than the Case before us. It having
+been observed, that the most Diverging Rays brought into the Mind the Idea of
+nearest Distance, and that still, as the Divergency decreased, the Distance
+increased; and it being thought, the connection between the various Degrees of
+Divergency, and Distance, was immediate; this naturally leads one to conclude,
+from an ill grounded Analogy, that Converging Rays shall make an Object appear
+at an immense Distance: And that, as the Convergency increases, the Distance
+(if it were possible,) should do so likewise. That this was the Cause of Dr.
+Barrow's Mistake, is evident from his own Words which we have Quoted. Whereas,
+had the learned Doctor observed, that Diverging and Converging Rays, how
+opposite soever they may seem, do nevertheless agree in producing the same
+effect, viz. Confusedness of Vision, greater Degrees whereof are produced
+indifferently, either as the Divergency, or Convergency of the Rays increases.
+And that it is by this effect, which is the same in both, that either the
+Divergency, or Convergency is perceived by the Eye. I say, had he but
+considered this, it is certain he would have made a quite contrary Judgment, and
+rightly concluded, that those Rays which fall on the Eye with greater degrees
+of Convergency should make the Object from whence they proceed, appear by so
+much the nearer. But it is plain, it was impossible for any Man to attain to a
+right Notion of this Matter, so long as he had regard only to Lines and Angles;
+and did not apprehend the true Nature of Vision, and how far it was of
+Mathematical Consideration.
+
+XL. A Query proposed by Mr. Molyneux in his Dioptrics, considered.
+Before we dismiss this this Subject, it is fit we take Notice of a Query,
+relating thereto, proposed by the Ingenious Mr. Molyneux, in his Treatise of
+Dioptrics, Par. 1. Prop. 31. Sect. 9. where speaking of the Difficulty we have
+been explaining, he has these Words, And so he ( i. e. Dr. Barrow) leaves this
+Difficulty to the Solution of Others, which I (after so great an Example) shall
+do likewise; but with the Resolution of the same admirable Author of not
+quitting the evident Doctrine which we have before laid down, for determining
+the Locus Objecti, on account of being Pressed by one Difficulty, which seems
+inexplicable till a more intimate Knowledge of the Visive Faculty be obtained
+by Mortals. In the mean time, I propose it to the Consideration of the
+Ingenious, Whether the Locus Apparens of an Object placed as in this 9th
+Section, be not as much before the Eye, as the distinct Base is behind the Eye?
+To which Query we may venture to answer in the Negative. For in the present
+Case, the Rule for determining the Distance of the distinct Base, or respective
+Focus from the Glass, is this. As the difference between the Distance of the
+Object and Focus is to the Focus or Focal Length So the Distance of the Object
+from the Glass to the Distance of the respective Focus or Distinct Base from
+the Glass. Vid. Molyneux Dioptr. Par. 1. Prop. 5. Let us now suppose the Object
+to be placed at the Distance of the Focal Length, and one half of the Focal
+Length from the Glass, and the Eye close to the Glass. Hence it will follow by
+the Rule, that the Distance of the Distinct Base behind the Eye is double the
+true Distance of the Object before the Eye. If therefore Mr. Molyneux's
+Conjecture held good, it would follow, that the Eye should see the Object,
+twice as far off as it really is. And in other Cases, at three or four times
+it is due Distance or more. But this manifestly contradicts Experience; the
+Object never appearing, at farthest, beyond its due Distance. Whatever
+therefore is built on this Supposition ( vid. Corol. 1. Prop. 57. ibid.) comes
+to the Ground along with it.
+
+XLI. One Born Blind would not at first have any Idea of Distance by Sight.
+From what has been premised, it is a manifest Consequence, that a Man Born
+Blind, being made to see would at first, have no Idea of Distance by Sight. The
+Sun and Stars, the remotest Objects as well as the nearer would all seem to be
+in his Eye, or rather in his Mind. The Objects intromitted by Sight, would seem
+to him (as in truth they are) no other than a new Set of Thoughts or
+Sensations, each whereof is as near to him, as the Perceptions of Pain or
+Pleasure, or the most inward Passions of his Soul. For our judging Objects
+perceived by Sight to be at any Distance, or without the Mind, is ( vid. Sect.
+XXVIII.) entirely the effect of Experience, which one in those Circumstances
+could not yet have attained to.
+
+XLII. This not agreeable to the common Principles.
+It is indeed otherwise upon the common Supposition, that Men judge of Distance
+by the Angle of the Optic Axes, just as one in the Dark, or a Blind-Man by the
+Angle comprehended by two Sticks, one whereof he held in each Hand. For if this
+were true, it would follow that one Blind from his Birth, being made to See,
+should stand in need of no new Experience, in order to perceive Distance by
+Sight. But that this is False, has, I think, been sufficiently demonstrated.
+
+XLIII. The proper Objects of Sight, not without the Mind, nor the Images of
+any thing without the Mind.
+And perhaps, upon a strict Inquiry we shall not find, that even those, who
+from their Birth have grown up in a continued Habit of Seeing, are
+irrecoverably prejudiced on the other side, viz. in thinking what they See to
+be at a Distance from them. For at this time it seems agreed on all Hands, by
+those who have had any thoughts of that Matter, that Colors, which are the
+proper and immediate Object of Sight, are not without the Mind. But then say
+you, by Sight we have also the Ideas of Extension, and Figure, and Motion; all
+which may well be thought without, and at some Distance from the Mind, though
+Color should not. In answer to this, I appeal to any Man's Experience, whether
+the visible Extension of any Object do not appear as near to him, as the Color
+of that Object; Nay, whether they do not both seem to be in the very same
+Place. Is not the Extension we see Colored, and is it possible for us, so much
+as in Thought, to separate and abstract Color from Extension? Now, where the
+Extension is, there surely is the Figure, and there the Motion too. I speak of
+those which are perceived by Sight.
+
+XLIV. This more fully explained.
+But for a fuller Explication of this Point, and to show that the immediate
+Objects of Sight are not so much as the Ideas or Resemblances of things placed
+at a Distance, it is requisite we look nearer into the Matter, and carefully
+observe what is meant in common Discourse, when one says, that which he sees is
+at a Distance from him. Suppose, for Example, That looking at the Moon I should
+say, it were Fifty or Sixty Semidiameters of the Earth distant from me. Let us
+see what Moon this is spoken of. It Is plain it cannot be the visible Moon, or
+any thing like the visible Moon, or that which I see, which is only a round,
+luminous Plain, of about Thirty visible Points in Diameter. For in case I am
+carried, from the place where I stand directly toward the Moon; it is manifest
+the Object varies, still as I go on; and by the time that I am advanced Fifty
+or Sixty Semidiameters of the Earth, I shall be so far from being near a small,
+round, luminous Flat, that I shall perceive nothing like it; this Ob-ject
+having long since disappeared, and if I would recover it, it must be by going
+back to the Earth from whence I set out. Again, Suppose I perceive by Sight the
+faint and obscure Idea of something, which I doubt whether it be a Man, or a
+Tree, or a Tower; but judge it to be at the Distance of about a Mile. It Is
+plain I cannot mean, that what I see is a Mile off, or that it is the Image or
+Likeness of any thing which is a Mile off. Since that every Step I take toward
+it, the Appearance alters, and from being Obscure, Small, and Faint grows,
+Clear, Large, and Vigorous. And when I come to the Mile's end, that which I saw
+first is quite lost, neither do I find any thing in the likeness of it.
+
+XLV. In what Sense we must be understood to see Distance and external Things.
+In these, and the like Instances, the truth of the Matter, I find, stands
+thus. Having of a long time, experienced certain Ideas, perceivable by Touch,
+as Distance, Tangible Figure, and Solidity to have been connected with certain
+Ideas of Sight, I do upon perceiving these Ideas of Sight, forthwith conclude
+what Tangible Ideas are, by the wonted, ordinary course of Nature like to
+follow. Looking at an Object I perceive a certain Visible Figure, and Color
+with some degree of Faintness and other Circumstances; which, from what I have
+formerly observed, determine me to think, that if I advance forward so many
+Paces, Miles, etc. I shall be affected with such, and such Ideas of Touch. So
+that in truth, and strictness of Speech, I neither see Distance it self, nor
+any thing that I take to be at a Distance. I say, neither Distance, nor things
+placed at a Distance are themselves, or their Ideas, truly perceived by Sight.
+This I am persuaded of, as to what concerns my self. And I believe whoever will
+look narrowly into his own Thoughts, and examine what he means by saying, he
+sees this, or that thing at a Distance, will agree with me that, what he sees
+only suggests to his Understanding, that after having passed a certain
+Distance, to be measured by the Motion of his Body, which is perceivable by
+Touch, he shall come to perceive such, and such Tangible Ideas which have been
+usually connected with such and such Visible Ideas. But that one might be
+deceived by these suggestions of Sense, and that there is no necessary
+Connection, between Visible, and Tangible Ideas suggested by them, we need go no
+farther than the next Looking-Glass or Picture, to be convinced. Note, that
+when I speak of Tangible Ideas, I take the Word Idea for any the immediate
+Object of Sense, or Understanding, in which large Signification it is commonly
+used by the Moderns.
+
+XLVI. Distance and Things placed at a Distance, not otherwise perceived by the
+Eye than by the Ear.
+From what we have shown it is a manifest Consequence, that the Ideas of Space,
+Outness, and things placed at a Distance are not, strictly speaking, the Object
+of Sight. They are no otherwise perceived by the Eye, than by the Ear. Sitting
+in my Study I hear a Coach drive along the Streets. I look through the Casement
+and see it. I walk out and enter into it. Thus, common Speech would incline one
+to think, I heard, saw, and touched the same Thing, viz. the Coach. It is,
+nevertheless, certain, the Ideas intromitted by each Sense are widely
+different, and distinct from each other; but having been observed constantly to
+go together, they are spoken of as one and the same thing. By the variation of
+the Noise, I perceive the different Distances of the Coach, and know that it
+approaches before I look out. Thus by the Ear I perceive Distance, just after
+the same manner, as I do by the Eye.
+
+XLVII. The Ideas of Sight more apt to be confounded with the Ideas of Touch
+than those of Hearing are.
+I do not, nevertheless, say I hear Distance, in like manner as I say that I
+see it, the Ideas perceived by Hearing not being so apt to be confounded with
+the Ideas of Touch, as those of Sight are. So likewise, a Man is easily
+convinced that Bodies, and external Things are not properly the Object of
+Hearing, but only Sounds, by the Mediation whereof the Idea of this or that
+Body, or Distance is suggested to his Thoughts. But then one is with more
+difficulty, brought to discern the difference there is, betwixt the Ideas of
+Sight and Touch: Though it be certain, a Man no more Sees and Feels the same
+Thing, than he Hears and Feels the same Thing.
+
+XLVIII. How this comes to pass.
+One Reason of which seems to be this. It is thought a great Absurdity to
+imagine that one, and the same thing, should have any more than one Extension,
+and one Figure. But the Extension and Figure of a Body, being let into the Mind
+two ways, and that indifferently, either by Sight, or Touch, it seems to follow
+that we see the same Extension, and the same Figure which we Feel.
+
+XLIX. Strictly speaking, we never see and feel the same thing.
+But if we take a close and accurate View of the Matter, it must be
+acknowledged, that we never See and Feel one and the same thing. That which is
+Seen is one thing, and that which is felt is another. If the Visible Figure and
+Extension be not the same, with the Tangible Figure and Extension, we are not
+to infer, that one and the same thing has diverse Extensions. The true
+Consequence is, that the Objects of Sight and Touch are two distinct things. It
+may perhaps, require some Thought, rightly to conceive this Distinction. And
+the difficulty seems not a little increased, because the Combination of Visible
+Ideas has constantly the same Name, as the Combination of Tangible Ideas
+wherewith it is connected. Which does of necessity arise from the use, and end
+of Language.
+
+L. Objects of Sight twofold Mediate and Immediate.
+In order therefore to treat accurately, and unconfusedly of Vision, we must
+bear in Mind, that there are two sorts of Objects apprehended by the Eye: The
+one, primarily and immediately, the other, secondarily and by intervention of
+the former. Those of the first sort neither are, nor appear to be without the
+Mind, or at any distance off. They may, indeed, grow Greater, or Smaller, more
+Confused, or more Clear, or more Faint. But, they do not, cannot Approach, or
+even seem to Approach, or Recede from us. Whenever we say an Object is at a
+Distance, whenever we say, it draws near, or goes farther off; we must always
+mean it of the latter sort, which properly belong to the Touch, and are not so
+truly perceived, as suggested, by the Eye, in like manner as Thoughts by the
+Ear.
+
+LI. These hard to separate, in our Thoughts.
+No sooner do we hear the Words of a familiar Language pronounced in our Ears,
+but the Ideas corresponding thereto present themselves to our Minds. In the
+very same instant, the Sound and the Meaning enter the Understanding. So
+closely are they United, that it is not in our Power to keep out the one, except
+we exclude the other also. We even act in all respects, as though we heard the
+very Thoughts themselves. So likewise, the Secondary Objects, or those which
+are only suggested by Sight, do often more strongly affect us, and are more
+regarded than the proper Objects of that Sense; along with which they enter
+into the Mind, and with which they have a far more strict and near Connection,
+than Ideas have with Words. Hence it is, we find it so difficult to
+discriminate, between the immediate and mediate Objects of Sight, and are so
+prone to attribute to the former, what belongs only to the latter. They are, as
+it were, most closely twisted, blended, and incorporated together. And the
+Prejudice is confirmed, and riveted in our Thoughts, by a long tract of Time,
+by the use of Language, and want of Reflection. However, I doubt not, but any
+one that shall attentively consider what we have already said, and shall say
+upon this Subject before we have done, (especially if he pursue it in his own
+Thoughts) may be able to deliver himself from that Prejudice. Sure I am, it is
+worth some Attention, to whoever would understand the true nature of Vision.
+
+LII. The received Accounts of our perceiving Magnitude by Sight false
+I have now done with Distance, and proceed to show, how it is, that we
+perceive by Sight, the Magnitude of Objects. It is the Opinion of some, that we
+do it by Angles, or by Angles in Conjuction with Distance. But neither Angles,
+nor Distance being perceivable by Sight: And the things we see being, in truth,
+at no Distance from us; it follows, that as we have demonstrated Lines and
+Angles not to be the Medium, the Mind makes use of in apprehending the Apparent
+Place, so neither are they, the Medium whereby it apprehends the Apparent
+Magnitude of Objects.
+
+LIII. Magnitude perceived as immediately, as Distance.
+It is well known that the same Extension, at a near Distance, shall subtend a
+greater Angle, and at a farther Distance, a lesser Angle. And by this Principle
+(we are told) the Mind estimates the Magnitude of an Object, comparing the
+Angle under which it is seen, with its Distance, and thence infering the
+Magnitude thereof. What inclines Men to this Mistake (beside the Humor of
+making one see by Geometry) is, that the same Perceptions or Ideas which
+suggest Distance, do also suggest Magnitude. But if we examine it, we shall
+find they suggest the latter, as immediately as the former. I say, they do not
+first suggest Distance, and then leave it to the Judgment to use that as a
+Medium, whereby to collect the Magnitude; but they have as close, and immediate
+a Connection with the Magnitude, as with the Distance; and suggest Magnitude as
+independently of Distance, as they do Distance independently of Magnitude. All
+which will be evident, to whoever considers whathas been already said, and what
+follows.
+
+LIVE. Two kinds of sensible Extension, neither of which is infinitely Divisible.
+It has been shown, there are two sorts of Objects apprehended by Sight; each
+whereof has its distinct Magnitude, or Extension. The one, properly Tangible,
+i. e. to be perceived and measured by Touch, and not immediately falling under
+the Sense of Seeing. The other, properly and immediately Visible, by Mediation
+of which, the former is brought in View. Each of these Magnitudes are greater
+or lesser, according as they contain in them more or fewer Points; they being
+made up of Points or Minimums. For, whatever may be said of Extension in
+Abstract, it is certain sensible Extension is not infinitely Divisible. There
+is a Minimum Tangibile, and a Minimum Visibile, beyond which Sense cannot
+perceive. This, every ones Experience will inform him.
+
+LV. The Tangible Magnitude of an Object steady, the Visible not.
+The Magnitude of the Object which exists without the Mind, and is at a
+Distance, continues always invariably the same. But the Visible Object still
+changing as you approach to, or recede from the Tangible Object, it has no
+fixed and determinate Greatness. Whenever therefore, we speak of the Magnitude
+of any thing, for Instance a Tree or a House, we must mean the Tangible
+Magnitude, otherwise there can be nothing steady, and free from Ambiguity
+spoken of it. Now, though the Tangible and Visible Magnitude do, in truth, belong
+to two distinct Objects: I shall nevertheless (especially since those Objects
+are called by the same Name, and are observed to coexist) to avoid tediousness
+and singularity of Speech, sometimes speak of them, as belonging to one and the
+same thing.
+
+LVI. By what means, Tangible Magnitude is perceived by Sight.
+Now in order to discover by what means, the Magnitude of Tangible Objects is
+perceived by Sight; I need only reflect on what Passes in my own Mind. And
+observe what those things be, which introduce the Ideas of greater or lesser
+into my Thoughts, when I look on any Object. And these I find to be, First, the
+Magnitude or Extension of the Visible Object, which being immediately perceived
+by Sight, is connected with that other which is Tangible, and placed at a
+Distance. Secondly, The Confusion or Distinctness. And, Thirdly, The
+Vigorousness or Faintness of the aforesaid Visible Appearance. Caeteris
+paribus, by how much the greater or lesser, do I conclude the Tangible Object
+to be. But, be the Idea immediately perceived by Sight never so large, yet if
+it be withal Confused, I judge the Magnitude of the thing to be but small. If
+it be Distinct and Clear, I judge it greater. And if it be Faint, I apprehend
+it to be yet greater. What is here meant, by Confusion and Faintness, has been
+Explained in Sect. XXXV.
+
+LVII. This farther enlarged on.
+Moreover, the Judgments we make of Greatness do, in like manner as those of
+Distance, depend on the Disposition of the Eyes, also on the Figure, Number of
+intermediate Objects, and other Circumstances that have been observed to attend
+great, or small Tangible Magnitudes. Thus, for Instance, The very same Quantity
+of Visible Extension, which in the Figure of a Tower, does suggest the Idea of
+great Magnitude, shall, in the Figure of a Man, suggest the Idea of much
+smaller Magnitude. That this is owing to the Experience we have had, of the
+usual Bigness of a Tower and a Man, no one, I suppose, need be told.
+
+LVIII. No necessary Connection between, Confusion or Faintness of Appearance,
+and small or great Magnitude.
+It is also evident, that Confusion, Faintness, etc. have no more a necessary
+Connection with little or great Magnitude, than they have with little or great
+Distance. As they suggest the latter, so they suggest the former to our Minds.
+And, by Consequence, if it were not for Experience, we should no more judge a
+faint or confused Appearance to be connected, with great or little Magnitude,
+than we should that it was connected with great or little Distance.
+
+LIX. The Tangible Magnitude of an Object, more heeded than the Visible; and
+why.
+Nor will it be found, that great or small Visible Magnitude has any necessary
+Relation to great or small Tangible Magnitude: So that the one may certainly,
+and infallibly be inferred from the other. But, before we come to the Proof of
+this, it is fit we consider the difference there is, betwixt the Extension and
+Figure which is the proper Object of Touch, and that other which is termed
+Visible; and how the former is principally, though not immediately, taken notice
+of, when we look at any Object. This has been before mentioned, but we shall
+here enquire into the Cause thereof. We regard the Objects that environ us, in
+proportion as they are adapted to benefit, or injure our own Bodies, and
+thereby, produce in our Minds the Sensations of Pleasure, or Pain. Now Bodies
+operating on our Organs, by an immediate Application: And the Hurt and
+Advantage arising therefrom, depending altogether on the Tangible, ang not at
+all on the Visible, Qualities of any Object. This is a plain Reason, why those
+should be regarded by us much more than these. And for this End, chiefly, the
+Visive Sense seems to have been bestowed on Animals, viz. that by the
+Perception of Visible Ideas (which in themselves are not capable of affecting,
+or any wise altering the Frame of their Bodies) they may be able to foresee
+(from the Experience they have had, what Tangible Ideas are connected with
+such, and such Visible Ideas) the Damage or Benefit which is like to ensue,
+upon the Application of their own Bodies to this, or that Body which is at a
+Distance. Which Foresight, how necessary it is to the preservation of an
+Animal, every ones Experience can inform him. Hence it is, that when we look at
+an Object, the Tangible Figure and Extension thereof are principally attended
+to; whilst there is small heed taken of the Visible Figure and Magnitude,
+which, though more immediately perceived, do less sensibly affect us, and are not
+fitted to produce any Alteration in our Bodies.
+
+LX. An Instance of this.
+That the Matter of Fact is true, will be evident to any one, who considers
+that a Man placed at Ten Foot Distance, is thought as great, as if he were
+placed at the Distance only of Five Foot; which is true, not with Relation to
+the Visible, but Tangible greatness of the Object. The Visible Magnitude being
+far greater, at one Station, than it is at the other.
+
+LXI. Men do not Measure by Visible Feet or Inches.
+Inches, Feet, etc. are settled, stated Lengths, whereby we measure Objects,
+and estimate their Magnitude, we say, for Example, an Object appears to be Six
+Inches, or Six Foot long. Now, that this cannot be meant of Visible Inchches,
+etc. is evident, because a Visible Inch is it self no constant, determinate
+Magnitude, and cannot, therefore, serve to mark out, and determine the Magnitude
+of any other thing. Take an Inch marked upon a Ruler; view it, successively, at
+the Distance of Half a Foot, a Foot, a Foot and a Half, etc. from the Eye; at
+each of which, and at all the intermediate Distances, the Inch shall have a
+different Visible Extension, i. e. there shall be more or fewer Points
+discerned in it. Now I ask which of all these various Extensions, is that
+Stated, determinate one, that is agreed on, for a common Measure of other
+Magnitudes? No reason can be assigned, why we should pitch on one, more than
+another. And except there be some invariable, determinate Extension fixed on,
+to be marked by the Word Inch, it is plain, it can be used to little Purpose;
+and to say, a Thing contains this or that Number of Inches, shall imply no more
+than that it is extended, without bringing any particular Idea of that
+Extension into the Mind. Farther, an Inch and a Foot, from different Distances,
+shall both exhibit the same Visible Magnitude, and yet at the same time, you
+shall say, that one seems several times greater than the other. From all which
+it is manifest, that the Judgments we make of the Magnitude of Objects by
+Sight, are altogether in reference to their Tangible Extension. Whenever we say
+an Object is Great, or Small, of this or that determinate Measure, I say, it
+must be meant of the Tangible, and not the Visible Extension, which, though
+immediately perceived, is nevertheless little taken Notice of.
+
+LXII. No necessary Conexion between Visible and Tangible Extension.
+Now, that there is no necessary Connection, between these two Distinct
+Extensions is evident from hence. Because our Eyes might have been framed in
+such a manner, as to be able to see nothing but what were less than the Minimum
+Tangibile. In which Case, it is not impossible we might have perceived all the
+Immediate Objects of Sight, the very same that we do now. But unto those
+Visible Appearances, there would not be Connected those different Tangible
+Magnitudes, that are now. Which shows, the Judgments we make of the Magnitude
+of Things placed at a Distance, from the various Greatness of the Immediate
+Objects of Sight, do not arise from any Essential or Necessary, but only a
+Customary Tie, which has been observed betwixt them.
+
+LXIII. Greater Visible Magnitude might signify Lesser Tangible Magnitude
+Moreover, it is not only certain, that any Idea of Sight might not have been
+Connected, with this or that Idea of Touch, we now observe to accompany it: But
+also, that the greater Visible Magnitudes might have been Connected with, and
+Introduced into our Minds, lesser Tangible Magnitudes, and Vice Versa. Nay,
+that it often is so, we have daily Experience; that Object which makes a strong
+and large Appearance, not seeming near so great, as another the Visible
+Magnitude whereof is much less, but more faint.
+
+LXIV. The Judgments we make of Magnitude depend altogether on Experience
+From which, and from Sect. LVII, and LVIII. it is manifest, that as we do not
+perceive the Magnitude of Objects immediately by Sight, so neither do we
+perceive them, by the Mediation of any thing which has a necessary Connection
+with them. Those Ideas that now suggest unto us, the various Magnitudes of
+External Objects, before we touch them, might possibly have suggested no such
+thing: Or they might have signified them, in a direct, contrary manner, so that
+the very same Ideas, on the Perception whereof we judge an Object to be small,
+might as well have served to make us conclude it great. Those Ideas being in
+their own Nature, equally fitted to bring into our Minds the Idea of Small, or
+Great, or no Size at all of outward Objects. Just as the Words of any Language
+are in their own Nature, indifferent to signify this, or that thing, or
+nothing at all.
+
+LXV. Distance and Magnitude seen as Shame or Anger.
+As we see Distance, so we see Magnitude. And we see both, in the same way that
+we see Shame or Anger, in the Looks of a Man. Those Passions are themselves
+Invisible, they are nevertheless let in by the Eye along with Colors, and
+alterations of Countenance, which are the immediate Object of Vision: And which
+signify them for no other Reason, than barely because they have been observed
+to accompany them. Without which Experience, we should no more have taken
+Blushing for a Sign of Shame, than of Gladness.
+
+LXVI. But we are prone to think otherwise, and why.
+We are nevertheless exceeding Prone to imagine, those things which are
+perceived only by the Mediation of others, to be themselves the immediate
+Objects of Sight: Or, at least, to have in their own Nature a Fitness to be
+suggested by them, before ever they had been experienced to Coexist with them.
+From which prejudice every one, perhaps, will not find it easy to emanicipate
+himself, by any the clearest Convictions of Reason. And there are some Grounds
+to think, that if there was one only invariable, and universal Language in the
+World, and that Men were born with the Faculty of speaking it; it would be the
+Opinion of some, that the Ideas in other Men's Minds were properly perceived by
+the Ear, or had at least a necessary and inseparable Tie with the Sounds that
+were affixed to them. All which seems to arise, from want of a due Application
+of our Discerning Faculty, thereby to Discriminate between the Ideas that are
+in our Understandings, and consider them apart from each other; which would
+preserve us from confounding those that are different, and make us to see what
+Ideas do, and what do not include, or imply this or that other Idea.
+
+LXVII. The Moon seems greater in the Horizon than in the Meridian.
+There is a Celebrated Phenomenon, the Solution whereof I shall attempt to
+give, by the Principles that have been laid down, in reference to the manner
+wherein we apprehend by Sight, the Magnitude of Objects. It is as follows. The
+apparent Magnitude of the Moon when placed in the Horizon, is much greater than
+when it is in the Meridian. Though the Angle under which the Diameter of the Moon
+is seen, be not observed greater in the former Case, than in the latter.
+Moreover, the Horizontal Moon does not constantly appear of the same Bigness,
+but at some times seems far greater than at others.
+
+LXVIII. The cause of this Phenomenon, assigned.
+Now in order to explicate the reason, of the Moon's appearing greater than
+ordinary in the Horizon; it must be observed, that the Particles which compose
+our Atmosphaere, do intercept the Rays of Light, proceeding from any Object to
+the Eye; and by how much the greater is the Portion of Atmosphaere, interjacent
+between the Object and the Eye, by so much the more are the Rays intercepted;
+and by consequence, the Appearance of the Object rendered more Faint: Every
+Object appearing more Vigorous or more Faint, in Proportion as it sends more
+or fewer Rays unto the Eye. Now, between the Eye, and the Moon, when situated
+in the Horizon, there lies a far greater Quantity of Atmosphaere, than there
+does when the Moon is in the Meridian. Whence it comes pass, that the
+Appearance of the Horizontal Moon is fainter, and therefore by Sect. LVI, it
+should be thought bigger in that Situation, than in the Meridian, or in any
+other Elevation above the Horizon.
+
+LXIX. The Horizontal Moon, why greater at one time than another.
+Farther, The Air being variously impregnated, sometimes more and sometimes
+less, with Vapors and Exhalations fitted to retund and intercept the Rays of
+Light; it follows, that the Appearance of the Horizontal Moon has not always
+an equal Faintness; and by Consequence, that Luminary, though in the very same
+Situation, is at one time judged greater than at another.
+
+LXX. The Account we have given, proved to be true.
+That we have here given the true Account of the Phenomenon of the Horizontal
+Moon, will, I suppose, be farther Evident to any one from the following
+Considerations. First, It Is plain, that which in this Case suggests the Idea of
+greater Magnitude, must be something which is it self perceived; for, that
+which is unperceived cannot suggest to our Perception any other thing.
+Secondly, It must be something that does not constantly remain the same, but is
+subject to some Change or Variation, since the Appearance of the Horizontal
+Moon varies, being at one time greater than at another. Thirdly, It must not
+lie in the External Circumjacent or Intermediate Objects but be an Affection of
+the very Visible Moon it self: Since by looking through a Tube, when all other
+Objects are excluded from Sight, the Appearance is as great as ever. And yet,
+Fourthly, It cannot be the Visible Figure or Magnitude, since that remains the
+same, or is rather lesser, by how much the Moon is nearer to the Horizon. It
+remains therefore, that the true Cause is that Affection or Alteration of the
+Visible Appearance, which proceeds from the greater Paucity of Rays arriving at
+the Eye, and which I term Faintness: Since this answers all the forementioned
+Conditions, and I am not conscious of any other Perception that does.
+
+LXXI. And confirmed, by the Moon's appearing greater in a Mist.
+Add to this, that in misty Weather it is a common Observation, that the
+Appearance of the Horizontal Moon is far larger than usual, which greatly
+conspires with, and strengthens our Opinion. Neither would it prove, in the
+least, Irreconcilable with what we have said: If the Horizontal Moon should
+chance sometime to seem enlarged beyond its usual Extent, even in more Serene
+Weather. For we must not only have regard to the Mist, which happens to be in
+the place where we stand; we ought also to take into our Thoughts, the whole
+Sum of Vapors and Exhalations, which lie betwixt the Eye and the Moon: All
+which cooperating to render the Appearance of the Moon more Faint, and thereby
+increase it is Magnitude, it may chance to appear greater than it usually does,
+even in the Horizontal Position, at a time when, though there be no extraordinary
+Fog or Haziness, just in the place where we stand, yet, the Air between the Eye
+and the Moon, taken all together, may be loaded with a greater quantity of
+interspersed Vapors and Exhalations, than at other times.
+
+LXXII. Objection answered.
+It may be Objected, That in Consequence of our Principles, the Interposition
+of a Body in some degree Opaque, which may Intercept a great Part of the Rays
+of Light, should render the Appearance of the Moon in the Meridian as large, as
+when it is viewed in the Horizon. To which I answer, it is not Faintness any how
+applied, that suggests greater Magnitude. There being no necessary, but only an
+experimental Connection between those two things: It follows, that the
+Faintness, which enlarges the Appearance, must be applied in such Sort, and
+with such Circumstances, as have been observed to attend the Vision of great
+Magnitudes. When from a Distance (I speak with the Vulgar) we behold great
+Objects, the Particles of the intermediate Air and Vapors, which are
+themselves unperceivable, do interrupt the Rays of Light, and thereby render
+the Appearance less Strong and Vivid; now, Faintness of Appearance caused in
+this Sort, has been experienced to coexist with great Magnitude. But, when it
+is caused by the Interposition of an Opaque, sensible Body, this Circumstance
+alters the Case; so that a Faint Appearance this way caused, does not suggest
+greater Magnitude, because it has not been experienced to coexist with it.
+
+LXXIII. The way wherein Faintness suggests greater Magnitude Illustrated.
+Faintness, as well as all other Ideas or Perceptions, which suggest Magnitude
+or Distance, does it in the same way, that Words suggest the Notions to which
+they are annexed. Now, it is known, a Word pronounced with certain
+Circumstances, or in a certain Context with other Words, has not always the
+same Import and Signification, that it has when pronounced in some other
+Circumstances, or different Context of Words. This well considered may,
+perhaps, prevent some Objections that might otherwise be made, against what we
+have offered as the true Explication of the Appearance of the Horizontal Moon.
+
+LXXIV. Appearance of the Horizontal Moon, why thought difficult to explain.
+If we attentively consider the Phenomenon before us, we shall find the not
+discerning between the Mediate, and Immediate Objects of Sight, to be the chief
+Cause of the Difficulty that occurs in the Explication of it. The Magnitude of
+the Visible Moon, or that which is the proper and immediate Object of Vision,
+is no greater when the Moon is in the Horizon, than when it is in the Meridian.
+How comes it, therefore, to seem greater in one Situation than the other? What
+is it can put this Cheat on the Understanding? It has no other Perception of
+the Moon, than what it gets by Sight: And that which is seen is of the same
+Extent, I say, the Visible Appearance has the very same, or, rather, a lesser
+Magnitude when the Moon is viewed in the Horizontal, than when in the
+Meridional Position: And yet it is Esteemed greater in the former, than in the
+latter. Herein consists the Difficulty; which does Vanish, and admit of a most
+easy Solution, if we consider that, as the Visible Moon is not greater in the
+Horizon, than in the Meridian, so neither is it thought to be so. It has been
+already shown, that in any act of Vision, the Visible Object absolutely, or in
+it self, is little taken notice of, the Mind still carrying its View from that
+to some Tangible Ideas, which have been observed to be Connected with it, and
+by that means, come to be suggested by it. So that when a thing is said to
+appear Great, or Small, or whatever Estimate be made of the Magnitude of any
+Thing; this is meant, not of the Visible, but, of the Tangible Object. This
+duly considered, it will be no hard matter to reconcile, the seeming
+Contradiction there is, that the Moon should appear of a different Bigness, the
+visible Magnitude thereof remaining still the same. For by Sect. LVI. the very
+same visible Extension, with a different Faintness, shall suggest a different
+Tangible Extension. When, therefore, the Horizontal Moon is said to appear
+greater than the Meridional Moon; this must be understood, not of a greater
+Visible Extension, but of a greater Tangible Extension; which, by reason of the
+more than ordinary Faintness of the Visible Appearance, is suggested to the
+Mind along with it.
+
+LXXV. Attempts toward the Solution of it made by several, but in vain.
+Many Attempts have been made by Learned Men, to account for this Appearance.
+Gassendus, Descartes, Hobbs, and several others, have employed their Thoughts
+on that Subject: But how fruitless and unsatisfactory their Endeavors have
+been, is sufficiently shown by Mr. Molyneux, vid. Philos. Trans. Numb. 187, p.
+314. where you may see their several Opinions at large set forth and confuted,
+not without some Surprise at the gross Blunders, that Ingenious Men have been
+forced into, by endeavoring to reconcile this Appearance with the ordinary
+Principles of Optics. Since the Writing of which Discourse, there has been
+Published in the Transactions, Numb. 187, p. 323. another Paper relating to the
+same Affair, by the Celebrated Dr. Wallis, wherein he pretends to account for
+that Phenomenon; which, though it seems not to contain any thing new, or
+different from what had been said before by others, I shall nevertheless
+consider in this place.
+
+LXXVI. The Opinion of Dr. Wallis.
+His Opinion in short is this. We judge not of the Magnitude of an Object by
+the Optic Angle alone, but by the Optic Angle in Conjunction with the Distance,
+Hence, though the Angle remain the same, or even becomes less; yet if withal the
+Distance seem to have been increased, the Object shall appear greater. Now, one
+way whereby we estimate the Distance of any thing, is by the Number and Extent
+of the intermediate Objects: When therefore the Moon is seen in the Horizon,
+the Variety of Fields, Houses, etc. together with the large Prospect of the
+wide-extended Land, or Sea, that lies between the Eye and the utmost Limb of
+the Horizon, suggest unto the Mind the Idea of greater Distance, and
+consequently magnify the Appearance. And this, according to Dr. Wallis, is the
+true Account of the extraordinary Largeness attributed by the Mind to the
+Horizontal Moon, at a time when the Angle subtended by its Diameter, is not one
+jot greater than it used to be.
+
+LXXVII. It is shown to be unsatisfactory.
+With reference to this Opinion, not to repeat what has been already said
+concerning Distance, I shall only observe, First, That if the Prospect of
+interjacent Objects be that which suggests the Idea of farther Distance, and
+this Idea of farther Distance be the Cause, that brings into the Mind the Idea
+of greater Magnitude; it should hence follow, that if one looked at the
+Horizontal Moon from behind a Wall, it would appear no bigger than ordinary.
+For in that Case, the Wall interposing, cuts off all that Prospect of Sea and
+Land, etc. which might otherwise increase the apparent Distance, and thereby
+the apparent Magnitude of the Moon. Nor will it suffice to say, the Memory does
+even then suggest all that Extent of Land, etc. which lies within the Horizon;
+which Suggestion occasions a sudden Judgment of Sense, that the Moon is farther
+off, and larger than usual. For ask any Man, who from such a Station beholding
+the Horizontal Moon, shall think her greater than usual, whether he have at
+that time in his Mind any Idea of the intermediate Objects, or long Tract of
+Land that lies between his Eye and the extreme Edge of the Horizon? And whether
+it be that Idea which is the Cause of his making the aforementioned Judgment?
+He will, without doubt, reply in the Negative, and declare the Horizontal Moon
+shall appear greater than the Meridional, though he never thinks of all or any of
+those things that lie between him and it. And as for the Absurdity of any
+Idea's introducing into the Mind another, whilst it self is not perceived, this
+has already fallen under our Observation, and is too evident to need any
+farther Enlargement on it. Secondly, It seems impossible by this Hypothesis, to
+account for the Moon's appearing in the very same Situation, at one time
+greater than at another. Which, nevertheless, has been shown to be very
+agreeable to the Principles we have laid down, and receives a most easy and
+natural Explication from them.
+
+LXXVIII. How Lines and Angles may be of use in computing apparent Magnitudes.
+This Phenomenon of the Horizontal Moon is a clear Instance of the
+Insufficiency of Lines and Angles, for explaining the way wherein the Mind
+perceives, and estimates the Magnitude of outward Objects. There is,
+nevertheless, a use of Computation by them, in order to determine the apparent
+Magnitude of things, so far as they have a Connection with, and are Proportional
+to those other Ideas, or Perceptions which are the true and immediate Occasions
+that suggest to the Mind the apparent Magnitude of Things. But this in general
+may, I think, be observed concerning Mathematical Computation in Optics: That
+it can hardly be very Precise and Exact, since the Judgments we make of the
+Magnitude of External Things, do often depend on several Circumstances, which
+are not Proportional to, or capable of being defined by Lines and Angles.
+
+LXXIX. One born Blind, being made to See, what Judgment he would make of Magnitude.
+From what has been said we may safely deduce this Consequence, viz. That a Man
+born Blind, and made to See, would, at first opening of his Eyes, make a very
+different Judgment of the Magnitude of Objects intromitted by them, from what
+others do. He would not consider the Ideas of Sight with reference to, or as
+having any Connection with the Ideas of Touch. His View of them being entirely
+terminated within themselves, he can no otherwise judge them Great or Small,
+than as they contain a greater or lesser Number of Visible Points. Now, it
+being certain, that any Visible Point can cover or exclude from View, only one
+other Visible Point, it follows, that whatever Object intercepts the View of
+another, has an equal Number of Visible Points with it; and consequently they
+shall both, by him, be thought to have the same Magnitude. Hence, it is evident,
+one in those Circumstances would judge his Thumb, with which he might hide a
+Tower, or hinder its being seen, equal to that Tower, or his Hand, the
+Interposition whereof might conceal the Firmament from his View, equal to the
+Firmament. How great an Inequality soever there may, in our Apprehensions, seem
+to be betwixt those two things: because of the customary and close Connection,
+that has grown up in our Minds between the Objects of Sight and Touch, whereby
+the very different and distinct Ideas of those two Senses, are so blended and
+confounded together, as to be mistaken for one and the same thing; out of which
+Prejudice, we cannot totally extricate our selves, without some Labor and
+Striving of Thought.
+
+LXXX. The Minimum Visibile the same to all Creatures.
+For the better clearing up the Nature of Vision, and setting the manner
+wherein we perceive Magnitudes in a due Light, I shall proceed to make some
+Observations concerning Matters relating thereto, whereof the want of
+Reflection, and duly separating between Tangible and Visible Ideas, is apt to
+create in us mistaken and confused Notions. And, First, I shall observe that
+the Minimum Visibile is exactly equal in all Beings whatsoever, that are
+endowed with the Visive Faculty. No exquisite Formation of the Eye, no peculiar
+Sharpness of Sight, can make it less in one Creature, than in another. For it
+not being distinguishable into Parts, nor in any wise consisting of them, it
+must necessarily be the same to all. For suppose it otherwise, and that the
+Minimum Visibile of a Mite, for Instance, be less than the Minimum Visibile of
+a Man; the latter, therefore, may by Detraction of some part be made equal to
+the former: It does, therefore, consist of Parts: Which is inconsistent with
+the Notion of a Minimum Visibile, or Point.
+
+LXXXI. Objection answered.
+It will, perhaps, be objected, that the Minimum Visibile of a Man does really,
+and in it self, contain Parts whereby it surpasses that of a Mite, though they
+are not perceivable by the Man. To which I answer, the Minimum Visibile having
+(in like manner as all other the Proper and Immediate Objects of Sight) been
+shown not to have any Existence without the Mind of him who sees it, it
+follows, there cannot be any part of it that is not actually perceived, and
+therefore Visible. Now, for any Object to contain several distinct, visible
+Parts, and at the same time to be a Minimum Visibile, is a manifest
+Contradiction.
+
+LXXXII. The Eye at all times, perceives the same number of visible Points.
+Of these Visible Points we see at all times an equal Number. It is every whit
+as great when our View is contracted, and bounded by near Objects, as when it
+is extended to larger and remoter ones. For it being impossible, that one
+Minimum Visibile should obscure, or keep out of Sight, more than one other;
+it is a plain Consequence, that when my View is on all sides bounded by the
+Walls of my Study, I see just as many visible Points, as I could, in case that
+by the Removal of the Study-Walls, and all other Obstructions, I had a full
+Prospect of the circumjacent Fields, Mountains, Sea, and open Firmament. For,
+so long as I am shut up within the Walls, by their Interposition every Point of
+the External Object is covered from my View. But each Point that is seen, being
+able to cover or exclude from Sight, one only other corresponding Point: It
+follows, that whilst my Sight is confined to those narrow Walls, I see as many
+Points, or Minima Visibilia, as I should, were those Walls away, by looking on
+all the External Objects, whose Prospect is intercepted by them. Whenever,
+therefore, we are said to have a greater Prospect at one time than another;
+this must be understood with relation, not to the proper and immediate, but the
+secondary and mediate Objects of Vision, which, as has been shown, do properly
+belong to the Touch.
+
+LXXXIII Two Imperfections in the Visive Faculty.
+The Visive Faculty considered, with reference to it is immediate Objects, may
+be found to Labor of two Defects. First, In respect of the Extent or Number of
+visible Points that are at once perceivable by it, which is narrow and limited
+to a certain Degree. It can take in at one View but a certain, determinate
+Number of Minima Visibilia, beyond which it cannot extend it is Prospect.
+Secondly, Our Sight is defective in that its View is not only narrow, but also,
+for the most part, confused. Of those things that we take in at one Prospect,
+we can see but a few at once clearly and unconfusedly. And the more we fix our
+Sight on any one Object, by so much the Darker and more Indistinct shall the
+rest appear.
+
+LXXXIV Answering to which, we may conceive two Perfections.
+Corresponding to these two Defects of Sight, we may imagine as many
+Perfections, viz. 1 st. That of comprehending in one View, a greater number of
+Visible Points. 2 dly, Of being able to View them all equally, and at once,
+with the utmost Clearness and Distinction. That these Perfections are not
+actually in some Intelligences, of a different Order and Capacity from ours, it
+is impossible for us to know.
+
+LXXXV. In neither of these two Ways do Microscopes improve the Sight.
+In neither of these two Ways, do Microscopes contribute to the improvement of
+Sight. For, when we look through a Microscope, we neither see more Visible
+Points, nor are the Collateral Points more Distinct, than when we look with the
+naked Eye, at Objects placed in a due Distance. A Microscope brings us, as it
+were, into a new World: It presents us with a new Scene of Visible Objects,
+quite different from what we behold with the naked Eye. But herein consists the
+most remarkable Difference, viz. That whereas the Objects perceived by the Eye
+alone have a certain Connection with Tangible Objects, whereby we are taught to
+Foresee what will ensue, upon the Approach or Application of distant Objects to
+the Parts of our own Body, which much conduces to it is Preservation; there is
+not the like Connection between things Tangible and those Visible Objects, that
+are perceived by help of a fine Microscope.
+
+LXXXVI The Case of Microscopical Eyes, considered.
+Hence it is evident, that were our Eyes turned into the Nature of Microscopes,
+we should not be much benefited by the Change. We should be deprived of the
+forementioned Advantage we at present receive by the Visive Faculty; and have
+left us only the empty Amusement of Seeing, without any other benefit arising
+from it. But in that Case, it will perhaps be said, our Sight would be endued
+with a far greater Sharpness and Penetration than it now has. But I would fain
+know wherein consists that Sharpness, which is esteemed so great an Excellency
+of Sight. It is certain from what we have already shown, that the Minimum
+Visibile is never Greater, or Lesser, but in all Cases constantly the same. And
+in the Case of Microscopical Eyes, I see only this difference, viz. that upon
+the Ceasing of a certain observable Connection, betwixt the diverse Perceptions
+of Sight and Touch, which before enabled us to regulate our Actions by the Eye:
+It would now be rendered utterly unserviceable to that Purpose. Which whether
+it be a desirable Perfection, or no, I leave it to any one to determine.
+
+LXXXVII The Sight, admirably adapted to the ends of Seeing.
+Upon the whole, my Opinion is, That if we consider the Use and End of Sight,
+together with the present State and Circumstances of our Being, we shall not
+find any great Cause, to complain of any Defect or Imperfection in it, or
+easily conceive how it could be mended. With such admirable Wisdom is that
+Faculty contrived, both for the Pleasure and Convenience of Life.
+
+LXXXVIII Difficulty concerning Erect Vision.
+Having finished what I intended to say, concerning the Distance and Magnitude
+of Objects, I come now to treat of the Manner, wherein the Mind perceives by
+Sight their Situation. Among the Discoveries of the last Age, it is reputed
+none of the least, that the manner of Vision has been more clearly Explained,
+than ever it had been before. There is, at this Day, no one Ignorant, that the
+Pictures of External Objects are Painted on the Retina, or Fund of the Eye.
+That we can see no thing which is not so Painted. And that, according as the
+Picture is more Distinct or Confused, so also is the Perception we have of the
+Object. But then in this Explication of Vision, there occurs one mighty
+Difficulty. The Objects are Painted in an inverted Order on the Bottom of the
+Eye: The upper part of any Object being Painted on the lower part of the Eye,
+and the lower part of the Object, on the upper part of the Eye. And so also as
+to Right and Left. Since therefore the Pictures are thus inverted, it is
+demanded how it comes to pass, that we see the Objects erect and in their
+natural Posture?
+
+LXXXIX The common way of explaining it.
+In answer to this Difficulty, we are told, that the Mind perceiving an impulse
+of a Ray of Light, on the upper part of the Eye, considers this Ray as coming
+in a direct Line, from the lower part of the Object; and in like manner tracing
+the Ray that strikes on the lower part of the Eye, it is directed to the upper
+part of the Object. Thus in the adjacent Figure, C the lower Point of the
+Object ABC is projected on c the upper part of the Eye. So likewise, the
+highest Point A is projected on a the lowest part of the Eye; which makes the
+Representation cba inverted. But the Mind considering the Stroke that is made
+on c as coming in the straight Line C c from the lower End of the Object; and
+the Stroke or Impulse on a, as coming in the Line Aa from the upper End of the
+Object, is directed to make a right Judgment of the Situation of the Object
+ABC, notwithstanding the Picture of it be inverted. Moreover, this is
+illustrated by conceiving a Blind Man, who holding in his Hands two Sticks that
+cross each other, does with them touch the extremities of an Object, placed in
+a perpendicular Situation. It is certain, this Man will judge that to be the
+upper part of the Object, which he touches with the Stick held in the undermost
+Hand, and that to be the lower part of the Object, which he touches with the
+Stick in his uppermost Hand. This is the common Explication of the erect
+Appearance of Objects, which is generally received and acquiesed in, being (as
+Mr. Molyneux tells us, Dioptr. par. 2. c. 7. p. 289.) allowed by all Men as
+Satisfactory.
+
+XC. The same shown to be false.
+But how reasonable and satisfactory soever, this account may be thought by
+others, to me certainly it does not seem, in any degree, True. Did I perceive
+those Impulses, Decussations, and Directions of the Rays of Light, in like
+manner as has been set forth, then, indeed, it would not at first view be
+altogether void of Probability. And there might be some Pretense for the
+Comparison of the Blind-Man and his cross Sticks. But the Case is far
+otherwise. I know very well that I perceive no such thing. And of Consequence,
+I cannot thereby make an Estimate of the Situation of Objects. Moreover I
+appeal to any one's Experience, whether he be conscious to himself, that he
+thinks on the Intersection made by the Radious Pencils, or pursue the Impulses
+they give in right Lines, whenever he perceives by Sight the Position of any
+Object? To me it seems evident, that Crossing and Tracing of the Rays, etc. is
+never thought on by Children, Idiots, or in Truth by any other, save only those
+who have applied themselves to the Study of Optics. And for the Mind to judge
+of the Situation of Objects, by those things, without perceiving them, or to
+perceive them without knowing it, take which you please, it is Perfectly beyond
+my Comprehension. Add to this, that the explaining the manner of Vision by the
+Example of cross Sticks, and Hunting for the Object along the Axes of the
+Radious Pencils, does suppose the proper Objects of Sight to be perceived at a
+Distance from us, contrary to what has been Demonstrated. We may therefore,
+venture to pronounce this Opinion concerning the way wherein the Mind perceives
+the Erect Appearance of Objects, to be of a Piece with those other Tenants of
+Writers in Optics, which in the foregoing Parts of this Treatise, we have had
+occasion to Examine and Refute.
+
+XCI. Not distinguishing between Ideas of Sight and Touch, Cause of Mistake, in
+this Matter.
+It remains, therefore, that we look for some other Explication of this
+Difficulty. And I believe it not impossible to find one, provided we Examine it
+to the Bottom, and carefully distinguish between the Ideas of Sight and Touch;
+which cannot be too often inculcated in treating of Vision. But more especially
+throughout the consideration of this Affair, we ought to carry that Distinction
+in our Thoughts. For that from want of a right Understanding thereof, the
+Difficulty of Explaining Erect Vision seems chiefly to arise.
+
+XCII. The Case of one Born Blind, proper to be considered.
+But in order to Disentangle our Minds, from whatever Prejudices we may
+entertain with relation to the Subject in hand: Nothing seems more apposite,
+than the taking into our Thoughts the Case of one Born Blind, and afterward,
+when grown up, made to see. And though, perhaps, it may not be a Task altogether
+easy, and familiar to us, to divest our selves entirely of the Experiences
+received from Sight. So as to be able to put our Thoughts exactly in the
+Posture of such a one's. We must, nevertheless, as far as possible, endeavor
+to frame true Conceptions, of what might reasonably be supposed to pass in his
+Mind.
+
+XCIII. Such a one might by Touch, attain to have Ideas of Upper and Lower.
+It is certain, that a Man actually Blind, and who had continued so from his
+Birth, would by the Sense of Feeling attain to have Ideas of Upper and Lower.
+By the Motion of his Hand he might discern the Situation of any Tangible Object
+placed within his Reach. That part on which he felt himself supported, or
+toward which he perceived his Body to gravitate, he would term Lower, and the
+contrary to this Upper. And accordingly denominate whatsoever Objects he
+touched.
+
+XCIV. Which Modes of Situation he would attribute only to things Tangible.
+But then, whatever Judgments he makes concerning the Situation of Objects, are
+confined to those only that are perceivable by Touch. All those things that are
+intangible, and of a spiritual Nature, his Thoughts and Desires, his Passions,
+and in general all the Modifications of his Soul, to these he would never apply
+the Terms Upper and Lower, except only in a Metaphorical Sense. He may,
+perhaps, by way of Allusion, speak of High or Low Thoughts. But those Terms in
+their proper Signification, would never be applied to any thing, that was not
+conceived to exist without the Mind. For a Man Born Blind, and remaining in the
+same State, could mean nothing else by the Words Higher and Lower, than a
+greater or lesser Distance from the Earth: Which Distance he would measure by
+the Motion or Application of his Hand, or some other Part of his Body. It is,
+therefore, evident, that all those things which, in respect of each other,
+would by him be thought Higher or Lower, must be such as were conceived to
+exist without his Mind, in the ambient Space.
+
+XCV. He Would not at first Sight think any thing he saw, High or Low, Erect or
+Inverted.
+Whence it plainly follows, that such a one, if we suppose him made to See,
+would not at first Sight think, that any thing he saw was High or Low, Erect or
+Inverted; for it has been already Demonstrated in Sect. XLI, that he would not
+think the Things he perceived by Sight to be at any Distance from him, or
+without his Mind. The Objects to which he had hitherto been used to apply the
+Terms Up and Down, High and Low, were such only as affected, or were some way
+perceived by his Touch. But the proper Objects of Vision make a new Set of
+Ideas, perfectly distinct and different from the former, and which can in no
+sort make themselves perceived by Touch. There is, therefore, nothing at all
+that could induce him to think those Terms applicable to them. Nor would he
+ever think it, till such time as he had observed their Connection with Tangible
+Objects, and the same Prejudice begin to insinuate it self into his
+Understanding, which from their Infancy had grown up in the Understandings of
+other Men.
+
+XCVI. This Illustrated by an Example.
+To set this Matter in a clearer Light, I shall make use of an Example. Suppose
+the abovementioned Blind Person do, by his Touch, perceive a Man to stand
+Erect. Let us enquire into the manner of this. By the application of his Hand
+to the several Parts of a Human Body, he had perceived different Tangible
+Ideas, which being collected into sundry complex ones have distinct Names
+annexed to them. Thus one Combination of a certain Tangible Figure, Bulk, and
+Consistency of Parts is called the Head, another the Hand, a Third the Foot,
+and so of the rest. All which Complex Ideas could, in his Understanding, be
+made up only of Ideas perceivable by Touch. He had also by his Touch obtained
+an Idea of Earth or Ground, toward which he perceives the Parts of his Body to
+have a natural Tendency. Now, by Erect nothing more being meant, than that
+perpendicular Position of a Man, wherein his Feet are nearest to the Earth: If
+the Blind Person by moving his Hand, over the Parts of the Man who stands
+before him, do perceive the Tangible Ideas that compose the Head, to be
+farthest from, and those that compose the Feet to be nearest to, that other
+Combination of Tangible Ideas which he calls Earth: He will denominate that Man
+Erect. But if we suppose him on a sudden to receive his Sight, and that he
+behold a Man standing before him: It Is evident, in that Case, he would neither
+judge the Man he sees, to be Erect nor Inverted; for he never having known
+those Terms applied to any other, save Tangible Things, or which existed in the
+Space without him, and what he sees neither being Tangible, nor perceived as
+existing without, he could not know that in propriety of Language, they were
+applicable to it.
+
+XCVII. By what means he would come to denominate Visible Objects high or low, etc.
+Afterward, when upon turning his Head or Eyes, up and down, to the right and
+left, he shall observe the Visible Objects to change, and shall also attain to
+know, that they are called by the same Names, and Connected with the Objects
+perceived by Touch; then, indeed, he will come to speak of them, and their
+Situation, in the the same Terms that he has been used to apply to Tangible
+Things. And those that he perceives by turning up his Eyes, he will call Upper,
+and those that by turning down his Eyes, he will call Lower.
+
+XCVIII. Why he should think those Objects highest, which are Painted on the
+lowest part of his Eye, and vice versa.
+And this seems to me the true Reason, why he should think those Objects
+uppermost that are Painted on the lower part of his Eye. For, by turning the
+Eye up they shall be distinctly seen; as likewise, they that are Painted on the
+highest part of the Eye shall be distinctly seen, by turning the Eye down, and
+are for that Reason esteemed lowest. For we have shown that to the immediate
+Objects of Sight, considered in themselves, he would not attribute the Terms High
+and Low. It must therefore be on account of some Circumstances, which are
+observed to attend them. And these, it is plain, are the Actions of turning the
+Eye up and down, which suggest a very obvious Reason, why the Mind should
+denominate the Objects of Sight accordingly High or Low. And without this
+Motion of the Eye, this turning it up and down in order to discern different
+Objects, doubtless Erect, Inverse, and other the like Terms relating to the
+Position of Tangible Objects, would never have been transferred, or in any
+degree apprehended to belong to the Ideas of Sight: The mere act of Seeing
+including nothing in it to that Purpose, whereas the different Situations of
+the Eye, naturally direct the Mind to make a suitable Judgment, of the
+Situation of Objects intromitted by it.
+
+XCIX. How he would perceive by Sight the Situation of External Objects.
+Farther, when he has by Experience learned the Connection there is, between the
+several Ideas of Sight and Touch, he will be able, by the Perception he has of
+the Situation of Visible Things in respect of one another, to make a sudden and
+true Estimate, of the Situation of Outward, Tangible things corresponding to
+them. And thus it is, he shall perceive by Sight the Situation of External
+Objects, which do not properly fall under that Sense.
+
+C. Our propension to think the contrary, no Argument against what has been
+said.
+I know we are very prone to think, that if just made to see, we should judge
+of the Situation of Visible Things as we do now. But, we are also as prone to
+think, that at first Sight, we should in the same way apprehend the Distance
+and Magnitude of Objects, as we do now. Which has been shown to be a false and
+groundless Persuasion. And for the like Reasons, the same Censure may be past
+on the positive Assurance, that most Men, before they have thought sufficiently
+of the Matter, might have of their being able to determine by the Eye, at first
+view, whether Objects were Erect or Inverse.
+
+CI. Objection.
+It will, perhaps, be objected to our Opinion, that a Man, for instance, being
+thought Erect, when his Feet are next the Earth, and inverted, when his Head is
+next the Earth, it does hence follow, that by the mere act of Vision, without
+any Experience or altering the Situation of the Eye, we should have determined
+whether he were Erect or Inverted. For both the Earth it self, and the Limbs of
+the Man who stands thereon, being equally perceived by Sight: One cannot choose
+seeing, what part of the Man is nearest the Earth, and what part farthest from
+it, i. e. whether he be Erect or Inverted.
+
+CII. Answer.
+To which I answer, the Ideas which constitute the Tangible Earth and Man, are
+entirely different from those which constitute the Visible Earth and Man. Nor
+was it possible, by virtue of the Visive Faculty alone, without super-adding
+any Experience of Touch, or altering the Position of the Eye, ever to have
+known, or so much as suspected, there had been any Relation or Connection
+between them. Hence, a Man at first view would not denominate any thing he saw
+Earth, or Head, or Foot. And consequently, he could not tell by the mere act of
+Vision, whether the Head or Feet were nearest the Earth. Nor, indeed, would he
+have thereby any thought of Earth or Man, Erect or Inverse, at all. Which will
+be made yet more evident, if we nicely observe, and make a particular
+Comparison between the Ideas of both Senses.
+
+CIII. An Object could not be known at first Sight by the Color.
+That which I see is only variety of Light and Colors. That which I feel, is
+Hard or Soft, Hot or Cold, Rough or Smooth. What Similitude, what Connection
+have those Ideas with these? Or how is it possible, that any one should see
+reason, to give one and the same Name, to combinations of Ideas so very
+different, before ever he had experienced their Coexistence? We do not find
+there is any necessary Connection, betwixt this or that Tangible Quality, and
+any Color whatsoever. And we may sometimes perceive Colors, where there is
+nothing to be felt. All which does make it manifest, that no Man at first
+receiving of his Sight, would know there was any Agreement between this or that
+particular Object of his Sight, and any Object of Touch he had been already
+acquainted with. The Colors therefore of the Head, would to him no more
+suggest the Idea of Head, than they would the Idea of Feet.
+
+CIV. Nor by the Magnitude thereof.
+Farther, we have at large shown ( vid. Sect. LXIII and LXIV.) there is no
+discoverable, necessary Connection, between any given Visible Magnitude, and any
+one particular Tangible Magnitude. But that it is entirely the result of Custom
+and Experience, and depends on foreign and accidental Circumstances, that we
+can by the Perception of Visible Extension inform our selves, what may be the
+Extension of any Tangible Object connected therewith. Hence, it is certain that
+neither the Visible Magnitude of Head or Foot, would bring along with them into
+the Mind, at first opening of the Eyes, the respective Tangible Magnitudes of
+those Parts.
+
+CV. Nor by the Figure
+By the foregoing Section it is plain, the Visible Figure of any Part of the
+Body, has no necessary Connection with the Tangible Figure thereof, so as at
+first Sight to suggest it to the Mind. For Figure is the Termination of
+Magnitude. Whence it follows, that no Visible Magnitude having, in it is own
+Nature, an aptness to suggest any one particular Tangible Magnitude, so neither
+can any Visible Figure, be inseparably Connected with its corresponding
+Tangible Figure: So as of it self, and in a way prior to Experience it might
+suggest it to the Understanding. This will be farther evident, if we consider
+that what seems Smooth and Round to the Touch, may to Sight, if viewed through a
+Microscope, seem quite otherwise.
+
+CVI. In the first act of Vision, no Tangible Thing would be suggested by Sight.
+From all which laid together, and duly considered, we may clearly deduce this
+Inference, viz. In the first act of Vision, no Idea entering by the Eye, would
+have a perceivable Connection with the Ideas to which the Names Earth, Man,
+Head, Foot, etc. were annexed, in the Understanding of a Person Blind from his
+Birth: So as in any sort to introduce them into his Mind, or make themselves be
+called by the same Names, and reputed the same things with them, as afterward
+they come to be.
+
+CVII. Difficulty proposed concerning Number.
+There does, nevertheless, remain one Difficulty, which to some perhaps, may
+seem to press hard on our Opinion, and deserve not to be passed over. For though
+it be granted, that neither the Color, Size, nor Figure of the Visible Feet,
+have any necessary Connection with the Ideas that compose the Tangible Feet, so
+as to bring them at first sight, into my Mind, or make me in danger of
+confounding them, before I had been used to, and for some time experienced
+their Connection. Yet thus much seems undeniable. Namely, that the Number of the
+Visible Feet, being the same with that of the Tangible Feet: I may from hence,
+without any Experience of Sight, reasonably conclude that they represent, or
+are connected with the Feet rather than the Head. I say, it seems the Idea of
+Two Visible Feet will sooner suggest to the Mind, the Idea of Two Tangible Feet
+than of one Head. So that the Blind Man upon first reception of the Visive
+Faculty might know, which were the Feet or Two, and which, the Head or One.
+
+CVIII. Number of things Visible, would not, at first Sight, suggest the like
+number of things Tangible.
+In order to get clear of this seeming Difficulty, we need only observe, that
+Diversity of Visible Objects does not necessarily infer, Diversity of Tangible
+Objects, corresponding to them. A Picture Painted with great variety of
+Colors, affects the Touch in one uniform manner. It is therefore evident, that
+I do not by any necessary Consecution, independent of Experience, judge of the
+number of things Tangible, from the number of things Visible. I should not
+therefore at first opening my Eyes conclude, that because I see Two, I shall
+feel Two. How therefore can I, before Experience teaches me, know that the
+Visible Legs, because Two, are connected with the Tangible Legs: Or the Visible
+Head, because One, connected with the Tangible Head? The Truth on it is, the
+things I see are so very different, and heterogeneous from the things I feel:
+That the Perception of the one, would never have suggested the other to my
+Thoughts, or enabled me to pass the least Judgment thereon, until I had
+Experienced their Connection.
+
+CIX. Number the Creature of the Mind.
+But for a fuller Illustration of this Matter, it ought to be considered, that
+Number (however some may reckon it amongst the Primary Qualities) is nothing
+fixed, and settled, really existing in things themselves. It is entirely the
+Creature of the Mind, considering, either a Simple Idea by it self, or any
+Combination of Simple Ideas to which it gives one Name, and so makes it pass
+for an Unite. According as the Mind variously Combines it is Ideas, the Unite
+varies. And as the Unite, so the Number, which is only a Collection of Unites,
+does also vary. We call a Window one, a Chimney one; and yet a House in which
+there are many Windows, and many Chimneys, has an equal right to be called one.
+And many Houses go to the making of one City. In these and the like Instances,
+it is evident the Unite constantly relates to the particular Draughts the Mind
+makes of it is Ideas, to which it affixes Names, and wherein it includes more or
+less, as best suits it is own Ends and Purposes. Whatever therefore the Mind
+considers as one, that is an Unite. Every Combination of Ideas is considered as
+one thing by the Mind, and in token thereof, is marked by one Name. Now, this
+Naming and Combining together of Ideas is perfectly Arbitrary, and done by the
+Mind in such sort, as Experience shows it to be most convenient. Without which,
+our Ideas had never been collected into such sundry, distinct Combinations, as
+they now are.
+
+CX. One Born Blind would not at first Sight, number Visible Things as others
+do.
+Hence it follows, that a Man Born Blind, and afterward, when grown up, made
+to see, would not in the first act of Vision, parcel out the Ideas of Sight,
+into the same distinct Collections that others do, who have experienced which
+do regularly coexist and are proper to be bundled up together under one Name.
+He would not, for Example, make into one Complex Idea, and thereby esteem an
+unite all those particular Ideas which constitute the Visible Head, or Foot.
+For there can be no Reason assigned why he should do so, barely upon his seeing
+a Man stand upright before him. There crowd into his Mind, the Ideas which
+compose the Visible Man, in company with all the other Ideas of Sight perceived
+at the same time. But all these Ideas offered at once to his View, he would not
+distribute into sundry, distinct Combinations: till such time, as by observing
+the Motion of the Parts of the Man, and other Experiences he comes to know,
+which are to be separated, and which to be collected together.
+
+CXI. The Situation of any Object, determined with respect only to Objects of
+the same Sense.
+From what has been premised, it is plain the Objects of Sight and Touch make,
+if I may so say, two Sets of Ideas, which are widely different from each other.
+To Objects of either Kind, we indifferently attribute the Terms High and Low,
+Right and Left, and such like, denoting the Position or Situation of things.
+But then we must well observe, that the Position of any Object is determined,
+with respect only to Objects of the same Sense. We say any Object of Touch is
+High or Low, according as it is more or less distant from the Tangible Earth.
+And in like manner, we denominate any Object of Sight High or Low, in
+proportion as it is more or less Distant, from the Visible Earth. But to define
+the Situation of Visible Things, with relation to the Distance they bear from
+any Tangible Thing, or vice versa: This were absurd and perfectly
+unintelligible. For all Visible Things are equally in the Mind, and take up no
+part of the External Space: And, consequently, are Equidistant from any
+Tangible Thing which exists without the Mind.
+
+CXII. No Distance great or small, between a Visible and Tangible Thing.
+Or rather, to speak truly, the proper Objects of Sight are at no Distance,
+neither near nor far, from any Tangible Thing. For if we inquire narrowly into
+the Matter, we shall find, that those things only are compared together in
+respect of Distance, which exist after the same manner, or appertain unto the
+same Sense. For by the Distance between any Two Points, nothing more is meant
+than the Number of intermediate Points. If the given Points are Visible, the
+Distance between them is marked out, by the Number of the interjacent Visible
+Points: If they are Tangible, the Distance between them is a Line consisting of
+Tangible Points. But if they are one Tangible, and the other Visible, the
+Distance between them does neither consist of Points perceivable by Sight, nor
+by Touch, i. e. it is utterly inconceivable. This, perhaps, will not find an
+easy Admission into all Men's Understandings: However, I should gladly be
+informed whether it be not True, by any one who will be at the pains to Reflect
+a little, and apply it home to his Thoughts.
+
+CXII. The not observing this, cause of difficulty in Erect Vision,
+The not observing what has been delivered in the two last Sections, seems to
+have occasioned no small part of the Difficulty that occurs in the Business of
+Erect Appearances. The Head, which is Painted nearest the Earth, seems to be
+farthest from it; and on the other Hand, the Feet, which are Painted farthest
+from the Earth, are thought nearest to it. Herein lies the Difficulty, which
+vanishes if we express the thing more clearly, and free from Ambiguity, thus.
+How comes it that to the Eye, the Visible Head which is nearest the Tangible
+Earth, seems farthest from the Earth, and the Visible Feet, which are farthest
+from the Tangible Earth, seem nearest the Earth? The Question being thus
+proposed, who sees not, the Difficulty is founded on a Supposition, that the
+Eye or Visive Faculty, or rather the Soul by means thereof, should judge of the
+Situation of Visible Objects, with Reference to their Distance from the
+Tangible Earth? Whereas it is evident, the Tangible Earth is not perceived by
+Sight: And it has been shown in the two last preceding Sections, that the
+Location of Visible Objects is determined only, by the Distance they bear from
+one another; and that it is Nonsense to talk of Distance, far or near, between
+a Visible and Tangible Thing.
+
+CXIV. Which otherwise includes nothing unaccountable.
+If we confine our Thoughts to the proper Objects of Sight, the whole is plain
+and easy. The Head is Painted farthest from, and the Feet nearest to the
+Visible Earth: And so they appear to be. What is there strange or unaccountable
+in this? Let us suppose the Pictures in the Fund of the Eye, to be the
+immediate Objects of Sight. The Consequence is, that things should appear in
+the same Posture they are Painted in. And is it not so? The Head which is seen,
+seems farthest from the Earth which is seen; and the Feet, which are seen, seem
+nearest to the Earth which is seen. And just so they are Painted.
+
+CXV. What is meant by the Pictures being inverted.
+But, say you, the Picture of the Man is inverted, and yet the Appearance is
+Erect. I ask what mean you by the Picture of the Man, or, which is the same
+thing, the Visible Man's being inverted? You tell me it is inverted, because the
+Heels are uppermost, and the Head undermost? Explain me this. You say, that by
+the Head's being undermost, you mean that it is nearest to the Earth; and by
+the Heels being uppermost, that they are farthest from the Earth. I ask again,
+what Earth you mean? You cannot mean the Earth that is Painted on the Eye, or
+the Visible Earth. For the Picture of the Head is farthest from the Picture of
+the Earth; and the Picture of the Feet nearest to the Picture of the Earth; and
+accordingly, the Visible Head is farthest from the Visible Earth, and the
+Visible Feet, nearest to it. It remains, therefore, that you mean the Tangible
+Earth: And so determine the Situation of Visible Things, with respect to
+Tangible Things; contrary to what has been demonstrated in Sect. CXI. and
+CXII. The two distinct Provinces of Sight and Touch should be considered apart,
+and as though their Objects had no Intercourse, no manner of Relation to one
+another, in point of Distance or Position.
+
+CXVI. Cause of Mistake in this Matter.
+Farther, What greatly contributes to make us mistake in this Matter is, that
+when we think of the Pictures in the Fund of the Eye, we imagine our selves
+looking on the Fund of another's Eye, or another looking on the Fund of our own
+Eye, and beholding the Pictures Painted thereon. Suppose two Eyes A and B: A
+from some distance looking on the Pictures in B sees them inverted, and for
+that reason concludes they are inverted in B. But this is wrong. There are
+projected in little on the Bottom of A, the Images of the Pictures of, suppose,
+Man, Earth, etc. which are Painted on B. And besides these, the Eye B it self,
+and the Objects which environ it, together with another Earth are projected in
+a larger Size on A. Now, by the Eye A, these larger Images are deemed the true
+Objects, and the lesser only Pictures in miniature. And it is with respect to
+those greater Images, that it determines the Situation of the smaller Images.
+So that comparing the little Man with the great Earth, A judges him inverted,
+or that the Feet are farthest from, and the Head nearest to the great Earth.
+Whereas, if A compare the little Man with the little Earth, then he will appear
+Erect, i. e. his Head shall seem farthest from, and his Feet nearest to the
+little Earth. But we must consider that B does not see two Earths, as A does:
+It sees only what is represented by the little Pictures in A, and consequently
+shall judge the Man Erect. For, in truth, the Man in B is not inverted, for
+there the Feet are next the Earth. But it is the Representation of it in A
+which is inverted, for there, the Head of the Representation of the Picture of
+the Man in B, is next the Earth, and the Feet farthest from the Earth, meaning
+the Earth which is without the Representation of the Pictures in B. For if you
+take the little Images of the Pictures in B, and consider them by themselves,
+and with respect only to one another, they are all Erect and in their natural
+Posture.
+
+CXVII. Images in the Eye, not Pictures of external Objects.
+Farther, there lies a Mistake, in our imagining that the Pictures of External
+Objects are Painted on the Bottom of the Eye. It has been shown, there is no
+resemblance between the Ideas of Sight, and things Tangible. It has likewise
+been demonstrated, that the proper Objects of Sight do not exist without the
+Mind. Whence it clearly follows, that the Pictures Painted on the Bottom of the
+Eye, are not the Pictures of External Objects. Let any one consult his own
+Thoughts, and then tell me, what Affinity, what Likeness there is, between that
+certain Variety and Disposition of Colors, which constitute the Visible Man,
+or Picture of a Man, and that other Combination of far different Ideas,
+sensible by Touch, which compose the Tangible Man. But if this be the Case, how
+come they to be accounted Pictures or Images, since that supposes them to copy
+or represent some Originals or other?
+
+CXVIII. In what Sense they are Pictures
+To which I answer. In the forementioned Instance, the Eye A takes the little
+Images, included within the Representation of the other Eye B, to be Pictures
+or Copies, whereof the Archetypes are not things existing without but, the
+larger Pictures projected on it is own Fund: And which by A are not thought
+Pictures, but the Originals or true Things themselves. Though if we suppose a
+third Eye C, from a due distance to behold the Fund of A: Then, indeed, the
+things projected thereon shall, to C, seem Pictures or Images, in the same
+Sense that those projected on B do to A.
+
+CXIX. In this Affair we must carefully distinguish between Ideas of Sight and
+Touch.
+Rightly to conceive the Business in hand, we must carefully distinguish
+between the Ideas of Sight and Touch, between the Visible and Tangible Eye, for
+certainly on the Tangible Eye, nothing either is or seems to be Painted. Again,
+the Visible Eye, as well as all other Visible Objects, has been shown to exist
+only in the Mind, which perceiving its own Ideas, and comparing them together,
+does call some Pictures in respect of others. What has been said being rightly
+comprehended and laid together, does, I think, afford a full and genuine
+Explication of the Erect Appearance of Objects, which Phenomenon, I must
+confess, I do not see how it can be explained, by any Theories of Vision
+hitherto made public.
+
+CXX. Difficult to explain by Words the true Theory of Vision.
+In treating of these things, the use of Language is apt to occasion some
+Obscurity and Confusion, and create in us wrong Ideas. For Language being
+accomodated to the common Notions and Prejudices of Men, it is scarce possible
+to deliver the naked and precise Truth, without great Circumlocution,
+Impropriety, and (to an unwary Reader) seeming Contradictions. I do therefore,
+once for all, desire whoever shall think it worth his while, to understand what
+I have written concerning Vision, that he would not stick in this or that Phrase,
+or manner of Expression; but heartily collect my meaning from the whole Sum and
+Tenor of my Discourse; and laying aside the Words, as much as possible,
+consider the bare Notions themselves, and then judge whether they are agreeable
+to Truth and his own Experience, or no.
+
+CXXI. The Question, whether there is any Idea common to Sight and Touch,
+stated.
+We have shown the way wherein the Mind by Mediation of Visible Ideas, does
+perceive or apprehend the Distance, Magnitude and Situation of Tangible
+Objects. I come now to enquire more particularly, concerning the Difference
+betwixt the Ideas of Sight and Touch, which are called by the same Names; and
+see whether there be any Idea common to both Senses. From what we have at large
+set forth and demonstrated in the foregoing parts of this Treatise, it is plain
+there is no one self-same numerical Extension, perceived both by Sight and
+Touch. But that the particular Figures and Extensions perceived by Sight,
+however they may be called by the same Names, and reputed the same Things, with
+those perceived by Touch, are nevertheless different, and have an Existence
+very distinct and Separate from them. So that the Question is not now
+concerning the same numerical Ideas, but whether there be any one and the same
+sort or Species of Ideas equally perceivable to both Senses? Or, in other
+Words, whether Extension, Figure, and Motion perceived by Sight, are not
+specifically distinct from Extension, Figure and Motion perceived by Touch.
+
+CXXII. Abstract Extension inquired into.
+But, before I come more particularly to Discuss this Matter, I find it proper
+to take into my Thoughts Extension in Abstract: For of this there is much talk,
+and I am apt to think, that when Men speak of Extension as being an Idea common
+to Two Senses, it is with a secret Supposition, that we can single out
+Extension from all other Tangible and Visible Qualities, and frame thereof an
+Abstract Idea, which Idea they will have common both to Sight and Touch. We are
+therefore to understand by Extension in Abstract, an Idea of Extension, v. g. a
+Line or Surface, entirely stripped of all other sensible Qualities and
+Circumstances that might determine it to any particular Existence. It is
+neither Black, nor White, nor Red, nor has it any Color at all, or any
+Tangible Quality whatsoever. And consequently it is of no finite, determinate
+Magnitude. For, that which bounds or distinguishes one Extension from another,
+is some Quality or Circumstance wherein they disagree.
+
+CXXIII. It is incomprehensible.
+Now I do not find that I can perceive, imagine, or any wise frame in my Mind
+such an abstract Idea, as is here spoken of. A Line, or Surface which is
+neither Black, nor White, nor Blue, nor Yellow, etc. Nor Long, nor Short, nor
+Rough, nor Smooth, nor Square, nor Round, etc. is perfectly incomprehensible.
+This I am sure of as to my self, how far the Faculties of other Men may reach,
+they best can tell.
+
+CXXIV. Abstract Extension not the Object of Geometry.
+I know it is commonly said, that the Object of Geometry is Abstract Extension.
+To this I cannot agree, for Geometry contemplates Figures: Now, Figure is the
+Termination of Magnitude, but we have shown that Extension in Abstract has no
+finite, determinate Magnitude, whence it clearly follows that it can have no
+Figure, and consequently is not the Object of Geometry. I know it is a Tenent
+as well of the Modern as the Ancient Philosophers, that all general Truths are
+concerning Universal, Abstract Ideas, without which, we are told, there could
+be no Science, no Demonstration of any general Proposition in Geometry. But it
+were no hard matter, did I think it necessary to my present Purpose, to show
+that Propositions and Demonstrations in Geometry might be Universal, though they
+who make 'em, never think of Abstract general Ideas of Triangles or Circles.
+
+CXV. The general Idea of a Triangle, considered.
+After reiterated Efforts and pangs of Thought, in order to apprehend the
+general Idea of v. g. a Triangle, I have found it altogether incomprehensible.
+And surely if any one were able to let that Idea into my Mind, it must be the
+deservedly admired Author of the Essay concerning Human Understanding: He, who
+has so far distinguished himself from the generality of Writers, by the
+Clearness and Significancy of what he Says. Let us therefore see how that great
+Man describes the general, or, which is the same thing, the Abstract Idea of a
+Triangle. It must be, ( says he) neither Oblique, nor Rectangle, neither
+Equilateral, Equicrural, nor Scalenon; but all and none of these at once. In
+effect it is somewhat imperfect that cannot exist; an Idea, wherein some Parts
+of several different and inconsistent Ideas are put together. Essay on Hum.
+Understand. b. iv. c. 7. s. 9. This is the Idea, which he thinks needful, for
+the enlargement of Knowledge, which is the Subject of Mathematical
+Demonstration, and without which we could never come to know any general
+Proposition concerning Triangles. Sure I am, if this be the Case, it is
+impossible for me to attain to know even the first Elements of Geometry: Since
+I have not the Faculty to frame in my Mind such an Idea as is here described.
+That Author acknowledges it does require some Pains and Skill to Form this
+general Idea of a Triangle, ibid. But had he called to mind what he says in
+another place, viz. that Ideas of mixed Modes wherein any inconsistent Ideas
+are put together, cannot so much as exist in the Mind, i. e. be conceived, vid.
+b. iii. c. 10. s. 33. ibid. I say, had this occurred to his Thoughts, it is not
+improbable he would have owned it above all the Pains and Skill he was Master of,
+to form the abovementioned Idea of a Triangle, which is made up of manifest,
+staring Contradictions. That a Man of such a clear Understanding, who thought
+so much, and so well, and laid so great a Stress on Clear and Determinate
+Ideas, should nevertheless talk at this rate, seems very surprising. But my
+Wonder is lessened when I consider, that the Source whence this Opinion of
+Abstract Figures and Extension flows, is the prolific Womb which has brought
+forth innumerable Errors and Difficulties, in all Parts of Philosophy, and in
+all the Sciences. But this Matter, taken in its full Extent, were a Subject too
+vast and comprehensive to be insisted on in this place. I shall only observe
+that your Metaphysicians, and Men of Speculation, seem to have Faculties
+distinct from those of ordinary Men; when they talk of General or Abstracted
+Triangles and Circles, etc. and so peremptorily declare them to be the Subject,
+of all the Eternal, Immutable, Universal Truths, in Geometry. And so much for
+Extension in Abstract.
+
+CXXVI. Vacuum or pure Space, not common to Sight and Touch.
+Some, perhaps, may think pure Space, Vacuum, or Trine Dimension to be equally
+the Object of Sight and Touch. But though we have a very great Propension, to
+think the Ideas of Outness and Space to be the immediate Object of Sight; yet,
+if I mistake not, in the foregoing Parts of this Essay, That has been clearly
+Demonstrated to be a mere Delusion, arising from the quick and sudden
+Suggestion of Fancy, which so closely Connects the Idea of Distance with those
+of Sight, that we are apt to think it is it self a proper and immediate Object
+of that Sense, till Reason corrects the Mistake.
+
+CXXVII. There is no Idea or kind of Idea, common to both Senses.
+It having been shown, that there are no Abstract Ideas of Figure, and that it
+is impossible for us, by any Precision of Thought, to frame an Idea of
+Extension separate from all other Visible and Tangible Qualities, which shall
+be common both to Sight and Touch: The Question now remaining is, whether the
+particular Extensions, Figures, and Motions perceived by Sight be of the same
+Kind, with the particular Extensions, Figures, and Motions perceived by Touch?
+In answer to which, I shall venture to lay down the following Proposition, viz.
+The Extension, Figures, and Motions perceived by Sight are specifically
+Distinct from the Ideas of Touch, called by the same Names, nor is there any
+such thing as an Idea, or kind of Idea common to both Senses. This Proposition
+may, without much Difficulty, be collected from what has been said in several
+Places of this Essay. But, because it seems so remote from, and contrary to,
+the received Notions and settled Opinion of Mankind; I shall attempt to
+demonstrate it more particularly, and at large, by the following Arguments.
+
+CXXVIII. First Argument in Proof hereof.
+First, When upon Perception of an Idea, I range it under this or that sort; it
+is because it is perceived after the same manner, or because it has a Likeness
+or Conformity with, or affects me in the same way as the Ideas of the sort I
+rank it under. In short, it must not be entirely new, but have something in it
+Old, and already perceived by me: It must, I say, have so much, at least, in
+common with the Ideas I have before known and named, as to make me give it the
+same Name with them. But it has been, if I mistake not, clearly made out, that
+a Man Born Blind would not, at first reception of his Sight, think the things
+he saw were of the same Nature with the Objects of Touch, or had any thing in
+common with them; but that they were a new Set of Ideas, perceived in a new
+manner, and entirely different from all he had ever perceived before. So that
+he would not call them by the same Name, nor repute them to be of the same
+Sort, with any thing he had hitherto known. And surely, the Judgment of such an
+unprejudiced Person is more to be relied on in this Case, than the Sentiments
+of the generality of Men: Who in this, as in almost every thing else, suffer
+themselves to be guided by Custom, and the erroneous Suggestions of Prejudice,
+rather than Reason and sedate Reflection.
+
+CXXIX. Second Argument.
+Secondly, Light and Colors are allowed by all to constitute a Sort or
+Species, entirely different from the Ideas of Touch: Nor will any Man, I
+presume, say they can make themselves perceived by that Sense. But there is no
+other immediate Object of Sight, besides Light and Colors. It is therefore a
+direct Consequence, that there is no Idea common to both Senses.
+
+CXXX. Visible Figure and Extension, not distinct Ideas from Color.
+It is, I know, a prevailing Opinion, even amongst those who have Thought and
+Writ most Accurately concerning our Ideas, and the Ways whereby they enter into
+the Understanding, that something more is perciev'd by Sight, than barely Light
+and Colors with their Variations. The Excellent Mr. Lock terms Sight The
+most Comprehensive of all our Senses, conveying to our Minds the Ideas of Light
+and Colors, which are peculiar only to that Sense; and also the far different
+Ideas of Space, Figure, and Motion. Essay on Hum. Understand. b. ii. c. 9. s.
+9. Space or Distance, we have shown, is no otherwise the Object of Sight than
+of Hearing. vid. Sect. XLVI. And as for Figure and Extension, I leave it to any
+one, that shall calmly attend to his own clear and distinct Ideas, to decide
+whether he has any Idea intromitted immediately and properly by Sight, save
+only Light and Colors. Or whether it be possible for him, to frame in his Mind
+a distinct Abstract Idea of Visible Extension, or Figure, exclusive of all
+Color; and on the other hand, whether he can conceive Color without Visible
+Extension. For my own part, I must confess, I am not able to attain so great a
+nicety of Abstraction. I know very well that, in a strict Sense, I see nothing
+but Light and Colors, with their several Shades and Variations. He who beside
+these, does also perceive by Sight Ideas far different and distinct from them,
+has that Faculty in a degree more perfect and comprehensive than I can pretend
+to. I own indeed, that by the mediation of Light and Colors, other far
+different Ideas are suggested to my Mind. But then, upon this Score, I see no
+reason why the Sight should be thought more Comprehensive than the Hearing:
+Which beside Sounds, which are peculiar to that Sense, does by their Mediation
+suggest, not only Space, Figure, and Motion, but also, all other Ideas
+whatsoever that can be signified by Words.
+
+CXXXI. Third Argument.
+Thirdly, It is, I think, an Axiom universally received, that Quantities of the
+same Kind may be added together, and make one entire Sum. Mathematicians add
+Lines together; but they do not add a Line to a Solid, or conceive it as making
+one Sum with a Surface. These three Kinds of Quantity being thought incapable
+of any such mutual Addition, and consequently of being compared together, in
+the several ways of Proportion, are by them, for that reason, esteemed entirely
+Disparate and Heterogeneous. Now let any one try in his Thoughts, to add a
+Visible Line or Surface to a Tangible Line or Surface. So as to conceive them
+making one continued Sum or Whole. He that can do this, may think 'em
+Homogenuous; but he that cannot must, by the foregoing Anxiom, think them
+Heterogeneous. I acknowledge my self to be of the latter Sort. A Blue, and and
+a Red Line I can conceive added together into one Sum, and making one continued
+Line; but to make, in my Thoughts, one continued Line of a Visible and Tangible
+Line added together is, I find, a Task far more difficult, and even
+insurmountable by me: And I leave it to the Reflection and Experience of every
+particular Person, to determine for himself.
+
+CXXXII. Confirmation drawn from Mr. Molyneux's Problem of a Sphere and a Cube,
+published by Mr. Lock.
+A further Confirmation of our Tenent may be drawn from the Solution of Mr.
+Molyneux's Problem, published by Mr. Lock in his Essay. Which I shall set down
+as it there lies, together with Mr. Locke's Opinion of it. Suppose a Man Born
+Blind, and now Adult, and taught by his Touch to distinguish between a Cube,
+and a Sphere of the same Metal, and nighly of the same Bigness, so as to tell,
+when he felt one and the other, which is the Cube, and which the Sphere. Suppose
+then the Cube and Sphere placed on a Table, and the Blind Man to be made to
+See: Quaere, Whether by his Sight, before he Touched them, he could now
+distinguish, and tell, which is the Globe, which the Cube. To which the acute
+and judicious Proposer Answers: Not. For though he has obtained the experience
+of, how a Globe, how a Cube affects his Touch; yet he has not yet attained the
+Experience, that what affects his Touch so or so, must affect his Sight so or
+so: Or that a protuberant Angle in the Cube, that pressed his Hand unequally,
+shall appear to his Eye, as it does in the Cube. I agree with this thinking
+Gentleman, whom I am proud to call my Friend, in his Answer to this his
+Problem; and am of opinion, that the Blind Man, at first Sight, would not be
+able with certainty to say, which was the Globe, which the Cube, whilst he only
+saw them. Essay on Human Understand. b. ii. c. 9. s. 8.
+
+CXXXIII. Which is falsely solved, if the common Supposition be true.
+Now, if a Square Surface perceived by Touch be of the same Sort, with a Square
+Surface perceived by Sight: It is certain the Blind Man here mentioned might
+know a Square Surface, as soon as he saw it. It is no more but introducing into
+his Mind, by a new Inlet, an Idea he has been already well acquainted with.
+Since therefore he is supposed to have known by his Touch, that a Cube is a
+Body terminated by Square Surfaces; and that a Sphere is not terminated by
+Square Surfaces: Upon the Supposition that a Visible and Tangible Square differ
+only in Numero, it follows, that he might know, by the unerring Mark of the
+Square Surfaces, which was the Cube, and which not, whilst he only saw them. We
+must therefore allow, either that Visible Extension and Figures are
+Specifically distinct, from Tangible Extension and Figures, or else, that the
+Solution of this Problem, given by those two very thoughtful and ingenious Men,
+is wrong.
+
+CXXXIV. More might be said in proof of our Tenent, but this suffices.
+Much more might be laid together in Proof of the Proposition I have advanced.
+But what has been said is, if I mistake not, sufficient to convince any one
+that shall yield a reasonable Attention. And, as for those that will not be at
+the Pains of a little Thought, no Multiplication of Words will ever suffice to
+make them understand the Truth, or rightly conceive my Meaning.
+
+CXXXV. Farther Reflection, on the foregoing Problem.
+I cannot let go the abovementioned Problem, without some Reflection on it. It
+has been made evident, that a Man Blind from his Birth would not, at first
+Sight, denominate any thing he saw by the Names, he had been used to
+appropriate to Ideas of Touch. vid. Sect. CVI. Cube, Sphere, Table, are Words
+he has known applied to Things perceivable by Touch, but to Things perfectly
+Intangible he never knew them applied. Those Words, in their wonted
+application, always marked out to his Mind Bodies, or Solid Things which were
+perceived by the Resistance they gave. But there is no Solidity, no Resistance
+or Protrusion perceived by Sight. In short, the Ideas of Sight are all new
+Perceptions, to which there be no Names annexed in his Mind; he cannot,
+therefore, understand what is said to him concerning them. And to ask, of the
+two Bodies he saw placed on the Table, which was the Sphere, which the Cube?
+Were, to him, a Question down right Bantering and Unintelligible: Nothing he
+sees being able to suggest to his Thoughts, the Idea of Body, Distance, or, in
+general, of any thing he had already known.
+
+CXXXVI The same thing does not affect both Sight and Touch.
+It Is a Mistake, to think the same thing affects both Sight and Touch. If the
+same Angle or Square which is the Object of Touch, be also the Object of
+Vision: What should hinder the Blind Man, at first Sight, from knowing it? For
+though the manner wherein it affects the Sight, be different from that wherein it
+affected his Touch; yet, there being, beside this Manner or Circumstance, which
+is new and unknown, the Angle or Figure which is old and known, he cannot choose
+but discern it.
+
+CXXXVII Tho same Idea of Motion not common to Sight and Touch.
+Visible Figure and Extension having been demonstrated, to be of a Nature
+entirely Different and Heterogeneous, from Tangible Figure and Extension, it
+remains that we inquire concerning Motion. Now, that Visible Motion is not of
+the same Sort with Tangible Motion, seems to need no farther Proof, it being an
+evident Corollary from what we have shown, concerning the Difference there is
+betwixt Visible and Tangible Extension. But for a more full and express Proof
+hereof, we need only observe, that one who had not yet experienced Vision,
+would not, at first Sight, know Motion. Whence it clearly follows, that Motion
+perceivable by Sight is of a Sort distinct from Motion perceivable by Touch.
+The Antecedent I prove thus. By Touch he could not perceive any Motion, but
+what was up or down, to the right or left, nearer or farther from him; besides
+these, and their several Varieties or Complications, it is impossible he should
+have any Idea of Motion. He would not therefore think any thing to be Motion,
+or give the name Motion to any Idea, which he could not range under some or
+other, of those particular Kinds thereof. But from Sect. XCV. it is plain that
+by the mere act of Vision, he could not know Motion upwards or downwards, to
+the right or left, or in any other possible Direction. From which I conclude,
+he would not know Motion at all at first Sight. As for the Idea of Motion in
+Abstract, I shall not waste Paper about it, but leave it to my Reader, to make
+the best he can on it. To me it is perfectly Unintelligible.
+
+CXXXVIII The way wherein we apprehend Motion by Sight, easily collected from
+what has been said.
+The Consideration of Motion, may furnish a new Field for Inquiry. But since
+the manner wherein the Mind apprehends by Sight, the Motion of Tangible
+Objects, with the various Degrees thereof, may be easily collected, from what
+has been said concerning the manner, wherein that Sense does suggest their
+various Distances, Magnitudes, and Situations; I shall not enlarge any farther
+on this Subject: But proceed to enquire what may be alleged, with greatest
+appearance of Reason, against the Proposition we have Demonstrated to be true.
+For where there is so much Prejudice to be encountered, a bare and naked
+Demonstration of the Truth will scarce suffice. We must also, satisfy the
+Scruples that Men may Start, in favor of their preconceiv'd Notions, show
+whence the Mistake arises, how it came to spread, and carefully disclose and
+root out those false Persuasions, that an early Prejudice might have implanted
+in the Mind.
+
+CXXXIX. Qu. How Visible and Tangible Ideas came to have the same Name if not
+of the same Kind.
+First, Therefore, it will be demanded, how Visible Extension and Figures come
+to be called by the same Name, with Tangible Extension and Figures, if they are
+not of the same Kind with them? It must be something more than Humor or
+Accident, that could occasion a Custom so constant and universal as this, which
+has obtained in all Ages and Nations of the World, and amongst all Ranks of
+Men, the Learned as well as the Illiterate.
+
+CXL. This accounted for without supposing them of the same Kind.
+To which I Answer, we can no more Argue e. g. a Visible and Tangible Square to
+be of the same Species, from their being called by the same Name; than we can,
+that a Tangible Square and the Monosyllable consisting of Six Letters, whereby
+it is marked, are of the same Species, because they are both called by the same
+Name. It is customary to call written Words, and the Things they signify, by
+the same Name: For Words not being regarded in their own Nature, or otherwise
+than as they are marks of Things, it had been superfluous, and beside the
+design of Language, to have given them Names distinct from those of the Things
+marked by them. The same Reason holds here also. Visible Figures are the marks
+of Tangible Figures, and from Sect. LIX, it is plain, that in themselves they
+are little regarded, or upon any other Score than for their Connection with
+Tangible Figures, which by Nature they are ordained to signify. And because
+this Language of Nature does not vary, in different Ages or Nations, hence it
+is that, in all Times and Places, Visible Figures are called by the same Names,
+as the respective Tangible Figures suggested by them: And not because they are
+alike, or of the same sort with them.
+
+CXLI. Obj. That a Tangible Square is liker to a Visible Square than to a
+Visible Circle.
+But say you, surely a Tangible Square is liker to a Visible Square than to a
+Visible Circle: It has four Angles, and as many Sides; so also has the Visible
+Square, but the Visible Circle has no such thing, being bounded by one uniform
+Curve, without right Lines or Angles; which makes it unfit to represent the
+Tangible Square, but very fit to represent the Tangible Circle. Whence it
+clearly follows, that Visible Figures are Patterns of, or of the same Species
+with, the respective Tangible Figures represented by them; that they are like
+unto them, and of their own Nature fitted to represent them as being of the
+same sort; and that they are in no respect arbitrary Signs, as Words.
+
+CXLII. Ans. That a Visible Square is fitter than a Visible Circle, to
+represent a Tangible Square.
+I Answer it must be acknowledged, the Visible Square is fitter than the
+Visible Circle to represent the Tangible Square, but then it is not because
+it is liker, or more of a Species with it. But, because the Visible Square
+contains in it several distinct Parts, whereby to mark the several distinct,
+corresponding Parts of a Tangible Square, whereas the Visible Circle does not.
+The Square perceived by Touch has four distinct, equal Sides, so also has it
+four distinct, equal Angles. It is therefore necessary, that the Visible Figure
+which shall be most proper to mark it, contain four distinct, equal Parts
+corresponding to the four Sides of the Tangible Square; as likewise four other
+distinct and equal Parts, whereby to denote the four equal Angles of the
+Tangible Square. And accordingly we see the Visible Figures contain in them
+distinct Visible Parts answering to the distinct Tangible Parts of the Figures
+signified, or suggested by them.
+
+CXLIII. But it does not hence follow, that a Visible Square is like a Tangible
+Square.
+But it will not hence follow, that any Visible Figure is like unto, or of the
+same Species with, its corresponding Tangible Figure, unless it be also shown,
+that not only the Number, but also the Kind of the Parts be the same in both.
+To Illustrate this, I observe that Visible Figures represent Tangible Figures,
+much after the same manner that written Words do Sounds. Now, in this respect,
+Words are not Arbitrary, it not being indifferent, what written Word stands for
+any Sound. But it is requisite, that each Word contain in it as many distinct
+Characters, as there are Variations in the Sound it stands for. Thus, the
+single Letter a is proper to mark one simple uniform Sound; and the Word
+Adultery is accommodated to represent the Sound annexed to it, in the Formation
+whereof, there being Eight different Collisions, or Modifications of the Air by
+the Organs of Speech, each of which produces a difference of Sound, it was fit,
+the Word representing it should consist of as many distinct Characters, thereby
+to mark each particular Difference or Part of the whole Sound. And yet no Body,
+I presume, will say, the single Letter a or the Word Adultery are like unto, or
+of the same Species with, the respective Sounds by them Represented. It is
+indeed Arbitrary that, in general, Letters of any Language represent Sounds at
+all; but when that is once agreed, it is not Arbitrary what Combination of
+Letters shall represent this or that particular Sound. I leave this with the
+Reader to pursue, and apply it in his own Thoughts.
+
+CXLIV. Why we are more apt to confound Visible with Tangible Ideas, than other
+Signs with the Things signified.
+It must be confessed, that we are not so apt to confound other Signs with the
+Things signified, or to think them of the same Species, as we are Visible and
+Tangible Ideas. But a little Consideration will show us how this may well be,
+without our supposing them of a like Nature. These Signs are constant and
+universal, this Connection with Tangible Ideas has been learnt, at our first
+Entrance into the World, and ever since, almost every Moment of our Lives, it
+has been occurring to our Thoughts, and fastening and striking deeper on our
+Minds. When we observe that Signs are variable and of Human Institution, when
+we remember, there was a time they were not connected in our Minds, with those
+things they now so readily suggest; but, that their Signification was learned
+by the slow Steps of Experience. This preserves us from confounding them. But,
+when we find the same Signs suggest the same Things all over the World; when we
+know they are not of Human Institution, and cannot remember that we ever
+learned their Signification; but think that at first Sight they would have
+suggested to us, the same Things they do now: All this persuades us they are of
+the same Species as the Things respectively represented by them, and that is by
+a natural Resemblance they suggest them to our Minds.
+
+CXLV. Several other Reasons hereof, assigned.
+Add to this, that whenever we make a nice Survey of any Object, successively
+directing the Optic Axis to each Point thereof; there are certain Lines and
+Figures described by the Motion of the Head or Eye; which, being in Truth
+perceived by Feeling, do, nevertheless, so mix themselves, as it were, with the
+Ideas of Sight, that we can scarce think but they appertain to that Sense.
+Again, the Ideas of Sight enter into the Mind, several at once more distinct
+and unmingled, than is usual in the other Senses beside the Touch. Sounds, for
+Example, perceived at the same Instant, are apt to coalesce, if I may so say,
+into one Sound. But we can perceive at the same time great variety of Visible
+Objects, very separate and distinct from each other. Now Tangible Extension
+being made up, of several distinct coexistent parts, we may hence gather
+another Reason, that may dispose us to imagine a Likeness, or Analogy, between
+the immediate Objects of Sight and Touch. But nothing, certainly, does more
+contribute to blend and confound them together, than the strict and close
+Connection they have with each other. We cannot open our Eyes, but the Ideas of
+Distance, Bodies, and Tangible Figures are suggested by them. So swift, and
+sudden, and unperceived is the Transit from Visible to Tangible Ideas; that we
+can scarce forbear thinking 'em equally the immediate Object of Vision.
+
+CXLVI. Reluctance in rejecting any Opinion, no Argument of its Truth.
+The Prejudice which is grounded on these, and whatever other Causes may be
+assigned thereof, sticks so fast on our Understandings, that it is impossible
+without obstinate Striving, and Labor of the Mind, to get entirely clear of
+it. But then the Reluctance we find, in rejecting any Opinion, can be no
+Argument of its Truth, to whoever considers what has been already shown, with
+regard to the Prejudices we entertain concerning the Distance, Magnitude, and
+Situation of Objects: Prejudices so familiar to our Minds, so confirmed and
+inveterate, as they will hardly give way to the clearest Demonstration.
+
+CXLVII. Proper Objects of Vision, the Language of Nature.
+Upon the whole, I think we may fairly conclude, that the proper Objects of
+Vision constitute the Universal Language of Nature, whereby we are instructed
+how to regulate our Actions, in order to attain those things, that are
+necessary to the Preservation and Well-being of our Bodies, as also to avoid
+whatever may be hurtful and destructive of them. It Is by their Information that
+we are principally guided in all the Transactions and Concerns of Life. And the
+manner wherein they signify, and mark out unto us the Objects which are at a
+distance, is the same with that of Languages and Signs of Human Appointment;
+which do not suggest the things signified, by any Likeness or Identity of
+Nature, but only by an Habitual Connection, that Experience has made us to
+observe between 'em.
+
+CXLVIII In it there is much admirable, and deserving our attention.
+Suppose one who had always continued Blind, be told by his Guide, that after
+he has advanced so many Steps, he shall come to the Brink of a Precipice, or be
+stopped by a Wall; must not this to him seem very admirable and surprising? He
+cannot conceive how it is possible for Mortals, to frame such Predictions as
+these, which to him would seem as strange and unaccountable, as Prophesy does
+to others. Even they who are Blessed with the Visive Faculty, may (though
+Familiarity make it less observed) find therein sufficient Cause of Admiration.
+The wonderful Art and Contrivance wherewith it is adjusted, to those Ends and
+Purposes for which it was apparently designed, the vast Extent, Number, and
+Variety of Objects that are, at once, with so much Ease, and Quickness, and
+Pleasure, suggested by it: All these afford Subject for much and pleasing
+Speculation; and may, if any thing, give us some Glimmering, Analogous,
+Praenotion of Things, that are placed beyond the certain Discovery, and
+Comprehension of our present State.
+
+CXLIX. Question proposed, concerning the Object of Geometry.
+I do not design to trouble my self much with drawing Corollaries, from the
+Doctrine I have hitherto laid down. If it bears the Test, others may, so far as
+they shall think convenient, employ their Thoughts in extending it farther, and
+applying it to whatever Purposes it may be subservient to. Only, I cannot
+forbear making some Inquiry concerning the Object of Geometry, which the
+Subject we have been upon does naturally lead one to. We have shown there is no
+such Idea, as that of Extension in Abstract, and that there are two kinds of
+sensible Extension and Figures, which are entirely Distinct and Heterogeneous
+from each other. Now, it is natural to enquire which of these is the Object of
+Geometry.
+
+CL. At first View, we are apt to think Visible Extension the Object of
+Geometry.
+Some things there are which, at first sight, incline one to think Geometry
+conversant about Visible Extension. The constant use of the Eyes, both in the
+Practical and Speculative Parts of that Science, does very much induce us
+thereto. It would, without doubt, seem odd to a Mathematician, to go about to
+convince him, the Diagrams he saw upon Paper were not the Figures, or even the
+Likeness of the Figures, which make the Subject of the Demonstration. The
+contrary being held an unquestionable Truth, not only by Mathematicians, but
+also by those who apply themselves more particularly to the Study of Logic; I
+mean, who consider the Nature of Science, Certainty, and Demonstration: It
+being by them assigned as one Reason, of the extraordinary Clearness and
+Evidence of Geometry, that in that Science the Reasonings are free from those
+Inconveniences, which attend the use of Arbitrary Signs. The very Ideas
+themselves being Copied out, and exposed to View upon Paper. But, by the bye,
+how well this agrees with what they likewise assert, of Abstract Ideas being
+the Object of Geometrical Demonstration, I leave to be considered.
+
+CLI. Visible Extension shown not to be the Object of Geometry.
+To come to a Resolution in this Point, we need only observe what has been said
+in Sect. LIX, LX, LXI; where it is shown, that Visible Extensions in themselves
+are little regarded, and have no settled determinate Greatness; and that Men
+measure altogether, by the Application of Tangible Extension to Tangible
+Extension. All which makes it evident, that Visible Extension and Figures are
+not the Object of Geometry.
+
+CLII. Words may as well be thought the Object of Geometry, as Visible
+Extension.
+It is, therefore, plain that Visible Figures are of the same Use in Geometry,
+that Words are. And the one may as well be accounted the Object of that
+Science, as the other; neither of them being any otherwise concerned therein,
+than as they represent or suggest to the Mind the particular Tangible Figures
+connected with them. There is, indeed, this Difference betwixt the
+Signification of Tangible Figures by Visible Figures, and of Ideas by Words.
+That whereas the Latter is variable and uncertain, depending altogether on the
+Arbitrary Appointment of Men; the Former is fixed, and immutably the same, in
+all Times and Places. A Visible Square, for Instance, suggests to the Mind the
+same Tangible Figure in Europe, that it does in America. Hence it is, that the
+Voice of Nature, which speaks to our Eyes, is not liable to that
+Misinterpretation and Ambiguity, that Languages of Human Contrivance are
+unavoidably subjected to. From which may, in some measure, be derived that
+peculiar Evidence and Clearness of Geometrical Demonstrations.
+
+CLIII. It is proposed to enquire, what Progress an Intelligence that could
+see, but not feel, might make in Geometry.
+Though what has been said may suffice to show what ought to be determined, with
+relation to the Object of Geometry; I shall nevertheless, for the fuller
+Illustration thereof, take into my Thoughts the Case of an Intelligence, or
+Unbody'd Spirit, which is supposed to see perfectly well, i. e. to have a clear
+Perception of the proper and immediate Objects of Sight, but to have no Sense
+of Touch. Whether there be any such Being in Nature or no, is beside my Purpose
+to enquire. It suffices, that the Supposition contains no Contradiction in it.
+Let us now examine, what Proficiency such a one may be able to make in
+Geometry. Which Speculation will lead us more clearly to see, whether the Ideas
+of Sight can possibly be the Object of that Science.
+
+CLIV. He cannot understand those parts which relate to Solids, and their
+Surfaces and Lines generated by their Section.
+First, then it is certain, the aforesaid Intelligence could have no Idea of a
+Solid, or Quantity of three Dimensions; which follows from its not having any
+Idea of Distance. We indeed are prone to think, that we have by Sight the Ideas
+of Space and Solids, which arises from our imagining that we do, strictly
+speaking, see Distance, and some parts of an Object at a greater Distance than
+others, which has been demonstrated to be the Effect of the Experience we have
+had, what Ideas of Touch are connected with such and such Ideas attending
+Vision. But the Intelligence here spoken of is supposed to have no Experience
+of Touch. He would not, therefore, judge as we do, nor have any Idea of
+Distance, Outness, or Profundity, nor consequently of Space or Body, either
+immediately or by Suggestion. Whence it is plain, he can have no Notion of
+those parts of Geometry, which relate to the Mensuration of Solids, and their
+Unequal or Concave Surfaces, and contemplate the Properties of Lines generated
+by the Section of a Solid. The conceiving of any part whereof, is beyond the
+Reach of his Faculties.
+
+CLV. Nor even the Elements of plain Geometry.
+Farther, he cannot comprehend the manner wherein Geometers describe a right
+Line or Circle: The Rule and Compass with their Use, being things of which it is
+impossible he should have any Notion. Nor is it an easier matter for him, to
+conceive the placing of one Plain or Angle on another, in order to prove their
+Equality. Since that supposes some Idea of Distance, or External Space. All
+which makes it evident, our pure Intelligence could never attain to know, so
+much as the first Elements of plain Geometry. And, perhaps, upon a nice
+Enquiry, it will be found, he cannot even have an Idea of Plain Figures, any
+more than he can of Solids. Since some Idea of Distance is necessary, to form
+the Idea of a Geometrical Plain, as will appear to whoever shall reflect a
+little on it.
+
+CLVI. The proper Objects of Sight incapable of being managed as Geometrical
+Figures.
+All that is properly perceived by the Visive Faculty, amounts to no more than
+Colors with their Variations, and different Proportions of Light and Shade.
+But, the perpetual Mutability, and Fleetingness of those immediate Objects of
+Sight, render them incapable of being managed after the manner of Geometrical
+Figures; nor is it in any Degree useful that they should. It Is true, there be
+diverse of 'em perceived at once; and more of some, and less of others. But
+accurately to compute their Magnitude, and assign precise determinate
+Proportions, between Things so Variable and Inconstant, if we suppose it
+possible to be done, must yet be a very trifling and insignificant Labor.
+
+CLVII. The Opinion of those who hold plain Figures to be the immediate Objects
+of Sight, considered.
+I must confess, it seems to be the Opinion of some very Ingenious Men, that
+flat or plain Figures are immediate Objects of Sight, though they acknowledge
+Solids are not. And this Opinion of their's is grounded on what is observed in
+Painting, wherein (say they) the Ideas immediately imprinted in the Mind, are
+only of Plains variously colored, which by a sudden Act of the Judgment are
+changed into Solids. But, with a little Attention we shall find the Plains here
+mentioned, as the immediate Objects of Sight, are not Visible, but Tangible
+Plains. For when we say that Pictures are Plains, we mean thereby, that they
+appear to the Touch Smooth and Uniform. But then this Smoothness and
+Uniformity, or, in other Words, this Plainness of the Picture, is not perceived
+immediately by Vision: For it appears to the Eye Various and Multiform.
+
+CLVIII. Plains, no more the immediate Objects of Sight, than Solids.
+From all which we may conclude, that Plains are no more the immediate Object
+of Sight than Solids. What we strictly see are not Solids, nor yet Plains
+variously colored; they are only Diversity of Colors. And some of these
+suggest to the Mind Solids, and others Plain Figures; just as they have been
+experienced to be connected with the one, or the other. So that we see Plains,
+in the same way that we see Solids: Both being equally suggested by the
+immediate Objects of Sight, which accordingly are themselves Denominated Plains
+and Solids. But though they are called by the same Names, with the Things marked
+by them, they are nevertheless of a Nature entirely different, as has been
+Demonstrated.
+
+CLIX. Difficult to enter precisely into the Thoughts of the above mentioned
+Intelligence.
+What has been said is, if I mistake not, sufficient to Decide the Question we
+proposed to Examine, concerning the Ability of a pure Spirit, such as we have
+described, to know Geometry. It is, indeed, no easy matter for us to enter
+precisely into the Thoughts of such an Intelligence; because we cannot, without
+great Pains, cleverly Separate, and Disintangle in our Thoughts, the proper
+Objects of Sight, from those of Touch, which are Connected with them. This,
+indeed, in a complete Degree, seems scarce possible to be performed. Which will
+not seem strange to us, if we consider how hard it is, for any one to hear the
+Words of his Native Language, which is familiar to him, pronounced in his Ears
+without understanding them. Though he endeavor to disunite the meaning from the
+Sound, it will nevertheless intrude into his Thoughts, and he shall find it
+extreme Difficult, if not impossible, to put himself exactly in the Posture of
+a Foreigner, that never learnt the Language, so as to be affected barely with
+the Sounds themselves, and not perceive the Signification annexed to them.
+
+CXL. The Object of Geometry, its not being sufficiently understood, cause of
+Difficulty and useless Labor in that Science.
+By this time, I suppose, it is clear that neither Abstract, nor Visible
+Extension makes the Object of Geometry. The not discerning of which might,
+perhaps, have created some Difficulty, and useless Labor in Mathematics. Sure
+I am, that somewhat relating thereto has occurred to my Thoughts, which, though
+after the most anxious and repeated Examination I am forced to think it true,
+does, nevertheless, seem so far out of the common road of Geometry, that I know
+not, whether it may not be thought Presumption, if I should make it public in
+an Age, wherein that Science has received such mighty Improvements by new
+Methods; great Part whereof, as well as of the Ancient Discoveries, may perhaps
+lose their Reputation, and much of that Ardor, with which Men study the
+Abstruse and Fine Geometry be abated, if what to me, and those few to whom I
+have imparted it, seems evidently True, should really prove to be so.
+
+FINIS.
+
